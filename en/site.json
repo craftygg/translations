@@ -26,5 +26,8 @@
     "tos": "Terms of Service",
     "privacy": "Privacy Policy",
     "copyright": "© crafty.gg | Not affiliated with Discord or Mojang"
+  },
+  "serversPage": {
+    "servers": "Minecraft Servers"
   }
 }
