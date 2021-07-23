@@ -1,32 +1,32 @@
 {
-  "servers": "Servers",
-  "players": "Players",
-  "skins": "Skins",
+  "servers": "Serveri",
+  "players": "Igrači",
+  "skins": "Skinovi",
   "front": {
-    "header": "New way to discover Minecraft Servers, Players & Skins!",
-    "subheaderh2": "Search Minecraft usernames, top voted Minecraft servers, unique skins & player statistics!",
-    "subheaderh3": "Built for the Minecraft community, by the Minecraft community.",
-    "topVoted": "🚀 {{Month}}'s top voted Players, Servers, and Skins 🔥",
-    "view": "View",
-    "copyip": "Copy IP",
-    "apply": "Apply",
-    "newsheader": "LATEST MINECRAFT NEWS",
-    "viewmore": "View More",
-    "results": "🔎 Here are your results"
+    "header": "Novi način da pronađete Majnkraft Servere, Igrače i Skinove!",
+    "subheaderh2": "Tražite Majnkraft imena, Majnkraft servere sa najviše glasova, jedinstvene skinove i statistike igrača!",
+    "subheaderh3": "Napravljen za Majnkraft zajedinicu, od strane Majnkraft zajednice.",
+    "topVoted": "🚀 {{Month}}ski Igrači, Serveri, i Skinovi sa najviše glasova🔥",
+    "view": "Pogledaj",
+    "copyip": "Kopiraj IP",
+    "apply": "Primeni",
+    "newsheader": "NAJNOVIJE VESTI O MAJNKRAFTU",
+    "viewmore": "Vidi Više",
+    "results": "🔎 Vaši rezultati"
   },
   "footer": {
-    "about": "About",
-    "aboutus": "About Us",
+    "about": "O nama",
+    "aboutus": "O nama",
     "premium": "Premium",
     "status": "Status",
-    "navigation": "Navigation",
-    "feedback": "Feedback",
-    "legal": "Legal",
-    "tos": "Terms of Service",
-    "privacy": "Privacy Policy",
-    "copyright": "© crafty.gg | Not affiliated with Discord or Mojang"
+    "navigation": "Navigacija",
+    "feedback": "Povratne Informacije",
+    "legal": "Pravno",
+    "tos": "Uslovi Korišćenja",
+    "privacy": "Pravila o Privatnosti",
+    "copyright": "© crafty.gg | Nismo povezani sa Discordom ili Mojangom"
   },
   "serversPage": {
-    "servers": "Minecraft Servers"
+    "servers": "Majnkraft Serveri"
   }
 }
