@@ -1,32 +1,32 @@
 {
-  "servers": "Servers",
-  "players": "Players",
-  "skins": "Skins",
+  "servers": "Сервери",
+  "players": "Играчи",
+  "skins": "Скинови",
   "front": {
-    "header": "New way to discover Minecraft Servers, Players & Skins!",
-    "subheaderh2": "Search Minecraft usernames, top voted Minecraft servers, unique skins & player statistics!",
-    "subheaderh3": "Built for the Minecraft community, by the Minecraft community.",
-    "topVoted": "🚀 {{Month}}'s top voted Players, Servers, and Skins 🔥",
-    "view": "View",
-    "copyip": "Copy IP",
-    "apply": "Apply",
-    "newsheader": "LATEST MINECRAFT NEWS",
-    "viewmore": "View More",
-    "results": "🔎 Here are your results"
+    "header": "Нови начин да пронађете Мајнкрафт Сервере, Играче и Скинове!",
+    "subheaderh2": "Тражите Мајнкрафт имена, Мајнкрафт сервере са највише гласова, јединствене скинове и статистике играча!",
+    "subheaderh3": "Направљен за Мајнкрафт заједницу, од стране Мајнкрафт заједнице.",
+    "topVoted": "🚀 {{Month}}ски Играчи, Сервери, и Скинови са највише гласова🔥",
+    "view": "Погледај",
+    "copyip": "Копирај IP",
+    "apply": "Примени",
+    "newsheader": "НАЈНОВИЈЕ ВЕСТИ О МАЈНКРАФТУ",
+    "viewmore": "Прикажи Више",
+    "results": "🔎 Ваши резултати"
   },
   "footer": {
-    "about": "About",
-    "aboutus": "About Us",
-    "premium": "Premium",
-    "status": "Status",
-    "navigation": "Navigation",
-    "feedback": "Feedback",
-    "legal": "Legal",
-    "tos": "Terms of Service",
-    "privacy": "Privacy Policy",
-    "copyright": "© crafty.gg | Not affiliated with Discord or Mojang"
+    "about": "О нама",
+    "aboutus": "О нама",
+    "premium": "Премиум",
+    "status": "Статус",
+    "navigation": "Навигација",
+    "feedback": "Повратне Информације",
+    "legal": "Правне Информације",
+    "tos": "Услови Коришћења",
+    "privacy": "Политика Приватности",
+    "copyright": "© crafty.gg | Нисмо повезани са Дискордом или Мојангом"
   },
   "serversPage": {
-    "servers": "Minecraft Servers"
+    "servers": "Мајнкрафт Сервери"
   }
 }
