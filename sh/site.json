@@ -11,7 +11,7 @@
     "copyip": "Kopiraj IP",
     "apply": "Primeni",
     "newsheader": "NAJNOVIJE VESTI O MAJNKRAFTU",
-    "viewmore": "Prikaži Više",
+    "viewmore": "Vidi Više",
     "results": "🔎 Vaši rezultati"
   },
   "footer": {
@@ -21,9 +21,9 @@
     "status": "Status",
     "navigation": "Navigacija",
     "feedback": "Povratne Informacije",
-    "legal": "Pravne Informacije",
+    "legal": "Pravno",
     "tos": "Uslovi Korišćenja",
-    "privacy": "Politika Privatnosti",
+    "privacy": "Pravila o Privatnosti",
     "copyright": "© crafty.gg | Nismo povezani sa Discordom ili Mojangom"
   },
   "serversPage": {
