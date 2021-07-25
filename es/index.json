@@ -2,18 +2,16 @@
   "servers": "Servidores",
   "players": "Jugadores",
   "skins": "Aspectos",
-  "front": {
-    "header": "¡Una nueva manera de descubrir servidores de Minecraft, jugadores y aspectos!",
-    "subheaderh2": "¡Busca nombres de usuario de Minecraft, los servidores de Minecraft más votados, aspectos únicos y estadísticas de jugadores!",
-    "subheaderh3": "Hecho para la comunidad de Minecraft por la comunidad de Minecraft.",
-    "topVoted": "Los jugadores, servidores y aspectos más votados de {{Month}} 🔥",
-    "view": "Ver",
-    "copyip": "Copiar IP",
-    "apply": "Aplicar",
-    "newsheader": "ÚLTIMAS NOTICIAS DE MINECRAFT",
-    "viewmore": "Ver más",
-    "results": "🔎 Aquí están tus resultados"
-  },
+  "header": "New way to discover Minecraft Servers, Players & Skins!",
+  "subheaderh2": "Search Minecraft usernames, top voted Minecraft servers, unique skins & player statistics!",
+  "subheaderh3": "Built for the Minecraft community, by the Minecraft community.",
+  "topVoted": "🚀 {{Month}}'s top voted Players, Servers, and Skins 🔥",
+  "view": "View",
+  "copyip": "Copy IP",
+  "apply": "Apply",
+  "newsheader": "LATEST MINECRAFT NEWS",
+  "viewmore": "View More",
+  "results": "🔎 Here are your results",
   "footer": {
     "about": "Acerca de",
     "aboutus": "Quiénes somos",
@@ -25,8 +23,5 @@
     "tos": "Condiciones del servicio",
     "privacy": "Políticas de privacidad",
     "copyright": "© crafty.gg | No afiliado con Discord o Mojang"
-  },
-  "serversPage": {
-    "servers": "Servidores de Minecraft"
   }
 }
