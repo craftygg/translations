@@ -5,7 +5,7 @@
   "viewCommands": "Ver comandos",
   "example1": {
     "header": "Mira información sobre jugadores",
-    "subheader": "Crafty te permite ver información sobre una cuenta de Minecraft, con un simple comando"
+    "subheader": "Crafty te permite ver información sobre cuentas de Minecraft, con un simple comando"
   },
   "example2": {
     "header": "Mira información sobre servidores",
@@ -16,9 +16,9 @@
     "subheader": "Crafty te permite ver estadísticas de jugadores de servidores populares de Minecraft"
   },
   "example4": {
-    "header": "Play Minecraft Trivia with your friends",
-    "subheader": "Crafty brings all the entertainment to your Discord server. Play Minecraft trivia, view fun facts, have epic Minecraft inspired battles, and so much more!"
+    "header": "Juega a trivias de Minecraft con tus amigos",
+    "subheader": "Crafty te trae todo el entretenimiento a tu servidor de Discord. Juega a trivias de Minecraft, lee curiosidades, ten batallas épicas inspiradas en Minecraft y ¡mucho más!"
   },
-  "botCommands": "Bot Commands",
-  "prettyCoolRight": "Get access to all these cool features by adding Crafty to your Discord server"
+  "botCommands": "Comandos del bot",
+  "prettyCoolRight": "Obtén acceso a todas estas características añadiendo a Crafty a tu servidor de Discord"
 }
