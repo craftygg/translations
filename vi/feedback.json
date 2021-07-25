@@ -1,10 +1,10 @@
 {
-  "header": "Help us improve Crafty!",
-  "subheader": "Tell us what you would like to see improved below",
-  "feedback": "Feedback",
-  "maxCharacters": "Max 1000 characters",
-  "charactersRemaining": "characters remaining",
-  "filling": "I don't like this please change it...",
-  "sendAnonymously": "Send this anonymously",
-  "send": "send"
+  "header": "Giúp chúng tôi cải thiện Crafty!",
+  "subheader": "Hãy cho chúng tôi biết bạn muốn thứ gì được cải thiện ở bên dưới",
+  "feedback": "Phản hồi",
+  "maxCharacters": "Tối đa 1000 kí tự",
+  "charactersRemaining": "kí tự còn lại",
+  "filling": "Tôi không thích cái này, hãy thay đổi nó...",
+  "sendAnonymously": "Gửi ẩn danh",
+  "send": "gửi"
 }
