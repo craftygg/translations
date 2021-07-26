@@ -1,3 +1,25 @@
 {
-  "mention": "¡Hola, soy **Crafty**!\nPara ver todos mis comandos escribe `/help` o `@Crafty help`"
+  "servers": "Servidores",
+  "players": "Jugadores",
+  "skins": "Aspectos",
+  "header": "¡Una nueva forma para descubrir servidores, jugadores y skins de Minecraft!",
+  "subheaderh2": "¡Busca usuarios, los servidores más votados, aspectos únicos y estadísticas de jugadores!",
+  "subheaderh3": "Hecho para la comunidad de Minecraft, por la comunidad de Minecraft.",
+  "topVoted": "🚀 Los jugadores, servidores y aspectos más votados de {{Month}} 🔥",
+  "apply": "Aplicar",
+  "newsheader": "ÚLTIMAS NOTICIAS DE MINECRAFT",
+  "viewmore": "Ver más",
+  "results": "🔎 Aquí están tus resultados",
+  "footer": {
+    "about": "Acerca de",
+    "aboutus": "Quiénes somos",
+    "premium": "Premium",
+    "status": "Estado",
+    "navigation": "Navegación",
+    "feedback": "Sugerencias y comentarios",
+    "legal": "Legal",
+    "tos": "Condiciones del servicio",
+    "privacy": "Políticas de privacidad",
+    "copyright": "© crafty.gg | No afiliado con Discord o Mojang"
+  }
 }
