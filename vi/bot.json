@@ -1,0 +1,24 @@
+{
+  "header": "Con bot tối tân nhất cho Discord.",
+  "subheader": "Crafty là một bot cần phải có cho Cộng đồng Minecraft của bạn.",
+  "addToDiscord": "Thêm vào máy chủ",
+  "viewCommands": "Xem lệnh",
+  "example1": {
+    "header": "Xem thông tin người chơi",
+    "subheader": "Crafty cho phép bạn xem thông tin của các tài khoản Minecraft chỉ với một lệnh đơn giản"
+  },
+  "example2": {
+    "header": "Xem thông tin máy chủ",
+    "subheader": "Có Crafty, bạn sẽ chẳng cần rời Discord để xem thông tin của các máy chủ Minecraft"
+  },
+  "example3": {
+    "header": "Xem số liệu thống kê của người chơi",
+    "subheader": "Việc xem số liệu của người chơi trong các máy chủ Minecraft lớn đã trở thành có thể với Crafty"
+  },
+  "example4": {
+    "header": "Chơi đố vui Minecraft với bạn của bạn",
+    "subheader": "Crafty mang đến sự giải trí đến máy chủ Discord của bạn. Chơi đố vui Minecraft, xem các sự thật thú vị, có những cuộc chiến lấy cảm hứng từ Minecraft và hơn thế nữa!"
+  },
+  "botCommands": "Các lệnh bot",
+  "prettyCoolRight": "Sỡ hữu ngay những tính năng tuyệt vời này bằng cách thêm Crafty vào máy chủ Discord của bạn"
+}
