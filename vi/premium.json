@@ -1,0 +1,59 @@
+{
+  "header": "Crafty Premium",
+  "subheader": "Hãy chọn một kế hoạc phù hợp với nhu cầu của bạn, đồng thời hỗ trợ Crafty!",
+  "monthly": "Hàng tháng",
+  "annually": "Hàng năm",
+  "year": "năm",
+  "month": "tháng",
+  "craftyBot": "Crafty",
+  "craftyBotInformation": "Crafty là một bot Discord tối ưu và chuyên tâm vào Minecraft. Tìm hiểu thêm tại",
+  "comingSoon": "Sẽ có sau",
+  "benefits": "các quyền lợi",
+  "subscribe": "Đăng kí",
+  "off": "tắt",
+  "emerald": {
+    "slug": "Slug tự chọn (/user/slug-ngau-lam)",
+    "color": "Màu nhấn như ý cho trang máy chủ và người chơi của bạn",
+    "access": "Truy cập quyền hạn Emerald đặc biệt trên Discord của Crafty",
+    "icon": "icon nhỏ trên trang cá nhân crafty.gg của bạn",
+    "serverTracking": "Được quyền thêm và theo dõi 1 máy chủ Minecraft",
+    "dmCommands": "Khả năng sử dụng lệnh trong tin nhắn riêng với bot",
+    "textureSearch": "Có quyền sử dụng lệnh /texturesearch",
+    "notifications": "Nhận thông báo khi tên người dùng Minecraft khả dụng qua Discord và/hoặc e-mail (1 tên người dùng)"
+  },
+  "ruby": {
+    "customImage": "Khả năng thêm một ảnh tự chọn trên trang máy chủ của bạn",
+    "serverDescription": "Mô tả máy chủ được nâng lên đến 1,000 kí tự (thay vì 350 trước đó)",
+    "moreTags": "Thêm đến 9 nhãn cho máy chủ của bạn (thay vì 5)",
+    "access": "Truy cập quyền hạn Ruby đặc biệt trên Discord của Crafty",
+    "icon": "icon nhỏ trên trang cá nhân crafty.gg của bạn",
+    "removeCooldowns": "Loại bỏ đếm ngược khi dùng lệnh",
+    "serverTracking": "Được quyền thêm và theo dõi 2 máy chủ Minecraft",
+    "notifications": "Nhận thông báo khi tên người dùng Minecraft khả dụng qua Discord và/hoặc e-mail (3 tên người dùng)"
+  },
+  "diamond": {
+    "slug": "Slug máy chủ tự chọn (/servers/slug-ngau-lam)",
+    "earlyAccess": "Tiếp cận các tính năng mới nhất, lúc đó bạn có thể để lại phản hồi",
+    "access": "Truy cập quyền hạn Diamond đặc biệt trên Discord của Crafty",
+    "icon": "icon nhỏ trên trang cá nhân crafty.gg của bạn",
+    "removeUpvote": "Loại bỏ toàn bộ yêu cầu upvote và đếm ngược cho tất cả người dùng trong một máy chủ Discord",
+    "serverTracking": "Được quyền thêm và theo dõi 3 máy chủ Minecraft",
+    "notifications": "Nhận thông báo khi tên người dùng Minecraft khả dụng qua Discord và/hoặc e-mail (8 tên người dùng)"
+  },
+  "futureFeatures": {
+    "header": "Bằng việc đăng kí, bạn sẽ đóng góp giúp đỡ Crafty",
+    "subheader": "Dưới đây là danh sách các tính năng mới mà chúng tôi sẽ thực hiện",
+    "playerStatistics": "Thông số người chơi",
+    "playerStatisticsInformation": "Nhận thông số của người chơi qua nhiều máy chủ Minecraft lớn, tất cả trong một. Tính năng này đang được xây dựng và đã được sử dụng trên Crafty bot",
+    "richTextEditor": "Chỉnh sửa văn bản đa dạng thức",
+    "richTextEditorInformation": "Hiện tại, bạn chỉ có thể dùng Markdown trên mô tả máy chủ của bạn. Chúng tôi dự định sẽ thay đổi nó với kiểu văn bản đa dạng thức (Rich Text) để giúp bạn tạo được những mô tả ngầu hơn",
+    "serverAnalytics": "Số liệu phân tích máy chủ",
+    "serverAnalyticsInformation": "Thông số thống kê dành cho chủ sở hữu máy chủ để có số liệu tốt hơn",
+    "skinEditor": "Skin editor",
+    "skinEditorInformation": "Một quả skin editor giàu chức năng giúp bạn sáng tạo skin của mình một cách tự do",
+    "notifications": "Thông báo",
+    "notificationsInformation": "Nhận các thông báo hữu ích (nếu bạn tham gia) nếu máy chủ của bạn bị ngắt, khi tên người dùng Minecraft khả dụng, khi có phiên bản Minecraft hoặc bài viết với và hơn thế nữa!",
+    "yourSuggestion": "Đề xuất của bạn",
+    "yourSuggestionInformation": "Ý tưởng của bạn có thể ở đây. Tham gia máy chủ Discord của chúng tôi và cho chúng tôi biết bạn muốn thấy thứ gì được thêm vào hoặc hoàn thành biểu mẫu ở trang phản hồi"
+  }
+}
