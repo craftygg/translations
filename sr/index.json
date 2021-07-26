@@ -1,25 +1,3 @@
 {
-  "servers": "Сервери",
-  "players": "Играчи",
-  "skins": "Скинови",
-  "header": "New way to discover Minecraft Servers, Players & Skins!",
-  "subheaderh2": "Search Minecraft usernames, top voted Minecraft servers, unique skins & player statistics!",
-  "subheaderh3": "Built for the Minecraft community, by the Minecraft community.",
-  "topVoted": "🚀 {{Month}}'s top voted Players, Servers, and Skins 🔥",
-  "apply": "Apply",
-  "newsheader": "LATEST MINECRAFT NEWS",
-  "viewmore": "View More",
-  "results": "🔎 Here are your results",
-  "footer": {
-    "about": "О нама",
-    "aboutus": "О нама",
-    "premium": "Премиум",
-    "status": "Статус",
-    "navigation": "Навигација",
-    "feedback": "Повратне Информације",
-    "legal": "Правне Информације",
-    "tos": "Услови Коришћења",
-    "privacy": "Политика Приватности",
-    "copyright": "© crafty.gg | Нисмо повезани са Дискордом или Мојангом"
-  }
+  "mention": "Ћао, Ја сам **Crafty**!\nДа видиш све моје команде напиши: /help или @Crafty help"
 }
