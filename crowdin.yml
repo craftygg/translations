@@ -1,8 +1,126 @@
-project_id: "466512"
-api_token: eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiJ9.eyJhdWQiOiJ3UUVxdmhVM3ZMT2EyWGljbVV5VCIsImp0aSI6ImM1NTYxODk2ZTY0Y2ZlM2ZhYmY2OTExYzNhNGI3ZWE2YzRjN2ZjN2Q1MWI3M2FlZjg5N2VjNDI5N2IwOTU2MDA5MDc0M2RiZjNmMTVmNjNiIiwiaWF0IjoxNjI2OTc2NDgwLCJuYmYiOjE2MjY5NzY0ODAsImV4cCI6MTYyOTU2ODQ4MCwic3ViIjoiMTMyODA5MjEiLCJkb21haW4iOm51bGwsInNjb3BlcyI6WyJwcm9qZWN0Il0sImFzc29jaWF0aW9ucyI6WyIqIl0sInNlc3Npb24iOjB9.GouZ1wdocZ9CqzCMdav2eVE2yzTji4Est4OzKfOzxdXmOE-8kzdpcIfskM18NVr3n9hI4tj1dbUDJz4VxbvHFjFlJRRTkaDaEeBUXlQZiVmeL2zPgmA4-J3Ei78B3z-dEDorw6fNx65VtnfLIZ6qGzgUkesJc6DXn-MBkVuiF_Qvw9fRjf5rP1FOUcfA1I_vR-sqoYI80xK8D9KeBYsX0UEGr0lJlKfKXbxBYo-jcM8hK0WVyQmtYLjujxE07axQDHaBwEsl4d23dUsCVxzbPDSy5Sbpl6cDmCEG01uO0Q20ABD9VHG75zSTp__DdYhlTKxVvaquVrW0jPmx4VJk6YE01E7GNpb1NPLQRQtxRS4zWkw79MfyONss4N0m2gi7zQK5zpgWuEL7khEKum5Pvdo8MGaVkxOtVbd6lvE4FoeRQKOLhJhC1Qa8Eh1vUgSiwyBHtGaqjGaLY3AaX1olZOabSN2nOzyQC2RQReZN2vcP6QPkPq4m6tohEdGhIeUvXzg8-4Za56je6UJdumF3hcnOP4LwYRD__nk6bNEGqe6wAVwgf57EKcGq2NKdxj5jS2m0KAA-QNuVml53zrI3nYDl3aC8iNGOFkpu5y2KjNgoSASfwXqDRmGBFic_kw3ne0orcyAv-rlqZefAa2iyGPg-kAEW9wjBhWUi4xjsmwA
-base_path: .
-base_url: "https://api.crowdin.com"
-preserve_hierarchy: true
-files:
-  - source: /en/**/*.json
-    translation: /%two_letters_code%/%original_file_name%
+#
+# Your Crowdin credentials
+#
+"project_id": "466998"
+"api_token": "eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiJ9.eyJhdWQiOiJ3UUVxdmhVM3ZMT2EyWGljbVV5VCIsImp0aSI6IjUyYjA2ZDM1YWJhNDc3ZTZkNzg1YWQ2MzExNDZmODc1MDM4ZDRlNzNiYjU5Y2MzZWFkMGJlYTlhZDRkMDY5Mjk4MThjMjQwMDQ0ODU5OTkyIiwiaWF0IjoxNjI3MzE5Mzg3LCJuYmYiOjE2MjczMTkzODcsImV4cCI6MTYyOTkxMTM4Nywic3ViIjoiMTMyODA5MjEiLCJkb21haW4iOm51bGwsInNjb3BlcyI6WyJwcm9qZWN0Il0sImFzc29jaWF0aW9ucyI6WyIqIl0sInNlc3Npb24iOjB9.lrnB31WjwT19r3vuJHEx3wLrHCYq-9gninHuhKMF_0iX9FZhv43GaHzX8q2MszQ7Vp3ygukvphpD7k4vPl416z7PTyy3KNImQSWQVq7ZzWeiUDLE6QfT1BgQwm-w4rW2D1ZnCSDSgYKgqAZjjBHTUWLHwTbzvWbs2SBtdlYlIK-M85xP86GSnn1hyInCQs9xLnrHYru5bWayIDpEk-Rtw5TUHCBP6YD3MscQG3GdGeVwhviqtuVwi0pKieDcsTQhjIXL6cmj0JJ20fSyQcE7NpFJSnfa-xDWYsM9bYUjt2ibFy1yVHEbrPPaMjg-f6HdcnRO4Dlnw138Es52C7l-r0QGeZnxIHQ6WxmByUj9gOFavDsfRr7vZ8UpdCnTRuB-duaaQ4N_Mun6qj3-I0MIUliOvNsWll5LdLhQtJOtHLhZKggGbkN6sIc4zncMtI6U-rM1aCmhHk5XxzZF4kJCx6jgkR7DkicWbJUhUDwiTenGS8qhgLXAVP6AtC1No8-RpkE6CxaBYd48aCvWaI85uU92ne2swUNs13euzw13JjkXoAQVXaqYJflRQMGJVlrwSYO42Es7ANCHDAvnLUR1PKmF675r3WaHCIaTjX6zXTzEBMGdKChcgUeYCd-Q7LYBBd880I9pJ1FLcczdqwYMHijvni05aWguYXb_ROKEpE0"
+"base_path": "."
+"base_url": "https://api.crowdin.com"
+
+#
+# Choose file structure in Crowdin
+# e.g. true or false
+#
+"preserve_hierarchy": true
+
+#
+# Files configuration
+#
+files: [
+    {
+      #
+      # Source files filter
+      # e.g. "/resources/en/*.json"
+      #
+      "source": "/en/**/*.json",
+
+      #
+      # Where translations will be placed
+      # e.g. "/resources/%two_letters_code%/%original_file_name%"
+      #
+      "translation": "/resources/%two_letters_code%/**/%original_file_name%",
+      #
+      # Files or directories for ignore
+      # e.g. ["/**/?.txt", "/**/[0-9].txt", "/**/*\?*.txt"]
+      #
+      #"ignore" : [],
+
+      #
+      # The dest allows you to specify a file name in Crowdin
+      # e.g. "/messages.json"
+      #
+      #"dest" : "",
+
+      #
+      # File type
+      # e.g. "json"
+      #
+      #"type" : "",
+
+      #
+      # The parameter "update_option" is optional. If it is not set, after the files update the translations for changed strings will be removed. Use to fix typos and for minor changes in the source strings
+      # e.g. "update_as_unapproved" or "update_without_changes"
+      #
+      #"update_option" : "",
+
+      #
+      # Start block (for XML only)
+      #
+
+      #
+      # Defines whether to translate tags attributes.
+      # e.g. 0 or 1  (Default is 1)
+      #
+      # "translate_attributes" : 1,
+
+      #
+      # Defines whether to translate texts placed inside the tags.
+      # e.g. 0 or 1 (Default is 1)
+      #
+      # "translate_content" : 1,
+
+      #
+      # This is an array of strings, where each item is the XPaths to DOM element that should be imported
+      # e.g. ["/content/text", "/content/text[@value]"]
+      #
+      # "translatable_elements" : [],
+
+      #
+      # Defines whether to split long texts into smaller text segments
+      # e.g. 0 or 1 (Default is 1)
+      #
+      # "content_segmentation" : 1,
+
+      #
+      # End block (for XML only)
+      #
+
+      #
+      # Start .properties block
+      #
+
+      #
+      # Defines whether single quote should be escaped by another single quote or backslash in exported translations
+      # e.g. 0 or 1 or 2 or 3 (Default is 3)
+      # 0 - do not escape single quote;
+      # 1 - escape single quote by another single quote;
+      # 2 - escape single quote by backslash;
+      # 3 - escape single quote by another single quote only in strings containing variables ( {0} ).
+      #
+      # "escape_quotes" : 3,
+
+      #
+      # Defines whether any special characters (=, :, ! and #) should be escaped by backslash in exported translations.
+      # e.g. 0 or 1 (Default is 0)
+      # 0 - do not escape special characters
+      # 1 - escape special characters by a backslash
+      #
+      # "escape_special_characters": 0
+      #
+
+      #
+      # End .properties block
+      #
+
+      #
+      # Does the first line contain header?
+      # e.g. true or false
+      #
+      #"first_line_contains_header" : true,
+
+      #
+      # for spreadsheets
+      # e.g. "identifier,source_phrase,context,uk,ru,fr"
+      #
+      # "scheme" : "",
+    },
+  ]
