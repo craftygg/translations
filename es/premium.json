@@ -1,0 +1,59 @@
+{
+  "header": "Crafty Premium",
+  "subheader": "¡Elige un plan que se adapte a tus necesidades y financia el desarrollo de Crafty!",
+  "monthly": "Mensualmente",
+  "annually": "Anualmente",
+  "year": "año",
+  "month": "mes",
+  "craftyBot": "Bot de Crafty",
+  "craftyBotInformation": "Crafty es un avanzado bot de Minecraft enfocado en Discord. Encuentra más información en",
+  "comingSoon": "Próximamente",
+  "benefits": "beneficios",
+  "subscribe": "Suscribirse",
+  "off": "de descuento",
+  "emerald": {
+    "slug": "Slug personalizado (/users/custom-slug)",
+    "color": "Color personalizado para tu página de servidor y de jugador",
+    "access": "Acceso especial de Esmeralda en el servidor de Discord de Crafty",
+    "icon": "icono de esmeralda en tu perfil de crafty.gg",
+    "serverTracking": "Acceso a 1 ranura de seguimiento de servidores de Minecraft",
+    "dmCommands": "Uso de comandos mediante mensajes directos",
+    "textureSearch": "Acceso al comando /texturesearch",
+    "notifications": "Recibe una notificación cuando un nombre de usuario de Minecraft esté disponible a través de Discord y/o correo electrónico (1 nombre de usuario)"
+  },
+  "ruby": {
+    "customImage": "Añade una imagen personalizada en la página de tu servidor",
+    "serverDescription": "1000 caracteres de límite en la descripción de tu servidor (en lugar de 350)",
+    "moreTags": "Añde hasta 9 palabras clave de búsqueda para tu servidor (en lugar de 5)",
+    "access": "Acceso especial de Esmeralda en el servidor de Discord de Crafty",
+    "icon": "Icono de rubí en tu perfil de crafty.gg",
+    "removeCooldowns": "Elimina todos los tiempos de espera de los comandos",
+    "serverTracking": "Acceso a 2 ranuras de seguimiento de servidores de Minecraft",
+    "notifications": "Recibe una notificación cuando un nombre de usuario de Minecraft esté disponible a través de Discord y/o correo electrónico (3 nombres de usuario)"
+  },
+  "diamond": {
+    "slug": "Slug de servidor personalizado (/servers/custom-slug)",
+    "earlyAccess": "Acceso anticipiado a nuestras características, donde podrás hacer sugerencias y comentarios",
+    "access": "Acceso especial de Esmeralda en el servidor de Discord de Crafty",
+    "icon": "Icono de diamante en tu perfil de crafty.gg",
+    "removeUpvote": "Elimina todos los requisitos de voto y tiempos de espera para todos los usuarios en un servidor de Discord",
+    "serverTracking": "Acceso a 3 ranuras de seguimiento de servidores de Minecraft",
+    "notifications": "Recibe una notificación cuando el nombre de usuario en Minecraft esté disponible a través de Discord y/o correo electrónico (8 nombres de usuario)"
+  },
+  "futureFeatures": {
+    "header": "Al suscribirte apoyas el desarrollo de Crafty",
+    "subheader": "Aquí tienes una lista de las características que planeamos introducir en el futuro",
+    "playerStatistics": "Estadísticas de jugadores",
+    "playerStatisticsInformation": "Obtén estadísticas de jugadores de varios servidores populares de Minecraft, todo en uno. Esta herramienta ya está en desarrollo y se utiliza en el bot de Crafty",
+    "richTextEditor": "Editor de texto enriquecido",
+    "richTextEditorInformation": "Ahora mismo solo puedes usar Markdown (marcado de texto) para la descripción de tu servidor. Planeamos cambiar esto con un editor de texto enriquecido para ayudarte a crear la mejor descripción para tu servidor",
+    "serverAnalytics": "Información sobre tu servidor",
+    "serverAnalyticsInformation": "Información para dueños de servidores",
+    "skinEditor": "Editor de aspectos",
+    "skinEditorInformation": "Editor de aspectos con muchas características para que puedas crear tu siguiente mejor aspecto fácil y libremente",
+    "notifications": "Notificaciones",
+    "notificationsInformation": "Recibe notificaciones útiles (si lo deseas) cuando tu servidor esté desconectado, cuando un nombre de usuario esté disponible, cuando salga un nuevo artículo o versión de Minecraft ¡y más!",
+    "yourSuggestion": "Tu sugerencia",
+    "yourSuggestionInformation": "Tu idea podría estar aquí. Únete a nuestro servidor de Discord y haznos saber qué te gustaría ver o rellena un formulario en nuestra página de sugerencias y comentarios"
+  }
+}
