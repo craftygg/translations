@@ -1,10 +1,10 @@
 {
-  "header": "Help us improve Crafty!",
-  "subheader": "Tell us what you would like to see improved below",
-  "feedback": "Feedback",
-  "maxCharacters": "Max 1000 characters",
-  "charactersRemaining": "characters remaining",
-  "filling": "I don't like this please change it...",
-  "sendAnonymously": "Send this anonymously",
-  "send": "send"
+  "header": "Помогни ни да подобрим Crafty!",
+  "subheader": "Разкажи ни какво би искал да видиш подобрено по-долу",
+  "feedback": "Отзиви",
+  "maxCharacters": "Макс. 1000 символа",
+  "charactersRemaining": "оставащи символа",
+  "filling": "Това не ми харесва, моля променете го...",
+  "sendAnonymously": "Изпрати това анонимно",
+  "send": "изпрати"
 }
