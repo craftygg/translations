@@ -17,26 +17,26 @@
     "access": "Специален смарагден достъп в сървъра в Дискорд на Crafty",
     "icon": "Смарагдна значка в твоя профил в crafty.gg",
     "serverTracking": "Достъп до 1 място за проследяване на Майнкрафт сървър",
-    "dmCommands": "Ability to use commands in direct messages",
-    "textureSearch": "Access to the /texturesearch command",
-    "notifications": "Receive notification when Minecraft username becomes available via Discord and/or e-mail (1 username)"
+    "dmCommands": "Използване на команди чрез директни съобщения",
+    "textureSearch": "Достъп до командата /texturesearch",
+    "notifications": "Получаване на известие когато дадено потребителско име в Майнкрафт се освободи през Дискорд и/или електронна поща (1 потребителско име)"
   },
   "ruby": {
-    "customImage": "Ability to add a custom image on your Server page",
-    "serverDescription": "Server description character limit bump to 1,000 characters (instead of 350)",
-    "moreTags": "Add up to 9 tags on your Server (instead of 5)",
-    "access": "Special Emerald access on Crafty's Discord",
-    "icon": "icon on your crafty.gg profile",
-    "removeCooldowns": "Remove all command cooldowns",
-    "serverTracking": "Access to 2 Minecraft server tracking slots",
-    "notifications": "Receive notification when Minecraft username becomes available via Discord and/or e-mail (3 username)"
+    "customImage": "Добавяне на персонализирано изображение в страницата на сървъра ти",
+    "serverDescription": "1000 символа лимит за описанието на сървъра ти (вместо 350)",
+    "moreTags": "Добавяне на до 9 ключови думи за сървъра ти (вместо 5)",
+    "access": "Специален рубинен достъп в сървъра в Дискорд на Crafty",
+    "icon": "Рубинена значка в твоя профил в crafty.gg",
+    "removeCooldowns": "Премахване на всички командни изчаквания",
+    "serverTracking": "Достъп до 2 места за проследяване на Майнкрафт сървъри",
+    "notifications": "Получаване на известие когато дадено потребителско име в Майнкрафт се освободи през Дискорд и/или електронна поща (3 потребителски имена)"
   },
   "diamond": {
-    "slug": "Custom Server slug (/servers/custom-slug)",
-    "earlyAccess": "Early Access to our features, where you can provide feedback",
-    "access": "Special Emerald access on Crafty's Discord",
-    "icon": "icon on your crafty.gg profile",
-    "removeUpvote": "Remove all upvote requirements and cooldowns for all users in a Discord server",
+    "slug": "Персонализиран slug на сървър (/servers/custom-slug)",
+    "earlyAccess": "Ранен достъп до нашите функции, където можеш да изпратиш отзиви",
+    "access": "Специален диамантен достъп в сървъра в Дискорд на Crafty",
+    "icon": "Диамантена значка в твоя профил в crafty.gg",
+    "removeUpvote": "Премахване на всички изисквания за гласуване и изчаквания за всички членове на сървър в Дискорд",
     "serverTracking": "Access to 3 Minecraft server tracking slots",
     "notifications": "Receive notification when Minecraft username becomes available via Discord and/or e-mail (8 username)"
   },
