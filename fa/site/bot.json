@@ -1,24 +1,24 @@
 {
-  "header": "The most advanced Minecraft bot for Discord.",
-  "subheader": "Crafty is a must-have for your Minecraft community.",
-  "addToDiscord": "Add to Discord",
-  "viewCommands": "View Commands",
+  "header": "پیشرفته ترین بات ماینکرافت برای دیسکورد.",
+  "subheader": "کرفتی یک ضرورت برای انجمن ماینکرافتی شما حساب میشه.",
+  "addToDiscord": "افزودن به دیسکورد",
+  "viewCommands": "مشاهده دستورات",
   "example1": {
-    "header": "View Player information",
-    "subheader": "Crafty allows you to view information about a Minecraft account, with a simple command"
+    "header": "مشاهده اطلاعات بازیکنان",
+    "subheader": "کرفتی به شما این اجازه رو میده تا اطلاعاتی درباره حساب های ماینکرافت به دست بیارین، فقط با زدن یک کامند"
   },
   "example2": {
-    "header": "View Server information",
-    "subheader": "With Crafty, you're also able to view Server Information, without ever leaving Discord"
+    "header": "مشاهده اطلاعات سرور",
+    "subheader": "با کرفتی، می تونین اطلاعات سرور بازی خودتون رو دریافت کنین، بدون اینکه از دیسکورد خارج بشین"
   },
   "example3": {
-    "header": "View Player statistics",
-    "subheader": "Crafty makes it possible for you to view Player statistics from popular Minecraft servers"
+    "header": "مشاهده آمار بازیکنان",
+    "subheader": "کرفتی برای شما امکان دیدن آمار بازیکن را در سرور های مطرح ماینکرافت، فراهم می کنه"
   },
   "example4": {
-    "header": "Play Minecraft Trivia with your friends",
-    "subheader": "Crafty brings all the entertainment to your Discord server. Play Minecraft trivia, view fun facts, have epic Minecraft inspired battles, and so much more!"
+    "header": "با دوستان خود به سرگرمی دانستنی های ماینکرافتی بپردازید",
+    "subheader": "کرفتی تموم انواع سرگرمی ها را به سرور دیسکورد شما اضافه می کند. دانسته های ماینکرافتی خود را به چالش بکشید، نکته های جالب ببینید، جنگ های باحال برگرفته از خود ماینکرافت داشته باشید، و خیلی خیلی چیزای دیگه!"
   },
-  "botCommands": "Bot Commands",
-  "prettyCoolRight": "Get access to all these cool features by adding Crafty to your Discord server"
+  "botCommands": "دستورات بات",
+  "prettyCoolRight": "با اضافه کردن کرفتی به سرور دیسکورد خودتون، به همه این امکانات باحال دسترسی پچیدا کنید"
 }

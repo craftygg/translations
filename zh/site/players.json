@@ -1,8 +1,8 @@
 {
   "players": "Players",
   "mcplayers": "Minecraft Players",
-  "uuidShort": "UUID Short",
-  "uuidLong": "UUID Long",
+  "uuidShort": "通用唯一识别码 （短）",
+  "uuidLong": "通用唯一识别码 （长）",
   "status": "Claimed",
   "claim": "Claim",
   "unclaimed": "Claimed",

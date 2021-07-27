@@ -1,15 +1,15 @@
 {
-  "mcrecipes": "Minecraft Crafting Recipes",
-  "recipe": "Here's the recipe you asked for",
-  "building": "Building",
-  "decoration": "Decoration",
-  "redstone": "Redstone",
-  "transportation": "Transportation",
-  "food": "Food",
-  "tools": "Tools",
-  "combat": "Combat",
-  "brewing": "Brewing",
-  "materials": "Materials",
-  "misc": "Miscellaneous",
-  "search": "Search"
+  "mcrecipes": "دستور تهیه های ماینکرافت",
+  "recipe": "اینم از دستور تهیه‌ای که خواستید",
+  "building": "سازه ها",
+  "decoration": "تزئینات",
+  "redstone": "ردستون",
+  "transportation": "حمل و نقل",
+  "food": "غذا",
+  "tools": "ابزار",
+  "combat": "وسایل مبارزه",
+  "brewing": "معجون سازی",
+  "materials": "مواد و منابع",
+  "misc": "متفرقه",
+  "search": "جستجو"
 }
