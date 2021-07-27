@@ -6,9 +6,9 @@
   "sortBy": "Sort By",
   "orderBy": "Order By",
   "platform": "Platform",
-  "version": "Version",
+  "version": "版本",
   "location": "Location",
-  "language": "Language",
+  "language": "语言",
   "showOffline": "Show offline servers",
   "playersOnline": "Players Online",
   "upvotesMonthly": "Upvotes (monthly)",
@@ -23,6 +23,6 @@
   "upvotesThisMonth": "Upvotes this month:",
   "primaryLanguage": "Language (Primary)",
   "view": "View",
-  "copyip": "Copy IP",
+  "copyip": "复制 IP",
   "clickTag": "Click to view servers with this tag"
 }
