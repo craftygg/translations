@@ -1,10 +1,10 @@
 {
-  "header": "Help us improve Crafty!",
-  "subheader": "Tell us what you would like to see improved below",
-  "feedback": "Feedback",
-  "maxCharacters": "Max 1000 characters",
-  "charactersRemaining": "characters remaining",
-  "filling": "I don't like this please change it...",
-  "sendAnonymously": "Send this anonymously",
-  "send": "Send"
+  "header": "به ما در بهبود کرفتی کمک کنید!",
+  "subheader": "دوست دارید چه چیزی بهبود پیدا کنه، این زیر بنویسید",
+  "feedback": "بازخورد",
+  "maxCharacters": "حداکثر 1000 کاراکتر",
+  "charactersRemaining": "کاراکتر باقی مانده",
+  "filling": "من اینو دوست ندارم تغییر پیدا کنه...",
+  "sendAnonymously": "ارسال به صورت ناشناس",
+  "send": "ارسال"
 }
