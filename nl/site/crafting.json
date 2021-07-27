@@ -1,15 +1,15 @@
 {
-  "mcrecipes": "Minecraft Crafting Recipes",
-  "recipe": "Here's the recipe you asked for",
-  "building": "Building",
-  "decoration": "Decoration",
+  "mcrecipes": "Minecraft Crafting Recepten",
+  "recipe": "Hier is het recept waar je om vroeg",
+  "building": "Bouwen",
+  "decoration": "Decoratie",
   "redstone": "Redstone",
-  "transportation": "Transportation",
-  "food": "Food",
-  "tools": "Tools",
-  "combat": "Combat",
-  "brewing": "Brewing",
-  "materials": "Materials",
-  "misc": "Miscellaneous",
-  "search": "Search"
+  "transportation": "Vervoer",
+  "food": "Eten",
+  "tools": "Gereedschap",
+  "combat": "Gevecht",
+  "brewing": "Brouwen",
+  "materials": "Materialen",
+  "misc": "Overig",
+  "search": "Zoeken"
 }
