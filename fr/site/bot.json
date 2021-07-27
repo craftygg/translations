@@ -1,24 +1,24 @@
 {
   "header": "Le bot Minecraft le plus avancé pour Discord.",
-  "subheader": "Crafty is a must-have for your Minecraft community.",
+  "subheader": "Crafty est un incontournable pour votre communauté Minecraft.",
   "addToDiscord": "Add to Discord",
   "viewCommands": "Voir les commandes",
   "example1": {
     "header": "View Player information",
-    "subheader": "Crafty allows you to view information about a Minecraft account, with a simple command"
+    "subheader": "Crafty vous permet de consulter des informations sur un compte Minecraft, en une seule commande"
   },
   "example2": {
     "header": "View Server information",
-    "subheader": "With Crafty, you're also able to view Server Information, without ever leaving Discord"
+    "subheader": "Avec Crafty, vous pouvez également afficher les informations relatives aux serveurs, sans jamais quitter Discord"
   },
   "example3": {
     "header": "View Player statistics",
-    "subheader": "Crafty makes it possible for you to view Player statistics from popular Minecraft servers"
+    "subheader": "Crafty vous permet d'afficher les statistiques des joueurs sur les serveurs Minecraft populaires"
   },
   "example4": {
     "header": "Play Minecraft Trivia with your friends",
     "subheader": "Crafty brings all the entertainment to your Discord server. Play Minecraft trivia, view fun facts, have epic Minecraft inspired battles, and so much more!"
   },
-  "botCommands": "Bot Commands",
-  "prettyCoolRight": "Get access to all these cool features by adding Crafty to your Discord server"
+  "botCommands": "Commandes du bot",
+  "prettyCoolRight": "Accédez à toutes ces fonctionnalités en ajoutant Crafty sur votre serveur Discord"
 }
