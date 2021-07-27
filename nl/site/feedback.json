@@ -1,10 +1,10 @@
 {
-  "header": "Help us improve Crafty!",
-  "subheader": "Tell us what you would like to see improved below",
+  "header": "Help ons Crafty te verbeteren!",
+  "subheader": "Vertel ons hieronder wat u graag verbeterd wilt zien",
   "feedback": "Feedback",
-  "maxCharacters": "Max 1000 characters",
-  "charactersRemaining": "characters remaining",
-  "filling": "I don't like this please change it...",
-  "sendAnonymously": "Send this anonymously",
-  "send": "send"
+  "maxCharacters": "Max. 1000 karakters",
+  "charactersRemaining": "karakters resterend",
+  "filling": "Dit bevalt mij niet, wijzig dit alstublieft...",
+  "sendAnonymously": "Stuur dit anoniem",
+  "send": "Verzenden"
 }
