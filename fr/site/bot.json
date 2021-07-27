@@ -1,8 +1,8 @@
 {
-  "header": "The most advanced Minecraft bot for Discord.",
+  "header": "Le bot Minecraft le plus avancé pour Discord.",
   "subheader": "Crafty is a must-have for your Minecraft community.",
   "addToDiscord": "Add to Discord",
-  "viewCommands": "View Commands",
+  "viewCommands": "Voir les commandes",
   "example1": {
     "header": "View Player information",
     "subheader": "Crafty allows you to view information about a Minecraft account, with a simple command"
