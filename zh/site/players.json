@@ -5,7 +5,7 @@
   "uuidLong": "通用唯一识别码 （长）",
   "status": "Claimed",
   "claim": "Claim",
-  "unclaimed": "Claimed",
+  "unclaimed": "Unclaimed",
   "legacy": "Legacy",
   "usernameHistory": "Username History",
   "socialMedia": "Social Media",
