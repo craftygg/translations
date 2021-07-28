@@ -1,10 +1,10 @@
 {
-  "header": "Test if your server's votifier is working by just filling out the information below",
-  "desch1": "What is this tool?",
-  "descp1": "Votifier Tester helps you determine if the Votifier plugin has been correctly installed in your Minecraft server.",
-  "desch2": "What is Votifier?",
-  "descp2": "Votifier is a Minecraft server voting plugin you can install to get notified whenever a player votes for your server on a server list, like Crafty.",
-  "desch3": "But, why?",
-  "descp3": "Votifier is used by server owners / admins to reward players who vote for their Minecraft server. Voting helps the server get a better ranking on server lists.",
-  "test": "Test"
+  "header": "تست کارکرد سیستم رائ گیرنده سرور با پر کردن اطلاعات زیر",
+  "desch1": "این ابزار برای چیست؟",
+  "descp1": "تست رائ گیرنده سرور به شما کمک می کند که راحت تر متوجه شوید که پلاگین رائ گیرنده سرور ماینکرافت خودتان به درستی نصب شده یا کار می کند.",
+  "desch2": "رائ گیرنده سرور چی هست؟",
+  "descp2": "رائ گیرنده سرور یک پلاگین ماینکرافت هست که با نصب آن می توانید متوجه شوید که بازیکن به سرور شما توی لیست سرور ها رائ داده، مثل کرفتی.",
+  "desch3": "ولی چرا؟",
+  "descp3": "رائ گیرنده سرور توسط ادمین ها / دارنده های سرور ها انجام میشه تا به بازیکن هایی که به سرورشون رائ میدن، جایزه بده. رائ دادن به سرور توی لیست رده بندی بین بقیه سرور ها تاثیر خیلی خوبی داره.",
+  "test": "تست کردن"
 }
