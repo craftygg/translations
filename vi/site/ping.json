@@ -1,6 +1,6 @@
 {
-  "header": "Get Minecraft Server Information",
-  "subheader": "Fill out the require fields to get basic information about a Minecraft server such as their status, how many players are currently online, version running and location of the server",
-  "enter": "Enter your server's IP",
-  "get": "Get Information"
+  "header": "Lấy thông tin máy chủ Minecraft",
+  "subheader": "Điền vào phần yêu cầu để lấy các thông tin cơ bản của máy chủ Minecarft như trạng thái, số lượng người chơi trực tuyến, phiên bản và địa điểm của máy chủ",
+  "enter": "Nhập IP máy chủ của bạn",
+  "get": "Lấy thông tin"
 }
