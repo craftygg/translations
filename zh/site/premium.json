@@ -25,7 +25,7 @@
     "customImage": "Ability to add a custom image on your Server page",
     "serverDescription": "Server description character limit bump to 1,000 characters (instead of 350)",
     "moreTags": "Add up to 9 tags on your Server (instead of 5)",
-    "access": "Special Emerald access on Crafty's Discord",
+    "access": "Special Ruby access on Crafty's Discord",
     "icon": "icon on your crafty.gg profile",
     "removeCooldowns": "Remove all command cooldowns",
     "serverTracking": "Access to 2 Minecraft server tracking slots",
@@ -34,7 +34,7 @@
   "diamond": {
     "slug": "Custom Server slug (/servers/custom-slug)",
     "earlyAccess": "Early Access to our features, where you can provide feedback",
-    "access": "Special Emerald access on Crafty's Discord",
+    "access": "Special Diamond access on Crafty's Discord",
     "icon": "icon on your crafty.gg profile",
     "removeUpvote": "Remove all upvote requirements and cooldowns for all users in a Discord server",
     "serverTracking": "Access to 3 Minecraft server tracking slots",
@@ -52,7 +52,7 @@
     "skinEditor": "Skin Editor",
     "skinEditorInformation": "Feature rich skin editor for you to create your next best skin freely and with ease",
     "notifications": "Notifications",
-    "notificationsInformation": "Receive notifications useful notifications (if you opt in) when your server goes offline, when a Minecraft username is available, when a new Minecraft version or article is out, and more!",
+    "notificationsInformation": "Receive useful notifications (if you opt in) when your server goes offline, when a Minecraft username is available, when a new Minecraft version or article is out, and more!",
     "yourSuggestion": "Your Suggestion",
     "yourSuggestionInformation": "Your idea could be here. Join our discord and let us know what you'd like to see or fill out the form in the feedback page"
   }
