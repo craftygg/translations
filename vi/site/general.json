@@ -1,11 +1,11 @@
 {
-  "view": "View",
-  "lifetimeUpvotes": "Lifetime Upvotes:",
-  "upvotesThisMonth": "Upvotes this month:",
-  "lifetimeViews": "Lifetime Views:",
-  "viewsThisMonth": "Views this month:",
-  "upvote": "Upvote",
-  "report": "Report",
-  "location": "Location",
-  "adv": "Advanced Search"
+  "view": "Xem",
+  "lifetimeUpvotes": "Vote toàn thời gian:",
+  "upvotesThisMonth": "Vote tháng này:",
+  "lifetimeViews": "Lượt xem toàn thời gian:",
+  "viewsThisMonth": "Lượt xem tháng này:",
+  "upvote": "Vote",
+  "report": "Báo cáo",
+  "location": "Địa điểm",
+  "adv": "Tìm kiếm nâng cao"
 }

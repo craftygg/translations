@@ -1,6 +1,6 @@
 {
-  "header": "Get Minecraft Server Information",
-  "subheader": "Fill out the require fields to get basic information about a Minecraft server such as their status, how many players are currently online, version running and location of the server",
-  "enter": "Enter your server's IP",
-  "get": "Get Information"
+  "header": "گرفتن اطلاعات سرور ماینکرافت",
+  "subheader": "قسمت های مورد نیاز زیر را پر کنید تا یک اطلاعات کلی از سرور ماینکرافت مورد نظر دریافت کنید مثل وضعیت سرور، چه تعداد بازیکن آنلاین هستند، نسخه سرور و موقعیت مکانی آن",
+  "enter": "آدرس IP سرور خود را وارد کنید",
+  "get": "گرفتن اطلاعات"
 }

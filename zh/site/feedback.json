@@ -2,9 +2,9 @@
   "header": "Help us improve Crafty!",
   "subheader": "Tell us what you would like to see improved below",
   "feedback": "Feedback",
-  "maxCharacters": "Max 1000 characters",
+  "maxCharacters": "最多可输入1000个字符",
   "charactersRemaining": "characters remaining",
   "filling": "I don't like this please change it...",
   "sendAnonymously": "Send this anonymously",
-  "send": "Send"
+  "send": "发送"
 }
