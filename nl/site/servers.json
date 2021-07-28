@@ -1,7 +1,7 @@
 {
   "mcservers": "Minecraft Servers",
   "servers": "Servers",
-  "searchServer": "Zoek voor een specifieke server",
+  "searchServer": "Search for a specific server",
   "tags": "Tags",
   "sortBy": "Sorteren op",
   "orderBy": "Sorteer op",
@@ -11,7 +11,7 @@
   "showOffline": "Toon offline servers",
   "playersOnline": "Spelers Online",
   "upvotesMonthly": "Upvotes (maandelijks)",
-  "upvotesLifetime": "Upvotes (levenslang)",
+  "upvotesLifetime": "Upvotes (lifetime)",
   "viewsMonthly": "Weergaven (maandelijks)",
   "viewsLifetime": "Weergaven (levenslang)",
   "uptime": "Uptime",

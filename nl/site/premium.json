@@ -25,7 +25,7 @@
     "customImage": "Mogelijkheid om een aangepaste afbeelding toe te voegen op uw Server pagina",
     "serverDescription": "Server beschrijving karakterlimiet tot 1.000 karakters (in plaats van 350)",
     "moreTags": "Voeg tot 9 tags toe aan je server (in plaats van 5)",
-    "access": "Speciale Smaragd toegang op Crafty's Discord",
+    "access": "Special Ruby access on Crafty's Discord",
     "icon": "icoon op je crafty.gg profiel",
     "removeCooldowns": "Verwijder alle commando cooldowns",
     "serverTracking": "Toegang tot 2 Minecraft server tracking slots",
@@ -34,7 +34,7 @@
   "diamond": {
     "slug": "Aangepaste Server slug (/servers/custom-slug)",
     "earlyAccess": "Vroegtijdige toegang tot onze functies, waar u feedback op kunt geven",
-    "access": "Speciale Smaragd toegang op Crafty's Discord",
+    "access": "Special Diamond access on Crafty's Discord",
     "icon": "icoon op je crafty.gg profiel",
     "removeUpvote": "Verwijder alle upvote vereisten en cooldowns voor alle gebruikers in een Discord server",
     "serverTracking": "Toegang tot 3 Minecraft server tracking slots",
@@ -52,7 +52,7 @@
     "skinEditor": "Skin Bewerker",
     "skinEditorInformation": "Laat een rich skin bewerker zien om ongehinderd je volgende beste skin te maken",
     "notifications": "Notificaties",
-    "notificationsInformation": "Ontvang notificaties nuttige notificaties (als u zich aanmeldt) wanneer je server offline gaat, wanneer er een Minecraft gebruikersnaam beschikbaar is, als er een nieuwe Minecraft versie of artikel beschikbaar is, en meer!",
+    "notificationsInformation": "Receive useful notifications (if you opt in) when your server goes offline, when a Minecraft username is available, when a new Minecraft version or article is out, and more!",
     "yourSuggestion": "Uw suggestie",
     "yourSuggestionInformation": "Uw idee zou hier kunnen zijn. Word lid van onze discord en laat ons weten wat je graag wilt zien of vul het formulier in de feedbackpagina in"
   }

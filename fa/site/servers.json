@@ -1,7 +1,7 @@
 {
   "mcservers": "سرور های ماینکرافت",
   "servers": "سرور ها",
-  "searchServer": "جستجو برای یک سرور مشخص",
+  "searchServer": "Search for a specific server",
   "tags": "تگ ها",
   "sortBy": "مرتب سازی بر اساس",
   "orderBy": "ترتیب بر اساس",
@@ -11,7 +11,7 @@
   "showOffline": "نمایش سرور های آفلاین",
   "playersOnline": "بازیکنان آنلاین",
   "upvotesMonthly": "رائ های مثبت (ماهانه)",
-  "upvotesLifetime": "رائ های مثبت (در کل)",
+  "upvotesLifetime": "Upvotes (lifetime)",
   "viewsMonthly": "بازدید (ماهانه)",
   "viewsLifetime": "بازدید (در کل)",
   "uptime": "تداوم",
