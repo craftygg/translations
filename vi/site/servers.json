@@ -1,7 +1,7 @@
 {
   "mcservers": "Máy chủ Minecraft",
   "servers": "Máy chủ",
-  "searchServer": "Tìm kiếm máy chủ bất kì",
+  "searchServer": "Search for a specific server",
   "tags": "Thẻ",
   "sortBy": "Sắp xếp theo",
   "orderBy": "Thứ tự theo",
@@ -11,7 +11,7 @@
   "showOffline": "Hiển thị các máy chủ ngoại tuyến",
   "playersOnline": "Người chơi trực tuyến",
   "upvotesMonthly": "Vote (hàng tháng)",
-  "upvotesLifetime": "Vote (toàn thời gian)",
+  "upvotesLifetime": "Upvotes (lifetime)",
   "viewsMonthly": "Lượt xem (hàng tháng)",
   "viewsLifetime": "Lượt xem (toàn thời gian)",
   "uptime": "Thời gian hoạt động",
