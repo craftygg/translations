@@ -33,27 +33,27 @@
   },
   "diamond": {
     "slug": "Custom Server slug (/servers/custom-slug)",
-    "earlyAccess": "Early Access to our features, where you can provide feedback",
+    "earlyAccess": "دسترسی به ویژگی های زودهنگام جایی که شما می توانید بازخورد های ویژه به ما دهید",
     "access": "Special Emerald access on Crafty's Discord",
-    "icon": "icon on your crafty.gg profile",
-    "removeUpvote": "Remove all upvote requirements and cooldowns for all users in a Discord server",
-    "serverTracking": "Access to 3 Minecraft server tracking slots",
-    "notifications": "Receive notification when Minecraft username becomes available via Discord and/or e-mail (8 username)"
+    "icon": "آیکن روی پروفایل crafty.gg خودتان",
+    "removeUpvote": "حذف تمامی رائ مثبت های لازم و محدودیت زمانی برای تمامی کاربران داخل یک سرور دیسکورد",
+    "serverTracking": "دسترسی 3 جای خالی برای پیگیری وضعیت سرور ماینکرافت",
+    "notifications": "دریافت اعلانات توسط دیسکورد و/یا ایمیل وقتی که یک نام کاربری ماینکرافت در دسترس قرار میگیرد (تا 8 عدد نام کاربری)"
   },
   "futureFeatures": {
-    "header": "By subscribing, you support the development of Crafty",
-    "subheader": "Here's a list of features we plan to introduce in the future",
-    "playerStatistics": "Player Statistics",
-    "playerStatisticsInformation": "Get Minecraft player statistics across multiple popular Minecraft servers, all-in-one. This tool is already under development and is used by Crafty bot",
-    "richTextEditor": "Rich Text Editor",
-    "richTextEditorInformation": "Right now you can only use Markdown for your server's description, we plan to change this with a feature rich text editor to help you create the best description for your server",
-    "serverAnalytics": "Server Analytics",
-    "serverAnalyticsInformation": "Analytics for server owners for better insights",
-    "skinEditor": "Skin Editor",
-    "skinEditorInformation": "Feature rich skin editor for you to create your next best skin freely and with ease",
-    "notifications": "Notifications",
+    "header": "با مشترک شدن، شما به توسعه کرفتی کمک شایانی می کنید",
+    "subheader": "این یک لیست از ویژگی هایی هست که برنامه افزودن آن ها را در آینده داریم",
+    "playerStatistics": "آمار بازیکن",
+    "playerStatisticsInformation": "گرفتن آمار بازیکن از چندین سرور محبوب ماینکرافت، همه در یک جا. این ابزار از قبل درحال توسعه بوده و در بات کرفتی درحال استفاده است",
+    "richTextEditor": "ویرایشگر متن کامل",
+    "richTextEditorInformation": "درحال حاضر ما فقط از فرمت توضیحات سرور شما استفاده می کنیم، این برنامه را داریم که در آینده با یک ویرایشگر متن غنی به کمک شما در ساخت بهترین توضیح برای سرورتان بیاییم",
+    "serverAnalytics": "آمار سرور",
+    "serverAnalyticsInformation": "آمار برای دارندگان سرور تا بینش بهتری داشته باشند",
+    "skinEditor": "ویرایشگر اسکین",
+    "skinEditorInformation": "ویرایشگر اسکین با ویژگی های کامل برای اینکه بتونید بهترین اسکین خود را آزادانه و با راحتی بسازید",
+    "notifications": "اعلانات",
     "notificationsInformation": "Receive notifications useful notifications (if you opt in) when your server goes offline, when a Minecraft username is available, when a new Minecraft version or article is out, and more!",
-    "yourSuggestion": "Your Suggestion",
-    "yourSuggestionInformation": "Your idea could be here. Join our discord and let us know what you'd like to see or fill out the form in the feedback page"
+    "yourSuggestion": "پیشنهادات شما",
+    "yourSuggestionInformation": "نظرات شما نیز می توانند اینجا باشند. عضو سرور دیسکورد ما شوید و به ما بگویید که دوست دارید چه چیزی را در آینده ببینید، یا اینکه فرم بازخورد را در صفحه بازخورد ما پر کنید"
   }
 }
