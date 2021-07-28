@@ -1,24 +1,24 @@
 {
-  "header": "The most advanced Minecraft bot for Discord.",
-  "subheader": "Crafty is a must-have for your Minecraft community.",
-  "addToDiscord": "Add to Discord",
-  "viewCommands": "View Commands",
+  "header": "Bot dành cho Discord tối tân nhất.",
+  "subheader": "Crafty là bot cần có cho cộng đồng Minecraft của bạn.",
+  "addToDiscord": "Thêm vào Discord",
+  "viewCommands": "Xem lệnh",
   "example1": {
-    "header": "View Player information",
-    "subheader": "Crafty allows you to view information about a Minecraft account, with a simple command"
+    "header": "Xem thông tin người chơi",
+    "subheader": "Crafty cho phép bạn xem thông tin của một tài khoản Minecraft chỉ với một lệnh đơn giản"
   },
   "example2": {
-    "header": "View Server information",
-    "subheader": "With Crafty, you're also able to view Server Information, without ever leaving Discord"
+    "header": "Xem thông tin máy chủ",
+    "subheader": "Có Crafty, bạn sẽ chẳng cần rời Discord để xem thông tin của các máy chủ Minecraft"
   },
   "example3": {
-    "header": "View Player statistics",
-    "subheader": "Crafty makes it possible for you to view Player statistics from popular Minecraft servers"
+    "header": "Xem số liệu thống kê của người chơi",
+    "subheader": "Việc xem số liệu của người chơi trong các máy chủ Minecraft lớn đã trở thành có thể với Crafty"
   },
   "example4": {
-    "header": "Play Minecraft Trivia with your friends",
-    "subheader": "Crafty brings all the entertainment to your Discord server. Play Minecraft trivia, view fun facts, have epic Minecraft inspired battles, and so much more!"
+    "header": "Chơi đố vui Minecraft với bạn của bạn",
+    "subheader": "Crafty mang đến sự giải trí đến máy chủ Discord của bạn. Chơi đố vui Minecraft, xem các sự thật thú vị, có những cuộc chiến lấy cảm hứng từ Minecraft và hơn thế nữa!"
   },
-  "botCommands": "Bot Commands",
-  "prettyCoolRight": "Get access to all these cool features by adding Crafty to your Discord server"
+  "botCommands": "Các lệnh bot",
+  "prettyCoolRight": "Sỡ hữu ngay những tính năng tuyệt vời này bằng cách thêm Crafty vào máy chủ Discord của bạn"
 }
