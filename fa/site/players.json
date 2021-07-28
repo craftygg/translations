@@ -1,14 +1,14 @@
 {
-  "players": "Players",
-  "mcplayers": "Minecraft Players",
-  "uuidShort": "UUID Short",
-  "uuidLong": "UUID Long",
-  "status": "Claimed",
-  "claim": "Claim",
+  "players": "بازیکنان",
+  "mcplayers": "بازیکنان ماینکرافت",
+  "uuidShort": "UUID کوتاه",
+  "uuidLong": "UUID کامل",
+  "status": "دریافت شده",
+  "claim": "دریافت",
   "unclaimed": "Claimed",
-  "legacy": "Legacy",
-  "usernameHistory": "Username History",
-  "socialMedia": "Social Media",
-  "firstUsername": "First Username",
-  "searchPlayer": "Search for a specific player"
+  "legacy": "قدیمی",
+  "usernameHistory": "تاریخچه نام کاربری",
+  "socialMedia": "شبکه های اجتماعی",
+  "firstUsername": "اولین نام کاربری",
+  "searchPlayer": "جستجو برای یک بازیکن مشخص"
 }
