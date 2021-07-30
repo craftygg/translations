@@ -1,12 +1,12 @@
 {
-  "news": "News",
-  "more": "More",
-  "tools": "tools",
-  "bot": "Crafty Bot",
-  "viewProfile": "View Profile",
-  "settings": "Settings",
-  "add": "Add",
-  "myUpvotes": "My Upvotes",
-  "signOut": "Sign Out",
-  "help": "Help"
+  "news": "اخبار",
+  "more": "بیشتر",
+  "tools": "ابزار",
+  "bot": "بات کرفتی",
+  "viewProfile": "مشاهده پروفایل",
+  "settings": "تنظیمات",
+  "add": "افزودن",
+  "myUpvotes": "رائ های مثبت من",
+  "signOut": "خروج",
+  "help": "راهنما"
 }
