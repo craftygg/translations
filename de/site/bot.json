@@ -4,19 +4,19 @@
   "addToDiscord": "Zu Discord hinzufügen",
   "viewCommands": "Befehle ansehen",
   "example1": {
-    "header": "Spieler Informationen ansehen",
+    "header": "Spielerinformationen ansehen",
     "subheader": "Crafty erlaubt es dir, Informationen über einen Minecraft-Account mit einem einfachen Befehl zu sehen"
   },
   "example2": {
     "header": "Server Informationen ansehen",
-    "subheader": "With Crafty, you're also able to view Server Information, without ever leaving Discord"
+    "subheader": "Mit Crafty kannst du Serverinformationen ansehen, ohne Discord jemals verlassen zu müssen"
   },
   "example3": {
-    "header": "View Player statistics",
-    "subheader": "Crafty makes it possible for you to view Player statistics from popular Minecraft servers"
+    "header": "Spielerstatistiken ansehen",
+    "subheader": "Crafty macht es dir möglich Spielerstatistiken von bekannten Minecraft Servern anzusehen"
   },
   "example4": {
-    "header": "Play Minecraft Trivia with your friends",
+    "header": "Spiele Minecraft Trivia mit deinen Freunden",
     "subheader": "Crafty brings all the entertainment to your Discord server. Play Minecraft trivia, view fun facts, have epic Minecraft inspired battles, and so much more!"
   },
   "botCommands": "Bot Commands",
