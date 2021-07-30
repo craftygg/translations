@@ -1,12 +1,12 @@
 {
-  "news": "News",
-  "more": "More",
-  "tools": "tools",
+  "news": "Haberler",
+  "more": "Daha Fazla",
+  "tools": "araçlar",
   "bot": "Crafty Bot",
-  "viewProfile": "View Profile",
-  "settings": "Settings",
-  "add": "Add",
-  "myUpvotes": "My Upvotes",
-  "signOut": "Sign Out",
-  "help": "Help"
+  "viewProfile": "Profili Görüntüle",
+  "settings": "Ayarlar",
+  "add": "Ekle",
+  "myUpvotes": "Oylarım",
+  "signOut": "Çıkış Yap",
+  "help": "Yardım"
 }
