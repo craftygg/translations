@@ -10,5 +10,6 @@
   "developers": "Lập trình viên",
   "updateEmail": "Nhấn để thay đổi email của bạn",
   "hits": "Hits",
-  "key": "Key"
+  "key": "Key",
+  "noKey": "You don't have a developer account. For more information visit {{link}}"
 }
