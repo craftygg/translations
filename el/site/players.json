@@ -1,14 +1,14 @@
 {
-  "players": "Players",
-  "mcplayers": "Minecraft Players",
-  "uuidShort": "UUID Short",
-  "uuidLong": "UUID Long",
-  "status": "Claimed",
-  "claim": "Claim",
-  "unclaimed": "Unclaimed",
-  "legacy": "Legacy",
-  "usernameHistory": "Username History",
-  "socialMedia": "Social Media",
-  "firstUsername": "First Username",
-  "searchPlayer": "Search for a specific player"
+  "players": "Παίκτες",
+  "mcplayers": "Παίκτες Minecraft",
+  "uuidShort": "UUID Σύντομο",
+  "uuidLong": "UUID Μεγάλο",
+  "status": "Διεκδικημένο",
+  "claim": "Διεκδίκηση",
+  "unclaimed": "Αδιεκδίκητο",
+  "legacy": "Παλαιού τύπου (legacy)",
+  "usernameHistory": "Ιστορικό Ονομάτων Χρήστη",
+  "socialMedia": "Κοινωνικά Δίκτυα",
+  "firstUsername": "Πρώτο Όνομα Χρήστη",
+  "searchPlayer": "Αναζήτηση παίκτη"
 }
