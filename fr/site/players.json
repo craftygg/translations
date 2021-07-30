@@ -1,5 +1,5 @@
 {
-  "players": "Players",
+  "players": "Joueurs",
   "mcplayers": "Minecraft Players",
   "uuidShort": "UUID Short",
   "uuidLong": "UUID Long",
@@ -7,8 +7,8 @@
   "claim": "Claim",
   "unclaimed": "Unclaimed",
   "legacy": "Legacy",
-  "usernameHistory": "Username History",
-  "socialMedia": "Social Media",
+  "usernameHistory": "Historique des pseudos",
+  "socialMedia": "Réseaux Sociaux",
   "firstUsername": "First Username",
-  "searchPlayer": "Search for a specific player"
+  "searchPlayer": "Rechercher un joueur spécifique"
 }
