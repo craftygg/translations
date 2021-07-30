@@ -1,7 +1,7 @@
 {
   "mcaccounts": "حساب های ماینکرافت",
   "listedServers": "سرور های لیست شده",
-  "slug": "Slug",
+  "slug": "اسلاگ",
   "billing": "روش های پرداخت",
   "manage": "مدیریت",
   "general": "کلی",
@@ -9,7 +9,7 @@
   "mainAccount": "حساب ماینکرافت اصلی",
   "developers": "توسعه دهندگان",
   "updateEmail": "اینجا را برای بروزرسانی آدرس ایمیل خود کلیک کنید",
-  "hits": "Hits",
-  "key": "Key",
-  "noKey": "You don't have a developer account. For more information visit {{link}}"
+  "hits": "دفعات",
+  "key": "کلید",
+  "noKey": "شما حساب توسعه دهنده ندارید. برای اطلاعات بیشتر {{link}} را مشاهده کنید"
 }
