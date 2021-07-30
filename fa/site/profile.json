@@ -1,14 +1,14 @@
 {
-  "mcaccounts": "Minecraft Accounts",
-  "listedServers": "Listed Servers",
+  "mcaccounts": "حساب های ماینکرافت",
+  "listedServers": "سرور های لیست شده",
   "slug": "Slug",
-  "billing": "Billing",
-  "manage": "Manage",
-  "general": "General",
-  "email": "Email",
-  "mainAccount": "Main Minecraft Account",
-  "developers": "Developers",
-  "updateEmail": "Click here to update your email address",
+  "billing": "روش های پرداخت",
+  "manage": "مدیریت",
+  "general": "کلی",
+  "email": "ایمیل",
+  "mainAccount": "حساب ماینکرافت اصلی",
+  "developers": "توسعه دهندگان",
+  "updateEmail": "اینجا را برای بروزرسانی آدرس ایمیل خود کلیک کنید",
   "hits": "Hits",
   "key": "Key"
 }
