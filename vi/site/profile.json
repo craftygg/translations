@@ -1,14 +1,14 @@
 {
-  "mcaccounts": "Minecraft Accounts",
-  "listedServers": "Listed Servers",
+  "mcaccounts": "Tài khoản Minecraft",
+  "listedServers": "Máy chủ đã công khai",
   "slug": "Slug",
-  "billing": "Billing",
-  "manage": "Manage",
-  "general": "General",
+  "billing": "Thanh toán",
+  "manage": "Quản lý",
+  "general": "Tổng quan",
   "email": "Email",
-  "mainAccount": "Main Minecraft Account",
-  "developers": "Developers",
-  "updateEmail": "Click here to update your email address",
+  "mainAccount": "Tài khoản Minecraft chính",
+  "developers": "Lập trình viên",
+  "updateEmail": "Nhấn để thay đổi email của bạn",
   "hits": "Hits",
   "key": "Key"
 }
