@@ -2,13 +2,13 @@
   "mcaccounts": "Minecraft Accounts",
   "listedServers": "Listed Servers",
   "slug": "Slug",
-  "billing": "Facturation",
+  "billing": "Billing",
   "manage": "Manage",
   "general": "General",
   "email": "Email",
-  "mainAccount": "Compte Minecraft Principal",
+  "mainAccount": "Main Minecraft Account",
   "developers": "Developers",
-  "updateEmail": "Cliquez ici pour mettre à jour votre adresse e-mail",
+  "updateEmail": "Click here to update your email address",
   "hits": "Hits",
   "key": "Key"
 }

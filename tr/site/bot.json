@@ -1,0 +1,24 @@
+{
+  "header": "Discord için en gelişmiş Minecraft botu.",
+  "subheader": "Crafty, topluluğunuzda olması gereken bir bottur.",
+  "addToDiscord": "Sunucuna Ekle",
+  "viewCommands": "Komutları Görüntüle",
+  "example1": {
+    "header": "Oyuncu Bilgilerini Görüntüle",
+    "subheader": "Crafty, basit bir komutla bir Minecraft hesabı hakkındaki bilgileri görüntülemenizi sağlar"
+  },
+  "example2": {
+    "header": "Sunucu Bilgilerini Görüntüle",
+    "subheader": "Crafty ile, Discord'dan ayrılmadan Sunucu Bilgilerini de görüntüleyebilirsiniz"
+  },
+  "example3": {
+    "header": "Oyuncu İstatistiklerini Görüntüle",
+    "subheader": "Crafty, popüler Minecraft sunucularındaki Oyuncu İstatistiklerini görüntülemenizi sağlar"
+  },
+  "example4": {
+    "header": "Arkadaşlarınla Minecraft Bilgi Yarışması oyna",
+    "subheader": "Crafty, eğlenceyi Discord sunucunuza getiriyor. Minecraft bilgi yarışması oynayın, eğlenceli gerçekleri görüntüleyin, Minecraft'tan ilham alan destansı savaşlar ve çok daha fazlası!"
+  },
+  "botCommands": "Bot Komutları",
+  "prettyCoolRight": "Discord sunucunuza Crafty botunu ekleyerek tüm bu harika özelliklere erişin"
+}
