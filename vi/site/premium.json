@@ -25,7 +25,7 @@
     "customImage": "Khả năng thêm một ảnh tự chọn trên trang máy chủ của bạn",
     "serverDescription": "Mô tả máy chủ được nâng lên đến 1,000 kí tự (thay vì 350 trước đó)",
     "moreTags": "Thêm đến 9 nhãn cho máy chủ của bạn (thay vì 5)",
-    "access": "Special Ruby access on Crafty's Discord",
+    "access": "Truy cập quyền hạn Ruby đặc biệt trên Discord của Crafty",
     "icon": "icon nhỏ trên trang cá nhân crafty.gg của bạn",
     "removeCooldowns": "Loại bỏ đếm ngược khi dùng lệnh",
     "serverTracking": "Được quyền thêm và theo dõi 2 máy chủ Minecraft",
@@ -34,7 +34,7 @@
   "diamond": {
     "slug": "Slug máy chủ tự chọn (/servers/slug-ngau-lam)",
     "earlyAccess": "Tiếp cận các tính năng mới nhất, lúc đó bạn có thể để lại phản hồi",
-    "access": "Special Diamond access on Crafty's Discord",
+    "access": "Truy cập quyền hạn Diamond đặc biệt trên Discord của Crafty",
     "icon": "icon nhỏ trên trang cá nhân crafty.gg của bạn",
     "removeUpvote": "Loại bỏ toàn bộ yêu cầu upvote và đếm ngược cho tất cả người dùng trong một máy chủ Discord",
     "serverTracking": "Được quyền thêm và theo dõi 3 máy chủ Minecraft",
@@ -52,7 +52,7 @@
     "skinEditor": "Skin editor",
     "skinEditorInformation": "Một quả skin editor giàu chức năng giúp bạn sáng tạo skin của mình một cách tự do",
     "notifications": "Thông báo",
-    "notificationsInformation": "Receive useful notifications (if you opt in) when your server goes offline, when a Minecraft username is available, when a new Minecraft version or article is out, and more!",
+    "notificationsInformation": "Nhận các thông báo hữu ích (nếu bạn tham gia) như khi máy chủ của bạn bị ngắt, khi tên người dùng Minecraft khả dụng, khi có phiên bản Minecraft hoặc bài viết với và hơn thế nữa!",
     "yourSuggestion": "Đề xuất của bạn",
     "yourSuggestionInformation": "Ý tưởng của bạn có thể ở đây. Tham gia máy chủ Discord của chúng tôi và cho chúng tôi biết bạn muốn thấy thứ gì được thêm vào hoặc hoàn thành biểu mẫu ở trang phản hồi"
   }
