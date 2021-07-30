@@ -10,5 +10,6 @@
   "developers": "توسعه دهندگان",
   "updateEmail": "اینجا را برای بروزرسانی آدرس ایمیل خود کلیک کنید",
   "hits": "Hits",
-  "key": "Key"
+  "key": "Key",
+  "noKey": "You don't have a developer account. For more information visit {{link}}"
 }
