@@ -1,6 +1,6 @@
 {
   "header": "Crafty Premium",
-  "subheader": "Wähle einen Plan, der deinen Bedürftnissen entspricht und finanziere Crafty´s Entwicklung gleichzeitig!",
+  "subheader": "Wähle einen Plan, der deinen Bedürfnissen entspricht und finanziere Crafty´s Entwicklung gleichzeitig!",
   "monthly": "Monatlich",
   "annually": "Jährlich",
   "year": "Jahr",
@@ -44,16 +44,16 @@
     "header": "Durch Abonnieren unterstützt du die Entwicklung von Crafty",
     "subheader": "Hier ist eine Liste von Funktionen, die wir in der Zukunft hinzufügen wollen",
     "playerStatistics": "Spielerstatistiken",
-    "playerStatisticsInformation": "Get Minecraft player statistics across multiple popular Minecraft servers, all-in-one. This tool is already under development and is used by Crafty bot",
+    "playerStatisticsInformation": "Erhalte Minecraft Spielerstatistiken über mehrere beliebte Minecraft Server, alles in einem. Dieses Tool ist bereits in Entwicklung und wird vom Crafty Bot verwendet",
     "richTextEditor": "Rich Text Bearbeiter",
-    "richTextEditorInformation": "Right now you can only use Markdown for your server's description, we plan to change this with a feature rich text editor to help you create the best description for your server",
+    "richTextEditorInformation": "Im Moment kannst du nur Markdown für die Beschreibung deines Servers verwenden, wir planen, dies mit einem Feature Rich Text Editor zu ändern, um dir zu helfen, die beste Beschreibung für deinen Server zu erstellen",
     "serverAnalytics": "Server Analyse",
-    "serverAnalyticsInformation": "Analytics for server owners for better insights",
+    "serverAnalyticsInformation": "Analyse für Serverbesitzer für bessere Einblicke",
     "skinEditor": "Skin Bearbeiter",
-    "skinEditorInformation": "Feature rich skin editor for you to create your next best skin freely and with ease",
+    "skinEditorInformation": "Feature Rich Skin Editor damit Sie Ihren nächsten besten Skin frei und bequem erstellen können",
     "notifications": "Benachrichtigungen",
-    "notificationsInformation": "Receive useful notifications (if you opt in) when your server goes offline, when a Minecraft username is available, when a new Minecraft version or article is out, and more!",
+    "notificationsInformation": "Erhalte nützliche Benachrichtigungen (wenn du dich einloggst) wenn dein Server offline geht, wenn ein Minecraft Benutzername verfügbar ist, wenn eine neue Minecraft Version oder ein Artikel herauskommt ist und mehr!",
     "yourSuggestion": "Dein Vorschlag",
-    "yourSuggestionInformation": "Your idea could be here. Join our discord and let us know what you'd like to see or fill out the form in the feedback page"
+    "yourSuggestionInformation": "Deine Idee könnte hier sein. Trete unserem Discord bei und lasse uns wissen, was du sehen möchten oder fülle das Formular in der Feedback Seite aus"
   }
 }
