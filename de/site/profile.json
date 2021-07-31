@@ -10,6 +10,6 @@
   "developers": "Entwickler",
   "updateEmail": "Klicke hier um deine E-Mail-Adresse zu aktualisieren",
   "hits": "Hits",
-  "key": "Key",
-  "noKey": "You don't have a developer account. For more information visit {{link}}"
+  "key": "Schlüssel",
+  "noKey": "Du hast kein Entwickler Konto. Für weitere Informationen besuche {{link}}"
 }
