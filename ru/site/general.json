@@ -1,11 +1,11 @@
 {
-  "view": "View",
-  "lifetimeUpvotes": "Lifetime Upvotes:",
-  "upvotesThisMonth": "Upvotes this month:",
-  "lifetimeViews": "Lifetime Views:",
-  "viewsThisMonth": "Views this month:",
-  "upvote": "Upvote",
-  "report": "Report",
-  "location": "Location",
-  "adv": "Advanced Search"
+  "view": "Просмотреть",
+  "lifetimeUpvotes": "Голосов за все время:",
+  "upvotesThisMonth": "Голосов за месяц:",
+  "lifetimeViews": "Просмотров за все время:",
+  "viewsThisMonth": "Просмотров за месяц:",
+  "upvote": "Проголосовать",
+  "report": "Пожаловаться",
+  "location": "Местоположение",
+  "adv": "Расширенный поиск"
 }
