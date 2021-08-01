@@ -1,15 +1,15 @@
 {
-  "skins": "Skins",
-  "apply": "Apply",
-  "searchSkin": "Search for a specific player's skin",
-  "useSkin": "Use this skin",
-  "download": "Download Skin",
-  "capture": "Capture a screenshot of the skin as you see it",
-  "runnin": "Running",
-  "flying": "Flying",
-  "rotating": "Rotating",
-  "static": "Static",
-  "walking": "Walking",
-  "type": "Type",
-  "firstSeen": "First Seen"
+  "skins": "Aspectos",
+  "apply": "Aplicar",
+  "searchSkin": "Buscar un aspecto de un jugador en específico",
+  "useSkin": "Usar este aspecto",
+  "download": "Descargar aspecto",
+  "capture": "Hacer una captura del aspecto tal como la ves",
+  "runnin": "Corriendo",
+  "flying": "Volando",
+  "rotating": "Rotando",
+  "static": "Estático",
+  "walking": "Caminando",
+  "type": "Tipo",
+  "firstSeen": "Visto por primera vez"
 }
