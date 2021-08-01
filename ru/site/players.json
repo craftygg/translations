@@ -1,14 +1,14 @@
 {
-  "players": "Players",
-  "mcplayers": "Minecraft Players",
-  "uuidShort": "UUID Short",
-  "uuidLong": "UUID Long",
+  "players": "Игроки",
+  "mcplayers": "Minecraft Игроки",
+  "uuidShort": "Короткий UUID",
+  "uuidLong": "Длинный UUID",
   "status": "Claimed",
   "claim": "Claim",
   "unclaimed": "Unclaimed",
   "legacy": "Legacy",
-  "usernameHistory": "Username History",
-  "socialMedia": "Social Media",
-  "firstUsername": "First Username",
-  "searchPlayer": "Search for a specific player"
+  "usernameHistory": "История ника",
+  "socialMedia": "Соц. сети",
+  "firstUsername": "Первый ник",
+  "searchPlayer": "Поиск конкретного игрока"
 }
