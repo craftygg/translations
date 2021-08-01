@@ -6,9 +6,9 @@
   "status": "Reclamado",
   "claim": "Reclamar",
   "unclaimed": "Sin reclamar",
-  "legacy": "Legacy",
-  "usernameHistory": "Username History",
-  "socialMedia": "Social Media",
-  "firstUsername": "First Username",
-  "searchPlayer": "Search for a specific player"
+  "legacy": "Antiguo",
+  "usernameHistory": "Historial de nombres de usuario",
+  "socialMedia": "Redes sociales",
+  "firstUsername": "Primer nombre de usuario",
+  "searchPlayer": "Buscar un jugador en específico"
 }
