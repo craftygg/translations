@@ -48,12 +48,12 @@
     "richTextEditor": "Расширенный текстовый редактор",
     "richTextEditorInformation": "Сейчас вы можете использовать только Markdown для описания вашего сервера. Мы планируем изменить это с помощью расширенного текстового редактора, чтобы помочь в создании лучшего описания для вашего сервера",
     "serverAnalytics": "Аналитика сервера",
-    "serverAnalyticsInformation": "Analytics for server owners for better insights",
-    "skinEditor": "Skin Editor",
-    "skinEditorInformation": "Feature rich skin editor for you to create your next best skin freely and with ease",
-    "notifications": "Notifications",
-    "notificationsInformation": "Receive useful notifications (if you opt in) when your server goes offline, when a Minecraft username is available, when a new Minecraft version or article is out, and more!",
-    "yourSuggestion": "Your Suggestion",
-    "yourSuggestionInformation": "Your idea could be here. Join our discord and let us know what you'd like to see or fill out the form in the feedback page"
+    "serverAnalyticsInformation": "Аналитика для владельцев серверов для лучшего понимания",
+    "skinEditor": "Редактор скинов",
+    "skinEditorInformation": "Разрабатывается расширенный редактор скинов для свободного и легкого создания вашего следующего крутого скина",
+    "notifications": "Уведомления",
+    "notificationsInformation": "Возможность получать полезные уведомления (которые вы выберите), когда ваш сервер уходит в автономный режим, когда доступно имя пользователя Minecraft, когда появляется новая версия Minecraft или новая статья, и многое другое!",
+    "yourSuggestion": "Ваше предложение",
+    "yourSuggestionInformation": "Ваша идея могла бы быть здесь. Присоединяйтесь к нашему discord серверу и дайте нам знать, что бы вы хотели видеть в Crafty, или заполните форму на странице обратной связи"
   }
 }
