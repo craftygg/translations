@@ -1,0 +1,14 @@
+{
+  "players": "Игроки",
+  "mcplayers": "Игроки Minecraft",
+  "uuidShort": "Короткий UUID",
+  "uuidLong": "Длинный UUID",
+  "status": "Подтвержден",
+  "claim": "Подтвердить",
+  "unclaimed": "Не подтвержден",
+  "legacy": "Устаревший",
+  "usernameHistory": "История ника",
+  "socialMedia": "Социальные сети",
+  "firstUsername": "Первый ник",
+  "searchPlayer": "Поиск конкретного игрока"
+}

@@ -1,14 +1,14 @@
 {
-  "players": "Players",
-  "mcplayers": "Minecraft Players",
-  "uuidShort": "UUID Short",
-  "uuidLong": "UUID Long",
-  "status": "Claimed",
-  "claim": "Claim",
-  "unclaimed": "Unclaimed",
-  "legacy": "Legacy",
-  "usernameHistory": "Username History",
-  "socialMedia": "Social Media",
-  "firstUsername": "First Username",
-  "searchPlayer": "Search for a specific player"
+  "players": "Oyuncular",
+  "mcplayers": "Minecraft Oyuncuları",
+  "uuidShort": "Kısa UUID",
+  "uuidLong": "Uzun UUID",
+  "status": "Alındı",
+  "claim": "Al",
+  "unclaimed": "Alınmadı",
+  "legacy": "Eski",
+  "usernameHistory": "Kullanıcı Adı Geçmişi",
+  "socialMedia": "Sosyal Medya",
+  "firstUsername": "İlk Kullanıcı Adı",
+  "searchPlayer": "Belirli bir oyuncu ara"
 }

@@ -1,12 +1,12 @@
 {
-  "news": "News",
-  "more": "More",
-  "tools": "tools",
-  "bot": "Crafty Bot",
-  "viewProfile": "View Profile",
-  "settings": "Settings",
-  "add": "Add",
-  "myUpvotes": "My Upvotes",
-  "signOut": "Sign Out",
-  "help": "Help"
+  "news": "Noticias",
+  "more": "Más",
+  "tools": "herramientas",
+  "bot": "Bot de Crafty",
+  "viewProfile": "Ver perfil",
+  "settings": "Ajustes",
+  "add": "Añadir",
+  "myUpvotes": "Mis votos",
+  "signOut": "Cerrar sesión",
+  "help": "Ayuda"
 }

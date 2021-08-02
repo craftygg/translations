@@ -10,5 +10,6 @@
   "developers": "Developers",
   "updateEmail": "Click here to update your email address",
   "hits": "Hits",
-  "key": "Key"
+  "key": "Key",
+  "noKey": "You don't have a developer account. For more information visit {{link}}"
 }

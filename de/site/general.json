@@ -1,11 +1,11 @@
 {
-  "view": "View",
-  "lifetimeUpvotes": "Lifetime Upvotes:",
-  "upvotesThisMonth": "Upvotes this month:",
-  "lifetimeViews": "Lifetime Views:",
-  "viewsThisMonth": "Views this month:",
+  "view": "Ansehen",
+  "lifetimeUpvotes": "Lebenslange Upvotes:",
+  "upvotesThisMonth": "Upvotes in diesem Monat:",
+  "lifetimeViews": "Lebenslange Ansichten:",
+  "viewsThisMonth": "Ansichten in diesem Monat:",
   "upvote": "Upvote",
-  "report": "Report",
-  "location": "Location",
-  "adv": "Advanced Search"
+  "report": "Melden",
+  "location": "Standort",
+  "adv": "Erweiterte Suche"
 }

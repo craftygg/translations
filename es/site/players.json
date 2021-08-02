@@ -1,14 +1,14 @@
 {
-  "players": "Players",
-  "mcplayers": "Minecraft Players",
-  "uuidShort": "UUID Short",
-  "uuidLong": "UUID Long",
-  "status": "Claimed",
-  "claim": "Claim",
-  "unclaimed": "Unclaimed",
-  "legacy": "Legacy",
-  "usernameHistory": "Username History",
-  "socialMedia": "Social Media",
-  "firstUsername": "First Username",
-  "searchPlayer": "Search for a specific player"
+  "players": "Jugadores",
+  "mcplayers": "Jugadores de Minecraft",
+  "uuidShort": "UUID corto",
+  "uuidLong": "UUID largo",
+  "status": "Reclamado",
+  "claim": "Reclamar",
+  "unclaimed": "Sin reclamar",
+  "legacy": "Antiguo",
+  "usernameHistory": "Historial de nombres de usuario",
+  "socialMedia": "Redes sociales",
+  "firstUsername": "Primer nombre de usuario",
+  "searchPlayer": "Buscar un jugador en específico"
 }

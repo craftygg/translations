@@ -1,11 +1,11 @@
 {
-  "header": "Νέος τρόπος για να ανακαλύψετε Minecraft Servers, Παίκτες & Skins!",
-  "subheaderh2": "Search Minecraft usernames, top voted Minecraft servers, unique skins & player statistics!",
+  "header": "Νέος τρόπος για να ανακαλύψετε τους Minecraft Διακομιστές, τους Παίκτες & Skins!",
+  "subheaderh2": "Αναζητήστε ονόματα χρηστών του Minecraft, κορυφαίους διακομιστές του Minecraft, μοναδικά skins & στατιστικά για παίκτες!",
   "subheaderh3": "Χτισμένο για την κοινότητα Minecraft, από την κοινότητα Minecraft.",
-  "topVoted": "🚀 {{Month}}'s top voted Players, Servers, and Skins 🔥",
-  "newsheader": "LATEST MINECRAFT NEWS",
-  "viewmore": "View More",
-  "results": "🔎 Here are your results",
+  "topVoted": "🚀 Κορυφαίοι παίκτες, διακομιστές και skins αυτόν τον μήνα 🔥",
+  "newsheader": "ΤΕΛΕΥΤΑΙΑ ΝΕΑ MINECRAFT",
+  "viewmore": "Προβολή Περισσότερων",
+  "results": "🔎 Αυτά είναι τα αποτελέσματά σας",
   "january": "January",
   "february": "February",
   "march": "March",
@@ -19,16 +19,16 @@
   "November": "November",
   "December": "December",
   "footer": {
-    "about": "About",
-    "aboutus": "About Us",
-    "premium": "Premium",
-    "status": "Status",
-    "navigation": "Navigation",
-    "feedback": "Feedback",
-    "legal": "Legal",
-    "tos": "Terms of Service",
-    "privacy": "Privacy Policy",
-    "copyright": "© crafty.gg | Not affiliated with Discord or Mojang"
+    "about": "Σχετικά",
+    "aboutus": "Σχετικά με εμάς",
+    "premium": "Συνδρομή",
+    "status": "Κατάσταση",
+    "navigation": "Πλοήγηση",
+    "feedback": "Σχόλια",
+    "legal": "Νομικά",
+    "tos": "Όροι Χρήσης",
+    "privacy": "Πολιτική Απορρήτου",
+    "copyright": "© crafty.gg - Δεν συνεργάζεται με το Discord ή τη Mojang"
   },
-  "reachedBedrock": "Reached Bedrock"
+  "reachedBedrock": "Τέλος"
 }

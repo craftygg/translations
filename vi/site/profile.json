@@ -10,5 +10,6 @@
   "developers": "Lập trình viên",
   "updateEmail": "Nhấn để thay đổi email của bạn",
   "hits": "Hits",
-  "key": "Key"
+  "key": "Key",
+  "noKey": "Bạn không có tài khoản lập trình viên. Để biết thêm thông tin chi tiết, hãy ghé thăm {{link}}"
 }

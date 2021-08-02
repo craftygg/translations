@@ -1,14 +1,15 @@
 {
-  "mcaccounts": "Minecraft Accounts",
-  "listedServers": "Listed Servers",
+  "mcaccounts": "Minecraft Konten",
+  "listedServers": "Gespeicherte Server",
   "slug": "Slug",
-  "billing": "Billing",
-  "manage": "Manage",
-  "general": "General",
-  "email": "Email",
-  "mainAccount": "Main Minecraft Account",
-  "developers": "Developers",
-  "updateEmail": "Click here to update your email address",
+  "billing": "Rechnung",
+  "manage": "Verwalten",
+  "general": "Allgemein",
+  "email": "E-Mail",
+  "mainAccount": "Haupt Minecraft Konto",
+  "developers": "Entwickler",
+  "updateEmail": "Klicke hier um deine E-Mail-Adresse zu aktualisieren",
   "hits": "Hits",
-  "key": "Key"
+  "key": "Schlüssel",
+  "noKey": "Du hast kein Entwickler Konto. Für weitere Informationen besuche {{link}}"
 }
