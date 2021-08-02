@@ -1,15 +1,15 @@
 {
-  "mcaccounts": "Minecraft Accounts",
-  "listedServers": "Listed Servers",
+  "mcaccounts": "Аккаунты Minecraft",
+  "listedServers": "Список серверов",
   "slug": "Slug",
-  "billing": "Billing",
-  "manage": "Manage",
-  "general": "General",
+  "billing": "Оплата",
+  "manage": "Управление",
+  "general": "Общее",
   "email": "Email",
-  "mainAccount": "Main Minecraft Account",
-  "developers": "Developers",
-  "updateEmail": "Click here to update your email address",
-  "hits": "Hits",
-  "key": "Key",
-  "noKey": "You don't have a developer account. For more information visit {{link}}"
+  "mainAccount": "Основной аккаунт Minecraft",
+  "developers": "Разработчики",
+  "updateEmail": "Нажмите, чтобы обновить ваш адрес электронной почты",
+  "hits": "Запросы",
+  "key": "Идентификатор",
+  "noKey": "Вы не разработчик. Для получения дополнительной информации посетите {{link}}"
 }
