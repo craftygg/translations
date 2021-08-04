@@ -1,15 +1,15 @@
 {
   "mcrecipes": "Рецепти за изработване",
-  "recipe": "Here's the recipe you asked for",
-  "building": "Building",
-  "decoration": "Decoration",
-  "redstone": "Redstone",
-  "transportation": "Transportation",
-  "food": "Food",
-  "tools": "Tools",
-  "combat": "Combat",
-  "brewing": "Brewing",
-  "materials": "Materials",
-  "misc": "Miscellaneous",
-  "search": "Search"
+  "recipe": "Ето рецептата, която поиска",
+  "building": "Строене",
+  "decoration": "Декорация",
+  "redstone": "Червен камък",
+  "transportation": "Транспорт",
+  "food": "Храна",
+  "tools": "Инструменти",
+  "combat": "Бой",
+  "brewing": "Варене на отвари",
+  "materials": "Материали",
+  "misc": "Разни",
+  "search": "Търсене"
 }
