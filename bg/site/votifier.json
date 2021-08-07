@@ -1,10 +1,10 @@
 {
-  "header": "Изпробвай Votifier попълвайки информацията по-долу",
+  "header": "Изпробвай Вотифайър попълвайки информацията по-долу",
   "desch1": "Какво е това?",
-  "descp1": "Votifier Tester helps you determine if the Votifier plugin has been correctly installed in your Minecraft server.",
-  "desch2": "What is Votifier?",
-  "descp2": "Votifier is a Minecraft server voting plugin you can install to get notified whenever a player votes for your server on a server list, like Crafty.",
-  "desch3": "But, why?",
-  "descp3": "Votifier is used by server owners / admins to reward players who vote for their Minecraft server. Voting helps the server get a better ranking on server lists.",
-  "test": "Test"
+  "descp1": "С тестера на Вотифайър можеш да разбереш дали плъгинът Вотифайър се е инсталирал правилно.",
+  "desch2": "Какво е Вотифайър?",
+  "descp2": "Вотифайър е плъгин за сървъри на Майнкрафт за гласуване, който можеш да инсталираш за да бъдеш уведомен/а, когато някой играч даде гласа си за твоя сървър в списък на сървъри като Крафти.",
+  "desch3": "Но защо?",
+  "descp3": "Вотифайър се използва от собственици/администратори на сървъри, за да наградят играчите, които гласуват за техните Майнкрафт сървъри. Гласуването помага на сървъра да се позиционира по-добре в списъци на сървъри.",
+  "test": "Изпробване"
 }
