@@ -1,15 +1,15 @@
 {
-  "mcaccounts": "Minecraft Accounts",
-  "listedServers": "Listed Servers",
-  "slug": "Slug",
-  "billing": "Billing",
-  "manage": "Manage",
-  "general": "General",
-  "email": "Email",
-  "mainAccount": "Main Minecraft Account",
-  "developers": "Developers",
-  "updateEmail": "Click here to update your email address",
+  "mcaccounts": "Акаунти в Майнкрафт",
+  "listedServers": "Публикувани сървъри",
+  "slug": "URL адрес",
+  "billing": "Плащане",
+  "manage": "Редактиране",
+  "general": "Общи",
+  "email": "Електронна поща",
+  "mainAccount": "Основен Майнкрафт акаунт",
+  "developers": "Разработчици",
+  "updateEmail": "Щракни тук, за да актуализираш имейл адреса ти",
   "hits": "Hits",
   "key": "Key",
-  "noKey": "You don't have a developer account. For more information visit {{link}}"
+  "noKey": "Нямаш акаунт на разработчик. За повече информация, посети {{link}}"
 }

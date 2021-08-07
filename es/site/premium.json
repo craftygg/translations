@@ -12,7 +12,7 @@
   "subscribe": "Suscribirse",
   "off": "de descuento",
   "emerald": {
-    "slug": "Slug personalizado (/users/custom-slug)",
+    "slug": "URL personalizado (/users/custom-slug)",
     "color": "Color personalizado para tu página de servidor y de jugador",
     "access": "Acceso especial de Esmeralda en el servidor de Discord de Crafty",
     "icon": "Icono de esmeralda en tu perfil de crafty.gg",
@@ -32,7 +32,7 @@
     "notifications": "Recibe una notificación cuando un nombre de usuario de Minecraft esté disponible a través de Discord y/o correo electrónico (3 nombres de usuario)"
   },
   "diamond": {
-    "slug": "Slug de servidor personalizado (/servers/custom-slug)",
+    "slug": "URL de servidor personalizado (/servers/custom-slug)",
     "earlyAccess": "Acceso anticipiado a nuestras características, donde podrás hacer sugerencias y comentarios",
     "access": "Acceso especial de Diamante en el servidor de Discord de Crafty",
     "icon": "Icono de diamante en tu perfil de crafty.gg",

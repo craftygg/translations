@@ -1,15 +1,15 @@
 {
   "mcaccounts": "Minecraft Accounts",
-  "listedServers": "Listed Servers",
-  "slug": "Slug",
-  "billing": "Billing",
-  "manage": "Manage",
-  "general": "General",
-  "email": "Email",
-  "mainAccount": "Main Minecraft Account",
-  "developers": "Developers",
-  "updateEmail": "Click here to update your email address",
-  "hits": "Hits",
-  "key": "Key",
-  "noKey": "You don't have a developer account. For more information visit {{link}}"
+  "listedServers": "Aangeboden servers",
+  "slug": "Slak",
+  "billing": "Facturatie",
+  "manage": "Beheren",
+  "general": "Algemeen",
+  "email": "E-mail",
+  "mainAccount": "Belangrijkste Minecraft Account",
+  "developers": "Ontwikkelaars",
+  "updateEmail": "Klik hier om je e-mailadres bij te werken",
+  "hits": "Treffers",
+  "key": "Sleutel",
+  "noKey": "U heeft geen ontwikkelaarsaccount. Bezoek {{link}} voor meer informatie"
 }

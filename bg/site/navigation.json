@@ -1,12 +1,12 @@
 {
-  "news": "News",
-  "more": "More",
-  "tools": "tools",
-  "bot": "Crafty Bot",
-  "viewProfile": "View Profile",
-  "settings": "Settings",
-  "add": "Add",
-  "myUpvotes": "My Upvotes",
-  "signOut": "Sign Out",
-  "help": "Help"
+  "news": "Новини",
+  "more": "Повече",
+  "tools": "инструменти",
+  "bot": "Бот Крафти",
+  "viewProfile": "Преглед на профил",
+  "settings": "Настойки",
+  "add": "Добави",
+  "myUpvotes": "Моите гласове",
+  "signOut": "Изход",
+  "help": "Помощ"
 }
