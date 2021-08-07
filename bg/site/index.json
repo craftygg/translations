@@ -21,7 +21,7 @@
   "footer": {
     "about": "Относно",
     "aboutus": "За нас",
-    "premium": "Premium",
+    "premium": "Премиум",
     "status": "Статус",
     "navigation": "Навигация",
     "feedback": "Отзиви",
@@ -30,5 +30,5 @@
     "privacy": "Декларация за поверителност",
     "copyright": "© crafty.gg | Not affiliated with Discord or Mojang"
   },
-  "reachedBedrock": "Reached Bedrock"
+  "reachedBedrock": "Материнска скала достигната"
 }
