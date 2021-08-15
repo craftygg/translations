@@ -1,12 +1,14 @@
 {
+  "home": "home",
   "news": "اخبار",
   "more": "بیشتر",
-  "tools": "ابزار",
+  "tools": "Tools",
   "bot": "بات کرفتی",
   "viewProfile": "مشاهده پروفایل",
   "settings": "تنظیمات",
   "add": "افزودن",
   "myUpvotes": "رائ های مثبت من",
   "signOut": "خروج",
-  "help": "راهنما"
+  "help": "راهنما",
+  "signIn": "Sign in"
 }
