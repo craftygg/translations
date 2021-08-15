@@ -1,12 +1,14 @@
 {
+  "home": "home",
   "news": "Новини",
   "more": "Повече",
-  "tools": "инструменти",
+  "tools": "Tools",
   "bot": "Бот Крафти",
   "viewProfile": "Преглед на профил",
   "settings": "Настойки",
   "add": "Добави",
   "myUpvotes": "Моите гласове",
   "signOut": "Изход",
-  "help": "Помощ"
+  "help": "Помощ",
+  "signIn": "Sign in"
 }
