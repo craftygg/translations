@@ -28,5 +28,7 @@
   "listedBy": "Añadido por",
   "listedOn": "Añadido el",
   "lastEdit": "Editado por última vez",
-  "topUpvoters": "Los votantes más activos de {{Month}}"
+  "store": "Store",
+  "topUpvoters": "Los votantes más activos de {{Month}}",
+  "noUpvotes": "No one has upvoted yet"
 }
