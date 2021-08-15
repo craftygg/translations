@@ -28,5 +28,7 @@
   "listedBy": "Добавен от",
   "listedOn": "Добавен на",
   "lastEdit": "Последна промяна",
-  "topUpvoters": "Най-активните гласоподаватели през {{Month}}"
+  "store": "Store",
+  "topUpvoters": "Най-активните гласоподаватели през {{Month}}",
+  "noUpvotes": "No one has upvoted yet"
 }

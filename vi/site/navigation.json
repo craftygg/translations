@@ -1,12 +1,14 @@
 {
+  "home": "home",
   "news": "Tin mới",
   "more": "Thêm",
-  "tools": "công cụ",
+  "tools": "Tools",
   "bot": "Crafty",
   "viewProfile": "Xem hồ sơ cá nhân",
   "settings": "Cài đặt",
   "add": "Thêm",
   "myUpvotes": "Vote của tôi",
   "signOut": "Đăng xuất",
-  "help": "Hỗ trợ"
+  "help": "Hỗ trợ",
+  "signIn": "Sign in"
 }

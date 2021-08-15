@@ -28,5 +28,7 @@
   "listedBy": "Đăng lên bởi",
   "listedOn": "Đăng lên lúc",
   "lastEdit": "Chỉnh sửa gần đây",
-  "topUpvoters": "Top người vote {{Month}}"
+  "store": "Store",
+  "topUpvoters": "Top người vote {{Month}}",
+  "noUpvotes": "No one has upvoted yet"
 }

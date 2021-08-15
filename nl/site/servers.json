@@ -28,5 +28,7 @@
   "listedBy": "Aangeboden Door",
   "listedOn": "Aangeboden Op",
   "lastEdit": "Laatst Bewerkt",
-  "topUpvoters": "{{Month}}'s Beste Upvoters"
+  "store": "Store",
+  "topUpvoters": "{{Month}}'s Beste Upvoters",
+  "noUpvotes": "No one has upvoted yet"
 }

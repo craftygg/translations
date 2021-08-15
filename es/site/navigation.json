@@ -1,12 +1,14 @@
 {
+  "home": "home",
   "news": "Noticias",
   "more": "Más",
-  "tools": "herramientas",
+  "tools": "Tools",
   "bot": "Bot de Crafty",
   "viewProfile": "Ver perfil",
   "settings": "Ajustes",
   "add": "Añadir",
   "myUpvotes": "Mis votos",
   "signOut": "Cerrar sesión",
-  "help": "Ayuda"
+  "help": "Ayuda",
+  "signIn": "Sign in"
 }

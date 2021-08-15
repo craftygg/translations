@@ -1,12 +1,14 @@
 {
+  "home": "home",
   "news": "Νέα",
   "more": "Περισσότερα",
-  "tools": "Εργαλεία",
+  "tools": "Tools",
   "bot": "Crafty Ρομποτ",
   "viewProfile": "Προβολή Προφίλ",
   "settings": "Ρυθμίσεις",
   "add": "Προσθήκη",
   "myUpvotes": "Οι ψήφοι μου",
   "signOut": "Αποσύνδεση",
-  "help": "Βοήθεια"
+  "help": "Βοήθεια",
+  "signIn": "Sign in"
 }

@@ -28,5 +28,7 @@
   "listedBy": "Размещен",
   "listedOn": "Добавлен",
   "lastEdit": "Редактировано",
-  "topUpvoters": "Топ голосов за {{Month}}"
+  "store": "Store",
+  "topUpvoters": "Топ голосов за {{Month}}",
+  "noUpvotes": "No one has upvoted yet"
 }

@@ -1,12 +1,14 @@
 {
+  "home": "home",
   "news": "Nieuws",
   "more": "Meer",
-  "tools": "gereedschap",
+  "tools": "Tools",
   "bot": "Crafty Bot",
   "viewProfile": "Profiel bekijken",
   "settings": "Instellingen",
   "add": "Toevoegen",
   "myUpvotes": "Mijn Upvotes",
   "signOut": "Uitloggen",
-  "help": "Help"
+  "help": "Help",
+  "signIn": "Sign in"
 }
