@@ -28,5 +28,7 @@
   "listedBy": "Listet von",
   "listedOn": "Aufgelistet am",
   "lastEdit": "Letzte Änderung",
-  "topUpvoters": "{{Month}}'s Top Upvoter"
+  "store": "Store",
+  "topUpvoters": "{{Month}}'s Top Upvoter",
+  "noUpvotes": "No one has upvoted yet"
 }
