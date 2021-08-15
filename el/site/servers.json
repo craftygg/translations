@@ -28,5 +28,7 @@
   "listedBy": "Καταχωρήθηκε από",
   "listedOn": "Καταχωρήθηκε στις",
   "lastEdit": "Τελευταία επεξεργασία",
-  "topUpvoters": "Κορυφαίοι ψηφοφόροι του {{Month}}"
+  "store": "Store",
+  "topUpvoters": "Κορυφαίοι ψηφοφόροι του {{Month}}",
+  "noUpvotes": "No one has upvoted yet"
 }
