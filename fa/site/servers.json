@@ -28,5 +28,7 @@
   "listedBy": "فهرست شده توسط",
   "listedOn": "فهرست شده در",
   "lastEdit": "آخرین ویرایش",
-  "topUpvoters": "بیشترین رائ دهندگان ماه {{Month}}"
+  "store": "Store",
+  "topUpvoters": "بیشترین رائ دهندگان ماه {{Month}}",
+  "noUpvotes": "No one has upvoted yet"
 }
