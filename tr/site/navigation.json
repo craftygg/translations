@@ -1,8 +1,8 @@
 {
-  "home": "home",
+  "home": "ana sayfa",
   "news": "Haberler",
   "more": "Daha Fazla",
-  "tools": "Tools",
+  "tools": "Araçlar",
   "bot": "Crafty Bot",
   "viewProfile": "Profili Görüntüle",
   "settings": "Ayarlar",
@@ -10,5 +10,5 @@
   "myUpvotes": "Oylarım",
   "signOut": "Çıkış Yap",
   "help": "Yardım",
-  "signIn": "Sign in"
+  "signIn": "Giriş Yap"
 }
