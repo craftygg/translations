@@ -2,7 +2,7 @@
   "home": "home",
   "news": "Новости",
   "more": "Дополнительно",
-  "tools": "Tools",
+  "tools": "Инструменты",
   "bot": "Crafty Bot",
   "viewProfile": "Профиль",
   "settings": "Настройки",
@@ -10,5 +10,5 @@
   "myUpvotes": "Мои голоса",
   "signOut": "Выйти",
   "help": "Помощь",
-  "signIn": "Sign in"
+  "signIn": "Войти"
 }
