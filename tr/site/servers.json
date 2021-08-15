@@ -28,5 +28,7 @@
   "listedBy": "Listeleyen",
   "listedOn": "Listelenme Tarihi",
   "lastEdit": "Son Düzenleme",
-  "topUpvoters": "{{Month}} Ayının En Çok Oy Verenleri"
+  "store": "Store",
+  "topUpvoters": "{{Month}} Ayının En Çok Oy Verenleri",
+  "noUpvotes": "No one has upvoted yet"
 }
