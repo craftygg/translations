@@ -1,12 +1,14 @@
 {
+  "home": "home",
   "news": "News",
   "more": "More",
-  "tools": "tools",
+  "tools": "Tools",
   "bot": "Crafty Bot",
   "viewProfile": "View Profile",
   "settings": "Settings",
   "add": "Add",
   "myUpvotes": "My Upvotes",
   "signOut": "Sign Out",
-  "help": "Help"
+  "help": "Help",
+  "signIn": "Sign in"
 }

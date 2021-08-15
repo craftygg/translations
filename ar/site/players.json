@@ -3,7 +3,7 @@
   "mcplayers": "Minecraft Players",
   "uuidShort": "UUID Short",
   "uuidLong": "UUID Long",
-  "status": "Claimed",
+  "status": "Status",
   "claim": "Claim",
   "unclaimed": "Unclaimed",
   "legacy": "Legacy",
