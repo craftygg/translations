@@ -1,8 +1,8 @@
 {
-  "home": "home",
+  "home": "خانه",
   "news": "اخبار",
   "more": "بیشتر",
-  "tools": "Tools",
+  "tools": "ابزار ها",
   "bot": "بات کرفتی",
   "viewProfile": "مشاهده پروفایل",
   "settings": "تنظیمات",
@@ -10,5 +10,5 @@
   "myUpvotes": "رائ های مثبت من",
   "signOut": "خروج",
   "help": "راهنما",
-  "signIn": "Sign in"
+  "signIn": "ورود"
 }
