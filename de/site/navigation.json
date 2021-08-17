@@ -1,8 +1,8 @@
 {
-  "home": "home",
+  "home": "Hauptseite",
   "news": "Neuigkeiten",
   "more": "Mehr",
-  "tools": "Tools",
+  "tools": "Extras",
   "bot": "Crafty Bot",
   "viewProfile": "Profil anzeigen",
   "settings": "Einstellungen",
@@ -10,5 +10,5 @@
   "myUpvotes": "Meine Upvotes",
   "signOut": "Abmelden",
   "help": "Hilfe",
-  "signIn": "Sign in"
+  "signIn": "Anmelden"
 }
