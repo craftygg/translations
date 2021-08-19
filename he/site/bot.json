@@ -1,24 +1,24 @@
 {
-  "header": "The most advanced Minecraft bot for Discord.",
-  "subheader": "Crafty is a must-have for your Minecraft community.",
-  "addToDiscord": "Add to Discord",
-  "viewCommands": "View Commands",
+  "header": "בוט המיינקראפט המתקדם ביותר לדיסקורד.",
+  "subheader": "Crafty הוא בוט חובה לקהילת המיינקראפט שלך.",
+  "addToDiscord": "הוסף לדיסקורד",
+  "viewCommands": "הצג פקודות",
   "example1": {
-    "header": "View Player information",
-    "subheader": "Crafty allows you to view information about a Minecraft account, with a simple command"
+    "header": "צפה במידע על שחקן",
+    "subheader": "Crafty מאפשר לך להציג מידע על חשבון מיינקראפט, באמצעות פקודה פשוטה"
   },
   "example2": {
-    "header": "View Server information",
-    "subheader": "With Crafty, you're also able to view Server Information, without ever leaving Discord"
+    "header": "צפה במידע על שרת",
+    "subheader": "עם Crafty, אתה יכול לצפות במידע על שרתים, בלי לעזוב את דיסקורד"
   },
   "example3": {
-    "header": "View Player statistics",
-    "subheader": "Crafty makes it possible for you to view Player statistics from popular Minecraft servers"
+    "header": "צפה בסטטיסטיקות על שחקן",
+    "subheader": "Crafty גורם לצפייה בסטטיסטיקות שחקנים בשרתי מיינקראפט פופולאריים להיות דבר אפשרי"
   },
   "example4": {
-    "header": "Play Minecraft Trivia with your friends",
-    "subheader": "Crafty brings all the entertainment to your Discord server. Play Minecraft trivia, view fun facts, have epic Minecraft inspired battles, and so much more!"
+    "header": "שחק בטריוויית מיינקראפט עם חברים",
+    "subheader": "Crafty מביא את כל הבידור לשרת הדיסקורד שלכם. שחקו טריווית מיינקראפט, גלו עובדות מהנות, נהלו קרבות אפיים בהשראת מיינקראפט, ועוד הרבה יותר!"
   },
-  "botCommands": "Bot Commands",
-  "prettyCoolRight": "Get access to all these cool features by adding Crafty to your Discord server"
+  "botCommands": "פקודות הבוט",
+  "prettyCoolRight": "קבל גישה לכל האפשרויות המגניבות הללו על ידי הוספת Crafty לשרת הדיסקורד שלך"
 }
