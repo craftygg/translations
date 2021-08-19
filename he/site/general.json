@@ -1,11 +1,11 @@
 {
-  "view": "View",
-  "lifetimeUpvotes": "Lifetime Upvotes:",
-  "upvotesThisMonth": "Upvotes this month:",
-  "lifetimeViews": "Lifetime Views:",
-  "viewsThisMonth": "Views this month:",
-  "upvote": "Upvote",
-  "report": "Report",
-  "location": "Location",
-  "adv": "Advanced Search"
+  "view": "צפה",
+  "lifetimeUpvotes": "סך כל ההצבעות:",
+  "upvotesThisMonth": "סך ההצבעות החודש:",
+  "lifetimeViews": "סך כל הצפיות:",
+  "viewsThisMonth": "סך הצפיות החודש:",
+  "upvote": "הצבעה",
+  "report": "דווח",
+  "location": "מיקום",
+  "adv": "חיפוש מתקדם"
 }
