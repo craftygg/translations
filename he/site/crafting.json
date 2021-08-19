@@ -1,15 +1,15 @@
 {
-  "mcrecipes": "Minecraft Crafting Recipes",
-  "recipe": "Here's the recipe you asked for",
-  "building": "Building",
-  "decoration": "Decoration",
-  "redstone": "Redstone",
-  "transportation": "Transportation",
-  "food": "Food",
-  "tools": "Tools",
-  "combat": "Combat",
-  "brewing": "Brewing",
-  "materials": "Materials",
-  "misc": "Miscellaneous",
-  "search": "Search"
+  "mcrecipes": "מתכוני יצירה במיינקראפט",
+  "recipe": "הנה המתכון שביקשת",
+  "building": "בנייה",
+  "decoration": "עיצוב מבנים",
+  "redstone": "רדסטון",
+  "transportation": "הובלה",
+  "food": "מזון",
+  "tools": "כלים",
+  "combat": "לחימה",
+  "brewing": "רקיחת שיקויים",
+  "materials": "חומרים",
+  "misc": "שונות",
+  "search": "חיפוש"
 }
