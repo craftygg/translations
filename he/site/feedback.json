@@ -1,10 +1,10 @@
 {
-  "header": "Help us improve Crafty!",
-  "subheader": "Tell us what you would like to see improved below",
-  "feedback": "Feedback",
-  "maxCharacters": "Max 1000 characters",
-  "charactersRemaining": "characters remaining",
-  "filling": "I don't like this please change it...",
-  "sendAnonymously": "Send this anonymously",
-  "send": "Send"
+  "header": "עזור לנו לשפר את Crafty!",
+  "subheader": "ספר לנו מה אתה היית רוצה לראות משופר למטה",
+  "feedback": "משוב",
+  "maxCharacters": "מקס' 1000 תווים",
+  "charactersRemaining": "תווים נותרים",
+  "filling": "אני לא אוהב את זה, אנא שנה זאת...",
+  "sendAnonymously": "שלח בעילום שם",
+  "send": "שלח"
 }
