@@ -1,6 +1,6 @@
 {
-  "header": "Get Minecraft Server Information",
-  "subheader": "Fill out the require fields to get basic information about a Minecraft server such as their status, how many players are currently online, version running and location of the server",
-  "enter": "Enter your server's IP",
-  "get": "Get Information"
+  "header": "קבל מידע על שרת מיינקראפט",
+  "subheader": "מלא את השדות הדרושים על מנת לקבל מידע בסיסי על שרתי מיינקראפט, כגון הסטטוס שלהם, כמה שחקנים מחוברים כרגע, גרסת הפעלה ומיקום השרת",
+  "enter": "הכנס את כתובת ה-IP של השרת שלך",
+  "get": "קבל מידע"
 }
