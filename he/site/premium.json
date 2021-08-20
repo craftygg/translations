@@ -43,17 +43,17 @@
   "futureFeatures": {
     "header": "By subscribing, you support the development of Crafty",
     "subheader": "Here's a list of features we plan to introduce in the future",
-    "playerStatistics": "Player Statistics",
+    "playerStatistics": "סטטיסטיקות שחקן",
     "playerStatisticsInformation": "Get Minecraft player statistics across multiple popular Minecraft servers, all-in-one. This tool is already under development and is used by Crafty bot",
     "richTextEditor": "Rich Text Editor",
     "richTextEditorInformation": "Right now you can only use Markdown for your server's description, we plan to change this with a feature rich text editor to help you create the best description for your server",
-    "serverAnalytics": "Server Analytics",
+    "serverAnalytics": "ניתוח שרתים",
     "serverAnalyticsInformation": "Analytics for server owners for better insights",
-    "skinEditor": "Skin Editor",
+    "skinEditor": "עורך סקין",
     "skinEditorInformation": "Feature rich skin editor for you to create your next best skin freely and with ease",
-    "notifications": "Notifications",
+    "notifications": "התראות",
     "notificationsInformation": "Receive useful notifications (if you opt in) when your server goes offline, when a Minecraft username is available, when a new Minecraft version or article is out, and more!",
-    "yourSuggestion": "Your Suggestion",
+    "yourSuggestion": "ההצעות שלך",
     "yourSuggestionInformation": "Your idea could be here. Join our discord and let us know what you'd like to see or fill out the form in the feedback page"
   }
 }
