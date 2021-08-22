@@ -1,7 +1,7 @@
 {
   "mcaccounts": "משתמש מיינקראפט",
   "listedServers": "שרתים רשומים",
-  "slug": "Slug",
+  "slug": "זחלון",
   "billing": "חיוב",
   "manage": "ניהול",
   "general": "כללי",
@@ -11,5 +11,5 @@
   "updateEmail": "לחץ כאן כדי לעדכן את הדוא\"ל שלך",
   "hits": "Hits",
   "key": "מפתח",
-  "noKey": "You don't have a developer account. For more information visit {{link}}"
+  "noKey": "אין לך חשבון מפתח. למידע נוסף בקר ב-{{link}}"
 }
