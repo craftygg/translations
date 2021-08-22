@@ -1,0 +1,15 @@
+{
+  "mcaccounts": "משתמש מיינקראפט",
+  "listedServers": "שרתים רשומים",
+  "slug": "Slug",
+  "billing": "חיוב",
+  "manage": "ניהול",
+  "general": "כללי",
+  "email": "דוא\"ל",
+  "mainAccount": "משתמש מיינקראפט עיקרי",
+  "developers": "מפתחים",
+  "updateEmail": "לחץ כאן כדי לעדכן את הדוא\"ל שלך",
+  "hits": "Hits",
+  "key": "מפתח",
+  "noKey": "You don't have a developer account. For more information visit {{link}}"
+}

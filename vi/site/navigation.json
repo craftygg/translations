@@ -1,8 +1,8 @@
 {
-  "home": "home",
+  "home": "trang chủ",
   "news": "Tin mới",
   "more": "Thêm",
-  "tools": "Tools",
+  "tools": "Công cụ",
   "bot": "Crafty",
   "viewProfile": "Xem hồ sơ cá nhân",
   "settings": "Cài đặt",
@@ -10,5 +10,5 @@
   "myUpvotes": "Vote của tôi",
   "signOut": "Đăng xuất",
   "help": "Hỗ trợ",
-  "signIn": "Sign in"
+  "signIn": "Đăng nhập"
 }

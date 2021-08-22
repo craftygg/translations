@@ -1,0 +1,14 @@
+{
+  "players": "שחקנים",
+  "mcplayers": "שחקני מיינקראפט",
+  "uuidShort": "UUID קצר",
+  "uuidLong": "UUID ארוך",
+  "status": "נתבע",
+  "claim": "תבע",
+  "unclaimed": "לא נתבע",
+  "legacy": "מורשת",
+  "usernameHistory": "היסטוריית שם המשתמש",
+  "socialMedia": "רשתות חברתיות",
+  "firstUsername": "שם המשתמש הראשון",
+  "searchPlayer": "חפש שחקן ספציפי"
+}
