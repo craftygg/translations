@@ -5,20 +5,20 @@
   "viewCommands": "सब कमांड्स देखे",
   "example1": {
     "header": "प्लेयर के बारे में जाने",
-    "subheader": "Crafty allows you to view information about a Minecraft account, with a simple command"
+    "subheader": "क्रैफ्टी आपको इन्फॉर्मेशन धिकाता है किसी भी माइनक्राफ्ट्र अकाउंट के बारे में, बस एक आसान सा कमांड के साथ"
   },
   "example2": {
-    "header": "View Server information",
-    "subheader": "With Crafty, you're also able to view Server Information, without ever leaving Discord"
+    "header": "सरवर के बारे में जाने",
+    "subheader": "क्राफटी के साथ, आप सरवर के बारे में भी जान सकते है, बिना डिस्कोर्ड चौड़े"
   },
   "example3": {
-    "header": "View Player statistics",
-    "subheader": "Crafty makes it possible for you to view Player statistics from popular Minecraft servers"
+    "header": "प्लेयर की जानकारी",
+    "subheader": "क्राफटी आपके लिए मुमकिन कर देता है प्लेयर की जानकारी लेना अनेक अच्छे सरवर से"
   },
   "example4": {
-    "header": "Play Minecraft Trivia with your friends",
-    "subheader": "Crafty brings all the entertainment to your Discord server. Play Minecraft trivia, view fun facts, have epic Minecraft inspired battles, and so much more!"
+    "header": "माइनक्राफ्ट की जानकारी का खेल अपने दोस्तो के साथ खेले",
+    "subheader": "क्राफटी आपके लिए सब एंटरटेनमेंट आपके सरवर के लिए लता है। खेलो माइनक्राफ्ट की जानकारी, जानिए माइनस्क्राफ की गुप्त बातें, माइनक्राफ्ट जैसा लड़ाई करो, और भी बोहूत कुछ!"
   },
-  "botCommands": "Bot Commands",
-  "prettyCoolRight": "Get access to all these cool features by adding Crafty to your Discord server"
+  "botCommands": "बोट का कमांड्स",
+  "prettyCoolRight": "ये सब कुल फीचर्स लेलो बास क्राफ्टी को अपने सरवर में ऐड करके"
 }
