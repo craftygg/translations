@@ -1,15 +1,15 @@
 {
-  "mcrecipes": "Minecraft Crafting Recipes",
-  "recipe": "Here's the recipe you asked for",
-  "building": "Building",
-  "decoration": "Decoration",
-  "redstone": "Redstone",
-  "transportation": "Transportation",
-  "food": "Food",
-  "tools": "Tools",
-  "combat": "Combat",
-  "brewing": "Brewing",
-  "materials": "Materials",
-  "misc": "Miscellaneous",
-  "search": "Search"
+  "mcrecipes": "マインクラフト クラフト レシピ リスト",
+  "recipe": "作り方はこちらです！",
+  "building": "建築系",
+  "decoration": "デコレーション系",
+  "redstone": "レッドストーン系",
+  "transportation": "移動系",
+  "food": "食料系",
+  "tools": "ツール系",
+  "combat": "戦闘系",
+  "brewing": "醸造系",
+  "materials": "素材系",
+  "misc": "その他",
+  "search": "検索"
 }
