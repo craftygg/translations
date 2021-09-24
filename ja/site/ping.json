@@ -1,6 +1,6 @@
 {
-  "header": "Get Minecraft Server Information",
-  "subheader": "Fill out the require fields to get basic information about a Minecraft server such as their status, how many players are currently online, version running and location of the server",
-  "enter": "Enter your server's IP",
-  "get": "Get Information"
+  "header": "マインクラフト サーバー情報の取得",
+  "subheader": "サーバーの基本的な情報を取得するために、現在のオンラインプレイヤー数、マインクラフトのバージョン、サーバーの場所などの必須項目を記入してください。",
+  "enter": "あなたのサーバーのIP",
+  "get": "情報を取得"
 }
