@@ -1,18 +1,18 @@
 {
-  "header": "The most advanced Minecraft bot for Discord.",
-  "subheader": "Crafty is a must-have for your Minecraft community.",
-  "addToDiscord": "Add to Discord",
-  "viewCommands": "View Commands",
+  "header": "今までにないほど実用的なマインクラフト専門のDiscordボット。",
+  "subheader": "Craftyはあなたのマインクラフト コミュニティー人生において必須なものです。",
+  "addToDiscord": "Discordサーバーに追加する",
+  "viewCommands": "全コマンドを見る",
   "example1": {
-    "header": "View Player information",
-    "subheader": "Crafty allows you to view information about a Minecraft account, with a simple command"
+    "header": "プレイヤー情報の確認",
+    "subheader": "Craftyは簡単なコマンドでマインクラフト アカウント情報を確認することができます"
   },
   "example2": {
-    "header": "View Server information",
-    "subheader": "With Crafty, you're also able to view Server Information, without ever leaving Discord"
+    "header": "サーバー情報の確認",
+    "subheader": "Craftyを使えば、Discordから目を離さずにサーバー情報を確認することができます！"
   },
   "example3": {
-    "header": "View Player statistics",
+    "header": "プレイヤー統計の確認",
     "subheader": "Crafty makes it possible for you to view Player statistics from popular Minecraft servers"
   },
   "example4": {
