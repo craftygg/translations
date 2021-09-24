@@ -1,14 +1,14 @@
 {
-  "players": "Players",
-  "mcplayers": "Minecraft Players",
-  "uuidShort": "UUID Short",
-  "uuidLong": "UUID Long",
-  "status": "Claimed",
-  "claim": "Claim",
-  "unclaimed": "Unclaimed",
+  "players": "プレイヤー",
+  "mcplayers": "マインクラフト プレイヤー",
+  "uuidShort": "ショートUUID",
+  "uuidLong": "ロングUUID",
+  "status": "Craftyのアカウントと",
+  "claim": "関連付けられている",
+  "unclaimed": "関連付ける",
   "legacy": "Legacy",
-  "usernameHistory": "Username History",
-  "socialMedia": "Social Media",
-  "firstUsername": "First Username",
-  "searchPlayer": "Search for a specific player"
+  "usernameHistory": "今まで使用したユーザーネーム",
+  "socialMedia": "ソーシャルメディア",
+  "firstUsername": "最初のユーザーネーム",
+  "searchPlayer": "特定のプレイヤーを検索する"
 }
