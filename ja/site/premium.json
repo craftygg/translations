@@ -17,14 +17,14 @@
     "access": "Crafty公式Discord上でのEmerald専用要素へのアクセス",
     "icon": "crafty.gg上での好みのアイコンの使用",
     "serverTracking": "Access to 1 Minecraft server tracking slot",
-    "dmCommands": "Ability to use commands in direct messages",
-    "textureSearch": "Access to the /texturesearch command",
-    "notifications": "Receive notification when Minecraft username becomes available via Discord and/or e-mail (1 username)"
+    "dmCommands": "Botへのダイレクトメッセージでコマンドを使用",
+    "textureSearch": "/texturesearch （テクスチャ検索） コマンドへのアクセス",
+    "notifications": "特定のユーザー名が利用可能になった時、自動でDiscord、またはメール、またはその両方で通知を受け取る（指定できるユーザー名は最大１個）"
   },
   "ruby": {
-    "customImage": "Ability to add a custom image on your Server page",
-    "serverDescription": "Server description character limit bump to 1,000 characters (instead of 350)",
-    "moreTags": "Add up to 9 tags on your Server (instead of 5)",
+    "customImage": "サーバーページに好みの画像を表示する機能",
+    "serverDescription": "サーバーの説明欄の長さ制限が350から1000文字になる",
+    "moreTags": "サーバーに追加できるタグの数を９に増加（通常は5）",
     "access": "Special Ruby access on Crafty's Discord",
     "icon": "icon on your crafty.gg profile",
     "removeCooldowns": "Remove all command cooldowns",
@@ -35,7 +35,7 @@
     "slug": "カスタム サーバーURL （/servers/custom-url）",
     "earlyAccess": "Early Access to our features, where you can provide feedback",
     "access": "Special Diamond access on Crafty's Discord",
-    "icon": "icon on your crafty.gg profile",
+    "icon": "crafty.gg上での好みのアイコンの使用",
     "removeUpvote": "Remove all upvote requirements and cooldowns for all users in a Discord server",
     "serverTracking": "Access to 3 Minecraft server tracking slots",
     "notifications": "Receive notification when Minecraft username becomes available via Discord and/or e-mail (8 username)"
