@@ -1,8 +1,8 @@
 {
   "header": "Crafty プレミアム",
   "subheader": "あなたのニーズに合ったプランを選択して、Craftyの開発資金の手助けをお願いします！",
-  "monthly": "毎月",
-  "annually": "毎年",
+  "monthly": "月間",
+  "annually": "年間",
   "year": "一年",
   "month": "一か月",
   "craftyBot": "Craftyボット",
@@ -13,9 +13,9 @@
   "off": "オフ",
   "emerald": {
     "slug": "カスタム ユーザーURL （/users/custom-url）",
-    "color": "Custom accent color for your Server & Player page",
-    "access": "Special Emerald access on Crafty's Discord",
-    "icon": "icon on your crafty.gg profile",
+    "color": "サーバー、プレイヤーページのテーマ色のカスタマイズ",
+    "access": "Crafty公式Discord上でのEmerald専用要素へのアクセス",
+    "icon": "crafty.gg上での好みのアイコンの使用",
     "serverTracking": "Access to 1 Minecraft server tracking slot",
     "dmCommands": "Ability to use commands in direct messages",
     "textureSearch": "Access to the /texturesearch command",
