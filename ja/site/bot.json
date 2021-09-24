@@ -13,12 +13,12 @@
   },
   "example3": {
     "header": "プレイヤー統計の確認",
-    "subheader": "Crafty makes it possible for you to view Player statistics from popular Minecraft servers"
+    "subheader": "Craftyを使えば、プレイヤーの人気のマインクラフト サーバー上での統計を見ることが可能になります。"
   },
   "example4": {
-    "header": "Play Minecraft Trivia with your friends",
+    "header": "友達と一緒にマインクラフトの雑学を楽しもう",
     "subheader": "Crafty brings all the entertainment to your Discord server. Play Minecraft trivia, view fun facts, have epic Minecraft inspired battles, and so much more!"
   },
-  "botCommands": "Bot Commands",
-  "prettyCoolRight": "Get access to all these cool features by adding Crafty to your Discord server"
+  "botCommands": "ボット コマンド",
+  "prettyCoolRight": "CraftyをあなたのDiscordサーバーに追加して、このクールなコマンド達を試してみよう"
 }
