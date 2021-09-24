@@ -32,7 +32,7 @@
     "notifications": "Receive notification when Minecraft username becomes available via Discord and/or e-mail (3 username)"
   },
   "diamond": {
-    "slug": "Custom Server slug (/servers/custom-slug)",
+    "slug": "カスタム サーバーURL （/servers/custom-url）",
     "earlyAccess": "Early Access to our features, where you can provide feedback",
     "access": "Special Diamond access on Crafty's Discord",
     "icon": "icon on your crafty.gg profile",
