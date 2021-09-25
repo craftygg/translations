@@ -19,17 +19,17 @@
     "serverTracking": "Access to 1 Minecraft server tracking slot",
     "dmCommands": "Botへのダイレクトメッセージでコマンドを使用",
     "textureSearch": "/texturesearch （テクスチャ検索） コマンドへのアクセス",
-    "notifications": "特定のユーザー名が利用可能になった時、自動でDiscord、またはメール、またはその両方で通知を受け取る（指定できるユーザー名は最大１個）"
+    "notifications": "特定のユーザー名が利用可能になった時、自動でDiscord、またはメール、またはその両方で通知を受け取る（指定できるユーザー名は最大1個）"
   },
   "ruby": {
     "customImage": "サーバーページに好みの画像を表示する機能",
     "serverDescription": "サーバーの説明欄の長さ制限が350から1000文字になる",
-    "moreTags": "サーバーに追加できるタグの数を９に増加（通常は5）",
+    "moreTags": "サーバーに追加できるタグの数を9に増加（通常は5）",
     "access": "Crafty公式DiscordでのRuby専用特典へのアクセス",
     "icon": "icon on your crafty.gg profile",
-    "removeCooldowns": "Remove all command cooldowns",
+    "removeCooldowns": "すべてのコマンドをクールダウンなしで使用",
     "serverTracking": "Access to 2 Minecraft server tracking slots",
-    "notifications": "Receive notification when Minecraft username becomes available via Discord and/or e-mail (3 username)"
+    "notifications": "特定のユーザー名が利用可能になった時、自動でDiscord、またはメール、またはその両方で通知を受け取る（指定できるユーザー名は最大3個）"
   },
   "diamond": {
     "slug": "カスタム サーバーURL （/servers/custom-url）",
@@ -38,7 +38,7 @@
     "icon": "crafty.gg上での好みのアイコンの使用",
     "removeUpvote": "Remove all upvote requirements and cooldowns for all users in a Discord server",
     "serverTracking": "Access to 3 Minecraft server tracking slots",
-    "notifications": "Receive notification when Minecraft username becomes available via Discord and/or e-mail (8 username)"
+    "notifications": "特定のユーザー名が利用可能になった時、自動でDiscord、またはメール、またはその両方で通知を受け取る（指定できるユーザー名は最大8個）"
   },
   "futureFeatures": {
     "header": "By subscribing, you support the development of Crafty",
@@ -49,7 +49,7 @@
     "richTextEditorInformation": "Right now you can only use Markdown for your server's description, we plan to change this with a feature rich text editor to help you create the best description for your server",
     "serverAnalytics": "Server Analytics",
     "serverAnalyticsInformation": "Analytics for server owners for better insights",
-    "skinEditor": "Skin Editor",
+    "skinEditor": "スキン エディター",
     "skinEditorInformation": "Feature rich skin editor for you to create your next best skin freely and with ease",
     "notifications": "Notifications",
     "notificationsInformation": "Receive useful notifications (if you opt in) when your server goes offline, when a Minecraft username is available, when a new Minecraft version or article is out, and more!",
