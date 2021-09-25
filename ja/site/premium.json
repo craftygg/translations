@@ -14,7 +14,7 @@
   "emerald": {
     "slug": "カスタム ユーザーURL （/users/custom-url）",
     "color": "サーバー、プレイヤーページのテーマ色のカスタマイズ",
-    "access": "Crafty公式Discord上でのEmerald専用要素へのアクセス",
+    "access": "Crafty公式DiscordでのEmerald専用特典へのアクセス",
     "icon": "crafty.gg上での好みのアイコンの使用",
     "serverTracking": "Access to 1 Minecraft server tracking slot",
     "dmCommands": "Botへのダイレクトメッセージでコマンドを使用",
@@ -25,7 +25,7 @@
     "customImage": "サーバーページに好みの画像を表示する機能",
     "serverDescription": "サーバーの説明欄の長さ制限が350から1000文字になる",
     "moreTags": "サーバーに追加できるタグの数を９に増加（通常は5）",
-    "access": "Special Ruby access on Crafty's Discord",
+    "access": "Crafty公式DiscordでのRuby専用特典へのアクセス",
     "icon": "icon on your crafty.gg profile",
     "removeCooldowns": "Remove all command cooldowns",
     "serverTracking": "Access to 2 Minecraft server tracking slots",
