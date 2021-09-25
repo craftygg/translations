@@ -41,9 +41,9 @@
     "notifications": "特定のユーザー名が利用可能になった時、自動でDiscord、またはメール、またはその両方で通知を受け取る（指定できるユーザー名は最大8個）"
   },
   "futureFeatures": {
-    "header": "By subscribing, you support the development of Crafty",
+    "header": "登録は、Craftyの開発の支援になります。",
     "subheader": "Here's a list of features we plan to introduce in the future",
-    "playerStatistics": "Player Statistics",
+    "playerStatistics": "プレイヤー統計",
     "playerStatisticsInformation": "Get Minecraft player statistics across multiple popular Minecraft servers, all-in-one. This tool is already under development and is used by Crafty bot",
     "richTextEditor": "Rich Text Editor",
     "richTextEditorInformation": "Right now you can only use Markdown for your server's description, we plan to change this with a feature rich text editor to help you create the best description for your server",
