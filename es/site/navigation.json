@@ -1,8 +1,8 @@
 {
-  "home": "home",
+  "home": "Inicio",
   "news": "Noticias",
   "more": "Más",
-  "tools": "Tools",
+  "tools": "Herramientas",
   "bot": "Bot de Crafty",
   "viewProfile": "Ver perfil",
   "settings": "Ajustes",
@@ -10,5 +10,5 @@
   "myUpvotes": "Mis votos",
   "signOut": "Cerrar sesión",
   "help": "Ayuda",
-  "signIn": "Sign in"
+  "signIn": "Inicia sesión"
 }
