@@ -1,0 +1,15 @@
+{
+  "mcaccounts": "マインクラフトアカウント",
+  "listedServers": "追加したサーバー",
+  "slug": "カスタムURL",
+  "billing": "残高",
+  "manage": "管理",
+  "general": "一般",
+  "email": "メール",
+  "mainAccount": "メインのマインクラフト アカウント",
+  "developers": "開発者",
+  "updateEmail": "メールアドレスを変更する",
+  "hits": "使用回数",
+  "key": "キー",
+  "noKey": "開発者アカウントがありません。 詳しくはこちら： {{link}}"
+}

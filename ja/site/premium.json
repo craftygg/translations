@@ -1,0 +1,59 @@
+{
+  "header": "Crafty プレミアム",
+  "subheader": "あなたのニーズに合ったプランを選択して、Craftyの開発資金の手助けをお願いします！",
+  "monthly": "月間",
+  "annually": "年間",
+  "year": "一年",
+  "month": "一か月",
+  "craftyBot": "Craftyボット",
+  "craftyBotInformation": "Craftyボットは、マインクラフトにフォーカスを当てた実用的なDiscordボットです。 詳しくはこちら：",
+  "comingSoon": "近日公開予定",
+  "benefits": "プランの機能",
+  "subscribe": "登録",
+  "off": "オフ",
+  "emerald": {
+    "slug": "カスタム ユーザーURL （/users/custom-url）",
+    "color": "サーバー、プレイヤーページのテーマ色のカスタマイズ",
+    "access": "Crafty公式DiscordでのEmerald専用特典へのアクセス",
+    "icon": "crafty.gg上での好みのアイコンの使用",
+    "serverTracking": "Access to 1 Minecraft server tracking slot",
+    "dmCommands": "Botへのダイレクトメッセージでコマンドを使用",
+    "textureSearch": "/texturesearch （テクスチャ検索） コマンドへのアクセス",
+    "notifications": "特定のユーザー名が利用可能になった時、自動でDiscord、またはメール、またはその両方で通知を受け取る（指定できるユーザー名は最大1個）"
+  },
+  "ruby": {
+    "customImage": "サーバーページに好みの画像を表示する機能",
+    "serverDescription": "サーバーの説明欄の長さ制限が350から1000文字になる",
+    "moreTags": "サーバーに追加できるタグの数を9に増加（通常は5）",
+    "access": "Crafty公式DiscordでのRuby専用特典へのアクセス",
+    "icon": "icon on your crafty.gg profile",
+    "removeCooldowns": "すべてのコマンドをクールダウンなしで使用",
+    "serverTracking": "Access to 2 Minecraft server tracking slots",
+    "notifications": "特定のユーザー名が利用可能になった時、自動でDiscord、またはメール、またはその両方で通知を受け取る（指定できるユーザー名は最大3個）"
+  },
+  "diamond": {
+    "slug": "カスタム サーバーURL （/servers/custom-url）",
+    "earlyAccess": "Early Access to our features, where you can provide feedback",
+    "access": "Special Diamond access on Crafty's Discord",
+    "icon": "crafty.gg上での好みのアイコンの使用",
+    "removeUpvote": "Remove all upvote requirements and cooldowns for all users in a Discord server",
+    "serverTracking": "Access to 3 Minecraft server tracking slots",
+    "notifications": "特定のユーザー名が利用可能になった時、自動でDiscord、またはメール、またはその両方で通知を受け取る（指定できるユーザー名は最大8個）"
+  },
+  "futureFeatures": {
+    "header": "登録は、Craftyの開発の支援になります。",
+    "subheader": "Here's a list of features we plan to introduce in the future",
+    "playerStatistics": "プレイヤー統計",
+    "playerStatisticsInformation": "Get Minecraft player statistics across multiple popular Minecraft servers, all-in-one. This tool is already under development and is used by Crafty bot",
+    "richTextEditor": "Rich Text Editor",
+    "richTextEditorInformation": "Right now you can only use Markdown for your server's description, we plan to change this with a feature rich text editor to help you create the best description for your server",
+    "serverAnalytics": "Server Analytics",
+    "serverAnalyticsInformation": "Analytics for server owners for better insights",
+    "skinEditor": "スキン エディター",
+    "skinEditorInformation": "Feature rich skin editor for you to create your next best skin freely and with ease",
+    "notifications": "Notifications",
+    "notificationsInformation": "Receive useful notifications (if you opt in) when your server goes offline, when a Minecraft username is available, when a new Minecraft version or article is out, and more!",
+    "yourSuggestion": "Your Suggestion",
+    "yourSuggestionInformation": "Your idea could be here. Join our discord and let us know what you'd like to see or fill out the form in the feedback page"
+  }
+}
