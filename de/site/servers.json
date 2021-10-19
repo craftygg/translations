@@ -1,4 +1,5 @@
 {
+  "find": "Find your favorite server",
   "mcservers": "Minecraft Server",
   "servers": "Servers",
   "searchServer": "Nach einem bestimmten Spieler suchen",
@@ -16,8 +17,6 @@
   "viewsLifetime": "Aufrufe (Lebenslang)",
   "uptime": "Laufzeit",
   "recentlyListed": "Zuletzt gelistet",
-  "highlow": "Absteigend",
-  "lowhigh": "Aufsteigend",
   "primaryLanguage": "Sprache (Primär)",
   "copyip": "IP kopieren",
   "clickTag": "Klicken, um Server mit diesem Tag anzusehen",
@@ -30,5 +29,6 @@
   "lastEdit": "Letzte Änderung",
   "store": "Geschäft",
   "topUpvoters": "{{Month}}'s Top Upvoter",
-  "noUpvotes": "Es hat noch niemand geupvoted"
+  "noUpvotes": "Es hat noch niemand geupvoted",
+  "country": "Country"
 }
