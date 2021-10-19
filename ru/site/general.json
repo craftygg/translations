@@ -7,5 +7,11 @@
   "upvote": "Проголосовать",
   "report": "Пожаловаться",
   "location": "Местоположение",
-  "adv": "Расширенный поиск"
+  "adv": "Расширенный поиск",
+  "advOptions": "Advanced Options",
+  "search": "Search",
+  "highlow": "High to Low",
+  "lowhigh": "Low to High",
+  "sortBy": "Sort by",
+  "orderBy": "Order by"
 }
