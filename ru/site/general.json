@@ -8,10 +8,10 @@
   "report": "Пожаловаться",
   "location": "Местоположение",
   "adv": "Расширенный поиск",
-  "advOptions": "Advanced Options",
-  "search": "Search",
-  "highlow": "High to Low",
-  "lowhigh": "Low to High",
-  "sortBy": "Sort by",
-  "orderBy": "Order by"
+  "advOptions": "Дополнительные настройки",
+  "search": "Поиск",
+  "highlow": "От высокого к низкому",
+  "lowhigh": "От низкого к высокому",
+  "sortBy": "Сортировать по",
+  "orderBy": "Упорядочить по"
 }
