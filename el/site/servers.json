@@ -1,4 +1,5 @@
 {
+  "find": "Find your favorite server",
   "mcservers": "Διακομιστές Minecraft",
   "servers": "Διακομιστές",
   "searchServer": "Αναζήτηση διακομιστή",
@@ -16,8 +17,6 @@
   "viewsLifetime": "Views (lifetime)",
   "uptime": "Χρόνος λειτουργίας",
   "recentlyListed": "Πρόσφατα προστέθηκε",
-  "highlow": "Υψηλά προς χαμηλά",
-  "lowhigh": "Χαμηλά προς υψηλά",
   "primaryLanguage": "Γλώσσα (κύρια)",
   "copyip": "Αντιγραφή IP",
   "clickTag": "Click to view servers with this tag",
@@ -30,5 +29,6 @@
   "lastEdit": "Τελευταία επεξεργασία",
   "store": "Store",
   "topUpvoters": "Κορυφαίοι ψηφοφόροι του {{Month}}",
-  "noUpvotes": "No one has upvoted yet"
+  "noUpvotes": "No one has upvoted yet",
+  "country": "Country"
 }
