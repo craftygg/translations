@@ -1,4 +1,5 @@
 {
+  "find": "Find your favorite server",
   "mcservers": "Servidores de Minecraft",
   "servers": "Servidores",
   "searchServer": "Buscar un servidor en específico",
@@ -16,8 +17,6 @@
   "viewsLifetime": "Visualizaciones (totales)",
   "uptime": "Tiempo en línea",
   "recentlyListed": "Añadido recientemente",
-  "highlow": "más a menos",
-  "lowhigh": "menos a más",
   "primaryLanguage": "Idioma (principal)",
   "copyip": "Copiar IP",
   "clickTag": "Haz clic para ver los servidores con esta etiqueta",
@@ -30,5 +29,6 @@
   "lastEdit": "Editado por última vez",
   "store": "Tienda",
   "topUpvoters": "Los votantes más activos de {{Month}}",
-  "noUpvotes": "Nadie ha votado aún"
+  "noUpvotes": "Nadie ha votado aún",
+  "country": "Country"
 }
