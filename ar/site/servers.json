@@ -1,4 +1,5 @@
 {
+  "find": "Find your favorite server",
   "mcservers": "Minecraft Servers",
   "servers": "Servers",
   "searchServer": "Search for a specific server",
@@ -28,5 +29,6 @@
   "lastEdit": "Last Edit",
   "store": "Store",
   "topUpvoters": "{{Month}}'s Top Upvoters",
-  "noUpvotes": "No one has upvoted yet"
+  "noUpvotes": "No one has upvoted yet",
+  "country": "Country"
 }
