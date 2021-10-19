@@ -1,4 +1,5 @@
 {
+  "find": "Find your favorite server",
   "mcservers": "Máy chủ Minecraft",
   "servers": "Máy chủ",
   "searchServer": "Tìm kiếm máy chủ bất kì",
@@ -16,8 +17,6 @@
   "viewsLifetime": "Lượt xem (toàn thời gian)",
   "uptime": "Thời gian hoạt động",
   "recentlyListed": "Được thêm gần đây",
-  "highlow": "Cao đến thấp",
-  "lowhigh": "Thấp đến cao",
   "primaryLanguage": "Ngôn ngữ chính",
   "copyip": "Sap chép IP",
   "clickTag": "Nhấn để xem máy chủ với thẻ này",
@@ -30,5 +29,6 @@
   "lastEdit": "Chỉnh sửa gần đây",
   "store": "Cửa hàng",
   "topUpvoters": "Top người vote {{Month}}",
-  "noUpvotes": "Chưa có ai vote cả"
+  "noUpvotes": "Chưa có ai vote cả",
+  "country": "Country"
 }
