@@ -1,4 +1,5 @@
 {
+  "find": "Find your favorite server",
   "mcservers": "マインクラフト サーバー",
   "servers": "サーバー",
   "searchServer": "特定のサーバーを検索する",
@@ -16,8 +17,6 @@
   "viewsLifetime": "訪れた人の数（合計）",
   "uptime": "サーバーのステータス",
   "recentlyListed": "追加された順",
-  "highlow": "高～低",
-  "lowhigh": "低～高",
   "primaryLanguage": "メイン言語",
   "copyip": "IPをコピー",
   "clickTag": "クリックでこのタグが付いているサーバーを表示",
@@ -30,5 +29,6 @@
   "lastEdit": "最後の編集",
   "store": "ストア",
   "topUpvoters": "{{Month}} の高評価したユーザー ランキング",
-  "noUpvotes": "まだ誰も高評価していません"
+  "noUpvotes": "まだ誰も高評価していません",
+  "country": "Country"
 }
