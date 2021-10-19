@@ -8,5 +8,8 @@
   "report": "Report",
   "location": "Location",
   "edit": "edit",
-  "adv": "Advanced Search"
+  "adv": "Advanced Search",
+  "search": "Search",
+  "highlow": "High to Low",
+  "lowhigh": "Low to High"
 }
