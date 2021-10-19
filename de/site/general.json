@@ -7,5 +7,11 @@
   "upvote": "Upvote",
   "report": "Melden",
   "location": "Standort",
-  "adv": "Erweiterte Suche"
+  "adv": "Erweiterte Suche",
+  "advOptions": "Advanced Options",
+  "search": "Search",
+  "highlow": "High to Low",
+  "lowhigh": "Low to High",
+  "sortBy": "Sort by",
+  "orderBy": "Order by"
 }

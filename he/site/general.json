@@ -7,5 +7,11 @@
   "upvote": "הצבעה",
   "report": "דווח",
   "location": "מיקום",
-  "adv": "חיפוש מתקדם"
+  "adv": "חיפוש מתקדם",
+  "advOptions": "Advanced Options",
+  "search": "Search",
+  "highlow": "High to Low",
+  "lowhigh": "Low to High",
+  "sortBy": "Sort by",
+  "orderBy": "Order by"
 }

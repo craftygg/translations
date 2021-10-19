@@ -7,5 +7,11 @@
   "upvote": "高評価",
   "report": "報告",
   "location": "場所",
-  "adv": "条件付きで検索"
+  "adv": "条件付きで検索",
+  "advOptions": "Advanced Options",
+  "search": "Search",
+  "highlow": "High to Low",
+  "lowhigh": "Low to High",
+  "sortBy": "Sort by",
+  "orderBy": "Order by"
 }

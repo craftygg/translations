@@ -1,4 +1,5 @@
 {
+  "find": "Find your favorite server",
   "mcservers": "Minecraft Sunucuları",
   "servers": "Sunucular",
   "searchServer": "Belirli bir sunucu ara",
@@ -16,8 +17,6 @@
   "viewsLifetime": "Görüntülenme (ömür boyu)",
   "uptime": "Çalışma Süresi",
   "recentlyListed": "En Son Listelenen",
-  "highlow": "Yüksekten Düşüğe",
-  "lowhigh": "Düşükten Yükseğe",
   "primaryLanguage": "Dil (Birincil)",
   "copyip": "IP'yi Kopyala",
   "clickTag": "Bu etikete sahip sunucuları görüntülemek için tıklayın",
@@ -30,5 +29,6 @@
   "lastEdit": "Son Düzenleme",
   "store": "Mağaza",
   "topUpvoters": "{{Month}} Ayının En Çok Oy Verenleri",
-  "noUpvotes": "Henüz hiç kimse oy vermedi"
+  "noUpvotes": "Henüz hiç kimse oy vermedi",
+  "country": "Country"
 }

@@ -1,4 +1,5 @@
 {
+  "find": "Find your favorite server",
   "mcservers": "Сервера Minecraft",
   "servers": "Серверы",
   "searchServer": "Поиск конкретного сервера",
@@ -16,8 +17,6 @@
   "viewsLifetime": "Просмотров (за все время)",
   "uptime": "Время непрерывной работы",
   "recentlyListed": "Недавно добавленные в список",
-  "highlow": "От высокого к низкому",
-  "lowhigh": "От низкого до высокого",
   "primaryLanguage": "Язык (основной)",
   "copyip": "Скопировать IP",
   "clickTag": "Нажмите для просмотра серверов с этим тегом",
@@ -30,5 +29,6 @@
   "lastEdit": "Редактировано",
   "store": "Магазин",
   "topUpvoters": "Топ голосов за {{Month}}",
-  "noUpvotes": "Пока никто не проголосовал"
+  "noUpvotes": "Пока никто не проголосовал",
+  "country": "Country"
 }

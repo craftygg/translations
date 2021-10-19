@@ -1,4 +1,5 @@
 {
+  "find": "Find your favorite server",
   "mcservers": "Minecraft Servers",
   "servers": "服务器",
   "searchServer": "Search for a specific server",
@@ -16,8 +17,6 @@
   "viewsLifetime": "Views (lifetime)",
   "uptime": "Uptime",
   "recentlyListed": "Recently Listed",
-  "highlow": "High to Low",
-  "lowhigh": "Low to High",
   "primaryLanguage": "语言 (主要)",
   "copyip": "复制 IP",
   "clickTag": "Click to view servers with this tag",
@@ -30,5 +29,6 @@
   "lastEdit": "Last Edit",
   "store": "Store",
   "topUpvoters": "{{Month}}'s Top Upvoters",
-  "noUpvotes": "No one has upvoted yet"
+  "noUpvotes": "No one has upvoted yet",
+  "country": "Country"
 }

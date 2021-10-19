@@ -1,4 +1,5 @@
 {
+  "find": "Find your favorite server",
   "mcservers": "Minecraft Servers",
   "servers": "Servers",
   "searchServer": "Zoek voor een specifieke server",
@@ -16,8 +17,6 @@
   "viewsLifetime": "Weergaven (levenslang)",
   "uptime": "Uptime",
   "recentlyListed": "Recent Toegevoegd",
-  "highlow": "Hoog naar laag",
-  "lowhigh": "Laag naar hoog",
   "primaryLanguage": "Taal (Primair)",
   "copyip": "Kopieer IP",
   "clickTag": "Klik om de servers met deze tag te bekijken",
@@ -30,5 +29,6 @@
   "lastEdit": "Laatst Bewerkt",
   "store": "Store",
   "topUpvoters": "{{Month}}'s Beste Upvoters",
-  "noUpvotes": "No one has upvoted yet"
+  "noUpvotes": "No one has upvoted yet",
+  "country": "Country"
 }

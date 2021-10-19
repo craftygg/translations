@@ -1,4 +1,5 @@
 {
+  "find": "Find your favorite server",
   "mcservers": "سرور های ماینکرافت",
   "servers": "سرور ها",
   "searchServer": "جستجو برای یک سرور مشخص",
@@ -16,8 +17,6 @@
   "viewsLifetime": "بازدید (در کل)",
   "uptime": "تداوم",
   "recentlyListed": "اخیرا فهرست شده",
-  "highlow": "زیاد به کم",
-  "lowhigh": "کم به زیاد",
   "primaryLanguage": "زبان (اصلی)",
   "copyip": "کپی IP",
   "clickTag": "برای دیدن سرور های دیگه با این تگ کلیک کنید",
@@ -30,5 +29,6 @@
   "lastEdit": "آخرین ویرایش",
   "store": "فروشگاه",
   "topUpvoters": "بیشترین رائ دهندگان ماه {{Month}}",
-  "noUpvotes": "هیچ کس هنوز رائ مثبت نداده"
+  "noUpvotes": "هیچ کس هنوز رائ مثبت نداده",
+  "country": "Country"
 }

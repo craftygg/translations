@@ -1,4 +1,5 @@
 {
+  "find": "Find your favorite server",
   "mcservers": "שרתי מיינקראפט",
   "servers": "שרתים",
   "searchServer": "חפש שרת ספציפי",
@@ -16,8 +17,6 @@
   "viewsLifetime": "צפיות (כללי)",
   "uptime": "זמן פעילות",
   "recentlyListed": "רשימות אחרונות",
-  "highlow": "מגבוה לנמוך",
-  "lowhigh": "מנמוך לגבוה",
   "primaryLanguage": "שפה (ראשית)",
   "copyip": "העתק IP",
   "clickTag": "לחץ לצפייה בשרתים עם תג זה",
@@ -30,5 +29,6 @@
   "lastEdit": "עריכה אחרונה",
   "store": "חנות",
   "topUpvoters": "המוצבעים ביותר ב{{Month}}",
-  "noUpvotes": "אף אחד עדיין לא הצביע"
+  "noUpvotes": "אף אחד עדיין לא הצביע",
+  "country": "Country"
 }
