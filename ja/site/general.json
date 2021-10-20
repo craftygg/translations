@@ -12,6 +12,6 @@
   "search": "Search",
   "highlow": "High to Low",
   "lowhigh": "Low to High",
-  "sortBy": "Sort by",
-  "orderBy": "Order by"
+  "sortBy": "絞り込み",
+  "orderBy": "順番"
 }
