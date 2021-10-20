@@ -1,19 +1,19 @@
 {
   "details": {
     "adventure": {
-      "formatted": "Adventure",
-      "desc": "Adventure servers extend on the Adventure Minecraft Gamemode where the player has limited interactions with a preset world that is usually custom or player-created. The objective is usually to survive by crafting items and killing mobs while dealing with the challenge of not being able to destroy or place blocks."
+      "formatted": "Phiêu lưu",
+      "desc": "Server phiêu lưu mở rộng trên chế độ phiêu lưu của Minecraft nơi mà người chơi có sự giới hạn về khả năng tương tác trong một thế giới được tạo sẵn hoặc được người chơi tạo. Mục tiêu thường là sinh tồn bằng cách chế tạo vật phẩm và tiêu diệt mob trong khi không thể đặt hay phá hủy khối nào trong thế giới."
     },
     "anarchy": {
-      "formatted": "Anarchy",
-      "desc": "Anarchy servers often tend to be lawless with minimal land protection and no rules. Some anarchy servers allow cheating such as clients that modify how Minecraft works to give an unfair advantage or fair advantage in an anarchy setting where every player is also cheating. The common objective is to survive and defend from other players and mobs, gather resources, build secure and hidden bases, all within an unforgiving yet nonrestrictive environment where griefing runs rampant."
+      "formatted": "Vô luật lệ",
+      "desc": "Các server vô luật lệ thường có hướng không quan tâm với việc bảo vệ đất đai và không có luật. Vài server vô luật cho phép gian lận như sử dụng các phần mềm bên thứ ba để gây các tác động tạo ra thế bất cân bằng hoặc đúng hơn là cân bằng trong khoảng vô luật lệ khi mà ai cũng gian lận. Mục tiêu cơ bản là tồn tại và bảo vệ bản thân khỏi những người chơi khác, thu thập tài nguyên, xây dựng căn cứ an toàn và bí mật, tất cả trong một môi trường mà tràn lan sự đau khổ và hủy hoại."
     },
     "battleroyale": {
-      "formatted": "Battle Royale",
-      "desc": "Battle Royale servers are for players who wish to test their Minecraft skills against others in a closed-off battle arena that progressively shrinks over time where resources can be found to one-up other players. Battle Royale servers are often inspired by other well know video games such as Fortnite, PUBG, and Call of Duty."
+      "formatted": "Chiến sinh tử",
+      "desc": "Server có chế độ sinh tử thường dành cho những ai muốn thử thách khả năng bản thân trong một chiến trường liên tục thu bé với các vật phẩm có thể được thu thập để đánh bại những người khác. Những server này thường lấy ý tưởng từ những game nổi tiếng như Fortnite, PUBG và Call of Duty."
     },
     "bedwars": {
-      "formatted": "BedWars",
+      "formatted": "Bedwar",
       "desc": "Bedwars is a popular strategic PvP (player vs player) Minecraft mini-game gamemode where the objective is to be the last player (or team) alive by either defending or eliminating the opponents. The Bedwars gamemode often involves a bed that must be protected as when it's destroyed you no longer respawn. Bedwars is usually set on islands in the sky where the biggest danger is to not fall into the bottomless void."
     },
     "hungergames": {
