@@ -10,14 +10,14 @@
     },
     "battleroyale": {
       "formatted": "באטל רויאל",
-      "desc": "Battle Royale servers are for players who wish to test their Minecraft skills against others in a closed-off battle arena that progressively shrinks over time where resources can be found to one-up other players. Battle Royale servers are often inspired by other well know video games such as Fortnite, PUBG, and Call of Duty."
+      "desc": "שרתי באטל רויאל מיועדים לשחקנים המעוניינים לבדוק את כישורי המיינקראפט שלהם מול שחקנים אחרים בזירת קרבות סגורה שהולכת ומצטמקת עם הזמן, בה ניתן למצוא משאבים שיעזרו לנצח את השחקנים אחרים. שרתי באטל רויאל מקבלים לעתים קרובות השראה ממשחקי וידיאו מוכרים כמו Fortnite ,PUBG, ו-Call of Duty."
     },
     "bedwars": {
-      "formatted": "BedWars",
-      "desc": "Bedwars is a popular strategic PvP (player vs player) Minecraft mini-game gamemode where the objective is to be the last player (or team) alive by either defending or eliminating the opponents. The Bedwars gamemode often involves a bed that must be protected as when it's destroyed you no longer respawn. Bedwars is usually set on islands in the sky where the biggest danger is to not fall into the bottomless void."
+      "formatted": "בדוורס",
+      "desc": "בדוורס הוא מיני-משחק PVP אסטרטגי פופולרי במיינקראפט שהמטרה בו היא להיות השחקן (או הקבוצה) האחרון בחיים על ידי הגנה או חיסול של היריבים. מצב המשחק של בדוורס כרוך לעתים קרובות במיטה שחייבים להגן עליה, וכאשר היא נהרסת כבר לא נוצרים מחדש לאחר המוות והשחקן יוצא מן המשחק. בדוורס בדרך כלל משוחק על איים מעופפים בשמיים שבהם הסכנה הגדולה ביותר היא ליפול לתוך החלל מתחת."
     },
     "hungergames": {
-      "formatted": "Hunger Games",
+      "formatted": "משחקי הרעב",
       "desc": "Hunger Games is a popular survival PvP (player vs player) Minecraft mini-game gamemode where the objective is to survive using items found throughout the map and defend against other players to be the last standing player."
     },
     "survivalgames": {
