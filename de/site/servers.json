@@ -1,5 +1,5 @@
 {
-  "find": "Find your favorite server",
+  "find": "Finde deinen Lieblingsserver",
   "mcservers": "Minecraft Server",
   "servers": "Servers",
   "searchServer": "Nach einem bestimmten Spieler suchen",
@@ -30,5 +30,5 @@
   "store": "Geschäft",
   "topUpvoters": "{{Month}}'s Top Upvoter",
   "noUpvotes": "Es hat noch niemand geupvoted",
-  "country": "Country"
+  "country": "Land"
 }
