@@ -1,15 +1,15 @@
 {
   "details": {
     "adventure": {
-      "formatted": "Adventure",
-      "desc": "Adventure servers extend on the Adventure Minecraft Gamemode where the player has limited interactions with a preset world that is usually custom or player-created. The objective is usually to survive by crafting items and killing mobs while dealing with the challenge of not being able to destroy or place blocks."
+      "formatted": "הרפתקאות",
+      "desc": "שרתי ההרפתקאות משתרעים על מצב המשחק הרפתקה במיינקראפט ובו לשחקן יש אינטראקציות מוגבלות עם עולם מוגדר מראש, בדרך כלל מותאם אישית או שנוצר על ידי שחקן. המטרה היא בדרך כלל לשרוד על ידי יצירת פריטים והרג מפלצות תוך התמודדות עם האתגר של לא להיות מסוגל להרוס או להציב בלוקים."
     },
     "anarchy": {
-      "formatted": "Anarchy",
-      "desc": "Anarchy servers often tend to be lawless with minimal land protection and no rules. Some anarchy servers allow cheating such as clients that modify how Minecraft works to give an unfair advantage or fair advantage in an anarchy setting where every player is also cheating. The common objective is to survive and defend from other players and mobs, gather resources, build secure and hidden bases, all within an unforgiving yet nonrestrictive environment where griefing runs rampant."
+      "formatted": "אנרכיה",
+      "desc": "שרתי אנרכיה נוטים לרוב להיות חסרי חוקים עם הגנה מינימאלית על הקרקע וללא כללים. חלק משרתי האנרכיה מאפשרים צ'יטים כגון קליינטים שמשנים את אופן הפעולה של מיינקראפט על מנת לתת יתרון לא הוגן או יתרון הוגן במסגרת אנרכיה שבה כל שחקן משתנש בצ'יטים. המטרה המשותפת היא לשרוד ולהגן מפני שחקנים ומפלצות אחרים, לאסוף משאבים, לבנות בסיסים מאובטחים ונסתרים, והכל בתוך סביבה בלתי סלחנית אך בלתי מגבילה שבה ההרס משתולל."
     },
     "battleroyale": {
-      "formatted": "Battle Royale",
+      "formatted": "באטל רויאל",
       "desc": "Battle Royale servers are for players who wish to test their Minecraft skills against others in a closed-off battle arena that progressively shrinks over time where resources can be found to one-up other players. Battle Royale servers are often inspired by other well know video games such as Fortnite, PUBG, and Call of Duty."
     },
     "bedwars": {
