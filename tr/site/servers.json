@@ -1,5 +1,5 @@
 {
-  "find": "Find your favorite server",
+  "find": "Favori sunucunu bul",
   "mcservers": "Minecraft Sunucuları",
   "servers": "Sunucular",
   "searchServer": "Belirli bir sunucu ara",
@@ -30,5 +30,5 @@
   "store": "Mağaza",
   "topUpvoters": "{{Month}} Ayının En Çok Oy Verenleri",
   "noUpvotes": "Henüz hiç kimse oy vermedi",
-  "country": "Country"
+  "country": "Ülke"
 }
