@@ -18,83 +18,83 @@
     },
     "hungergames": {
       "formatted": "משחקי הרעב",
-      "desc": "Hunger Games is a popular survival PvP (player vs player) Minecraft mini-game gamemode where the objective is to survive using items found throughout the map and defend against other players to be the last standing player."
+      "desc": "משחקי הרעב הוא מיני-משחק PVP הישרדות פופולרי, ובו המטרה היא לשרוד באמצעות פריטים הנמצאים בתיבות הפזורות ברחבי המפה, להלחם נגד שחקנים אחרים ולהיות השחקן האחרון שעומד."
     },
     "survivalgames": {
-      "formatted": "Survival Games",
-      "desc": "Survival Games is a popular survival PvP (player vs player) Minecraft mini-game gamemode where the objective is to survive using items found throughout the map and defend against other players to be the last standing player."
+      "formatted": "סורבייבל גיימס",
+      "desc": "סורבייבל גיימס הוא מיני-משחק PVP הישרדות פופולרי, ובו המטרה היא לשרוד באמצעות פריטים הנמצאים בתיבות הפזורות ברחבי המפה, להלחם נגד שחקנים אחרים ולהיות השחקן האחרון שעומד."
     },
     "factions": {
-      "formatted": "Factions",
-      "desc": "Factions servers are competitive PvP servers that let players team up with others by creating or joining existing clans. Faction members work together to build bases, protect their land, gather valuable resources as well as recruit new members. Factions in a server can either become allies and provide support to each other or choose to be enemies and go into battle."
+      "formatted": "פאקשן",
+      "desc": "שרתי פאקשן הם שרתי PVP תחרותיים המאפשרים לשחקנים להתחבר עם שחקנים אחרים על ידי יצירה או הצטרפות לקבוצות קיימות. חברי הקבוצה עובדים יחד כדי לבנות בסיסים, להגן על אדמתם, לאסוף משאבים יקרי ערך וכן לגייס חברים חדשים. פלגים בשרת יכולים להפוך לבני ברית ולספק תמיכה זה לזה או לבחור להיות אויבים ולצאת לקרב."
     },
     "economy": {
-      "formatted": "Economy",
-      "desc": "Economy servers operate a virtual economy that allows players to earn and spend an in-game currency. Players can make money by mining valuable resources, completing challenges, trading with other players, and selling items in shops. Most servers also display leaderboards to encourage competition among the wealthiest players."
+      "formatted": "כלכלה",
+      "desc": "שרתי כלכלה מפעילים שוק כלכלי וירטואלי המאפשר לשחקנים להרוויח ולבזבז כסף בעזרת מטבע ייחודי של השרת בתוך המשחק. שחקנים יכולים להרוויח כסף על ידי כריית משאבים יקרי ערך, השלמת אתגרים, מסחר עם שחקנים אחרים ומכירת פריטים בחנויות. רוב השרתים מציגים גם לוחות מובילים כדי לעודד תחרות בין השחקנים העשירים ביותר."
     },
     "creative": {
-      "formatted": "Creative",
-      "desc": "Creative mode servers have creative features enabled. These modes disable Minecraft's survival features, allowing players to build cities and other complex structures with an unlimited amount of blocks. Fly mode is enabled as part of the creative mode to allow for easier building and servers allow the use of world editing plugins to make the building process even easier."
+      "formatted": "יצירה",
+      "desc": "בשרתי יצירה מופעל מצב משחק יצירתי. מצב משחק זה משבית את תכונות ההישרדות של מיינקראפט, ומאפשר לשחקנים לבנות ערים ומבנים מורכבים אחרים עם כמות בלתי מוגבלת של משאבים. מצב תעופה מופעל כחלק ממצב היצירה כדי לאפשר בנייה קלה יותר. בשרתים רבים נעשה שימוש בתוספי עריכה עולמיים כדי להפוך את תהליך הבנייה לקלה עוד יותר."
     },
     "mcmmo": {
       "formatted": "McMMO",
-      "desc": "McMMO is a plugin that adds RPG style features to Minecraft's normal survival gameplay. It allows players to earn experience and level up by doing actions or using tools. By reaching higher levels, they can gain bonuses such as double item drops. Experience can be earned in all sorts of ways from mining and woodcutting to archery and alchemy."
+      "desc": "McMMO הוא תוסף המוסיף תכונות בסגנון RPG (משחק תפקידים) למשחקי ההישרדות הרגילים של מיינקראפט. הוא מאפשר לשחקנים לצבור נקודות ולעלות רמות על ידי ביצוע פעולות או שימוש בכלים. על ידי הגעה לרמות גבוהות יותר, השחקנים יכולים לקבל בונוסים כגון נפילת פריטים כפולים ממובים. ניתן לצבור נקודות בכל מיני דרכים, החל מכרייה וחטיבת עצים ועד כישוף ואלכימיה."
     },
     "skyblock": {
-      "formatted": "Skyblock",
-      "desc": "Skyblock servers are multiplayer versions of the original Skyblock survival map. Each player spawns on a small floating island with limited resources and must think creatively to gather materials, expand the island and survive. The majority of Skyblock servers include economic features such as the ability to buy and sell items with in-game currency and leaderboards of the wealthiest players."
+      "formatted": "סקייבלוק",
+      "desc": "שרתי סקייבלוק הם גרסאות מרובות משתתפים של מפת ההישרדות המקורית של סקייבלוק. כל שחקן נוצר על אי צף קטן עם משאבים מוגבלים ועליו לחשוב באופן יצירתי על כיצד לאסוף חומרים, להרחיב את האי ולשרוד. רוב שרתי הסקייבלוק כוללים תכונות כלכליות כגון היכולת לקנות ולמכור פריטים עם מטבע במשחק ולוחות מובילים של השחקנים העשירים ביותר."
     },
     "pvp": {
       "formatted": "PvP",
-      "desc": "Minecraft servers with PvP enabled allow players to fight and do damage against each other. PvP servers include a huge variety of different gamemodes from vanilla survival and factions to battle royale style minigames and KitPvP. Players must survive against not only the environment and hostile mobs but also any enemy players. Some servers have PvP enabled throughout the entire map while others have safe zones such as spawn where players can't fight."
+      "desc": "שרתי מיינקראפט עם תכונות PVP מאפשרים לשחקנים להילחם ולגרום נזק אחד כנגד השני. שרתי PVP כוללים מגוון עצום של אופני משחק שונים, בין הישרדות קלאסית, וקבוצות וכלה במיני-משחקונים בסגנון באטל רויאל ו-KitPvP. השחקנים חייבים לשרוד לא רק נגד הסביבה והמפלצות העוינות, אלא גם נגד כל שחקני האויב. בחלק מהשרתים יש מצב PvP מופעל בכל המפה, בעוד שבאחרים יש אזורים בטוחים כמו אזורי היווצרות בהם שחקנים לא יכולים להילחם."
     },
     "prison": {
-      "formatted": "Prison",
-      "desc": "Prison servers don't have any wilderness and are instead set entirely within a prison-themed map. Players start at the lowest rank with basic tools and must earn money to rank up and become more powerful. Money is earned by mining resources at predesignated mines, and new mines with more valuable resources are unlocked by ranking up. Players can challenge each other to battle in PvP arenas and even buy plots of land inside the prison to build a base and store valuables."
+      "formatted": "כלא",
+      "desc": "לשרתי הכלא אין עולם חיצוני והם ממוקמים במלואם במפה בנושא כלא. שחקנים מתחילים בדרגה הנמוכה ביותר עם כלים בסיסיים ועליהם להרוויח כסף כדי להיות מדורגים גבוה ולהיות חזקים יותר. כסף מורווח על ידי משאבי כרייה במכרות מיועדים מראש, ומכרות חדשים עם משאבים יקרי ערך נפתחים על ידי דירוג. שחקנים יכולים לאתגר זה את זה לקרב בזירות PVP ואפילו לקנות מגרשים בתוך הכלא כדי לבנות בסיס ולאחסן חפצים בעלי ערך."
     },
     "survival": {
-      "formatted": "Survival",
-      "desc": "Survival is the default Minecraft gamemode where players explore the wilderness and gather resources to survive in a hostile environment. Some survival servers are vanilla and don't change normal gameplay, while others use plugins and mods to add extra features such as an in-game economy and player-run towns. Survival servers may also have PvP enabled, meaning players need to survive against hostile mobs and enemy players."
+      "formatted": "הישרדות",
+      "desc": "הישרדות הוא מצב המשחק המוגדר כברירת המחדל של מיינקראפט, ובו שחקנים חוקרים את השממה ואוספים משאבים כדי לשרוד בסביבה עוינת. חלק משרתי ההישרדות הם קלאסים ואינם משנים את המשחק הרגיל, בעוד שאחרים משתמשים בתוספים ומודים כדי להוסיף תכונות נוספות כגון כלכלה במשחק ועיירות המנוהלות על ידי שחקנים. שרתי הישרדות עשויים להפעיל גם PVP, כלומר שחקנים צריכים לשרוד מול מפלצות עוינות וגם נגד שחקני אויב."
     },
     "towny": {
-      "formatted": "Towny",
-      "desc": "Towny servers are land management orientated, players can own plots of land and create a town by working together and inviting other players. New players can either join an existing town or create their own, and each town has a mayor who is in charge of managing the residents and setting the rules. Towny also adds economic features including town banks, the ability to purchase land with in-game currency and a taxation system."
+      "formatted": "עירוניות",
+      "desc": "שרתי עירוניות מכוונים לניהול קרקעות. שחקנים יכולים להחזיק במגרשים וליצור עיר על ידי עבודה משותפת והזמנת שחקנים אחרים. שחקנים חדשים יכולים להצטרף לעיירה קיימת או ליצור עיר משלהם, ולכל עיר יש ראש עיר שאחראי על ניהול התושבים וקביעת הכללים. שרתי עירוניות מוסיפהףים גם מאפיינים כלכליים, כגון בנקים עירוניים, אפשרות לרכוש קרקעות עם מטבע במשחק ומערכת מיסוי."
     },
     "vanilla": {
-      "formatted": "Vanilla",
-      "desc": "VVanilla servers aim to recreate Minecraft's original survival gameplay in a multiplayer world. Pure vanilla servers use the server software provided directly by Minecraft and don't have any modifications. Semi-vanilla servers use modified server software and may have a small number of plugins, but only to add simple features that don't significantly change gameplay."
+      "formatted": "קלאסי",
+      "desc": "שרתי משחק קלאסי שואפים לשחזר את משחק ההישרדות המקורי של מיינקראפט בעולם מרובה משתתפים. שרתי קלאסיות טהורים משתמשים בתוכנת השרת המסופקת ישירות על ידי מיינקראפט ואין להם שינויים. שרתים חצי קלאסים משתמשים בתוכנת שרת שונה ואולי יש בהם מספר תוספים קטן, אך רק כדי להוסיף תכונות פשוטות שאינן משנות את המשחק באופן משמעותי."
     },
     "minigames": {
-      "formatted": "Minigames",
-      "desc": "Minigames servers offer a variety of fun gamemodes that can all be played from within a single server. Players join a central lobby and then select the individual minigame that they want to play. Some are competitive and involve PvP while other games require teamwork and cooperation. Popular minigames include Hide and Seek, Capture the Flag, Spleef and Bedwars."
+      "formatted": "מיני-משחקונים",
+      "desc": "שרתי מיני-משחקונים מציעים מגוון אפשרויות משחק מהנות שכולם יכולים לשחק בתוך שרת אחד. שחקנים מצטרפים ללובי מרכזי ולאחר מכן בוחרים במיני-משחקון שהם רוצים לשחק. חלקם תחרותיים ומערבים PVP בעוד משחקונים אחרים דורשים עבודת צוות ושיתוף פעולה. מיני-משחקונים פופולריים כוללים בדוורס, סקייוורס, מרדר מיסטרי ועוד."
     },
     "roleplay": {
-      "formatted": "RolePlay",
-      "desc": "Minecraft servers based around roleplaying encourage players to take on the role of a completely different character and immerse themselves in a fantasy world. Roleplay servers are often heavily modified and use custom plugins and pre-built custom or player-made maps to give the server a specific theme."
+      "formatted": "משחק תפקידים",
+      "desc": "שרתי מיינקראפט המבוססים על משחק תפקידים מעודדים שחקנים לקחת על עצמם תפקיד של דמות אחרת לגמרי ולשקוע בעולם פנטזיה. שרתי משחק תפקידים משתנים לעתים קרובות ומשתמשים בתוספים מותאמים אישית ובמפות מותאמות אישית כדי לתת לשרת נושא ספציפי."
     },
     "pixelmon": {
-      "formatted": "Pixelmon",
-      "desc": "Minecraft servers running the multiplayer version of the Pixelmon mod. Pixelmon aims to recreate Pokemon gameplay within Minecraft by adding hundreds of different species of Pokemon that randomly spawn throughout the world and can be captured by players. The mod also adds realistic Pokemon battle mechanics, gyms complete with NPC trainers and a fully functional Pokedex."
+      "formatted": "פיקסלמון",
+      "desc": "שרתי מיינקראפט המריצים את הגרסה מרובת המשתתפים של המוד הידוע פיקסלמון. פיקסלמון שואף לשחזר את המשחק 'פוקימון' בתוך מיינקראפט על ידי הוספת מאות סוגים שונים של פוקימונים הנוצרים באקראי ברחבי העולם וניתן ללכוד אותם על ידי פוקאבולים. המוד גם מוסיף מכניקת קרב מציאותית של פוקימונים, חדרי כושר עם מאמני NPC ופוקדקס פונקציונאלי לחלוטין."
     },
     "parkour": {
-      "formatted": "Parkour",
-      "desc": "The objective of Minecraft parkour servers is to complete obstacle courses by running, jumping and climbing from one stage to the next. The courses have different themes and range in difficulty from easy to extremely hard. Parkour servers usually have a timer counting how long it takes to complete each course and show leaderboards of the fastest players."
+      "formatted": "פארקור",
+      "desc": "המטרה של שרתי פארקור במיינקראפט היא להשלים מסלולי מכשולים על ידי ריצה, קפיצה וטיפוס משלב לשלב. למסלולים נושאים שונים והם נעים בקושי בין קושי קל לקשה במיוחד. בדרך כלל יש לשרתי פארקור טיימר המורה כמה זמן לקח להשלים את כל המסלול ומציג טבלאות מובילים של השחקנים המהירים ביותר."
     },
     "pve": {
       "formatted": "PvE",
-      "desc": "Player versus environment servers have PvP disabled meaning players cannot fight and do damage to each other. Instead, players must work together and survive against the environment and Minecraft's many hostile mobs."
+      "desc": "בשרתי שחקנים מול סביבה, ה-PVP מושבת, כלומר, שחקנים לא יכולים להילחם ולגרום נזק אחד לשני. במקום זאת, השחקנים חייבים לעבוד יחד ולשרוד נגד הסביבה והמפלצות הרבות של מיינקראפט."
     },
     "skywars": {
-      "formatted": "SkyWars",
-      "desc": "Skywars is a PvP minigame where players battle each other on floating islands until only one survivor is remaining. Each player spawns on an individual island, when the game begins players must prepare for battle before crossing to the other islands and fighting. Chests on each island contain useful items including weapons and food, and there is commonly a larger island at the centre of the map with even more resources."
+      "formatted": "סקייוורס",
+      "desc": "סקייוורס הוא מיני-משחקון PVP ובו שחקנים נלחמים זה כנגד זה באיים מרחפים בשמיים עד שנותר רק שחקן אחד. כל שחקן נוצר באי בודד, וכשהמשחק מתחיל, השחקנים חייבים להתכונן לקרב לפני שהם עוברים לאיים האחרים ונלחמים. בכל אי יש כמה תיבות המכילות פריטים שימושיים, כולל נשק ומזון, ובדרך כלל יש אי גדול יותר במרכז המפה עם משאבים משובחים יותר."
     },
     "hardcore": {
-      "formatted": "Hardcore",
-      "desc": "Hardcore servers are competitive PvP servers that don't have many rules and aim to make survival extremely difficult. These servers usually allow griefing and don't have any kind of land protection system. Some hardcore servers will even temporarily ban players upon death or not enable natural health regeneration."
+      "formatted": "הארדקור",
+      "desc": "שרתי הארדקור הם שרתי PVP תחרותיים ללא כללים רבים השואפים להפוך את ההישרדות לקשה ביותר. שרתים אלה בדרך כלל מאפשרים צ'יטים ואין להם שום מערכת הגנה על הקרקע. חלק משרתי ההארדקור אפילו יתנו באן זמני לשחקנים עם מותם או לא יאפשרו להם לחדש את מד החיים שלהם."
     },
     "kitpvp": {
       "formatted": "KitPvP",
-      "desc": "KitPvP is a competitive gamemode where players choose a kit to equip before going into battle and fighting each other in different areas. Each kit contains a unique set of items, effects and special abilities including weapons and armour that give players different fighting abilities. New and more powerful kits can be unlocked by scoring points and levelling up."
+      "desc": "KitPvP הוא מצב משחק תחרותי בו השחקנים בוחרים ערכה להצטייד בה לפני שהם יוצאים לקרב ונלחמים זה כנגד זה בתחומים שונים. כל ערכה מכילה מערך ייחודי של פריטים, אפקטים ויכולות מיוחדות כולל נשק ושריון שנותנים לשחקנים יכולות לחימה שונות. ניתן לפתוח ערכות חדשות וחזקות יותר על ידי צבירת נקודות ועלייה ברמות."
     }
   }
 }
