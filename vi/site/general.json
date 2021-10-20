@@ -8,10 +8,10 @@
   "report": "Báo cáo",
   "location": "Địa điểm",
   "adv": "Tìm kiếm nâng cao",
-  "advOptions": "Advanced Options",
-  "search": "Search",
-  "highlow": "High to Low",
-  "lowhigh": "Low to High",
-  "sortBy": "Sort by",
+  "advOptions": "Tùy chọn Nâng cao",
+  "search": "Tìm kiếm",
+  "highlow": "Cao đến thấp",
+  "lowhigh": "Thấp đến cao",
+  "sortBy": "Sắp xếp theo",
   "orderBy": "Order by"
 }
