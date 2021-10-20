@@ -8,10 +8,10 @@
   "report": "דווח",
   "location": "מיקום",
   "adv": "חיפוש מתקדם",
-  "advOptions": "Advanced Options",
-  "search": "Search",
-  "highlow": "High to Low",
-  "lowhigh": "Low to High",
-  "sortBy": "Sort by",
-  "orderBy": "Order by"
+  "advOptions": "אפשרויות מתקדמות",
+  "search": "חיפוש",
+  "highlow": "מגבוה לנמוך",
+  "lowhigh": "מנמוך לגבוה",
+  "sortBy": "מיין לפי",
+  "orderBy": "סדר לפי"
 }
