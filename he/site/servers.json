@@ -1,5 +1,5 @@
 {
-  "find": "Find your favorite server",
+  "find": "מצא את השרת האהוב עליך ביותר",
   "mcservers": "שרתי מיינקראפט",
   "servers": "שרתים",
   "searchServer": "חפש שרת ספציפי",
@@ -30,5 +30,5 @@
   "store": "חנות",
   "topUpvoters": "המוצבעים ביותר ב{{Month}}",
   "noUpvotes": "אף אחד עדיין לא הצביע",
-  "country": "Country"
+  "country": "מדינה"
 }

@@ -1,8 +1,8 @@
 {
-  "find": "Find your favorite server",
-  "mcservers": "Máy chủ Minecraft",
-  "servers": "Máy chủ",
-  "searchServer": "Tìm kiếm máy chủ bất kì",
+  "find": "Tìm server ưa thích của bạn",
+  "mcservers": "Server Minecraft",
+  "servers": "Server",
+  "searchServer": "Tìm kiếm server bất kì",
   "tags": "Thẻ",
   "sortBy": "Sắp xếp theo",
   "orderBy": "Thứ tự theo",
@@ -30,5 +30,5 @@
   "store": "Cửa hàng",
   "topUpvoters": "Top người vote {{Month}}",
   "noUpvotes": "Chưa có ai vote cả",
-  "country": "Country"
+  "country": "Quốc gia"
 }

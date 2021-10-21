@@ -1,5 +1,5 @@
 {
-  "find": "Find your favorite server",
+  "find": "Найдите ваш любимый сервер",
   "mcservers": "Сервера Minecraft",
   "servers": "Серверы",
   "searchServer": "Поиск конкретного сервера",
@@ -30,5 +30,5 @@
   "store": "Магазин",
   "topUpvoters": "Топ голосов за {{Month}}",
   "noUpvotes": "Пока никто не проголосовал",
-  "country": "Country"
+  "country": "Страна"
 }

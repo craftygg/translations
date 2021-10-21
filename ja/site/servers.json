@@ -1,5 +1,5 @@
 {
-  "find": "Find your favorite server",
+  "find": "お気に入りのサーバーを探す",
   "mcservers": "マインクラフト サーバー",
   "servers": "サーバー",
   "searchServer": "特定のサーバーを検索する",
@@ -30,5 +30,5 @@
   "store": "ストア",
   "topUpvoters": "{{Month}} の高評価したユーザー ランキング",
   "noUpvotes": "まだ誰も高評価していません",
-  "country": "Country"
+  "country": "国"
 }

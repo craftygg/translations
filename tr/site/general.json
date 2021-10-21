@@ -8,10 +8,10 @@
   "report": "Şikayet Et",
   "location": "Konum",
   "adv": "Gelişmiş Arama",
-  "advOptions": "Advanced Options",
-  "search": "Search",
-  "highlow": "High to Low",
-  "lowhigh": "Low to High",
-  "sortBy": "Sort by",
-  "orderBy": "Order by"
+  "advOptions": "Gelişmiş Seçenekler",
+  "search": "Ara",
+  "highlow": "Yüksekten Düşüğe",
+  "lowhigh": "Düşükten Yükseğe",
+  "sortBy": "Sırala",
+  "orderBy": "Sırala"
 }
