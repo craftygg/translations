@@ -26,14 +26,14 @@
     },
     "factions": {
       "formatted": "Faction",
-      "desc": "Factions servers are competitive PvP servers that let players team up with others by creating or joining existing clans. Faction members work together to build bases, protect their land, gather valuable resources as well as recruit new members. Factions in a server can either become allies and provide support to each other or choose to be enemies and go into battle."
+      "desc": "Server faction là một loại hình PvP cạnh tranh cho phép người chơi lập nhóm với nhau bằng cách tạo hoặc tham gia các hội có sẵn. Các thành viên trong faction hợp tác với nhau để xây dựng căn cứ, bảo vệ vùng đất của mình, thu thập tài nguyên quý cũng như tìm kiếm thành viên mới. Các faction trong server có thể trở thành đồng minh và hỗ trợ lẫn nhau hoặc chọn trở thành kẻ thù để đối đầu nhau."
     },
     "economy": {
-      "formatted": "Economy",
-      "desc": "Economy servers operate a virtual economy that allows players to earn and spend an in-game currency. Players can make money by mining valuable resources, completing challenges, trading with other players, and selling items in shops. Most servers also display leaderboards to encourage competition among the wealthiest players."
+      "formatted": "Kinh tế",
+      "desc": "Server kinh tế tạo ra một nền kinh tế ảo cho phép người chơi kiếm và chi tiêu. Người chơi có thể kiếm tiền bằng cách khai thác các tài nguyên có giá trị, hoàn thành các thử thách, giao dịch với những người chơi khác và bán các vật phẩm trong cửa hàng. Hầu hết các server cũng sẽ có bảng xếp hạng độ giàu có để khuyến khích cạnh tranh giữa các người chơi."
     },
     "creative": {
-      "formatted": "Creative",
+      "formatted": "Sáng tạo",
       "desc": "Creative mode servers have creative features enabled. These modes disable Minecraft's survival features, allowing players to build cities and other complex structures with an unlimited amount of blocks. Fly mode is enabled as part of the creative mode to allow for easier building and servers allow the use of world editing plugins to make the building process even easier."
     },
     "mcmmo": {
