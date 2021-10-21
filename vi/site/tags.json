@@ -34,43 +34,43 @@
     },
     "creative": {
       "formatted": "Sáng tạo",
-      "desc": "Creative mode servers have creative features enabled. These modes disable Minecraft's survival features, allowing players to build cities and other complex structures with an unlimited amount of blocks. Fly mode is enabled as part of the creative mode to allow for easier building and servers allow the use of world editing plugins to make the building process even easier."
+      "desc": "Server sáng tạo sẽ có chế độ sáng tạo được kích hoạt. Kiểu server này sẽ vô hiệu hóa chế độ sinh tồn, cho phép người chơi xây dựng các công trình đồ sộ với số lượng vô hạn tài nguyên. Đi kèm với chế độ sáng tạo là khả năng bay theo mặc định để người chơi có thể dễ dàng di chuyển và một số plugin như World Edit để giúp tiến trình xây dựng dễ dàng hơn."
     },
     "mcmmo": {
       "formatted": "McMMO",
-      "desc": "McMMO is a plugin that adds RPG style features to Minecraft's normal survival gameplay. It allows players to earn experience and level up by doing actions or using tools. By reaching higher levels, they can gain bonuses such as double item drops. Experience can be earned in all sorts of ways from mining and woodcutting to archery and alchemy."
+      "desc": "McMMO là một dạng plugin thêm các tính năng giống với RPG cho chế độ sinh tồn của Minecraft. Nó cho phép người chơi nhận kinh nghiệm và lên cấp bằng việc hoạt động hay sử dụng công cụ. Lên cấp càng cao sẽ có cơ hội nhận được thưởng thêm như nhân đôi vật phẩm rơi ra. Kinh nghiệm có thể được nhận qua nhiều cách từ đào mỏ cho đến chặt gỗ đến bắn tỉa, săn bắt."
     },
     "skyblock": {
-      "formatted": "Skyblock",
-      "desc": "Skyblock servers are multiplayer versions of the original Skyblock survival map. Each player spawns on a small floating island with limited resources and must think creatively to gather materials, expand the island and survive. The majority of Skyblock servers include economic features such as the ability to buy and sell items with in-game currency and leaderboards of the wealthiest players."
+      "formatted": "Đảo trời",
+      "desc": "Server đảo trời là dạng nhiều người chơi của sinh tồn đảo bay. Mỗi người chơi sẽ được xuất hiện trên một hòn đảo bay nhỏ với số lượng có hạn tài nguyên và phải nghĩ cách để kiếm thêm vật liệu, mở rộng đảo và sống sót. Phần lớn các server đảo bay sẽ có một hệ thống tiền tệ để người chơi có thể mua và bán vật phẩm và bảng xếp hạng những người giàu có nhất."
     },
     "pvp": {
       "formatted": "PvP",
-      "desc": "Minecraft servers with PvP enabled allow players to fight and do damage against each other. PvP servers include a huge variety of different gamemodes from vanilla survival and factions to battle royale style minigames and KitPvP. Players must survive against not only the environment and hostile mobs but also any enemy players. Some servers have PvP enabled throughout the entire map while others have safe zones such as spawn where players can't fight."
+      "desc": "Server với chế độ PvP được bật cho phép người chơi chiến đấu với nhau. Server PvP bao gồm lượng lớn các chế độ khác nhau từ sinh tồn đặc trưng, faction cho đến kiểu chiến đấu sinh tử và KitPvP. Người chơi không chỉ sinh tồn giữa thiên nhiên mà còn với các người chơi khác. Một số server sẽ cho phép PvP ở mọi nơi trong khi số khác sẽ có vùng an toàn không cho phép PvP như ở spawn."
     },
     "prison": {
-      "formatted": "Prison",
-      "desc": "Prison servers don't have any wilderness and are instead set entirely within a prison-themed map. Players start at the lowest rank with basic tools and must earn money to rank up and become more powerful. Money is earned by mining resources at predesignated mines, and new mines with more valuable resources are unlocked by ranking up. Players can challenge each other to battle in PvP arenas and even buy plots of land inside the prison to build a base and store valuables."
+      "formatted": "Ngục tù",
+      "desc": "Server ngục tù không mang sự hoang dã nhưng có môi trường bao quanh trong một bản đồ dưới dạng nhà tù. Người chơi sẽ bắt đầu ở bậc thấp nhất với công cụ cơ bản và phải kiếm tiền để thăng cấp và trở nên mạnh hơn. Tiền được kiếm thông qua đào khoáng sản ở các mỏ được làm sẵn, càng lên bậc cao, giá trị khoáng sản sẽ tăng dần. Người chơi có thể thách thức nhau trên đấu trường PvP và còn có thể mua đất trong nhà tù để xây dựng căn cứ, cất giữ tài sản."
     },
     "survival": {
-      "formatted": "Survival",
-      "desc": "Survival is the default Minecraft gamemode where players explore the wilderness and gather resources to survive in a hostile environment. Some survival servers are vanilla and don't change normal gameplay, while others use plugins and mods to add extra features such as an in-game economy and player-run towns. Survival servers may also have PvP enabled, meaning players need to survive against hostile mobs and enemy players."
+      "formatted": "Sinh tồn",
+      "desc": "Sinh tồn là một chế độ mặc định của Minecraft để người chơi có thể khám phá vùng hoang vu và thu thập tài nguyên để tồn tại. Một số server sinh tồn giữ nguyên sự cơ bản của minecraft trong khi phần còn lại dùng các plugin và mod để thêm các tính năng phụ như hệ thống tiền tệ và làng xã do người chơi tổ chức. Server sinh tồn cũng có thể sẽ cho phép PvP nghĩa là người chơi phải sống sót qua môi trường mà người chơi khác."
     },
     "towny": {
-      "formatted": "Towny",
-      "desc": "Towny servers are land management orientated, players can own plots of land and create a town by working together and inviting other players. New players can either join an existing town or create their own, and each town has a mayor who is in charge of managing the residents and setting the rules. Towny also adds economic features including town banks, the ability to purchase land with in-game currency and a taxation system."
+      "formatted": "Làng xã",
+      "desc": "Server towny được định hướng quản lý đất đai, người chơi có thể sở hữu các mảnh đất và tạo ra một thị trấn bằng cách làm việc cùng nhau và mời những người khác. Người chơi mới có thể tham gia vào một thị trấn hiện có hoặc tạo thị trấn của riêng họ, mỗi thị trấn sẽ có một thị trưởng chịu trách nhiệm quản lý cư dân và thiết lập các quy tắc. Towny cũng có hệ thống kinh tế bao gồm ngân hàng thị trấn, khả năng mua đất bằng tiền tệ trong server và hệ thống thuế."
     },
     "vanilla": {
       "formatted": "Vanilla",
-      "desc": "VVanilla servers aim to recreate Minecraft's original survival gameplay in a multiplayer world. Pure vanilla servers use the server software provided directly by Minecraft and don't have any modifications. Semi-vanilla servers use modified server software and may have a small number of plugins, but only to add simple features that don't significantly change gameplay."
+      "desc": "Server vanilla hướng tới việc dựng lại chế độ sinh tồn đặc trưng của Minecraft trong chế độ nhiều người chơi. Server chuẩn vanilla sẽ dùng phần mềm máy chủ được cung cấp trực tiếp bởi Minecraft và sẽ không có sự thay đổi gì. Server cận vanilla sẽ có cái tiến trải nghiệm đôi chút qua việc thêm một lượng nhỏ plugin nhưng chỉ để thêm các tính năng đơn giản mà không làm thay đổi trải nghiệm chơi."
     },
     "minigames": {
-      "formatted": "Minigames",
-      "desc": "Minigames servers offer a variety of fun gamemodes that can all be played from within a single server. Players join a central lobby and then select the individual minigame that they want to play. Some are competitive and involve PvP while other games require teamwork and cooperation. Popular minigames include Hide and Seek, Capture the Flag, Spleef and Bedwars."
+      "formatted": "Minigame",
+      "desc": "Server mimigame mang đến một lượng các chế độ chơi giải trí có thể tham gia trong một server. Người chơi sẽ tham gia vào một sảnh lớn và chọn trò chơi ở đây để tham gia chơi. Một số là chế độ đối đầu PvP, số khác là các chế độ cần sự hợp tác nhóm. Các minigame nổi tiếng có thể kể đến như Trốn tìm, Cướp cờ, Bedwar, ..."
     },
     "roleplay": {
-      "formatted": "RolePlay",
-      "desc": "Minecraft servers based around roleplaying encourage players to take on the role of a completely different character and immerse themselves in a fantasy world. Roleplay servers are often heavily modified and use custom plugins and pre-built custom or player-made maps to give the server a specific theme."
+      "formatted": "Nhập vai",
+      "desc": "Server Minecraft về nhập vai khuyến khích người chơi nhận vai trò của một nhân vật khác hoàn toàn và đắm mình vào một thế giới kì diệu. Server nhập vai thường được biến đổi rất nhiều và sử dụng plugin tự tạo và bản đồ tự tạo hoặc do người chơi tạo ra để cho server có một chủ đề cụ thể."
     },
     "pixelmon": {
       "formatted": "Pixelmon",
