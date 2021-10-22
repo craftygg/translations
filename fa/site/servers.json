@@ -1,5 +1,5 @@
 {
-  "find": "Find your favorite server",
+  "find": "سرور دلخواه خود را پیدا کنید",
   "mcservers": "سرور های ماینکرافت",
   "servers": "سرور ها",
   "searchServer": "جستجو برای یک سرور مشخص",
@@ -30,5 +30,5 @@
   "store": "فروشگاه",
   "topUpvoters": "بیشترین رائ دهندگان ماه {{Month}}",
   "noUpvotes": "هیچ کس هنوز رائ مثبت نداده",
-  "country": "Country"
+  "country": "كشور"
 }
