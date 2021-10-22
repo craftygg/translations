@@ -2,30 +2,30 @@
   "details": {
     "adventure": {
       "formatted": "ماجراجویی",
-      "desc": "Adventure servers extend on the Adventure Minecraft Gamemode where the player has limited interactions with a preset world that is usually custom or player-created. The objective is usually to survive by crafting items and killing mobs while dealing with the challenge of not being able to destroy or place blocks."
+      "desc": "سرور های ماجراجویی بیشتر روی همان جنبه حالت ماجراجویی ماینکرافت گسترش یافته‌اند، جایی که بازیکن می تواند تعاملات نسبتاً محدودی با چیز های از قبل تعبیه شده داشته باشد که آن تعاملات نیز معمولا توسط بازیکنان یا به صورت سفارشی ایجاد شده‌اند. هدف هم معمولا زنده ماندن با ساختن آیتم ها و کشتن ماب ها هنگام انجام یک چالش مشخص شده می باشد در حین اینکه شما توانایی ساختن یا از بین بردن بلاک ها را ندارید."
     },
     "anarchy": {
-      "formatted": "Anarchy",
-      "desc": "Anarchy servers often tend to be lawless with minimal land protection and no rules. Some anarchy servers allow cheating such as clients that modify how Minecraft works to give an unfair advantage or fair advantage in an anarchy setting where every player is also cheating. The common objective is to survive and defend from other players and mobs, gather resources, build secure and hidden bases, all within an unforgiving yet nonrestrictive environment where griefing runs rampant."
+      "formatted": "آنارشی",
+      "desc": "سرور های آنارشی به عنوان سرور های بدون قانون شناخته می شوند که کمترین امنیت زمینی را دارند و طبیعتاً هیچ قانونی در سرور وجود ندارد. بعضی از سرور های آنارشی حتی استفاده از ابزار های تقلب و کلاینت های دستکاری شده که نحوه اجرای ماینکرافت را تغییر می‌دهند را مجاز می دانند تا بقیه بتوانند برتری ناعادلانه نسبت به بقیه بازیکنان عادی یا عادلانه نسبت به بقیه متقلّبان، داشته باشند. هدف معمول در این سرور ها زنده ماندن و دفاع در برابر دیگر بازیکنان یا ماب ها می باشد. جمع آوری منابع، ساختن سازه ها پایگاه های مخفی و... از دیگر کارهایی است که می توان در این سرور انجام داد. همه و همه در محیطی بی رحم و بی قید و بند که از بین بردن همه چیز رواج دارد."
     },
     "battleroyale": {
-      "formatted": "Battle Royale",
-      "desc": "Battle Royale servers are for players who wish to test their Minecraft skills against others in a closed-off battle arena that progressively shrinks over time where resources can be found to one-up other players. Battle Royale servers are often inspired by other well know video games such as Fortnite, PUBG, and Call of Duty."
+      "formatted": "بتل رویال",
+      "desc": "سرور های بتل رویال برای بازیکنانی هست که می خواهند توانایی های خودشان را درمقابل دیگر بازیکنان محک بزنند. محیط جنگی که میدان نبرد با گذشت زمان کوچک تر می شود، به طوری که منابع را باید از دیگر بازیکنان گرفت. سرور های بتل رویال معمولا از دیگر بازی های ویدیویی مشهور الهام گرفته‌اند مثل Fortnite, PUBG و Call of Duty."
     },
     "bedwars": {
-      "formatted": "BedWars",
-      "desc": "Bedwars is a popular strategic PvP (player vs player) Minecraft mini-game gamemode where the objective is to be the last player (or team) alive by either defending or eliminating the opponents. The Bedwars gamemode often involves a bed that must be protected as when it's destroyed you no longer respawn. Bedwars is usually set on islands in the sky where the biggest danger is to not fall into the bottomless void."
+      "formatted": "بِدوارز",
+      "desc": "بِدوارز (جنگ بر سر تخت ها) یک حالت بازی PvP (بازیکن درعلیه بازیکن) بسیار محبوب می باشد که هدف زنده ماندن به عنوان آخرین نفر (یا تیم) با از بین بردن یا دفاع در برابر حریفان مقابل است. در حالت بازی بِدوارز معمولا یک تخت وجود دارد که باید از آن محافظت شود چون اگر آن تخت شما نابود شود، شما دیگر مجددا احضار (respawn) نخواهید شد. بِدوارز نیز معمولا جزیره هایی روی آسمان برگزار می شود، جایی که بزرگ ترین خطر نیافتادن توی فضای بی پایان زیر جزیره هاست."
     },
     "hungergames": {
-      "formatted": "Hunger Games",
-      "desc": "Hunger Games is a popular survival PvP (player vs player) Minecraft mini-game gamemode where the objective is to survive using items found throughout the map and defend against other players to be the last standing player."
+      "formatted": "هانگِر گِیمز",
+      "desc": "هانگر گِیمز از حالت بازی های محبوب PvP(بازیکن درعلیه بازیکن) در ماینکرافت می باشد. هدف زنده ماندن با جمع آوری آیتم ها از جای جای نقشه و دفاع از خود در برابر دیگر بازیکنان، می باشد تا جایی که شما آخرین بازیکن باقی مانده باشید."
     },
     "survivalgames": {
-      "formatted": "Survival Games",
-      "desc": "Survival Games is a popular survival PvP (player vs player) Minecraft mini-game gamemode where the objective is to survive using items found throughout the map and defend against other players to be the last standing player."
+      "formatted": "بازی های سبک بقاء",
+      "desc": "بازی های سبک بقاء (سروایول گیمز) از حالت بازی های محبوب PvP(بازیکن درعلیه بازیکن) در ماینکرافت می باشد. هدف زنده ماندن با جمع آوری آیتم ها از جای جای نقشه و دفاع از خود در برابر دیگر بازیکنان، می باشد تا جایی که شما آخرین بازیکن باقی مانده باشید."
     },
     "factions": {
-      "formatted": "Factions",
+      "formatted": "فَکشِنز",
       "desc": "Factions servers are competitive PvP servers that let players team up with others by creating or joining existing clans. Faction members work together to build bases, protect their land, gather valuable resources as well as recruit new members. Factions in a server can either become allies and provide support to each other or choose to be enemies and go into battle."
     },
     "economy": {
