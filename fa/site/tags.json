@@ -26,34 +26,34 @@
     },
     "factions": {
       "formatted": "فَکشِنز",
-      "desc": "Factions servers are competitive PvP servers that let players team up with others by creating or joining existing clans. Faction members work together to build bases, protect their land, gather valuable resources as well as recruit new members. Factions in a server can either become allies and provide support to each other or choose to be enemies and go into battle."
+      "desc": "سرور های فَکشِنز (جنگ احزاب) سرور های رقابتی هستند که به بازیکنان این اجازه را می دهند که با تشکیل یا پیوستن به یک قبیله (کِلَن)، با دیگر بازیکنان متحد شوند و به رقابت با دیگر قبیله ها بپردازند. اعضاء یک حزب به هم کمک می کنند تا پایگاه خود را بسازند، از زمینشان محافظت کنند و منابع ارزشمندی همراه با استخدام متحدان جدید به دست بیارند. در جنگ احزاب در یک سرور می توانید با بقیه متحد شوید و به یاران خود را پشتیبانی ارائه بدید یا اینکه به خط مقدم برای جنگیدن با دیگر دشمنان راهی شوید."
     },
     "economy": {
-      "formatted": "Economy",
-      "desc": "Economy servers operate a virtual economy that allows players to earn and spend an in-game currency. Players can make money by mining valuable resources, completing challenges, trading with other players, and selling items in shops. Most servers also display leaderboards to encourage competition among the wealthiest players."
+      "formatted": "اقتصاد",
+      "desc": "سرور های اقتصاد به عنوان یک شبیه ساز مجازی اقتصادگرایی عمل می کنند که به بازیکنان این اجازه را می دهند که واحد پول داخل بازی را دخل و خرج کنند. بازیکنان می توانند با معدن کاوی منابع ارزشمند پول دربیاورند، چالش ها را انجام دهند، با دیگر بازیکنان معامله کنند و آیتم های به دست آورده خود را در فروشگاه بفروشند. اکثر این سرور ها همچنین یک جدول امتیازات برتر دارند که برای ترقیب به رقابت بر سر ثروتمندی بین بازیکنان با یکدیگر نمایش داده می شود."
     },
     "creative": {
-      "formatted": "Creative",
-      "desc": "Creative mode servers have creative features enabled. These modes disable Minecraft's survival features, allowing players to build cities and other complex structures with an unlimited amount of blocks. Fly mode is enabled as part of the creative mode to allow for easier building and servers allow the use of world editing plugins to make the building process even easier."
+      "formatted": "حالت خلاق",
+      "desc": "سرور های حالت خلاق سرور هایی هستند که این حالت بازی ماینکرافت را در خود فعال ساخته‌اند. این حالت خلاق بازیکن را از ویژگی حالت بقاء بیرون می آورد و به بازیکن این اجازه را می دهد که بتوانند شهر ها و دیگر سازه های بزرگ را بدون محدودیت در تعداد و دسترسی به بلاک ها، بسازند. حالت پرواز نیز بخشی از حالت خلاق است که ساخت و ساز را برای بازیکن راحت تر می کنند و سرور ها اجازه استفاده از پلاگین های ویرایش دنیا را نیز می دهند تا فرایند ساخت و ساز حتی ساده تر هم بشود."
     },
     "mcmmo": {
       "formatted": "McMMO",
-      "desc": "McMMO is a plugin that adds RPG style features to Minecraft's normal survival gameplay. It allows players to earn experience and level up by doing actions or using tools. By reaching higher levels, they can gain bonuses such as double item drops. Experience can be earned in all sorts of ways from mining and woodcutting to archery and alchemy."
+      "desc": "McMMO یک پلاگین است که ویژگی های نقش آفرینی را به گیم پلی حالت عادی مایکرافت اضافه می کند. این به بازیکنان این اجازه را می دهد که با استفاده از اقدامات و ابزار، تجربه کسب کنند. سطح‌شان را ازتقاء دهند. با رسیدن به سطوح بالاتر، آنها می توانند به ویژگی های سودمندی برسند مثل به دست آوردن آیتم 2برابر. تجربه را در کار های مختلف به روش های خیلی خیلی زیادی می توان کسب کرد، از معدن کاوی و چوب بُری تا کمانداری و کیمیاگری."
     },
     "skyblock": {
-      "formatted": "Skyblock",
-      "desc": "Skyblock servers are multiplayer versions of the original Skyblock survival map. Each player spawns on a small floating island with limited resources and must think creatively to gather materials, expand the island and survive. The majority of Skyblock servers include economic features such as the ability to buy and sell items with in-game currency and leaderboards of the wealthiest players."
+      "formatted": "اسکای بلاک",
+      "desc": "سرور های اسکای بلاک حالت چند نفره‌ای از نقشه بقاء اسکای بلاک می باشد. هر بازیکن روی یک جزیره کوچک معلق در آسمان احضار می شود و با منابع محدودی که در دسترس دارند باید خلاقانه به روش های جمع آوری دیگر منابع بپردازند، جزیره را گسترش دهند و زنده بمانند. اکثر سرور های اسکای بلاک یک سیستم اقتصادی نیز در خود دارند مثل امکان فروش و یا خرید آیتم ها با واحد پول داخل بازی، همچنین این سرور ها می توانند دارای جدول امتیازات برتر برای پولدار ترین بازیکنان نیز باشند."
     },
     "pvp": {
-      "formatted": "PvP",
-      "desc": "Minecraft servers with PvP enabled allow players to fight and do damage against each other. PvP servers include a huge variety of different gamemodes from vanilla survival and factions to battle royale style minigames and KitPvP. Players must survive against not only the environment and hostile mobs but also any enemy players. Some servers have PvP enabled throughout the entire map while others have safe zones such as spawn where players can't fight."
+      "formatted": "بازیکن دربرابر بازیکن",
+      "desc": "سرور های PvP (بازیکن دربرابر بازیکن) این اجازه را به بازیکنان می دهد تا در مقابل هم آسیب وارد کنند و بجنگند. سرور های PvP انواع مختلف زیادی را شامل می شوند از حالت بقاء عادی تا جنگ احزاب و بتل رویال و KitPvP. بازیکنان نه تنها باید در مقابل محیط و ماب ها مقاومت کنند، بلکه باید از خودشان در برابر دیگر بازیکنان دفاع کنند. بعضی سرور ها PvP را در تمام نقشه خود می توانند فعال کرده باشند به طوری که بعضی سرور های دیگر فقط ناحیه محدود و مشخصی را برای PvP مشخص کردند و بازیکنان خارج از آن ناحیه نمی توانند با یکدیگر بجنگند."
     },
     "prison": {
-      "formatted": "Prison",
-      "desc": "Prison servers don't have any wilderness and are instead set entirely within a prison-themed map. Players start at the lowest rank with basic tools and must earn money to rank up and become more powerful. Money is earned by mining resources at predesignated mines, and new mines with more valuable resources are unlocked by ranking up. Players can challenge each other to battle in PvP arenas and even buy plots of land inside the prison to build a base and store valuables."
+      "formatted": "زندان",
+      "desc": "سرور های زندان هیچ محیط آزاد و طبیعی ندارند، درواقع نقشه کلاً با محیط محدودی مثل زندان ساخته شده. بازیکنان باید از پایین ترین رده با ابزار های سطحی شروع کنند و باید با پول درآوردن خود را ارتقاء دهند و قدرتمند تر شوند. پول را می توان از طریق معدن کاوی و کَندن در ناحیه های از قبل تعبیه شده به دست آورد و جاهای جدید نیز با به دست آوردن پول بیشتر و ارتقاء رده برای به دست آوردن منابع ارزشمند تر باز می شوند. بازیکنان می توانند یکدیگر را در محیط های PvP (بازیکن درعلیه بازیکن) به چالش بکشند و حتی پول بیشتری از این طریق به دست بیاورند تا زمین های بیشتری در زندان بخرند و پایگاه های خود را بسازند."
     },
     "survival": {
-      "formatted": "Survival",
+      "formatted": "سبک بقاء",
       "desc": "Survival is the default Minecraft gamemode where players explore the wilderness and gather resources to survive in a hostile environment. Some survival servers are vanilla and don't change normal gameplay, while others use plugins and mods to add extra features such as an in-game economy and player-run towns. Survival servers may also have PvP enabled, meaning players need to survive against hostile mobs and enemy players."
     },
     "towny": {
@@ -77,20 +77,20 @@
       "desc": "Minecraft servers running the multiplayer version of the Pixelmon mod. Pixelmon aims to recreate Pokemon gameplay within Minecraft by adding hundreds of different species of Pokemon that randomly spawn throughout the world and can be captured by players. The mod also adds realistic Pokemon battle mechanics, gyms complete with NPC trainers and a fully functional Pokedex."
     },
     "parkour": {
-      "formatted": "Parkour",
-      "desc": "The objective of Minecraft parkour servers is to complete obstacle courses by running, jumping and climbing from one stage to the next. The courses have different themes and range in difficulty from easy to extremely hard. Parkour servers usually have a timer counting how long it takes to complete each course and show leaderboards of the fastest players."
+      "formatted": "پارکور",
+      "desc": "هدف از سرور های پارکور در ماینکرافت این است که دوره های موانع پیش رو را با دویدن، پریدن و بالارفتن از مراحل مختلف پشت سر بگذارند. مراحل مختلف زمینه های مختلفی دارند و وسعت زیادی از مراحل ساده تا فوق العلاده سخت را در بر میگیرند. سرور های پارکور معمولا یک زمانسنج برای اندازه گیری مدت زمان رکورد شما تا انجام دادن مرحله را دارند تا در جدول امتیازات سریع ترین بازیکنان نمایش داده شوند."
     },
     "pve": {
       "formatted": "PvE",
-      "desc": "Player versus environment servers have PvP disabled meaning players cannot fight and do damage to each other. Instead, players must work together and survive against the environment and Minecraft's many hostile mobs."
+      "desc": "سرور های بازیکن درمقابل محیط جنگ بازیکنان علیه هم را غیر فعال کرده‌اند، این یعنی بازیکنان نمی توانند به یکدیگر آسیب وارد کنند. اما بجای آن بازیکنان باید با همکاری در مقابل محیط اطراف خود و ماب های زیادی که در ماینکرافت وجود دارند، از یکدیگر دفاع کنند."
     },
     "skywars": {
-      "formatted": "SkyWars",
+      "formatted": "اسکای وارز",
       "desc": "Skywars is a PvP minigame where players battle each other on floating islands until only one survivor is remaining. Each player spawns on an individual island, when the game begins players must prepare for battle before crossing to the other islands and fighting. Chests on each island contain useful items including weapons and food, and there is commonly a larger island at the centre of the map with even more resources."
     },
     "hardcore": {
-      "formatted": "Hardcore",
-      "desc": "Hardcore servers are competitive PvP servers that don't have many rules and aim to make survival extremely difficult. These servers usually allow griefing and don't have any kind of land protection system. Some hardcore servers will even temporarily ban players upon death or not enable natural health regeneration."
+      "formatted": "هاردکور",
+      "desc": "سرور های هاردکور سرور های رقابتی و PvP(بازیکن دربرابر بازیکن) هستند که خیلی قانون ندارند و هدف از زنده ماندن را بسیار سخت تر می کنند. این سرور ها معمولا از بین بردن چیز ها را مجاز می دانند و هیچ مدل محافظتی در زمین ندارند. بعضی سرور های هاردکور حتی بازیکنان را بابت مردن موقتاً مسدود (Ban) می کنند یا بازیابی سلامتی به طور طبیعی در آن ها غیرفعال است."
     },
     "kitpvp": {
       "formatted": "KitPvP",
