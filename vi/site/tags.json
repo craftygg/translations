@@ -74,27 +74,27 @@
     },
     "pixelmon": {
       "formatted": "Pixelmon",
-      "desc": "Minecraft servers running the multiplayer version of the Pixelmon mod. Pixelmon aims to recreate Pokemon gameplay within Minecraft by adding hundreds of different species of Pokemon that randomly spawn throughout the world and can be captured by players. The mod also adds realistic Pokemon battle mechanics, gyms complete with NPC trainers and a fully functional Pokedex."
+      "desc": "Là những server sử dụng mod Pixelmon nhưng mở dưới dạng nhiều người chơi. Pixelmon chú tâm vào việc thêm hàng trăm loài Pokemon xuất hiện ngẫu nhiên trong thế giới và có thể được thuần hóa bởi người chơi. Mod này còn có thêm vào đấu trường Pokemon với cách thức hoạt động như bộ game Pokemon, trại huấn luyện với các huấn luyện viên là các NPC cùng với Pokedex như bạn thường thấy."
     },
     "parkour": {
       "formatted": "Parkour",
-      "desc": "The objective of Minecraft parkour servers is to complete obstacle courses by running, jumping and climbing from one stage to the next. The courses have different themes and range in difficulty from easy to extremely hard. Parkour servers usually have a timer counting how long it takes to complete each course and show leaderboards of the fastest players."
+      "desc": "Mục tiêu của các server parkour là hoàn thành vượt qua các chướng ngại vật bằng việc chạy nhảy, leo trèo từ ải này đến ải khác. Các phần sẽ có nhiều chủ đề khác nhau và sẽ sắp xếp theo mức độ từ dễ như ăn bánh đến khó ảo ma. Server parkour thường sẽ có tính thời gian để xem bạn mất bao lâu để hoàn thành từng phần và có cả bảng xếp hạng những con người nhanh nhất."
     },
     "pve": {
       "formatted": "PvE",
-      "desc": "Player versus environment servers have PvP disabled meaning players cannot fight and do damage to each other. Instead, players must work together and survive against the environment and Minecraft's many hostile mobs."
+      "desc": "Server với chế độ người chơi đối đầu môi trường (PvE) thường tắt chế độ PvP có nghĩa người chơi sẽ không đối đầu nhau. Thay vào đó họ phải hợp tác cùng nhau và sống sót đối mặt với môi trường và số lượng lớn quái của Minecraft."
     },
     "skywars": {
-      "formatted": "SkyWars",
-      "desc": "Skywars is a PvP minigame where players battle each other on floating islands until only one survivor is remaining. Each player spawns on an individual island, when the game begins players must prepare for battle before crossing to the other islands and fighting. Chests on each island contain useful items including weapons and food, and there is commonly a larger island at the centre of the map with even more resources."
+      "formatted": "SkyWar",
+      "desc": "SkyWar là một chế độ PvP nơi mà người chơi chiến đấu với nhau trên các hòn đảo bay cho đến khi chỉ còn một người sống sót. Mỗi người sẽ xuất hiện trên một hòn đảo nhỏ, khi trò chơi bắt đầu thì họ sẽ tự chuẩn bị trước khi giao chiến với người khác. Mỗi đảo sẽ có một chiếc rương trong đó chứa đựng nhiều vật phẩm dùng cho việc chiến đấu như vũ khí, thực phẩm và nhiều vật phẩm giá trị hơn sẽ có ở trên hòn đảo lớn ở giữa."
     },
     "hardcore": {
-      "formatted": "Hardcore",
-      "desc": "Hardcore servers are competitive PvP servers that don't have many rules and aim to make survival extremely difficult. These servers usually allow griefing and don't have any kind of land protection system. Some hardcore servers will even temporarily ban players upon death or not enable natural health regeneration."
+      "formatted": "Siêu khó",
+      "desc": "Server siêu khó là các server PvP không có quá nhiều luật và có mục đích là biến việc sinh tồn trở nên khó khăn hơn. Các server này thường sẽ cho phép tác động vào thế giới và không có hệ thống bảo vệ thế giới nào. Một số server siêu khó sẽ còn cấm tạm thời người chơi họ chết trong thế giới hoặc không bật hồi phục tự nhiên."
     },
     "kitpvp": {
       "formatted": "KitPvP",
-      "desc": "KitPvP is a competitive gamemode where players choose a kit to equip before going into battle and fighting each other in different areas. Each kit contains a unique set of items, effects and special abilities including weapons and armour that give players different fighting abilities. New and more powerful kits can be unlocked by scoring points and levelling up."
+      "desc": "KitPvP là một chế độ PvP cho phép người chơi chọn một bộ đồ dùng để sẵn sàng trước khi tham gia vào chiến trường máu lửa với người chơi khác. Mỗi bộ đồ dùng sẽ gồm một dãy vật phẩm, thuốc, vũ khí, giáp và các khả năng đặc trưng. Để mở khóa các bộ đồ dùng cao cấp hơn, người chơi sẽ cần phải kiếm điểm qua các trận chiến và lên cấp."
     }
   }
 }
