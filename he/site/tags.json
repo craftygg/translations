@@ -34,7 +34,7 @@
     },
     "creative": {
       "formatted": "יצירה",
-      "desc": "בשרתי יצירה מופעל מצב משחק יצירתי. מצב משחק זה משבית את תכונות ההישרדות של מיינקראפט, ומאפשר לשחקנים לבנות ערים ומבנים מורכבים אחרים עם כמות בלתי מוגבלת של משאבים. מצב תעופה מופעל כחלק ממצב היצירה כדי לאפשר בנייה קלה יותר. בשרתים רבים נעשה שימוש בתוספי עריכה עולמיים כדי להפוך את תהליך הבנייה לקלה עוד יותר."
+      "desc": "Creative mode servers have creative features enabled. These modes disable Minecraft's survival features, allowing players to build cities and other complex structures with an unlimited amount of blocks. Fly mode is enabled as part of the creative mode to allow for easier building. Servers also allow the use of world editing plugins which makes the building process even easier."
     },
     "mcmmo": {
       "formatted": "McMMO",
@@ -62,7 +62,7 @@
     },
     "vanilla": {
       "formatted": "קלאסי",
-      "desc": "שרתי משחק קלאסי שואפים לשחזר את משחק ההישרדות המקורי של מיינקראפט בעולם מרובה משתתפים. שרתי קלאסיות טהורים משתמשים בתוכנת השרת המסופקת ישירות על ידי מיינקראפט ואין להם שינויים. שרתים חצי קלאסים משתמשים בתוכנת שרת שונה ואולי יש בהם מספר תוספים קטן, אך רק כדי להוסיף תכונות פשוטות שאינן משנות את המשחק באופן משמעותי."
+      "desc": "Vanilla servers aim to recreate Minecraft's original survival gameplay in a multiplayer world. Pure vanilla servers use the server software provided directly by Minecraft and don't have any modifications. Semi-vanilla servers use modified server software and may have a small number of plugins, but only to add simple features that don't significantly change gameplay."
     },
     "minigames": {
       "formatted": "מיני-משחקונים",
