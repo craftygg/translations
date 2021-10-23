@@ -22,15 +22,15 @@
     },
     "survivalgames": {
       "formatted": "Survival Games",
-      "desc": "Survival Games is a popular survival PvP (player vs player) Minecraft mini-game gamemode where the objective is to survive using items found throughout the map and defend against other players to be the last standing player."
+      "desc": "Survival Games - это популярный PvP (игрок против игрока) мини-игровой режим Minecraft, целью которого является выживание с помощью предметов, найденных на карте, и защита от других игроков, где последний выживший станет победителем."
     },
     "factions": {
       "formatted": "Factions",
-      "desc": "Factions servers are competitive PvP servers that let players team up with others by creating or joining existing clans. Faction members work together to build bases, protect their land, gather valuable resources as well as recruit new members. Factions in a server can either become allies and provide support to each other or choose to be enemies and go into battle."
+      "desc": "Сервера Фракций - это PvP сервера, на которых игроки объединяются друг с другом, создавая или присоединяясь к уже существующим кланам. Члены фракции работают вместе, строят базы, защищают свою территорию, собирают ценные ресурсы, а также нанимают новых членов. Фракции на сервере могут стать либо союзниками, либо оказывать поддержку друг другу или быть врагами и сражаться друг с другом."
     },
     "economy": {
       "formatted": "Economy",
-      "desc": "Economy servers operate a virtual economy that allows players to earn and spend an in-game currency. Players can make money by mining valuable resources, completing challenges, trading with other players, and selling items in shops. Most servers also display leaderboards to encourage competition among the wealthiest players."
+      "desc": "Сервера экономики основаны на виртуальной экономике, которая позволяет игрокам зарабатывать и тратить в игре внутриигровую валюту. Игроки могут зарабатывать деньги, добывая ценные ресурсы, выполняя задания, торгуя с другими игроками и продавая предметы в магазинах. На большинстве серверов также отображаются списки лидеров для поощрения конкуренции между самыми состоятельными игроками."
     },
     "creative": {
       "formatted": "Creative",
