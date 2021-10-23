@@ -34,47 +34,47 @@
     },
     "creative": {
       "formatted": "Creative",
-      "desc": "Creative mode servers have creative features enabled. These modes disable Minecraft's survival features, allowing players to build cities and other complex structures with an unlimited amount of blocks. Fly mode is enabled as part of the creative mode to allow for easier building. Servers also allow the use of world editing plugins which makes the building process even easier."
+      "desc": "На данных серверах творческого режима включены все возможности творческого режима игры. Эти режимы запрещают возможность выживания в Minecraft, позволяя игрокам создавать города и другие сложные структуры с неограниченным количеством блоков. Режим полёта включен как часть креативного режима, чтобы упростить строительство. Сервера также позволяют использовать плагины для редактирования мира, что делает процесс строительства еще проще."
     },
     "mcmmo": {
       "formatted": "McMMO",
-      "desc": "McMMO is a plugin that adds RPG style features to Minecraft's normal survival gameplay. It allows players to earn experience and level up by doing actions or using tools. By reaching higher levels, they can gain bonuses such as double item drops. Experience can be earned in all sorts of ways from mining and woodcutting to archery and alchemy."
+      "desc": "McMMO — это плагин, который добавляет возможности RPG в обычную игру Minecraft. Установленный плагин позволяет игрокам зарабатывать опыт и повышать свой уровень, делая что-либо или используя инструменты на сервере. Достигая более высоких уровней, игроки могут получить различные бонусы. Сам опыт может быть получен любым способом, начиная от копания в шахте и добычи дерева, и заканчивая стрельбой из лука и алхимией."
     },
     "skyblock": {
-      "formatted": "Skyblock",
-      "desc": "Skyblock servers are multiplayer versions of the original Skyblock survival map. Each player spawns on a small floating island with limited resources and must think creatively to gather materials, expand the island and survive. The majority of Skyblock servers include economic features such as the ability to buy and sell items with in-game currency and leaderboards of the wealthiest players."
+      "formatted": "SkyBlock",
+      "desc": "Сервера SkyBlock являются многопользовательскими версиями оригинальной карты выживания SkyBlock. Каждый игрок появляется на небольшом острове в небе с ограниченными ресурсами, где он должен продумывать действия по сбору материалов, расширению острова и выживанию. На большинстве серверов SkyBlock присутствует экономика, благодаря которой возможна покупка и продажа предметов в игре, а также присутствуют таблицы лидеров самых богатых игроков."
     },
     "pvp": {
       "formatted": "PvP",
-      "desc": "Minecraft servers with PvP enabled allow players to fight and do damage against each other. PvP servers include a huge variety of different gamemodes from vanilla survival and factions to battle royale style minigames and KitPvP. Players must survive against not only the environment and hostile mobs but also any enemy players. Some servers have PvP enabled throughout the entire map while others have safe zones such as spawn where players can't fight."
+      "desc": "Сервера Minecraft с включенным PvP позволяют игрокам сражаться, нанося урон друг другу. Сервера PvP включают в себя огромное количество различных игровых режимов: от ванильного выживания и фракций до мини-игр в стиле Battle Royale и KitPvP. Игроки должны выживать и сражаться не только против враждебных мобов, но и против любых игроков. В основном на серверах включен PvP на всей карте, на прочих других серверах имеются безопасные зоны, например спавн, где игроки сражаться не могут."
     },
     "prison": {
       "formatted": "Prison",
-      "desc": "Prison servers don't have any wilderness and are instead set entirely within a prison-themed map. Players start at the lowest rank with basic tools and must earn money to rank up and become more powerful. Money is earned by mining resources at predesignated mines, and new mines with more valuable resources are unlocked by ranking up. Players can challenge each other to battle in PvP arenas and even buy plots of land inside the prison to build a base and store valuables."
+      "desc": "В так называемых \"Тюрьмах\" весь процесс полностью устанавливаются в рамках карты тюрьмы. Игроки начинают с самого низкого ранга с базовыми вещами, где далее они должны зарабатывать ранг выше и становиться сильнее. Деньги зарабатываются добычей ресурсов на заранее назначенных шахтах, а новые рудники с более ценными ресурсами открываются при достижении определенного рейтинга. Игроки могут бросить друг другу вызов на аренах PvP, а также приобретать земельные участки внутри тюрьмы, чтобы построить базу и сохранить свои ресурсы и ценности."
     },
     "survival": {
       "formatted": "Survival",
-      "desc": "Survival is the default Minecraft gamemode where players explore the wilderness and gather resources to survive in a hostile environment. Some survival servers are vanilla and don't change normal gameplay, while others use plugins and mods to add extra features such as an in-game economy and player-run towns. Survival servers may also have PvP enabled, meaning players need to survive against hostile mobs and enemy players."
+      "desc": "Выживание — это режим игры Minecraft, где по умолчанию игроки исследуют территорию и собирают ресурсы для выживания во враждебной среде. Некоторые сервера выживания ванильны и не изменяют обычный игровой процесс, в то время как другие используют плагины и моды, чтобы добавить дополнительные функции, такие как внутриигровая экономика и города, управляемые игроками. На серверах выживания также может быть включен PvP, что означает, что игрокам нужно будет выживать как от враждебных мобов, так и от игроков."
     },
     "towny": {
       "formatted": "Towny",
-      "desc": "Towny servers are land management orientated, players can own plots of land and create a town by working together and inviting other players. New players can either join an existing town or create their own, and each town has a mayor who is in charge of managing the residents and setting the rules. Towny also adds economic features including town banks, the ability to purchase land with in-game currency and a taxation system."
+      "desc": "Сервера \"городов\" ориентированы на управление территорией, где игроки могут владеть земельными участками и создавать город, работая вместе с другими игроками. Новые игроки могут присоединиться к существующему городу или создать свой собственный. У каждого города есть мэр, который отвечает за управление жителями и правилами города. В городах также присутствует экономика, которая включает городские банки, возможность покупки земли за игровую валюту и систему налогообложения."
     },
     "vanilla": {
       "formatted": "Vanilla",
-      "desc": "Vanilla servers aim to recreate Minecraft's original survival gameplay in a multiplayer world. Pure vanilla servers use the server software provided directly by Minecraft and don't have any modifications. Semi-vanilla servers use modified server software and may have a small number of plugins, but only to add simple features that don't significantly change gameplay."
+      "desc": "Ванильные сервера стремятся воссоздать оригинальный геймплей Minecraft в многопользовательском мире. Чистые ванильные сервера используют программное обеспечение, предоставляемое непосредственно Minecraft, и не имеют никаких модификаций. Полуванильные сервера используют модифицированное программное обеспечение и могут иметь небольшое количество плагинов, но только для добавления простых возможностей, которые незначительно изменяют игровой процесс."
     },
     "minigames": {
       "formatted": "Minigames",
-      "desc": "Minigames servers offer a variety of fun gamemodes that can all be played from within a single server. Players join a central lobby and then select the individual minigame that they want to play. Some are competitive and involve PvP while other games require teamwork and cooperation. Popular minigames include Hide and Seek, Capture the Flag, Spleef and Bedwars."
+      "desc": "Сервера Мини-игр предлагают различные игровые режимы, в которые можно играть на одном сервере. Игроки появляются в лобби, где затем выбирают мини-игру, в которую они хотели бы сыграть. На некоторых мини-играх основным режимом игры является PvP. Другие же игры требуют коллективной работы и взаимодействия. Популярные мини-игры: Hide and Seek, Capture the Flag, Spleef и BedWars."
     },
     "roleplay": {
       "formatted": "RolePlay",
-      "desc": "Minecraft servers based around roleplaying encourage players to take on the role of a completely different character and immerse themselves in a fantasy world. Roleplay servers are often heavily modified and use custom plugins and pre-built custom or player-made maps to give the server a specific theme."
+      "desc": "Сервера Minecraft, основанные на ролевых играх, побуждают игроков взять на себя роль совершенно другого характера и погрузиться в мир фантазии. RolePlay сервера часто сильно модифицированы. Они используют плагины и заранее созданные карты или карты игроков для определенной тематики сервера."
     },
     "pixelmon": {
       "formatted": "Pixelmon",
-      "desc": "Minecraft servers running the multiplayer version of the Pixelmon mod. Pixelmon aims to recreate Pokemon gameplay within Minecraft by adding hundreds of different species of Pokemon that randomly spawn throughout the world and can be captured by players. The mod also adds realistic Pokemon battle mechanics, gyms complete with NPC trainers and a fully functional Pokedex."
+      "desc": "Сервера Minecraft, запущенные с многопользовательской версией мода Pixelmon. Pixelmon нацелен на воссоздание игры Pokemon в Minecraft, добавляя сотни различных видов покемонов, расположенных случайным образом по всему миру. Мод также добавляет реалистичную боевую механику покемонов, тренажерные залы с тренерами NPC и полностью функциональный Pokedex."
     },
     "parkour": {
       "formatted": "Parkour",
