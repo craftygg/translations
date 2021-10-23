@@ -34,7 +34,7 @@
     },
     "creative": {
       "formatted": "Creative",
-      "desc": "Creative mode servers have creative features enabled. These modes disable Minecraft's survival features, allowing players to build cities and other complex structures with an unlimited amount of blocks. Fly mode is enabled as part of the creative mode to allow for easier building and servers allow the use of world editing plugins to make the building process even easier."
+      "desc": "Creative mode servers have creative features enabled. These modes disable Minecraft's survival features, allowing players to build cities and other complex structures with an unlimited amount of blocks. Fly mode is enabled as part of the creative mode to allow for easier building. Servers also allow the use of world editing plugins which makes the building process even easier."
     },
     "mcmmo": {
       "formatted": "McMMO",
