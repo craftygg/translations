@@ -34,7 +34,7 @@
     },
     "creative": {
       "formatted": "حالت خلاق",
-      "desc": "Creative mode servers have creative features enabled. These modes disable Minecraft's survival features, allowing players to build cities and other complex structures with an unlimited amount of blocks. Fly mode is enabled as part of the creative mode to allow for easier building. Servers also allow the use of world editing plugins which makes the building process even easier."
+      "desc": "سرور های حالت خلاق سرور هایی هستند که این حالت بازی ماینکرافت را در خود فعال ساخته‌اند. این حالت خلاق بازیکن را از ویژگی حالت بقاء بیرون می آورد و به بازیکن این اجازه را می دهد که بتوانند شهر ها و دیگر سازه های بزرگ را بدون محدودیت در تعداد و دسترسی به بلاک ها، بسازند. حالت پرواز نیز بخشی از حالت خلاق است که ساخت و ساز را برای بازیکن راحت تر می کنند. همچنین این سرور ها اجازه استفاده از پلاگین های ویرایش دنیا را نیز می دهند که فرایند ساخت و ساز حتی ساده تر از این می شود."
     },
     "mcmmo": {
       "formatted": "McMMO",
@@ -62,7 +62,7 @@
     },
     "vanilla": {
       "formatted": "وانیلا",
-      "desc": "Vanilla servers aim to recreate Minecraft's original survival gameplay in a multiplayer world. Pure vanilla servers use the server software provided directly by Minecraft and don't have any modifications. Semi-vanilla servers use modified server software and may have a small number of plugins, but only to add simple features that don't significantly change gameplay."
+      "desc": "سرور های وانیلا (اصلی و عادی) هدف بر این دارند که گیم پلی بقاء چند نفره ماینکرافت را دست نخورده ارائه دهند. سرور های وانیلا خالص از نرم افزار خود ماینکرافت استفاده می کنند و هیچ تغییری در هیچ چیز بازی عادی ایجاد نشده. البته سرور های نیمه وانیلا هم هستند که با یکسری نرم افزار های تغییر یافته دیگر و پلاگین ها، اجرا می شوند که واقعا تغییر آنچنانی در بازی ایجاد نمی کنند و صرفاً تعدادی ویژگی های کوچکی اضافه کرده‌اند که به طور قابل ملاحظه‌ای گیم پلی بازی تغییر نمی دهند."
     },
     "minigames": {
       "formatted": "مینی‌گیم ها",
