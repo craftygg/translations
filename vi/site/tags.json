@@ -34,7 +34,7 @@
     },
     "creative": {
       "formatted": "Sáng tạo",
-      "desc": "Server sáng tạo sẽ có chế độ sáng tạo được kích hoạt. Kiểu server này sẽ vô hiệu hóa chế độ sinh tồn, cho phép người chơi xây dựng các công trình đồ sộ với số lượng vô hạn tài nguyên. Đi kèm với chế độ sáng tạo là khả năng bay theo mặc định để người chơi có thể dễ dàng di chuyển và một số plugin như World Edit để giúp tiến trình xây dựng dễ dàng hơn."
+      "desc": "Server sáng tạo sẽ có chế độ sáng tạo được kích hoạt. Kiểu server này sẽ vô hiệu hóa chế độ sinh tồn, cho phép người chơi xây dựng các công trình đồ sộ với số lượng vô hạn tài nguyên. Đi kèm với chế độ sáng tạo là khả năng bay theo mặc định để người chơi có thể dễ dàng di chuyển. Server cũng có thể sẽ hỗ trợ một số plugin như World Edit để giúp tiến trình xây dựng dễ dàng hơn."
     },
     "mcmmo": {
       "formatted": "McMMO",

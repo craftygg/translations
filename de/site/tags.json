@@ -2,15 +2,15 @@
   "details": {
     "adventure": {
       "formatted": "Abenteuer",
-      "desc": "Adventure servers extend on the Adventure Minecraft Gamemode where the player has limited interactions with a preset world that is usually custom or player-created. The objective is usually to survive by crafting items and killing mobs while dealing with the challenge of not being able to destroy or place blocks."
+      "desc": "Abenteuer Server erstrecken sich auf den Abenteuer Minecraft Spielmodus, wo der Spieler begrenzte Interaktionen mit einer voreingestellten Welt hat, die üblicherweise benutzerdefiniert oder von Spielern erstellt wurde. Das Ziel besteht in der Regel darin, durch die Herstellung von Gegenständen und das Töten von Mobs zu überleben, während man sich der Herausforderung stellt, Blöcke nicht zerstören und platzieren zu können."
     },
     "anarchy": {
-      "formatted": "Anarchy",
-      "desc": "Anarchy servers often tend to be lawless with minimal land protection and no rules. Some anarchy servers allow cheating such as clients that modify how Minecraft works to give an unfair advantage or fair advantage in an anarchy setting where every player is also cheating. The common objective is to survive and defend from other players and mobs, gather resources, build secure and hidden bases, all within an unforgiving yet nonrestrictive environment where griefing runs rampant."
+      "formatted": "Anarchie",
+      "desc": "Anarchie Server sind oft gesetzlos mit minimalem Landschutz und ohne Regeln. Einige Anarchie Server erlauben cheating wie zum Beispiel Clients, welche die Funktionsweise von Minecraft ändern, um einen unfairen Vorteil oder einen fairen Vorteil in einer Anarchie Einstellung zu bieten, in der jeder Spieler auch cheated. Das gemeinsame Ziel besteht darin, zu überleben und sich vor anderen Spielern und Kreaturen zu verteidigen, Ressourcen zu sammeln um sichere und versteckte Basen bauen, alles in einer unverzeihlichen, aber nicht restriktiven Umgebung, in der die Trauer wütet."
     },
     "battleroyale": {
       "formatted": "Battle Royale",
-      "desc": "Battle Royale servers are for players who wish to test their Minecraft skills against others in a closed-off battle arena that progressively shrinks over time where resources can be found to one-up other players. Battle Royale servers are often inspired by other well know video games such as Fortnite, PUBG, and Call of Duty."
+      "desc": "Battle Royale Server sind für Spieler, die ihre Minecraft Skills gegen andere in einer geschlossenen Kampfarena testen möchten, die im Laufe der Zeit allmählich schrumpft, wo Ressourcen gefunden werden können, um andere Spieler zu überbieten. Battle Royale Server werden oft von anderen bekannten Videospielen wie Fortnite, PUBG und Call of Duty inspiriert."
     },
     "bedwars": {
       "formatted": "BedWars",
@@ -25,7 +25,7 @@
       "desc": "Survival Games is a popular survival PvP (player vs player) Minecraft mini-game gamemode where the objective is to survive using items found throughout the map and defend against other players to be the last standing player."
     },
     "factions": {
-      "formatted": "Factions",
+      "formatted": "Fractions",
       "desc": "Factions servers are competitive PvP servers that let players team up with others by creating or joining existing clans. Faction members work together to build bases, protect their land, gather valuable resources as well as recruit new members. Factions in a server can either become allies and provide support to each other or choose to be enemies and go into battle."
     },
     "economy": {
@@ -33,8 +33,8 @@
       "desc": "Economy servers operate a virtual economy that allows players to earn and spend an in-game currency. Players can make money by mining valuable resources, completing challenges, trading with other players, and selling items in shops. Most servers also display leaderboards to encourage competition among the wealthiest players."
     },
     "creative": {
-      "formatted": "Creative",
-      "desc": "Creative mode servers have creative features enabled. These modes disable Minecraft's survival features, allowing players to build cities and other complex structures with an unlimited amount of blocks. Fly mode is enabled as part of the creative mode to allow for easier building and servers allow the use of world editing plugins to make the building process even easier."
+      "formatted": "Kreativ",
+      "desc": "Creative mode servers have creative features enabled. These modes disable Minecraft's survival features, allowing players to build cities and other complex structures with an unlimited amount of blocks. Fly mode is enabled as part of the creative mode to allow for easier building. Servers also allow the use of world editing plugins which makes the building process even easier."
     },
     "mcmmo": {
       "formatted": "McMMO",
@@ -62,7 +62,7 @@
     },
     "vanilla": {
       "formatted": "Vanilla",
-      "desc": "VVanilla servers aim to recreate Minecraft's original survival gameplay in a multiplayer world. Pure vanilla servers use the server software provided directly by Minecraft and don't have any modifications. Semi-vanilla servers use modified server software and may have a small number of plugins, but only to add simple features that don't significantly change gameplay."
+      "desc": "Vanilla servers aim to recreate Minecraft's original survival gameplay in a multiplayer world. Pure vanilla servers use the server software provided directly by Minecraft and don't have any modifications. Semi-vanilla servers use modified server software and may have a small number of plugins, but only to add simple features that don't significantly change gameplay."
     },
     "minigames": {
       "formatted": "Minigames",

@@ -34,7 +34,7 @@
     },
     "creative": {
       "formatted": "Yaratıcı",
-      "desc": "Yaratıcı mod sunucularında, yaratıcı özellikler etkindir. Bu modlar Minecraft'ın hayatta kalma özelliklerini devre dışı bırakarak oyuncuların sınırsız sayıda blokla şehirler ve diğer karmaşık yapılar inşa etmesine olanak tanır. Uçma modu, daha kolay yapı yapmak için yaratıcı modun bir parçası olarak etkinleştirilir ve sunucular, oluşturma sürecini daha da kolaylaştırmak için dünya düzenleme eklentilerinin kullanılmasına izin verir."
+      "desc": "Yaratıcı mod sunucularında yaratıcı özellikler etkindir. Bu modlar Minecraft'ın hayatta kalma özelliklerini devre dışı bırakarak oyuncuların sınırsız sayıda blokla şehirler ve diğer karmaşık yapılar inşa etmesine olanak tanır. Uçma modu, daha kolay yapı yapmaya izin vermek için yaratıcı modun bir parçası olarak etkinleştirilir. Sunucular ayrıca, yapı yapma sürecini daha da kolaylaştıran dünya düzenleme eklentilerinin kullanımına izin verir."
     },
     "mcmmo": {
       "formatted": "McMMO",
