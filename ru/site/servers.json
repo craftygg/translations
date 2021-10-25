@@ -1,4 +1,13 @@
 {
+  "description": "Описание сервера",
+  "generalInfo": "Основная информация",
+  "additionalInfo": " Дополнительная информация",
+  "about": "Сведения",
+  "serverStatus": "Статус сервера",
+  "serverDetails": "Детальнее о сервере",
+  "status": "статус",
+  "views": "Просмотры",
+  "upvotes": "Голосов \"за\"",
   "find": "Найдите ваш любимый сервер",
   "mcservers": "Сервера Minecraft",
   "servers": "Серверы",
@@ -26,9 +35,15 @@
   "website": "Сайт",
   "listedBy": "Размещен",
   "listedOn": "Добавлен",
-  "lastEdit": "Редактировано",
+  "lastEdit": "Последняя правка",
   "store": "Магазин",
-  "topUpvoters": "Топ голосов за {{Month}}",
+  "topUpvoters": "Топ 10 голосующих за { Month }",
   "noUpvotes": "Пока никто не проголосовал",
-  "country": "Страна"
+  "country": "Страна",
+  "upvoters": "Server Upvoters",
+  "votedXTimes": " Проголосовал { X } раз",
+  "faq": "Часто задаваемые вопросы",
+  "faqSubheader": "Based on what questions players make",
+  "statistics": "Статистика сервера",
+  "viewingStats": "Просмотр статистики по { Type }"
 }
