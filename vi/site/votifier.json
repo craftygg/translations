@@ -1,10 +1,10 @@
 {
-  "header": "Kiểm tra nếu votifier có hoạt động cho máy chủ của bạn hay không bằng việc nhập thông tin máy chủ của bạn ở bên dưới",
+  "header": "Kiểm tra nếu votifier có hoạt động cho server của bạn hay không bằng việc nhập thông tin server của bạn bên dưới",
   "desch1": "Đây là gì?",
-  "descp1": "Thử nghiệm votifier giúp bạn nhận biết được rằng votifier đã được cài đặt vào máy chủ đúng cách hay chưa.",
+  "descp1": "Thử nghiệm votifier giúp bạn nhận biết được rằng votifier đã được cài đặt vào server đúng cách hay chưa.",
   "desch2": "Votifier là gì?",
-  "descp2": "Votifier là một plugin cho máy chủ Minecraft giúp bạn nhận biết được khi người chơi bất kì vote cho máy chủ của bạn trên một danh sách máy chủ, như Crafty.",
+  "descp2": "Votifier là một plugin cho server Minecraft giúp bạn nhận biết được khi người chơi bất kì vote cho server của bạn trên một danh sách server, như Crafty.",
   "desch3": "Nhưng tại sao?",
-  "descp3": "Votifier được dùng bởi quản trị viên máy chủ để trao phần thưởng cho người chơi vote cho máy chủ của họ. Việc vote giúp máy chủ có vị trí cao hơn trên các danh sách máy chủ.",
+  "descp3": "Votifier được dùng bởi quản trị viên server để trao phần thưởng cho người chơi vote cho server của họ. Việc vote giúp server có vị trí cao hơn trên các danh sách server.",
   "test": "Thử"
 }
