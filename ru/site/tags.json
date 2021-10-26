@@ -2,7 +2,7 @@
   "details": {
     "adventure": {
       "formatted": "Adventure",
-      "desc": "Сервера приключений расширяют режим игры Minecraft, где игрок имеет ограниченное взаимодействие с предустановленным миром, обычно настраиваемым или создаваемым игроком. Цель обычно состоит в том, чтобы выжить, создавая предметы и убивая мобов, в то же время сталкиваясь с проблемой невозможности разрушать или размещать блоки."
+      "desc": "Сервера приключений представляют собой режим игры Minecraft, где игрок имеет ограниченное взаимодействие с предустановленным миром. Цель обычно состоит в том, чтобы выжить, создавая предметы и убивая мобов, в то же время сталкиваясь с проблемой невозможности разрушения или размещения блоков."
     },
     "anarchy": {
       "formatted": "Anarchy",
@@ -14,7 +14,7 @@
     },
     "bedwars": {
       "formatted": "BedWars",
-      "desc": "Bedwars - это популярный стратегический PvP (игрок против игрока) мини-игровой режим Minecraft, цель которого состоит в том, чтобы стать последним выжившим игроком (или командой), защищаясь или устраняя противников. Игровой режим Bedwars часто включает в себя кровать, которая должна быть защищена, так как при уничтожении вы больше не возродитесь. Кровати обычно расставляются на островах в небе, где самая большая опасность заключается в том, чтобы не попасть в бездну."
+      "desc": "Bedwars - это популярный стратегический PvP (игрок против игрока) мини-игровой режим Minecraft, цель которого состоит в том, чтобы стать последним выжившим игроком (или командой), защищаясь или устраняя противников. Игровой режим Bedwars часто включает в себя кровать, которая должна быть защищена, так как при уничтожении вы больше не возродитесь. Кровати обычно расставляются на парящих, где самая большая опасность заключается в том, чтобы не упасть в бездну."
     },
     "hungergames": {
       "formatted": "Hunger Games",
@@ -78,23 +78,23 @@
     },
     "parkour": {
       "formatted": "Parkour",
-      "desc": "The objective of Minecraft parkour servers is to complete obstacle courses by running, jumping and climbing from one stage to the next. The courses have different themes and range in difficulty from easy to extremely hard. Parkour servers usually have a timer counting how long it takes to complete each course and show leaderboards of the fastest players."
+      "desc": "Целью серверов паркура Minecraft является усовершенствование навыков самого паркура, бега, прыжков и прочего. Уровни паркура различаются темами и сложностью, где сначала идут простые уровни, а потом уже более сложные. На серверах паркура обычно устанавливаются таймеры на уровнях для учета статистики, за сколько тот или иной уровень был пройден, а также для показа доски лидеров, где показаны лучшие игроки."
     },
     "pve": {
       "formatted": "PvE",
-      "desc": "Player versus environment servers have PvP disabled meaning players cannot fight and do damage to each other. Instead, players must work together and survive against the environment and Minecraft's many hostile mobs."
+      "desc": "На PvE серверах отключен PvP, из чего следует, что игроки не могут наносить урон друг другу. Вместо этого они должны работать сообща и выживать в PvE среде от большинства враждебных мобов Minecraft."
     },
     "skywars": {
       "formatted": "SkyWars",
-      "desc": "Skywars is a PvP minigame where players battle each other on floating islands until only one survivor is remaining. Each player spawns on an individual island, when the game begins players must prepare for battle before crossing to the other islands and fighting. Chests on each island contain useful items including weapons and food, and there is commonly a larger island at the centre of the map with even more resources."
+      "desc": "Skywars - это PvP мини-игра, где игроки сражаются друг с другом на парящих островах до тех пор, пока не останется только один выживший. Каждый игрок появляется на отдельном острове, где после старта игры игроки начинают собирать ресурсы со своего острова, чтобы потом перейти на другие и сразиться с другими игроками. На каждом острове находятся сундуки, которые содержат полезные предметы. На большом же острове, что находится в центре карты, полезных ресурсов еще больше."
     },
     "hardcore": {
       "formatted": "Hardcore",
-      "desc": "Hardcore servers are competitive PvP servers that don't have many rules and aim to make survival extremely difficult. These servers usually allow griefing and don't have any kind of land protection system. Some hardcore servers will even temporarily ban players upon death or not enable natural health regeneration."
+      "desc": "Сервера Hardcore - это PvP сервера, на которых практически нет правил и где выживание чрезвычайно сложное. На этих серверах обычно допускается гриферство и отсутствует возможность привата территории. На одних серверах хардкора даже временно блокируют игроков после смерти, а на других просто отключают возможность регенерации здоровья."
     },
     "kitpvp": {
       "formatted": "KitPvP",
-      "desc": "KitPvP is a competitive gamemode where players choose a kit to equip before going into battle and fighting each other in different areas. Each kit contains a unique set of items, effects and special abilities including weapons and armour that give players different fighting abilities. New and more powerful kits can be unlocked by scoring points and levelling up."
+      "desc": "KitPvP - это игровой режим, в котором игроки перед боем выбирают комплект снаряжения, чтобы сражаться друг с другом на большой территории. Каждый набор содержит уникальный набор предметов, включая оружие и броню, и набор боевых способностей. Новые и более мощные наборы можно открыть, набивая очки и повышая свой уровень."
     }
   }
 }

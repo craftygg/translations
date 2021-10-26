@@ -1,4 +1,13 @@
 {
+  "description": "توضیحات سرور",
+  "generalInfo": "اطلاعات عمومی",
+  "additionalInfo": " اطلاعات بیشتر",
+  "about": "درباره",
+  "serverStatus": "وضعیت سرور",
+  "serverDetails": "جزئیات سرور",
+  "status": "وضعیت",
+  "views": "بازدیدها",
+  "upvotes": "رائ های مثبت",
   "find": "سرور دلخواه خود را پیدا کنید",
   "mcservers": "سرور های ماینکرافت",
   "servers": "سرور ها",
@@ -28,7 +37,13 @@
   "listedOn": "فهرست شده در",
   "lastEdit": "آخرین ویرایش",
   "store": "فروشگاه",
-  "topUpvoters": "بیشترین رائ دهندگان ماه {{Month}}",
+  "topUpvoters": "10 رائ دهنده برتر ماه { Month }",
   "noUpvotes": "هیچ کس هنوز رائ مثبت نداده",
-  "country": "كشور"
+  "country": "كشور",
+  "upvoters": "رائ دهندگان سرور",
+  "votedXTimes": " { X } بار رائ داده",
+  "faq": "سوالات متداول",
+  "faqSubheader": "بر اساس سوالاتی که بازیکنان مطرح می کنند",
+  "statistics": "آمار سرور",
+  "viewingStats": "درحال مشاهده آمار درباره { Type }"
 }

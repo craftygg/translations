@@ -50,7 +50,7 @@
     },
     "prison": {
       "formatted": "Ngục tù",
-      "desc": "Server ngục tù không mang sự hoang dã nhưng có môi trường bao quanh trong một bản đồ dưới dạng nhà tù. Người chơi sẽ bắt đầu ở bậc thấp nhất với công cụ cơ bản và phải kiếm tiền để thăng cấp và trở nên mạnh hơn. Tiền được kiếm thông qua đào khoáng sản ở các mỏ được làm sẵn, càng lên bậc cao, giá trị khoáng sản sẽ tăng dần. Người chơi có thể thách thức nhau trên đấu trường PvP và còn có thể mua đất trong nhà tù để xây dựng căn cứ, cất giữ tài sản."
+      "desc": "Server ngục tù không mang sự hoang vu nhưng có môi trường bao quanh trong một bản đồ dưới dạng nhà tù. Người chơi sẽ bắt đầu ở bậc thấp nhất với công cụ cơ bản và phải kiếm tiền để thăng cấp và trở nên mạnh hơn. Tiền được kiếm thông qua đào khoáng sản ở các mỏ được làm sẵn, càng lên bậc cao, giá trị khoáng sản sẽ tăng dần. Người chơi có thể thách thức nhau trên đấu trường PvP và còn có thể mua đất trong nhà tù để xây dựng căn cứ, cất giữ tài sản."
     },
     "survival": {
       "formatted": "Sinh tồn",
