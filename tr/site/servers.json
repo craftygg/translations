@@ -37,13 +37,13 @@
   "listedOn": "Listelendi",
   "lastEdit": "Son düzenleme",
   "store": "Mağaza",
-  "topUpvoters": "Top 10 Upvoters of { Month }",
+  "topUpvoters": "{ Month } Ayının En Çok Oy Verenleri",
   "noUpvotes": "Henüz hiç kimse oy vermedi",
   "country": "Ülke",
-  "upvoters": "Server Upvoters",
-  "votedXTimes": " Voted { X } times",
-  "faq": "Frequently Asked Questions",
-  "faqSubheader": "Based on what questions players make",
-  "statistics": "Server Statistics",
-  "viewingStats": "Currently viewing statistics about { Type }"
+  "upvoters": "Sunucu Oy Verenleri",
+  "votedXTimes": " { X } kez oy verildi",
+  "faq": "Sıkça Sorulan Sorular",
+  "faqSubheader": "Oyuncuların sorduğu soruları baz alındı",
+  "statistics": "Sunucu İstatistikleri",
+  "viewingStats": "Şu anda { Type } ile ilgili istatistikler görüntüleniyor"
 }
