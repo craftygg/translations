@@ -31,7 +31,7 @@
   "clickTag": "クリックでこのタグが付いているサーバーを表示",
   "ipCopiedTop": "IPをコピーしました",
   "ipCopiedBot": "をコピーしました！",
-  "lastPing": "Last ping",
+  "lastPing": "情報更新",
   "website": "ウェブサイト",
   "listedBy": "Listed by",
   "listedOn": "Listed on",
@@ -41,9 +41,9 @@
   "noUpvotes": "まだ誰も高評価していません",
   "country": "国",
   "upvoters": "Server Upvoters",
-  "votedXTimes": " Voted { X } times",
-  "faq": "Frequently Asked Questions",
+  "votedXTimes": " { X } 回投票",
+  "faq": "よくある質問",
   "faqSubheader": "Based on what questions players make",
-  "statistics": "Server Statistics",
+  "statistics": "サーバー統計情報",
   "viewingStats": "Currently viewing statistics about { Type }"
 }
