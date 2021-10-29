@@ -8,10 +8,10 @@
   "report": "Reportar",
   "location": "Ubicación",
   "adv": "Búsqueda avanzada",
-  "advOptions": "Advanced Options",
-  "search": "Search",
+  "advOptions": "Opciones avanzadas",
+  "search": "Buscar",
   "highlow": "High to Low",
   "lowhigh": "Low to High",
-  "sortBy": "Sort by",
+  "sortBy": "Clasificar por",
   "orderBy": "Order by"
 }
