@@ -10,8 +10,8 @@
   "adv": "Búsqueda avanzada",
   "advOptions": "Opciones avanzadas",
   "search": "Buscar",
-  "highlow": "High to Low",
-  "lowhigh": "Low to High",
+  "highlow": "Descendente",
+  "lowhigh": "Ascendente",
   "sortBy": "Clasificar por",
-  "orderBy": "Order by"
+  "orderBy": "Ordenar por"
 }
