@@ -1,11 +1,11 @@
 {
   "details": {
     "adventure": {
-      "formatted": "Adventure",
-      "desc": "Adventure servers extend on the Adventure Minecraft Gamemode where the player has limited interactions with a preset world that is usually custom or player-created. The objective is usually to survive by crafting items and killing mobs while dealing with the challenge of not being able to destroy or place blocks."
+      "formatted": "Aventura",
+      "desc": "Los servidores de aventura expanden el modo de juego Aventura de Minecraft en el cuál el jugador tiene interacciones limitadas con un mundo predeterminado que es usualmente personalizado o creado por jugadores. Usualmente, el objetivo es sobrevivir crafteando objetos y matando mobs mientras enfrentas el reto de no poder romper o poner bloques."
     },
     "anarchy": {
-      "formatted": "Anarchy",
+      "formatted": "Anarquía",
       "desc": "Anarchy servers often tend to be lawless with minimal land protection and no rules. Some anarchy servers allow cheating such as clients that modify how Minecraft works to give an unfair advantage or fair advantage in an anarchy setting where every player is also cheating. The common objective is to survive and defend from other players and mobs, gather resources, build secure and hidden bases, all within an unforgiving yet nonrestrictive environment where griefing runs rampant."
     },
     "battleroyale": {
