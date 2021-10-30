@@ -38,12 +38,12 @@
   "lastEdit": "Laatst bewerkt",
   "store": "Winkel",
   "topUpvoters": "Top 10 Stemmers van { Month }",
-  "noUpvotes": "No one has upvoted yet",
-  "country": "Country",
-  "upvoters": "Server Upvoters",
-  "votedXTimes": " Voted { X } times",
-  "faq": "Frequently Asked Questions",
-  "faqSubheader": "Based on what questions players make",
-  "statistics": "Server Statistics",
-  "viewingStats": "Currently viewing statistics about { Type }"
+  "noUpvotes": "Er heeft nog niemand gestemd",
+  "country": "Land",
+  "upvoters": "Server Stemmers",
+  "votedXTimes": " Stemde { X } keer",
+  "faq": "Veelgestelde Vragen",
+  "faqSubheader": "Gebaseerd op welke vragen spelers maken",
+  "statistics": "Server Statistieken",
+  "viewingStats": "Momenteel kijkend naar statistieken over { Type }"
 }
