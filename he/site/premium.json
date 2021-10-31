@@ -23,7 +23,7 @@
   },
   "ruby": {
     "customImage": "היכולת להוסיף תמונה מותאמת אישית בדף השרת שלך",
-    "serverDescription": "הגבלת התווים של תיאור השרת ל-1,000 תווים (במקום 350)",
+    "serverDescription": "Server description character limit bump to 1,500 characters (instead of 500)",
     "moreTags": "הוסף עד 9 תגים בשרת שלך (במקום 5)",
     "access": "גישה מיוחדת לרובי בשרת הדיסקורד של Crafty",
     "icon": "סמליל בפרופיל ה-crafty.gg שלך",
