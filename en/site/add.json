@@ -1,0 +1,40 @@
+{
+  "server": {
+    "success": "Success!",
+    "backToHome": "Back to home",
+    "viewServer": "View Server",
+    "failed": "Failed",
+    "failed1": "Something went wrong! The error has been copied to your clipboard, join our discord by clicking here and paste the error in #support and we'll help you out!",
+    "tryAgain": "Try again",
+    "stepProgress": "Step { Step } out of 3",
+    "header": "List a new Minecraft Server on Crafty",
+    "verification": "Verification",
+    "tellMore": "Tell us more about { Name }",
+    "serverName": "Server Name",
+    "serverIp": "Server IP",
+    "serverPort": "Server Port",
+    "type": "Type/Platform",
+    "ping": "PING TO PROCEED",
+    "verificationMethod": "Verification Method",
+    "motdInstructions": "In your Server MOTD please include the following code to verify that you own or manage the server you are trying to add",
+    "txtInstructions": "In your DNS settings, create a TXT record to { Code } and in the content add the following code",
+    "note": " Please note that DNS takes a little while to update, so keep checking every few seconds",
+    "verified": "Verified",
+    "tags": "Tags",
+    "languages": "Language(s)",
+    "maxLanguages": "Max 3 Languages",
+    "version": "Version",
+    "short": "Short Description",
+    "long": "Long Description",
+    "charsRemaining": "characters remaining",
+    "descLimit": "(max { Number } characters)",
+    "website": "Website",
+    "previous": "Previous",
+    "next": "Next",
+    "complete": "Complete",
+    "errors": {
+      "loggedIn": "You must be logged in to list your server on Crafty. Sign in on the top right corner of the site.",
+      "offline": "Your server is offline. Ensure it is online before submitting it again."
+    }
+  }
+}
