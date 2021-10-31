@@ -23,7 +23,7 @@
   },
   "ruby": {
     "customImage": "قابلیت افزودن یک عکس سفارشی در صفحه سرور خودتان",
-    "serverDescription": "Server description character limit bump to 1,500 characters (instead of 500)",
+    "serverDescription": "افزایش محدودیت نوشتن توضیحات تا 1500 کاراکتر (به جای 500 تا)",
     "moreTags": "اضافه کردن 9 عدد تگ به سرورتان (به جای 5 تا)",
     "access": "دسترسی ویژه یاقوت در سرور دیسکورد کرفتی",
     "icon": "آیکن روی پروفایل crafty.gg خودتان",
