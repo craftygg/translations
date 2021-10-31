@@ -18,23 +18,23 @@
     "verificationMethod": "Phương pháp xác minh",
     "motdInstructions": "Trong MOTD của server bạn, vui lòng thêm mã sau để xác nhận bạn là chủ sở hữu hoặc là quản lí của server mà bạn đang thêm",
     "txtInstructions": "Trong cài đặt DNS của bạn, tạo một file TXT đến { Code } và thêm mã sau vào phần nội dung",
-    "note": " Please note that DNS takes a little while to update, so keep checking every few seconds",
-    "verified": "Verified",
-    "tags": "Tags",
-    "languages": "Language(s)",
-    "maxLanguages": "Max 3 Languages",
-    "version": "Version",
-    "short": "Short Description",
-    "long": "Long Description",
-    "charsRemaining": "characters remaining",
-    "descLimit": "(max { Number } characters)",
+    "note": " Xin nhớ rằng DNS cần chút thời gian để cập nhật, vì vậy hãy liên tục kiểm tra",
+    "verified": "Đã xác minh",
+    "tags": "Thẻ",
+    "languages": "Ngôn ngữ",
+    "maxLanguages": "Tối đa 3 ngôn ngữ",
+    "version": "Phiên bản",
+    "short": "Giới thiệu ngắn",
+    "long": "Mô tả chi tiết",
+    "charsRemaining": "kí tự còn lại",
+    "descLimit": "(tối đa { Number } kí tự)",
     "website": "Website",
-    "previous": "Previous",
-    "next": "Next",
-    "complete": "Complete",
+    "previous": "Trước",
+    "next": "Tiếp",
+    "complete": "Hoàn tất",
     "errors": {
-      "loggedIn": "You must be logged in to list your server on Crafty. Sign in on the top right corner of the site.",
-      "offline": "Your server is offline. Ensure it is online before submitting it again."
+      "loggedIn": "Bạn phải đăng nhập trước khi thêm server của bạn vào Crafty. Đăng nhập ở nút phía trên bên phải của trang.",
+      "offline": "Server của bạn đang ngoại tuyến. Hãy chắc chắn rằng nó đang trực tuyến và đăng tải lên lại."
     }
   }
 }
