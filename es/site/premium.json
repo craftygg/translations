@@ -23,7 +23,7 @@
   },
   "ruby": {
     "customImage": "Añade una imagen personalizada en la página de tu servidor",
-    "serverDescription": "1000 caracteres de límite en la descripción de tu servidor (en lugar de 350)",
+    "serverDescription": "Server description character limit bump to 1,500 characters (instead of 500)",
     "moreTags": "Añade hasta 9 palabras clave de búsqueda para tu servidor (en lugar de 5)",
     "access": "Acceso especial de Rubí en el servidor de Discord de Crafty",
     "icon": "Icono de rubí en tu perfil de crafty.gg",
