@@ -23,7 +23,7 @@
   },
   "ruby": {
     "customImage": "Sunucu sayfanıza özel bir resim ekleme özelliği",
-    "serverDescription": "Sunucu açıklaması karakter sınırı 1.000 karakter olur (350 yerine)",
+    "serverDescription": "Server description character limit bump to 1,500 characters (instead of 500)",
     "moreTags": "Sunucunuza en fazla 9 etiket ekleyin (5 yerine)",
     "access": "Crafty Discord sunucusunda özel Ruby erişimi",
     "icon": "simgesi crafty.gg profilinde gözükür",
