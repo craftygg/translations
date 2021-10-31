@@ -23,7 +23,7 @@
   },
   "ruby": {
     "customImage": "Возможность добавления пользовательского изображения на странице вашего сервера",
-    "serverDescription": "Увеличение количества символов в описании вашего сервера до 1000 (вместо 350)",
+    "serverDescription": "Server description character limit bump to 1,500 characters (instead of 500)",
     "moreTags": "Добавление до 9 тегов для вашего сервера (вместо 5)",
     "access": "Специальный Ruby доступ на Discord сервере Crafty",
     "icon": "значок в вашем crafty.gg профиле",
