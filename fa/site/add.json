@@ -1,9 +1,9 @@
 {
   "server": {
-    "success": "Success!",
-    "backToHome": "Back to home",
-    "viewServer": "View Server",
-    "failed": "Failed",
+    "success": "با موفقیت انجام شد!",
+    "backToHome": "بازگشت به صفحه اصلی",
+    "viewServer": "مشاهده سرور",
+    "failed": "انجام نشد",
     "failed1": "Something went wrong! The error has been copied to your clipboard, join our discord by clicking here and paste the error in #support and we'll help you out!",
     "tryAgain": "Try again",
     "stepProgress": "Step { Step } out of 3",
