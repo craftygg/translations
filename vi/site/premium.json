@@ -23,7 +23,7 @@
   },
   "ruby": {
     "customImage": "Khả năng thêm một ảnh tự chọn trên trang server của bạn",
-    "serverDescription": "Mô tả server được nâng lên đến 1,000 kí tự (thay vì 350 trước đó)",
+    "serverDescription": "Server description character limit bump to 1,500 characters (instead of 500)",
     "moreTags": "Thêm đến 9 nhãn cho server của bạn (thay vì 5)",
     "access": "Truy cập quyền hạn Ruby đặc biệt trên Discord của Crafty",
     "icon": "icon nhỏ trên trang cá nhân crafty.gg của bạn",
