@@ -1,9 +1,9 @@
 {
-  "home": "home",
+  "home": "startpagina",
   "news": "Nieuws",
-  "articles": "Articles",
+  "articles": "Artikelen",
   "more": "Meer",
-  "tools": "Tools",
+  "tools": "Hulpmiddelen",
   "bot": "Crafty Bot",
   "viewProfile": "Profiel bekijken",
   "settings": "Instellingen",
@@ -11,5 +11,5 @@
   "myUpvotes": "Mijn Upvotes",
   "signOut": "Uitloggen",
   "help": "Help",
-  "signIn": "Sign in"
+  "signIn": "Aanmelden"
 }

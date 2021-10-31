@@ -1,100 +1,100 @@
 {
   "details": {
     "adventure": {
-      "formatted": "Adventure",
-      "desc": "Adventure servers extend on the Adventure Minecraft Gamemode where the player has limited interactions with a preset world that is usually custom or player-created. The objective is usually to survive by crafting items and killing mobs while dealing with the challenge of not being able to destroy or place blocks."
+      "formatted": "Avontuur",
+      "desc": "Avontuurlijke servers breiden zich uit in de Avontuur Minecraft spelmodus waar de speler beperkte interacties heeft met een vooraf ingestelde wereld die meestal aangepast of gemaakt is door spelers. Het doel is meestal om te overleven door voorwerpen te maken en mobs te doden, terwijl we de uitdaging aangaan dat we geen blokken kunnen vernietigen of plaatsen."
     },
     "anarchy": {
-      "formatted": "Anarchy",
-      "desc": "Anarchy servers often tend to be lawless with minimal land protection and no rules. Some anarchy servers allow cheating such as clients that modify how Minecraft works to give an unfair advantage or fair advantage in an anarchy setting where every player is also cheating. The common objective is to survive and defend from other players and mobs, gather resources, build secure and hidden bases, all within an unforgiving yet nonrestrictive environment where griefing runs rampant."
+      "formatted": "Anarchie",
+      "desc": "Anarchie servers zijn vaak wetteloos met minimale landbescherming en geen regels. Sommige anarchie servers maken het mogelijk om te knoeien met bijvoorbeeld programma's die aanpassen hoe Minecraft werkt om een oneerlijk voordeel of eerlijk voordeel te geven in een anarchie instelling waar elke speler ook valsspeelt. Het gemeenschappelijke doel is om te overleven en jezelf te verdedigen tegen andere spelers en mobs, om hulpbronnen te verzamelen, om een veilige en verborgen basis te bouwen, allemaal binnen een meedogenloze, maar niet-beperkende omgeving waar griefen welig tiert."
     },
     "battleroyale": {
       "formatted": "Battle Royale",
-      "desc": "Battle Royale servers are for players who wish to test their Minecraft skills against others in a closed-off battle arena that progressively shrinks over time where resources can be found to one-up other players. Battle Royale servers are often inspired by other well know video games such as Fortnite, PUBG, and Call of Duty."
+      "desc": "Battle Royale servers zijn voor spelers die hun Minecraft-vaardigheden willen testen tegen anderen in een gesloten gevechtsarena die geleidelijk krimpt waar grondstoffen kunnen worden gevonden om het tegen andere spelers op te nemen. De Battle Royale servers zijn vaak geïnspireerd door andere videospellen zoals Fortnite, PUBG en Call of Duty."
     },
     "bedwars": {
       "formatted": "BedWars",
-      "desc": "Bedwars is a popular strategic PvP (player vs player) Minecraft mini-game gamemode where the objective is to be the last player (or team) alive by either defending or eliminating the opponents. The Bedwars gamemode often involves a bed that must be protected as when it's destroyed you no longer respawn. Bedwars is usually set on islands in the sky where the biggest danger is to not fall into the bottomless void."
+      "desc": "Bedwars is een populaire strategische PvP (speler vs speler) Minecraft mini-spelmodus waar het doel is om de laatste speler (of team) te zijn door of te verdedigen of het elimineren van de tegenstanders. Het Bedwars speltype omvat vaak een bed dat beschermd moet worden, wanneer het vernietigd is, kun je niet meer respawnen. Bedwars ligt meestal op eilanden in de lucht waar het grootste gevaar bestaat uit het niet in de bodemloze leegte te vallen."
     },
     "hungergames": {
       "formatted": "Hunger Games",
-      "desc": "Hunger Games is a popular survival PvP (player vs player) Minecraft mini-game gamemode where the objective is to survive using items found throughout the map and defend against other players to be the last standing player."
+      "desc": "Hunger Games is een populaire overlevings-PvP (speler vs speler) Minecraft mini-game spelmodus, waar het doel is om te overleven met behulp van voorwerpen die gevonden zijn in het spel en het verdedigen tegen andere spelers om de laatste overlevende speler te zijn."
     },
     "survivalgames": {
       "formatted": "Survival Games",
-      "desc": "Survival Games is a popular survival PvP (player vs player) Minecraft mini-game gamemode where the objective is to survive using items found throughout the map and defend against other players to be the last standing player."
+      "desc": "Survival Games is een populaire overlevings-PvP (speler vs speler) Minecraft mini-game spelmodus, waar het doel is om te overleven met behulp van voorwerpen die gevonden zijn in het spel en het verdedigen tegen andere spelers om de laatste overlevende speler te zijn."
     },
     "factions": {
       "formatted": "Factions",
-      "desc": "Factions servers are competitive PvP servers that let players team up with others by creating or joining existing clans. Faction members work together to build bases, protect their land, gather valuable resources as well as recruit new members. Factions in a server can either become allies and provide support to each other or choose to be enemies and go into battle."
+      "desc": "Factions servers zijn competitieve PvP servers die spelers in een team laten werken door bestaande clans te creëren of erbij aan te sluiten. Factions leden werken samen om een basis te bouwen, hun land te beschermen, waardevolle grondstoffen te verzamelen en nieuwe leden te werven. Factions in een server kunnen of bondgenoten worden en elkaar ondersteunen of vijanden kiezen en in gevecht gaan."
     },
     "economy": {
       "formatted": "Economy",
-      "desc": "Economy servers operate a virtual economy that allows players to earn and spend an in-game currency. Players can make money by mining valuable resources, completing challenges, trading with other players, and selling items in shops. Most servers also display leaderboards to encourage competition among the wealthiest players."
+      "desc": "Economy servers beheren een virtuele economie die spelers in staat stelt een in-game valuta te verdienen en te besteden. Spelers kunnen geld verdienen door waardevolle bronnen te delven, uitdagingen te voltooien, met andere spelers te handelen en voorwerpen te verkopen in winkels. De meeste servers tonen ook leaderboards om concurrentie tussen de rijkste spelers te stimuleren."
     },
     "creative": {
       "formatted": "Creative",
-      "desc": "Creative mode servers have creative features enabled. These modes disable Minecraft's survival features, allowing players to build cities and other complex structures with an unlimited amount of blocks. Fly mode is enabled as part of the creative mode to allow for easier building. Servers also allow the use of world editing plugins which makes the building process even easier."
+      "desc": "Creative modus servers hebben creatieve functies ingeschakeld. Deze modus schakelt de overlevingsfuncties van Minecraft uit, waardoor spelers steden en andere complexe structuren met een onbeperkte hoeveelheid blokken kunnen bouwen. Vliegmodus is ingeschakeld als onderdeel van de creatieve modus om gemakkelijker te bouwen. Servers maken het ook mogelijk om plugins te bewerken die het bouwproces nog makkelijker maken."
     },
     "mcmmo": {
       "formatted": "McMMO",
-      "desc": "McMMO is a plugin that adds RPG style features to Minecraft's normal survival gameplay. It allows players to earn experience and level up by doing actions or using tools. By reaching higher levels, they can gain bonuses such as double item drops. Experience can be earned in all sorts of ways from mining and woodcutting to archery and alchemy."
+      "desc": "McMMO is een plugin die RPG functies toevoegt aan de normale Survival-gameplay van Minecraft. Het stelt spelers in staat om ervaring te verdienen en een hoger niveau te bereiken door acties te ondernemen of gereedschap te gebruiken. Door hogere niveaus te bereiken, kunnen ze bonussen krijgen zoals dat de voorwerpen twee keer zo vaak vallen. Ervaring kan op allerlei manieren worden opgedaan, van delven en houtkappen tot aan de alchemie."
     },
     "skyblock": {
-      "formatted": "Skyblock",
-      "desc": "Skyblock servers are multiplayer versions of the original Skyblock survival map. Each player spawns on a small floating island with limited resources and must think creatively to gather materials, expand the island and survive. The majority of Skyblock servers include economic features such as the ability to buy and sell items with in-game currency and leaderboards of the wealthiest players."
+      "formatted": "SkyBlock",
+      "desc": "Skyblock servers zijn multiplayer versies van de originele Skyblock survival map. Elke speler spawnt op een klein zwevend eiland met beperkte grondstoffen en moet creatief denken om materialen te verzamelen, het eiland uitbreiden en overleven. De meeste Skyblock servers bevatten economische functies zoals de mogelijkheid om items te kopen en verkopen met in-game valuta en leaderboards van de rijkste spelers."
     },
     "pvp": {
       "formatted": "PvP",
-      "desc": "Minecraft servers with PvP enabled allow players to fight and do damage against each other. PvP servers include a huge variety of different gamemodes from vanilla survival and factions to battle royale style minigames and KitPvP. Players must survive against not only the environment and hostile mobs but also any enemy players. Some servers have PvP enabled throughout the entire map while others have safe zones such as spawn where players can't fight."
+      "desc": "Minecraft-servers met PvP ingeschakeld staan spelers toe te vechten en schade aan elkaar toe te brengen. PvP servers bevatten een enorme verscheidenheid aan verschillende spelmodi van vanilla survival en factions tot het vechten van minigames en KitPvP. Spelers moeten niet alleen tegen de omgeving en de vijandige mobs overleven, maar ook tegen alle vijandelijke spelers. Sommige servers hebben PvP ingeschakeld in de hele kaart, terwijl andere veilige zones zoals spawn hebben waar spelers niet kunnen vechten."
     },
     "prison": {
       "formatted": "Prison",
-      "desc": "Prison servers don't have any wilderness and are instead set entirely within a prison-themed map. Players start at the lowest rank with basic tools and must earn money to rank up and become more powerful. Money is earned by mining resources at predesignated mines, and new mines with more valuable resources are unlocked by ranking up. Players can challenge each other to battle in PvP arenas and even buy plots of land inside the prison to build a base and store valuables."
+      "desc": "Prison servers hebben geen wilde natuur en zijn in plaats daarvan volledig in een gevangenis-thema kaart. Spelers beginnen bij de laagste rang met basisgereedschappen en moeten geld verdienen om hoger te worden in rang en sterker te worden. Geld wordt verdiend door delven van grondstoffen in vooraf aangewezen mijnen, en nieuwe mijnen met waardevollere grondstoffen worden ontgrendeld door de rangschikking. Spelers kunnen elkaar uitdagen om in PvP arena's te vechten en zelfs percelen land in de gevangenis te kopen om een basis en waarde op te slaan."
     },
     "survival": {
       "formatted": "Survival",
-      "desc": "Survival is the default Minecraft gamemode where players explore the wilderness and gather resources to survive in a hostile environment. Some survival servers are vanilla and don't change normal gameplay, while others use plugins and mods to add extra features such as an in-game economy and player-run towns. Survival servers may also have PvP enabled, meaning players need to survive against hostile mobs and enemy players."
+      "desc": "Survival is de standaard Minecraft spelmodus waar spelers de wildernis verkennen en grondstoffen verzamelen om te overleven in een vijandige omgeving. Sommige overlevingsservers zijn vanilla en veranderen niet de normale gameplay, terwijl anderen plug-ins en mods gebruiken om extra functies toe te voegen, zoals een in-game economie en speler-onderhoudende steden. Overlevingsservers kunnen ook PvP ingeschakeld hebben, dat betekent dat spelers moeten overleven tegen vijandige mobs en vijandelijke spelers."
     },
     "towny": {
       "formatted": "Towny",
-      "desc": "Towny servers are land management orientated, players can own plots of land and create a town by working together and inviting other players. New players can either join an existing town or create their own, and each town has a mayor who is in charge of managing the residents and setting the rules. Towny also adds economic features including town banks, the ability to purchase land with in-game currency and a taxation system."
+      "desc": "Towny servers zijn georiënteerd op landbeheer, spelers kunnen eigen landpercelen hebben en een stad creëren door samen te werken en andere spelers uit te nodigen. Nieuwe spelers kunnen zich aansluiten bij een bestaande stad of er zelf een creëren en elke stad heeft een burgemeester die verantwoordelijk is voor het beheer van de bewoners en het vaststellen van de regels. Towny voegt ook economische functies toe, waaronder stadsbanken, de mogelijkheid om land te kopen met munteenheid in het spel en een belastingstelsel."
     },
     "vanilla": {
       "formatted": "Vanilla",
-      "desc": "Vanilla servers aim to recreate Minecraft's original survival gameplay in a multiplayer world. Pure vanilla servers use the server software provided directly by Minecraft and don't have any modifications. Semi-vanilla servers use modified server software and may have a small number of plugins, but only to add simple features that don't significantly change gameplay."
+      "desc": "Vanilla servers zijn bedoeld om de oorspronkelijke overlevingsgameplay van Minecraft te hergebruiken in een multiplayerwereld. Pure vanilla servers gebruiken de server software die rechtstreeks door Minecraft wordt geleverd en hebben geen wijzigingen. Semi-vanilla servers gebruiken aangepaste server software en hebben mogelijk een klein aantal plugins, maar alleen om eenvoudige functies toe te voegen die geen significante verandering in de gameplay."
     },
     "minigames": {
       "formatted": "Minigames",
-      "desc": "Minigames servers offer a variety of fun gamemodes that can all be played from within a single server. Players join a central lobby and then select the individual minigame that they want to play. Some are competitive and involve PvP while other games require teamwork and cooperation. Popular minigames include Hide and Seek, Capture the Flag, Spleef and Bedwars."
+      "desc": "Minigames servers bieden een verscheidenheid aan leuke gamemodes die allemaal kunnen worden gespeeld binnen een enkele server. Spelers nemen deel aan een centrale lobby en selecteren vervolgens de individuele minigame die ze willen spelen. Sommige zijn competitief en betrekken PvP terwijl andere spellen teamwerk en samenwerking vereisen. Populaire minigames zijn Hide en Seek, Capture the Flag, Spleef en Bedwars."
     },
     "roleplay": {
       "formatted": "RolePlay",
-      "desc": "Minecraft servers based around roleplaying encourage players to take on the role of a completely different character and immerse themselves in a fantasy world. Roleplay servers are often heavily modified and use custom plugins and pre-built custom or player-made maps to give the server a specific theme."
+      "desc": "Minecraft servers gebaseerd op rollenspel moedigen spelers aan om de rol van een compleet ander karakter op zich te nemen en zichzelf in een fantasiewereld te meten. Roleplay servers zijn vaak sterk aangepast en gebruiken aangepaste plug-ins en vooraf ingebouwde of speler-gemaakte kaarten om de server een specifiek thema te geven."
     },
     "pixelmon": {
       "formatted": "Pixelmon",
-      "desc": "Minecraft servers running the multiplayer version of the Pixelmon mod. Pixelmon aims to recreate Pokemon gameplay within Minecraft by adding hundreds of different species of Pokemon that randomly spawn throughout the world and can be captured by players. The mod also adds realistic Pokemon battle mechanics, gyms complete with NPC trainers and a fully functional Pokedex."
+      "desc": "Minecraft servers draaien de multiplayer versie van de Pixelmon mod. Pixelmon heeft als doel om Pokemon gameplay binnen Minecraft opnieuw te maken door honderden verschillende soorten Pokemon toe te voegen die willekeurig spawnen over de hele wereld en kunnen worden gevangen door spelers. De mod voegt ook realistische Pokemon-gevechtsmechanismen, fitnesscentra compleet met NPC-trainers en een volledig functionele Pokedex toe."
     },
     "parkour": {
       "formatted": "Parkour",
-      "desc": "The objective of Minecraft parkour servers is to complete obstacle courses by running, jumping and climbing from one stage to the next. The courses have different themes and range in difficulty from easy to extremely hard. Parkour servers usually have a timer counting how long it takes to complete each course and show leaderboards of the fastest players."
+      "desc": "Het doel van de Minecraft parkour servers is om trajecten te voltooien door van het ene stadium naar het andere te rennen, te springen en te klimmen. De trajecten hebben verschillende thema's en variëren van gemakkelijk tot uiterst moeilijk. Parkour servers hebben meestal een timer die aangeeft hoe lang het duurt om elk traject af te maken en hoe hoog de scoreborden van de snelste spelers zijn."
     },
     "pve": {
       "formatted": "PvE",
-      "desc": "Player versus environment servers have PvP disabled meaning players cannot fight and do damage to each other. Instead, players must work together and survive against the environment and Minecraft's many hostile mobs."
+      "desc": "Speler tegen omgeving servers hebben PvP uitgeschakeld, dat betekent dat spelers niet kunnen vechten en geen schade aan elkaar kunnen doen. In plaats daarvan moeten spelers samenwerken en overleven tegen het milieu en de vele vijandige mobs van Minecraft."
     },
     "skywars": {
       "formatted": "SkyWars",
-      "desc": "Skywars is a PvP minigame where players battle each other on floating islands until only one survivor is remaining. Each player spawns on an individual island, when the game begins players must prepare for battle before crossing to the other islands and fighting. Chests on each island contain useful items including weapons and food, and there is commonly a larger island at the centre of the map with even more resources."
+      "desc": "Skywars is een PvP minigame waar spelers elkaar bevechten op zwevende eilanden totdat er maar één overlevende overblijft. Elke speler spawnt op een individueel eiland, wanneer het spel begint, moet je je voorbereiden op de strijd voordat je naar de andere eilanden oversteekt en vecht. Kisten op elk eiland bevatten nuttige voorwerpen zoals wapens en voedsel, en over het algemeen bevindt zich een groter eiland in het hart van de spelmap met nog meer hulpbronnen."
     },
     "hardcore": {
       "formatted": "Hardcore",
-      "desc": "Hardcore servers are competitive PvP servers that don't have many rules and aim to make survival extremely difficult. These servers usually allow griefing and don't have any kind of land protection system. Some hardcore servers will even temporarily ban players upon death or not enable natural health regeneration."
+      "desc": "Hardcore servers zijn competitieve PvP-servers die niet veel regels hebben en die overleving extreem moeilijk willen maken. Deze servers staan meestal griefen toe en hebben geen enkel systeem voor landbescherming. Sommige hardcore servers zullen spelers zelfs tijdelijk verbannen bij de dood of geen herstel van de natuurlijke gezondheid mogelijk maken."
     },
     "kitpvp": {
       "formatted": "KitPvP",
-      "desc": "KitPvP is a competitive gamemode where players choose a kit to equip before going into battle and fighting each other in different areas. Each kit contains a unique set of items, effects and special abilities including weapons and armour that give players different fighting abilities. New and more powerful kits can be unlocked by scoring points and levelling up."
+      "desc": "KitPvP is een competitieve spelmodus waarbij spelers een set kiezen om uit te rusten voordat ze in de strijd tegen elkaar gaan en elkaar vechten in verschillende gebieden. Elke uitrusting bevat een unieke set voorwerpen, effecten en speciale vaardigheden, waaronder wapens en uitrusting die spelers verschillende gevechtsvaardigheden geven. Nieuwe en meer krachtige uitrustingen kunnen worden ontgrendeld door het scoren van punten en hoger in rang te komen."
     }
   }
 }

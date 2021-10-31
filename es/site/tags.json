@@ -1,32 +1,32 @@
 {
   "details": {
     "adventure": {
-      "formatted": "Adventure",
-      "desc": "Adventure servers extend on the Adventure Minecraft Gamemode where the player has limited interactions with a preset world that is usually custom or player-created. The objective is usually to survive by crafting items and killing mobs while dealing with the challenge of not being able to destroy or place blocks."
+      "formatted": "Aventura",
+      "desc": "Los servidores de aventura expanden el modo de juego Aventura de Minecraft en el cuál el jugador tiene interacciones limitadas con un mundo predeterminado que es usualmente personalizado o creado por jugadores. Usualmente, el objetivo es sobrevivir crafteando objetos y matando mobs mientras enfrentas el reto de no poder romper o poner bloques."
     },
     "anarchy": {
-      "formatted": "Anarchy",
-      "desc": "Anarchy servers often tend to be lawless with minimal land protection and no rules. Some anarchy servers allow cheating such as clients that modify how Minecraft works to give an unfair advantage or fair advantage in an anarchy setting where every player is also cheating. The common objective is to survive and defend from other players and mobs, gather resources, build secure and hidden bases, all within an unforgiving yet nonrestrictive environment where griefing runs rampant."
+      "formatted": "Anarquía",
+      "desc": "Los servidores anárquicos tienden a carecer de leyes y cuentan con apenas una mínima protección de terreno, aquí no hay reglas. Algunos servidores anárquicos permiten trampas como Clientes que modifican la forma en la que Minecraft funciona para dar una ventaja justa o injusta en un marco de anarquía en el que los otros jugadores también están haciendo trampa. El objetivo común es sobrevivir y defenderse de los otros jugadores y monstruos, recolectar recursos, construir bases seguras y secretas, todo inmerso en un ambiente despiadado pero no restrictivo de destrucción descontrolada."
     },
     "battleroyale": {
       "formatted": "Battle Royale",
-      "desc": "Battle Royale servers are for players who wish to test their Minecraft skills against others in a closed-off battle arena that progressively shrinks over time where resources can be found to one-up other players. Battle Royale servers are often inspired by other well know video games such as Fortnite, PUBG, and Call of Duty."
+      "desc": "Los servidores de Battle Royale (batalla campal) son para jugadores que desean poner a prueba sus habilidades de Minecraft contra otros en una arena cerrada que progresivamente se achica con el tiempo y en donde los recursos pueden dar una gran ventaja sobre los otros jugadores. Los servidores de Battle Royale suelen inspirarse en otros juegos populares como Fortnite, PUBG y Call of Duty."
     },
     "bedwars": {
       "formatted": "BedWars",
-      "desc": "Bedwars is a popular strategic PvP (player vs player) Minecraft mini-game gamemode where the objective is to be the last player (or team) alive by either defending or eliminating the opponents. The Bedwars gamemode often involves a bed that must be protected as when it's destroyed you no longer respawn. Bedwars is usually set on islands in the sky where the biggest danger is to not fall into the bottomless void."
+      "desc": "Bedwars es un popular y estratégico mini-juego PvP (jugador vs jugador) de Minecraft en el que el objetivo es ser el último jugador (o equipo) con vida, sea defendiendo o eliminando a los oponentes. El modo de juego Bedwars suele involucrar una cama que debe ser protegida ya que cuando es destruida no puedes volver a aparecer. Bedwars usualmente se lleva a cabo en islas en el cielo donde el mayor peligro es caer en el vacío sin fondo."
     },
     "hungergames": {
-      "formatted": "Hunger Games",
-      "desc": "Hunger Games is a popular survival PvP (player vs player) Minecraft mini-game gamemode where the objective is to survive using items found throughout the map and defend against other players to be the last standing player."
+      "formatted": "Juegos del Hambre",
+      "desc": "Los Juegos del Hambre es un popular PvP (jugador vs jugador) de supervivencia de Minecraft en el que el objetivo es sobrevivir usando objetos que se encuentran distribuidos en el mapa y defenderse de otros jugadores para ser el último jugador en pie."
     },
     "survivalgames": {
-      "formatted": "Survival Games",
-      "desc": "Survival Games is a popular survival PvP (player vs player) Minecraft mini-game gamemode where the objective is to survive using items found throughout the map and defend against other players to be the last standing player."
+      "formatted": "Juegos de Supervivencia",
+      "desc": "Juegos de Supervivencia es un popular mini-juego PvP (jugador vs jugador) de supervivencia de Minecraft en el que el objetivo es sobrevivir usando objetos que se encuentran distribuidos en el mapa y defenderse de otros jugadores para ser el último jugador en pie."
     },
     "factions": {
-      "formatted": "Factions",
-      "desc": "Factions servers are competitive PvP servers that let players team up with others by creating or joining existing clans. Faction members work together to build bases, protect their land, gather valuable resources as well as recruit new members. Factions in a server can either become allies and provide support to each other or choose to be enemies and go into battle."
+      "formatted": "Facciones",
+      "desc": "Los servidores de Facciones son servidores competitivos de PvP que dejan a los jugadores juntarse creando clanes o uniéndose a uno. Los miembros de una facción trabajan juntos para construir bases, proteger su terreno, recolectar recursos valiosos así como reclutar nuvos miembros. Las facciones dentro de un servidor pueden volverse tanto aliadas como proveer soporte entre sí o elegir ser enemigas y enfrentarse en batalla."
     },
     "economy": {
       "formatted": "Economy",

@@ -8,10 +8,10 @@
   "report": "Rapporteren",
   "location": "Locatie",
   "adv": "Geavanceerd Zoeken",
-  "advOptions": "Advanced Options",
-  "search": "Search",
-  "highlow": "High to Low",
-  "lowhigh": "Low to High",
-  "sortBy": "Sort by",
-  "orderBy": "Order by"
+  "advOptions": "Geavanceerde Opties",
+  "search": "Zoeken",
+  "highlow": "Hoog naar laag",
+  "lowhigh": "Laag naar hoog",
+  "sortBy": "Sorteren op",
+  "orderBy": "Rangschik op"
 }

@@ -14,35 +14,35 @@
     },
     "bedwars": {
       "formatted": "BedWars",
-      "desc": "Bedwars is a popular strategic PvP (player vs player) Minecraft mini-game gamemode where the objective is to be the last player (or team) alive by either defending or eliminating the opponents. The Bedwars gamemode often involves a bed that must be protected as when it's destroyed you no longer respawn. Bedwars is usually set on islands in the sky where the biggest danger is to not fall into the bottomless void."
+      "desc": "Bedwars ist ein beliebtes strategisches PvP (Spieler gegen Spieler) Minecraft Minispiel, bei dem das Ziel darin besteht, der letzte Spieler (oder Team) zu sein, der durch die Verteidigung oder Beseitigung der Gegner am Leben ist. Der Bedwars Spielmodus beinhaltet oft ein Bett, das beschützt werden muss, da man sonst nicht mehr wiederbelebt wird. Bedwars spielt normalerweise auf Inseln im Himmel wo die größte Gefahr darin besteht, nicht in die unendliche Leere zu fallen."
     },
     "hungergames": {
       "formatted": "Hunger Games",
-      "desc": "Hunger Games is a popular survival PvP (player vs player) Minecraft mini-game gamemode where the objective is to survive using items found throughout the map and defend against other players to be the last standing player."
+      "desc": "Hunger Games ist ein beliebtes Überleben PvP (Spieler gegen Spieler) Minecraft Minispiel, bei dem das Ziel darin besteht, mit Gegenständen, die in der Karte gefunden werden, zu überleben und sich gegen andere Spieler zu verteidigen, um der letzte stehende Spieler zu sein."
     },
     "survivalgames": {
       "formatted": "Survival Games",
-      "desc": "Survival Games is a popular survival PvP (player vs player) Minecraft mini-game gamemode where the objective is to survive using items found throughout the map and defend against other players to be the last standing player."
+      "desc": "Survival Games ist ein beliebtes Überleben PvP (Spieler gegen Spieler) Minecraft Minispiel, bei dem das Ziel darin besteht, mit Gegenständen, die auf der Karte gefunden werden, zu überleben und sich gegen andere Spieler zu verteidigen, um der letzte stehende Spieler zu sein."
     },
     "factions": {
       "formatted": "Fractions",
-      "desc": "Factions servers are competitive PvP servers that let players team up with others by creating or joining existing clans. Faction members work together to build bases, protect their land, gather valuable resources as well as recruit new members. Factions in a server can either become allies and provide support to each other or choose to be enemies and go into battle."
+      "desc": "Fraktionsserver sind kompetitive PvP-Server, die es Spielern ermöglichen, sich mit anderen zusammenzuschließen, indem sie bestehenden Clans beitreten oder neue erstellen. Fraktionsmitglieder arbeiten zusammen, um Basen zu bauen, ihr Land zu schützen, wertvolle Ressourcen zu sammeln und neue Mitglieder zu rekrutieren. Die Fraktionen auf einem Server können entweder Verbündete werden und sich gegenseitig unterstützen oder Feinde sein und in den Krieg ziehen."
     },
     "economy": {
       "formatted": "Economy",
-      "desc": "Economy servers operate a virtual economy that allows players to earn and spend an in-game currency. Players can make money by mining valuable resources, completing challenges, trading with other players, and selling items in shops. Most servers also display leaderboards to encourage competition among the wealthiest players."
+      "desc": "Economy Server betreiben eine virtuelle Ökonomie, die es Spielern ermöglicht, eine In-Game-Währung zu verdienen und auszugeben. Spieler können Geld verdienen, indem sie wertvolle Ressourcen abbauen, Herausforderungen abschließen, mit anderen Spielern handeln und Gegenstände in Geschäften verkaufen. Die meisten Server zeigen auch Ranglisten an, um den Wettbewerb zwischen den reichsten Spielern zu fördern."
     },
     "creative": {
       "formatted": "Kreativ",
-      "desc": "Creative mode servers have creative features enabled. These modes disable Minecraft's survival features, allowing players to build cities and other complex structures with an unlimited amount of blocks. Fly mode is enabled as part of the creative mode to allow for easier building. Servers also allow the use of world editing plugins which makes the building process even easier."
+      "desc": "Kreativ Mode Server haben die Kreativ Funktionen aktiviert. Diese Modi deaktivieren die Überlebensfunktionen von Minecraft, so können Spieler Städte und andere komplexe Strukturen mit einer unbegrenzten Anzahl an Blöcken bauen. Der Flugmodus ist als Teil des kreativen Modus aktiviert, um das Erstellen zu vereinfachen. Server ermöglichen auch die Verwendung von Weltbearbeitungs-Plugins, die den Bauprozess noch einfacher machen."
     },
     "mcmmo": {
       "formatted": "McMMO",
-      "desc": "McMMO is a plugin that adds RPG style features to Minecraft's normal survival gameplay. It allows players to earn experience and level up by doing actions or using tools. By reaching higher levels, they can gain bonuses such as double item drops. Experience can be earned in all sorts of ways from mining and woodcutting to archery and alchemy."
+      "desc": "McMMO ist ein Plugin, das Minecrafts normalen Überlebensmodus mit RPG Funktionen erweitert. Es erlaubt Spielern Erfahrung zu sammeln und aufzuwerten, indem sie Aktionen durchführen oder Werkzeuge verwenden. Durch das Erreichen eines höheren Levels können sie Boni wie zum Beispiel doppelte Item Drops erhalten. Erfahrung lässt sich auf vielfältige Art und Weise sammeln, vom Bergbau und Holzfällerei bis hin zu Bogenschießen und Alchemie."
     },
     "skyblock": {
       "formatted": "Skyblock",
-      "desc": "Skyblock servers are multiplayer versions of the original Skyblock survival map. Each player spawns on a small floating island with limited resources and must think creatively to gather materials, expand the island and survive. The majority of Skyblock servers include economic features such as the ability to buy and sell items with in-game currency and leaderboards of the wealthiest players."
+      "desc": "Skyblock Server sind Multiplayer-Versionen der ursprünglichen Skyblock Überlebenskarte. Jeder Spieler spawnt auf einer kleinen schwebenden Insel mit begrenzten Ressourcen und muss kreativ denken, um Materialien zu sammeln, die Insel zu erweitern und zu überleben. Die meisten Skyblock Server umfassen wirtschaftliche Features wie die Möglichkeit, Gegenstände mit In-Game-Währung zu kaufen und verkaufen und Ranglisten der reichsten Spieler."
     },
     "pvp": {
       "formatted": "PvP",
