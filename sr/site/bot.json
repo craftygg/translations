@@ -4,11 +4,11 @@
   "addToDiscord": "Додај на дискорд",
   "viewCommands": "Види команде",
   "example1": {
-    "header": "View Player information",
-    "subheader": "Crafty allows you to view information about a Minecraft account, with a simple command"
+    "header": "Информације о играчу",
+    "subheader": "Crafty вам омогућава да видите информације о Minecraft налогу, са једноставном командом"
   },
   "example2": {
-    "header": "View Server information",
+    "header": "Информације о серверу",
     "subheader": "Са Craftyјем, можеш да видиш информације о серверима без излажења из Discordа"
   },
   "example3": {
@@ -20,5 +20,5 @@
     "subheader": "Crafty доводи сву забаву у твој Discord сервер. Играј Minecraft квизове, види забавне чињенице, имај епске Minecraft инспирисане борбе, и још много тога!"
   },
   "botCommands": "Команде бота",
-  "prettyCoolRight": "Добиј приступ свим овим кул стварима додавањем Craftyја у свом Discord серверу"
+  "prettyCoolRight": "Добиј приступ свим овим кул стварима додавањем Craftyја у свој Discord серверу"
 }
