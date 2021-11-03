@@ -1,10 +1,10 @@
 {
   "header": "Aidez-nous à améliorer Crafty!",
-  "subheader": "Tell us what you would like to see improved below",
-  "feedback": "Feedback",
-  "maxCharacters": "Max 1000 characters",
-  "charactersRemaining": "characters remaining",
-  "filling": "I don't like this please change it...",
+  "subheader": "Dites-nous ce que vous aimeriez voir amélioré ci-dessous",
+  "feedback": "Commentaire",
+  "maxCharacters": "Max 1000 caractères",
+  "charactersRemaining": "caractères restants",
+  "filling": "Je n'aime pas ça s'il vous plaît changez-le...",
   "sendAnonymously": "Envoyer ceci anonymement",
   "send": "Envoyer"
 }
