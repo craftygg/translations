@@ -1,7 +1,7 @@
 {
   "server": {
-    "success": "Success!",
-    "backToHome": "Back to home",
+    "success": "Succès!",
+    "backToHome": "Retour à la page d'accueil",
     "viewServer": "View Server",
     "failed": "Failed",
     "failed1": "Something went wrong! The error has been copied to your clipboard, join our discord by clicking here and paste the error in #support and we'll help you out!",
