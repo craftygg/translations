@@ -23,7 +23,7 @@
   },
   "ruby": {
     "customImage": "Möglichkeit ein eigenes Bild auf deiner Serverseite hinzuzufügen",
-    "serverDescription": "Zeichenlimit für Serverbeschreibung auf 1.000 Zeichen vergrößert (statt 350)",
+    "serverDescription": "Server description character limit bump to 1,500 characters (instead of 500)",
     "moreTags": "Füge bis zu 9 Tags auf deinem Server hinzu (statt 5)",
     "access": "Spezieller Rubinzugriff auf Crafty´s Discord",
     "icon": "Symbol auf deinem crafty.gg Profil",

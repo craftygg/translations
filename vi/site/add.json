@@ -1,0 +1,40 @@
+{
+  "server": {
+    "success": "Thành công!",
+    "backToHome": "Quay lại trang chủ",
+    "viewServer": "Xem server",
+    "failed": "Thất bại",
+    "failed1": "Có gì đó không đúng! Lỗi đã được sao chép vào khay nhớ tạm của bạn. Tham gia Discord của chúng tôi bằng cách nhấp vào đây và dán lỗi đó vào trong #support và chúng tôi sẽ hỗ trợ bạn!",
+    "tryAgain": "Thử lại",
+    "stepProgress": "Bước { Step } trong 3",
+    "header": "Đăng tải server Minecraft mới lên Crafty",
+    "verification": "Xác thực",
+    "tellMore": "Hãy cho chúng tôi biết thêm về { Name }",
+    "serverName": "Tên server",
+    "serverIp": "IP server",
+    "serverPort": "Cổng server",
+    "type": "Loại/Nền tảng",
+    "ping": "NHẤP ĐỂ TIẾP TỤC",
+    "verificationMethod": "Phương pháp xác minh",
+    "motdInstructions": "Trong MOTD của server bạn, vui lòng thêm mã sau để xác nhận bạn là chủ sở hữu hoặc là quản lí của server mà bạn đang thêm",
+    "txtInstructions": "Trong cài đặt DNS của bạn, tạo một file TXT đến { Code } và thêm mã sau vào phần nội dung",
+    "note": " Xin nhớ rằng DNS cần chút thời gian để cập nhật, vì vậy hãy liên tục kiểm tra",
+    "verified": "Đã xác minh",
+    "tags": "Thẻ",
+    "languages": "Ngôn ngữ",
+    "maxLanguages": "Tối đa 3 ngôn ngữ",
+    "version": "Phiên bản",
+    "short": "Giới thiệu ngắn",
+    "long": "Mô tả chi tiết",
+    "charsRemaining": "kí tự còn lại",
+    "descLimit": "(tối đa { Number } kí tự)",
+    "website": "Website",
+    "previous": "Trước",
+    "next": "Tiếp",
+    "complete": "Hoàn tất",
+    "errors": {
+      "loggedIn": "Bạn phải đăng nhập trước khi thêm server của bạn vào Crafty. Đăng nhập ở nút phía trên bên phải của trang.",
+      "offline": "Server của bạn đang ngoại tuyến. Hãy chắc chắn rằng nó đang trực tuyến và đăng tải lên lại."
+    }
+  }
+}

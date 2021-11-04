@@ -23,7 +23,7 @@
   },
   "ruby": {
     "customImage": "Ability to add a custom image on your Server page",
-    "serverDescription": "Server description character limit bump to 1,000 characters (instead of 350)",
+    "serverDescription": "Server description character limit bump to 1,500 characters (instead of 500)",
     "moreTags": "Add up to 9 tags on your Server (instead of 5)",
     "access": "Special Ruby access on Crafty's Discord",
     "icon": "icon on your crafty.gg profile",

@@ -1,0 +1,40 @@
+{
+  "server": {
+    "success": "成功！",
+    "backToHome": "ホームに戻る",
+    "viewServer": "サーバーを見る",
+    "failed": "失敗",
+    "failed1": "問題が発生しました！ （エラーの内容がクリップボードにコピーされました。） Discordサーバー内の #support チャンネルにてご報告ください。",
+    "tryAgain": "もう一度試す",
+    "stepProgress": "ステップ { Step } / 3",
+    "header": "Craftyに新しいマインクラフト サーバーを追加する",
+    "verification": "認証",
+    "tellMore": "{ Name } について教えてください",
+    "serverName": "サーバーの名前",
+    "serverIp": "サーバーIP",
+    "serverPort": "サーバーポート",
+    "type": "種類/プラットフォーム",
+    "ping": "Pingで確認をして続ける",
+    "verificationMethod": "認証方法",
+    "motdInstructions": "In your Server MOTD please include the following code to verify that you own or manage the server you are trying to add",
+    "txtInstructions": "In your DNS settings, create a TXT record to { Code } and in the content add the following code",
+    "note": " DNSの更新には少し時間がかかりますので、数秒ごとに確認してください。",
+    "verified": "確認しました",
+    "tags": "タグ",
+    "languages": "言語",
+    "maxLanguages": "最大3言語まで",
+    "version": "バージョン",
+    "short": "短い説明",
+    "long": "長い説明",
+    "charsRemaining": "文字入力可能",
+    "descLimit": "(最大 { Number } 文字)",
+    "website": "ウェブサイト",
+    "previous": "戻る",
+    "next": "次へ",
+    "complete": "完了",
+    "errors": {
+      "loggedIn": "Craftyにサーバーを追加するにはログインする必要があります。 右上のボタンからサインインしてください。",
+      "offline": "サーバーがオフラインです。 再度送信する前に、サーバーがオンラインであることを確認してください。"
+    }
+  }
+}
