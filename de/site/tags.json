@@ -46,15 +46,15 @@
     },
     "pvp": {
       "formatted": "PvP",
-      "desc": "Minecraft servers with PvP enabled allow players to fight and do damage against each other. PvP servers include a huge variety of different gamemodes from vanilla survival and factions to battle royale style minigames and KitPvP. Players must survive against not only the environment and hostile mobs but also any enemy players. Some servers have PvP enabled throughout the entire map while others have safe zones such as spawn where players can't fight."
+      "desc": "Minecraft Server mit PvP ermöglichen es Spielern gegeneinander zu kämpfen und Schaden zu verursachen. PvP-Server enthalten eine große Auswahl an verschiedenen Spielmodi, von Vanilla-Überleben und Fraktionen bis hin zu Battle Royale Minigames und KitPvP. Spieler müssen nicht nur die Umgebung und feindliche Mobs überleben, sondern auch feindliche Spieler. Einige Server haben PvP auf der gesamten Karte aktiviert, während andere sichere Zonen haben wie den Spawn, in denen Spieler nicht kämpfen können."
     },
     "prison": {
       "formatted": "Prison",
-      "desc": "Prison servers don't have any wilderness and are instead set entirely within a prison-themed map. Players start at the lowest rank with basic tools and must earn money to rank up and become more powerful. Money is earned by mining resources at predesignated mines, and new mines with more valuable resources are unlocked by ranking up. Players can challenge each other to battle in PvP arenas and even buy plots of land inside the prison to build a base and store valuables."
+      "desc": "Prisonserver haben keine Wildnis und sind stattdessen vollständig innerhalb einer Gefängniskarte. Spieler beginnen auf dem niedrigsten Rang mit Grundwerkzeugen und müssen Geld verdienen, um aufzuleveln und mächtiger zu werden. Geld wird durch den Abbau von Ressourcen in vorgegebenen Minen verdient, neue Minen mit wertvolleren Ressourcen werden freigeschaltet, wenn man auflevelt. Spieler können sich in PvP-Arenas zum Kampf herausfordern und sogar Grundstücke im Gefängnis kaufen, um eine Basis zu bauen und Wertgegenstände zu lagern."
     },
     "survival": {
-      "formatted": "Survival",
-      "desc": "Survival is the default Minecraft gamemode where players explore the wilderness and gather resources to survive in a hostile environment. Some survival servers are vanilla and don't change normal gameplay, while others use plugins and mods to add extra features such as an in-game economy and player-run towns. Survival servers may also have PvP enabled, meaning players need to survive against hostile mobs and enemy players."
+      "formatted": "Überleben",
+      "desc": "Überleben ist der Standard-Minecraft-Spielmodus, in dem Spieler die Wildnis erkunden und Ressourcen sammeln, um in einer feindlichen Umgebung zu überleben. Einige Überlebensserver sind Vanilla und ändern das normales Gameplay nicht während andere Plugins und Mods verwenden, um zusätzliche Features wie eine Wirtschaft im Spiel und von Spielern geführte Städte hinzuzufügen. Überlebensserver können auch PvP aktiviert haben, was bedeutet, dass Spieler gegen feindliche Mobs und feindliche Spieler überleben müssen."
     },
     "towny": {
       "formatted": "Towny",
