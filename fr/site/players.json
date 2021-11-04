@@ -1,15 +1,15 @@
 {
-  "find": "Find Minecraft Players",
+  "find": "Trouver des joueurs Minecraft",
   "players": "Joueurs",
-  "mcplayers": "Minecraft Players",
-  "uuidShort": "UUID Short",
+  "mcplayers": "Joueurs Minecraft",
+  "uuidShort": "UUID Court",
   "uuidLong": "UUID Long",
-  "status": "Claimed",
-  "claim": "Claim",
-  "unclaimed": "Unclaimed",
+  "status": "Revendiqué",
+  "claim": "Revendication",
+  "unclaimed": "Non réclamés",
   "legacy": "Legacy",
   "usernameHistory": "Historique des pseudos",
   "socialMedia": "Réseaux Sociaux",
-  "firstUsername": "First Username",
+  "firstUsername": "Premier nom d'utilisateur",
   "searchPlayer": "Rechercher un joueur spécifique"
 }
