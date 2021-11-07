@@ -9,7 +9,7 @@
     "stepProgress": "ステップ { Step } / 3",
     "header": "Craftyに新しいマインクラフト サーバーを追加する",
     "verification": "認証",
-    "tellMore": "{ Name } について教えてください",
+    "tellMore": "{ Name } の情報を入力してください",
     "serverName": "サーバーの名前",
     "serverIp": "サーバーIP",
     "serverPort": "サーバーポート",
