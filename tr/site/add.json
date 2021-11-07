@@ -38,15 +38,15 @@
     }
   },
   "player": {
-    "claim": "Claim Account",
-    "enterName": " Please enter the name of the account that you would like to claim",
-    "username": "Username",
-    "step1": "Please log into our verification Minecraft server to generate your code",
-    "step2": "Supports Minecraft Java Edition 1.8 - 1.17",
-    "step3": "Upon joining the Minecraft server you will see a message containing your code.",
-    "step4": "Please type the four digit code into the box below to continue.",
-    "4digit": "4-Digit Code",
-    "restart": "restart",
-    "verify": "Verify"
+    "claim": "Hesap Sahiplen",
+    "enterName": " Lütfen sahiplenmek istediğiniz hesabın adını girin",
+    "username": "Kullanıcı Adı",
+    "step1": "Lütfen kodunuzu oluşturmak için doğrulama Minecraft sunucumuza giriş yapın",
+    "step2": "Minecraft Java Sürümü 1.8 - 1.17 sürümlerini destekler",
+    "step3": "Minecraft sunucusuna girdiğinizde, kodunuzu içeren bir mesaj göreceksiniz.",
+    "step4": "Devam etmek için lütfen dört haneli kodu aşağıdaki kutuya yazın.",
+    "4digit": "4 Haneli Kod",
+    "restart": "yeniden başlat",
+    "verify": "Doğrula"
   }
 }
