@@ -36,5 +36,17 @@
       "loggedIn": "Морате бити улоговани да би додали ваш сервер на Crafty. Улогујте се у горњем левом углу сајта.",
       "offline": "Ваш сервер је offline. Обезбедите да је online пре него што га поднесете опет."
     }
+  },
+  "player": {
+    "claim": "Claim Account",
+    "enterName": " Please enter the name of the account that you would like to claim",
+    "username": "Username",
+    "step1": "Please log into our verification Minecraft server to generate your code",
+    "step2": "Supports Minecraft Java Edition 1.8 - 1.17",
+    "step3": "Upon joining the Minecraft server you will see a message containing your code.",
+    "step4": "Please type the four digit code into the box below to continue.",
+    "4digit": "4-Digit Code",
+    "restart": "restart",
+    "verify": "Verify"
   }
 }

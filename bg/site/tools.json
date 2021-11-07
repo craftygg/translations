@@ -1,6 +1,21 @@
 {
   "more": "Още инструменти",
-  "crafting": "Рецепти за изработване",
-  "votifier": "Изпробване на Вотифайър",
-  "ping": "Информация за сървъри"
+  "crafting": {
+    "title": "Crafting Recipes"
+  },
+  "votifier": {
+    "title": "Votifier Tester",
+    "h2": "Test if your server's votifier is working by just filling out the information below",
+    "whatQ": "What is this tool?",
+    "whatA": "Votifier Tester helps you determine if the Votifier plugin has been correctly installed in your Minecraft server.",
+    "whatVotifierQ": "What is Votifier?",
+    "whatVotifierA": " Votifier is a Minecraft server voting plugin you can install to get notified whenever a player votes for your server on a server list, like Crafty.",
+    "whyQ": "But, why?",
+    "whyA": " Votifier is used by server owners / admins to reward players who vote for their Minecraft server. Voting helps the server get a better ranking on server lists."
+  },
+  "ping": {
+    "title": "Get Server Information",
+    "h1": "Get Minecraft Server Information",
+    "paragraph": "Fill out the require fields to get basic information about a Minecraft server such as their status, how many players are currently online, version running and location of the server"
+  }
 }
