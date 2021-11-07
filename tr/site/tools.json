@@ -1,21 +1,21 @@
 {
   "more": "Daha Fazla Araç",
   "crafting": {
-    "title": "Crafting Recipes"
+    "title": "Eşya Yapılışları"
   },
   "votifier": {
-    "title": "Votifier Tester",
-    "h2": "Test if your server's votifier is working by just filling out the information below",
-    "whatQ": "What is this tool?",
-    "whatA": "Votifier Tester helps you determine if the Votifier plugin has been correctly installed in your Minecraft server.",
-    "whatVotifierQ": "What is Votifier?",
-    "whatVotifierA": " Votifier is a Minecraft server voting plugin you can install to get notified whenever a player votes for your server on a server list, like Crafty.",
-    "whyQ": "But, why?",
-    "whyA": " Votifier is used by server owners / admins to reward players who vote for their Minecraft server. Voting helps the server get a better ranking on server lists."
+    "title": "Votifier Test Edici",
+    "h2": "Aşağıdaki bilgileri doldurarak sunucundaki Votifier'ın çalışıp çalışmadığını test edin",
+    "whatQ": "Bu araç nedir?",
+    "whatA": "Votifier Test Edici, Votifier eklentisinin Minecraft sunucunuza doğru şekilde kurulup kurulmadığını tespit etmenize yardımcı olur.",
+    "whatVotifierQ": "Votifier Nedir?",
+    "whatVotifierA": " Votifier, Crafty gibi bir sunucu listesinde, bir oyuncu sunucunuz için oy verdiğinde bildirim almak için yükleyebileceğiniz bir Minecraft sunucusu oylama eklentisidir.",
+    "whyQ": "Ama, neden?",
+    "whyA": " Votifier, sunucu sahipleri/yöneticileri tarafından Minecraft sunucularına oy veren oyuncuları ödüllendirmek için kullanılır. Votifier, sunucunun sunucu listelerinde daha iyi bir sıralama elde etmesine yardımcı olur."
   },
   "ping": {
-    "title": "Get Server Information",
-    "h1": "Get Minecraft Server Information",
-    "paragraph": "Fill out the require fields to get basic information about a Minecraft server such as their status, how many players are currently online, version running and location of the server"
+    "title": "Sunucu Bilgisi Al",
+    "h1": "Minecraft Sunucu Bilgisi Al",
+    "paragraph": "Sunucu durumu, şu anda kaç oyuncunun çevrimiçi olduğu, sunucu sürümü ve sunucunun konumu gibi sunucu hakkında temel bilgileri almak için gerekli alanları doldurun"
   }
 }
