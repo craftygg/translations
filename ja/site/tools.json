@@ -1,21 +1,21 @@
 {
   "more": "他のツールを見る",
   "crafting": {
-    "title": "Crafting Recipes"
+    "title": "クラフト レシピ集"
   },
   "votifier": {
-    "title": "Votifier Tester",
-    "h2": "Test if your server's votifier is working by just filling out the information below",
-    "whatQ": "What is this tool?",
-    "whatA": "Votifier Tester helps you determine if the Votifier plugin has been correctly installed in your Minecraft server.",
-    "whatVotifierQ": "What is Votifier?",
-    "whatVotifierA": " Votifier is a Minecraft server voting plugin you can install to get notified whenever a player votes for your server on a server list, like Crafty.",
-    "whyQ": "But, why?",
-    "whyA": " Votifier is used by server owners / admins to reward players who vote for their Minecraft server. Voting helps the server get a better ranking on server lists."
+    "title": "Votifier テスター",
+    "h2": "サーバーのVotifierが動作しているかどうかテストしよう",
+    "whatQ": "「Votifierテスター」って？",
+    "whatA": "Votifierテスターは、Votifierがマインクラフトサーバーに正しくインストールされているかどうか判別することができるツールです。",
+    "whatVotifierQ": "Votifierって？",
+    "whatVotifierA": " Votifierは、Craftyのようなサービス上で誰かがあなたのサーバーに投票した時に通知を受け取ることができるマインクラフトサーバー用の投票プラグインです。",
+    "whyQ": "それって必要なの？",
+    "whyA": " Votifierは、サーバーの所有者、そして管理者が、サーバーに投票したプレイヤーに報酬を与えるために使用されます。 投票されると、サーバーリスト上で高い順位を取りやすくなるためです。"
   },
   "ping": {
-    "title": "Get Server Information",
-    "h1": "Get Minecraft Server Information",
-    "paragraph": "Fill out the require fields to get basic information about a Minecraft server such as their status, how many players are currently online, version running and location of the server"
+    "title": "サーバー情報の取得",
+    "h1": "マインクラフト サーバー情報の取得",
+    "paragraph": "サーバーの基本的な情報を取得するために、現在のオンラインプレイヤー数、マインクラフトのバージョン、サーバーの場所などの必須項目を記入してください。"
   }
 }
