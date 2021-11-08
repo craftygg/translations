@@ -24,12 +24,12 @@
   "ruby": {
     "customImage": "サーバーページに好みの画像を表示する機能",
     "serverDescription": "サーバー説明欄の文字数制限の500文字から1500文字への引き上げ",
-    "moreTags": "サーバーに追加できるタグの数を9に増加（通常は5）",
+    "moreTags": "サーバーに追加できるタグの数を5から9に増加",
     "access": "Crafty公式DiscordでのRuby専用特典へのアクセス",
     "icon": "crafty.gg プロフィールでのアイコンの使用",
     "removeCooldowns": "すべてのコマンドをクールダウンなしで使用",
     "serverTracking": "2個のサーバー トラッキング スロットへのアクセス",
-    "notifications": "特定のユーザー名が利用可能になった時、自動でDiscord、またはメール、またはその両方で通知を受け取る（指定できるユーザー名は最大3個）"
+    "notifications": "特定のユーザー名が利用可能になった時、自動でDiscord、またはメール、またはその両方で通知を受け取る（指定できるユーザー名の最大： 3個）"
   },
   "diamond": {
     "slug": "カスタム サーバーURL （/servers/custom-url）",
@@ -38,7 +38,7 @@
     "icon": "crafty.gg上での好みのアイコンの使用",
     "removeUpvote": "Discordサーバー内のすべてのユーザーの高評価要件とクールダウンの削除",
     "serverTracking": "3個のサーバー トラッキング スロットへのアクセス",
-    "notifications": "特定のユーザー名が利用可能になった時、自動でDiscord、またはメール、またはその両方で通知を受け取る（指定できるユーザー名は最大8個）"
+    "notifications": "特定のユーザー名が利用可能になった時、自動でDiscord、またはメール、またはその両方で通知を受け取る（指定できるユーザー名の最大： 8個）"
   },
   "futureFeatures": {
     "header": "登録は、Craftyの開発の支援になります。",
@@ -48,9 +48,9 @@
     "richTextEditor": "リッチ テキスト エディター",
     "richTextEditorInformation": "今現在、サーバーの説明欄を書く際に使用できるのは「マークダウン記法」のみですが、私たちは、この「リッチ テキスト エディター」機能で、あなたの思い描くような説明文を作成する手助けをするつもりです",
     "serverAnalytics": "サーバー分析",
-    "serverAnalyticsInformation": "サーバー オーナーたちのためのサーバー分析機能",
+    "serverAnalyticsInformation": "サーバー オーナーのためのサーバー分析機能",
     "skinEditor": "スキン エディター",
-    "skinEditorInformation": "あなたの思い描くスキンを気軽に作成できる機能、「リッチ スキン エディター」です",
+    "skinEditorInformation": "あなたの思い描くスキンを気軽に作成できる機能、「リッチ スキン エディター」",
     "notifications": "通知機能",
     "notificationsInformation": "設定さえすれば、「あなたのサーバーがオフラインになりました」、「特定のユーザーネームが利用可能になりました」、「新たなマインクラフトバージョン、記事がリリースされました」など、便利な通知を受け取ることができます。",
     "yourSuggestion": "あなたの欲しいもの",
