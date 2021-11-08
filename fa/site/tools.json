@@ -16,6 +16,6 @@
   "ping": {
     "title": "دریافت اطلاعات سرور",
     "h1": "گرفتن اطلاعات سرور ماینکرافت",
-    "paragraph": "Fill out the require fields to get basic information about a Minecraft server such as their status, how many players are currently online, version running and location of the server"
+    "paragraph": "قسمت های مورد نیاز زیر را پر کنید تا یک اطلاعات کلی از سرور ماینکرافت مورد نظر دریافت کنید مثل وضعیت سرور، چه تعداد بازیکن آنلاین هستند، نسخه سرور و موقعیت مکانی آن"
   }
 }
