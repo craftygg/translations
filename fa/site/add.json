@@ -38,15 +38,15 @@
     }
   },
   "player": {
-    "claim": "Claim Account",
-    "enterName": " Please enter the name of the account that you would like to claim",
-    "username": "Username",
-    "step1": "Please log into our verification Minecraft server to generate your code",
-    "step2": "Supports Minecraft Java Edition 1.8 - 1.17",
-    "step3": "Upon joining the Minecraft server you will see a message containing your code.",
-    "step4": "Please type the four digit code into the box below to continue.",
-    "4digit": "4-Digit Code",
-    "restart": "restart",
-    "verify": "Verify"
+    "claim": "دریافت این حساب",
+    "enterName": " لطفا نام حسابی که شما می خواهید دریافت کنید را وارد کنید",
+    "username": "نام‌کاربری",
+    "step1": "لطفا وارد سرور تائیدیه ماینکرافت ما شوید تا کد شما ساخته شود",
+    "step2": "پشتیبانی شده از ماینکرافت 1.8-1.17 نسخه جاوا",
+    "step3": "وقتی که وارد سرور شدید، یک پیام به شما نمایش داده خواهد شد که حاوی کد مورد نیاز شماست.",
+    "step4": "لطفا برای ادامه، کد چهار رقمی مورد نیاز را داخل قسمت زیر وارد کنید.",
+    "4digit": "کد 4 رقمی",
+    "restart": "شروع مجدد",
+    "verify": "تائید"
   }
 }
