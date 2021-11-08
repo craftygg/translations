@@ -6,7 +6,7 @@
     },
     "anarchy": {
       "formatted": "アナーキー",
-      "desc": "Anarchy servers often tend to be lawless with minimal land protection and no rules. Some anarchy servers allow cheating such as clients that modify how Minecraft works to give an unfair advantage or fair advantage in an anarchy setting where every player is also cheating. The common objective is to survive and defend from other players and mobs, gather resources, build secure and hidden bases, all within an unforgiving yet nonrestrictive environment where griefing runs rampant."
+      "desc": "アナーキー サーバーは大抵の場合、ワールド保護は最低限で、法律やルールはありません。  中には、アンフェアアドバンテージを得るため、またはプレイヤーほぼ全員がチートを使用しているアナーキー サーバーでフェアになるために作られた、マインクラフトの根本を変えてしまうようなクライアントを許可しているサーバーもあります。  共通の目的は、厳しいながらも制限のない環境の中で、他のプレイヤーやモブから自身を守り、生き残り、資源を集め、安全で隠れた基地を建設することです。"
     },
     "battleroyale": {
       "formatted": "バトルロイヤル",
@@ -14,15 +14,15 @@
     },
     "bedwars": {
       "formatted": "ベッドウォーズ",
-      "desc": "Bedwars is a popular strategic PvP (player vs player) Minecraft mini-game gamemode where the objective is to be the last player (or team) alive by either defending or eliminating the opponents. The Bedwars gamemode often involves a bed that must be protected as when it's destroyed you no longer respawn. Bedwars is usually set on islands in the sky where the biggest danger is to not fall into the bottomless void."
+      "desc": "ベッドウォーズは、自チームのベッドを守り、敵チームのベッドを破壊しながら、最後の一人、またはチームになることで勝利する、人気の戦略的マインクラフト ミニゲームです。 ほとんどのサーバーでは、自チームのベッドが破壊されてしまうとリスポーン不可になってしまうため、自チームのベッドを防衛する必要があります。 ベッドウォーズは大抵の場合浮島での戦いになるため、底なしの奈落に落ちることを回避しなければいけません。"
     },
     "hungergames": {
       "formatted": "ハンガーゲーム",
-      "desc": "Hunger Games is a popular survival PvP (player vs player) Minecraft mini-game gamemode where the objective is to survive using items found throughout the map and defend against other players to be the last standing player."
+      "desc": "ハンガーゲームは、マップ中で見つけられるアイテムを活用してほかのプレイヤーから身を守り、最後の一人になるまで生き残ることで勝利する、人気のPvP（プレイヤー対プレイヤー）マインクラフト ミニゲームです。"
     },
     "survivalgames": {
       "formatted": "サバイバルゲーム",
-      "desc": "Survival Games is a popular survival PvP (player vs player) Minecraft mini-game gamemode where the objective is to survive using items found throughout the map and defend against other players to be the last standing player."
+      "desc": "サバイバルゲームは、マップ中で見つけられるアイテムを活用してほかのプレイヤーから身を守り、最後の一人になるまで生き残ることで勝利する、人気のPvP（プレイヤー対プレイヤー）マインクラフト ミニゲームです。"
     },
     "factions": {
       "formatted": "ファクション",
