@@ -74,15 +74,15 @@
     },
     "pixelmon": {
       "formatted": "Pixelmon",
-      "desc": "Minecraft servers running the multiplayer version of the Pixelmon mod. Pixelmon aims to recreate Pokemon gameplay within Minecraft by adding hundreds of different species of Pokemon that randomly spawn throughout the world and can be captured by players. The mod also adds realistic Pokemon battle mechanics, gyms complete with NPC trainers and a fully functional Pokedex."
+      "desc": "Minecraft Server, die die Multiplayer-Version der Pixelmon Mod verwenden. Pixelmon versucht, Pokemon innerhalb von Minecraft wiederherzustellen, indem hunderte von verschiedenen Arten von Pokemon hinzugefügt werden, die zufällig auf der ganzen Welt spawnen und von Spielern gefangen werden können. Die Mod fügt auch realistische Pokemonkämpfe hinzu, Gyms mit NPC Trainern und einen voll funktionsfähigen Pokedex."
     },
     "parkour": {
       "formatted": "Parkour",
-      "desc": "The objective of Minecraft parkour servers is to complete obstacle courses by running, jumping and climbing from one stage to the next. The courses have different themes and range in difficulty from easy to extremely hard. Parkour servers usually have a timer counting how long it takes to complete each course and show leaderboards of the fastest players."
+      "desc": "Das Ziel von Minecraft Parkour Servern ist es, bis zum Ende eines Hindernisskurses zu kommen, indem man rennt, springt und dann ins nächste Level kommt. Die Kurse haben verschiedene Themen und verschiedene Schwierigkeitsgrade von einfach bis extrem hart. Parkour-Server haben in der Regel einen Timer, der zählt, wie lange man braucht, um jeden Kurs abzuschließen und Ranglisten der schnellsten Spieler zu zeigt."
     },
     "pve": {
       "formatted": "PvE",
-      "desc": "Player versus environment servers have PvP disabled meaning players cannot fight and do damage to each other. Instead, players must work together and survive against the environment and Minecraft's many hostile mobs."
+      "desc": "Spieler gegen Umgebungsserver haben PvP deaktiviert, was bedeutet, dass Spieler sich nicht bekämpfen und einander Schaden zufügen können. Stattdessen müssen Spieler zusammenarbeiten und gegen die Umgebung und die vielen feindlichen Mobs von Minecraft überleben."
     },
     "skywars": {
       "formatted": "SkyWars",
