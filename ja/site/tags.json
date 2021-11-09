@@ -6,7 +6,7 @@
     },
     "anarchy": {
       "formatted": "アナーキー",
-      "desc": "Anarchy servers often tend to be lawless with minimal land protection and no rules. Some anarchy servers allow cheating such as clients that modify how Minecraft works to give an unfair advantage or fair advantage in an anarchy setting where every player is also cheating. The common objective is to survive and defend from other players and mobs, gather resources, build secure and hidden bases, all within an unforgiving yet nonrestrictive environment where griefing runs rampant."
+      "desc": "アナーキー サーバーは大抵の場合、ワールド保護は最低限で、法律やルールはありません。  中には、アンフェアアドバンテージを得るため、またはプレイヤーほぼ全員がチートを使用しているアナーキー サーバーでフェアになるために作られた、マインクラフトの根本を変えてしまうようなクライアントを許可しているサーバーもあります。  共通の目的は、厳しいながらも制限のない環境の中で、他のプレイヤーやモブから自身を守り、生き残り、資源を集め、安全で隠れた基地を建設することです。"
     },
     "battleroyale": {
       "formatted": "バトルロイヤル",
@@ -14,15 +14,15 @@
     },
     "bedwars": {
       "formatted": "ベッドウォーズ",
-      "desc": "Bedwars is a popular strategic PvP (player vs player) Minecraft mini-game gamemode where the objective is to be the last player (or team) alive by either defending or eliminating the opponents. The Bedwars gamemode often involves a bed that must be protected as when it's destroyed you no longer respawn. Bedwars is usually set on islands in the sky where the biggest danger is to not fall into the bottomless void."
+      "desc": "ベッドウォーズは、自チームのベッドを守り、敵チームのベッドを破壊しながら、最後の一人、またはチームになることで勝利する、人気の戦略的マインクラフト ミニゲームです。 ほとんどのサーバーでは、自チームのベッドが破壊されてしまうとリスポーン不可になってしまうため、自チームのベッドを防衛する必要があります。 ベッドウォーズは大抵の場合浮島での戦いになるため、底なしの奈落に落ちることを回避しなければいけません。"
     },
     "hungergames": {
       "formatted": "ハンガーゲーム",
-      "desc": "Hunger Games is a popular survival PvP (player vs player) Minecraft mini-game gamemode where the objective is to survive using items found throughout the map and defend against other players to be the last standing player."
+      "desc": "ハンガーゲームは、マップ中で見つけられるアイテムを活用してほかのプレイヤーから身を守り、最後の一人になるまで生き残ることで勝利する、人気のPvP（プレイヤー対プレイヤー）マインクラフト ミニゲームです。"
     },
     "survivalgames": {
       "formatted": "サバイバルゲーム",
-      "desc": "Survival Games is a popular survival PvP (player vs player) Minecraft mini-game gamemode where the objective is to survive using items found throughout the map and defend against other players to be the last standing player."
+      "desc": "サバイバルゲームは、マップ中で見つけられるアイテムを活用してほかのプレイヤーから身を守り、最後の一人になるまで生き残ることで勝利する、人気のPvP（プレイヤー対プレイヤー）マインクラフト ミニゲームです。"
     },
     "factions": {
       "formatted": "ファクション",
@@ -57,7 +57,7 @@
       "desc": "Survival is the default Minecraft gamemode where players explore the wilderness and gather resources to survive in a hostile environment. Some survival servers are vanilla and don't change normal gameplay, while others use plugins and mods to add extra features such as an in-game economy and player-run towns. Survival servers may also have PvP enabled, meaning players need to survive against hostile mobs and enemy players."
     },
     "towny": {
-      "formatted": "タウン",
+      "formatted": "生活サーバー",
       "desc": "Towny servers are land management orientated, players can own plots of land and create a town by working together and inviting other players. New players can either join an existing town or create their own, and each town has a mayor who is in charge of managing the residents and setting the rules. Towny also adds economic features including town banks, the ability to purchase land with in-game currency and a taxation system."
     },
     "vanilla": {
@@ -73,7 +73,7 @@
       "desc": "Minecraft servers based around roleplaying encourage players to take on the role of a completely different character and immerse themselves in a fantasy world. Roleplay servers are often heavily modified and use custom plugins and pre-built custom or player-made maps to give the server a specific theme."
     },
     "pixelmon": {
-      "formatted": "Pixelmon (ポケモンMod)",
+      "formatted": "Pixelmon （ポケモンMod）",
       "desc": "Minecraft servers running the multiplayer version of the Pixelmon mod. Pixelmon aims to recreate Pokemon gameplay within Minecraft by adding hundreds of different species of Pokemon that randomly spawn throughout the world and can be captured by players. The mod also adds realistic Pokemon battle mechanics, gyms complete with NPC trainers and a fully functional Pokedex."
     },
     "parkour": {
@@ -94,7 +94,7 @@
     },
     "kitpvp": {
       "formatted": "キットPvP",
-      "desc": "KitPvP is a competitive gamemode where players choose a kit to equip before going into battle and fighting each other in different areas. Each kit contains a unique set of items, effects and special abilities including weapons and armour that give players different fighting abilities. New and more powerful kits can be unlocked by scoring points and levelling up."
+      "desc": "キットPvPは、プレイヤーが戦闘前に使用するキットを選択し、さまざまなエリアで戦う競争ゲームモードです。 各キットには、プレイヤーにさまざまな戦闘アビリティを与えるためのユニークなアイテムのセット、効果、そして武器や防具を含む特別なアビリティが含まれています。 ポイントを獲得し、レベルアップすることで、新しい、より強力なキットをアンロックすることができます。"
     }
   }
 }

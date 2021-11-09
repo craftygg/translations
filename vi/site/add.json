@@ -38,15 +38,15 @@
     }
   },
   "player": {
-    "claim": "Claim Account",
-    "enterName": " Please enter the name of the account that you would like to claim",
-    "username": "Username",
-    "step1": "Please log into our verification Minecraft server to generate your code",
-    "step2": "Supports Minecraft Java Edition 1.8 - 1.17",
-    "step3": "Upon joining the Minecraft server you will see a message containing your code.",
-    "step4": "Please type the four digit code into the box below to continue.",
-    "4digit": "4-Digit Code",
-    "restart": "restart",
-    "verify": "Verify"
+    "claim": "Thu nhận tài khoản",
+    "enterName": " Vui lòng điền tên tài khoản mà bạn muốn thu nhận",
+    "username": "Tên người dùng",
+    "step1": "Vui lòng tham gia server xác nhận của chúng tôi để tạo mã của bạn",
+    "step2": "Hỗ trợ Minecraft Java phiên bản 1.8 - 1.17",
+    "step3": "Bạn sẽ thấy một tin nhắn có chứa mã của bạn khi tham gia server Minecraft.",
+    "step4": "Vui lòng điền vào mã 4 chữ số vào hộp bên dưới để tiếp tục.",
+    "4digit": "Mã 4 chữ số",
+    "restart": "khởi động lại",
+    "verify": "Xác minh"
   }
 }

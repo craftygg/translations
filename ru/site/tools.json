@@ -1,14 +1,14 @@
 {
   "more": "Больше инструментов",
   "crafting": {
-    "title": "Crafting Recipes"
+    "title": "Рецепты Крафта"
   },
   "votifier": {
-    "title": "Votifier Tester",
-    "h2": "Test if your server's votifier is working by just filling out the information below",
-    "whatQ": "What is this tool?",
-    "whatA": "Votifier Tester helps you determine if the Votifier plugin has been correctly installed in your Minecraft server.",
-    "whatVotifierQ": "What is Votifier?",
+    "title": "Тестер вотификатора",
+    "h2": "Проверьте, работает ли вотификатор вашего сервера, просто заполнив приведенную ниже информацию",
+    "whatQ": "Что это за инструмент?",
+    "whatA": "Тестер вотификатор поможет вам определить, правильно ли установлен плагин вотификатор на вашем сервере Minecraft.",
+    "whatVotifierQ": "Что такое вотификатор?",
     "whatVotifierA": " Votifier is a Minecraft server voting plugin you can install to get notified whenever a player votes for your server on a server list, like Crafty.",
     "whyQ": "But, why?",
     "whyA": " Votifier is used by server owners / admins to reward players who vote for their Minecraft server. Voting helps the server get a better ranking on server lists."

@@ -38,15 +38,15 @@
     }
   },
   "player": {
-    "claim": "Claim Account",
-    "enterName": " Please enter the name of the account that you would like to claim",
-    "username": "Username",
-    "step1": "Please log into our verification Minecraft server to generate your code",
-    "step2": "Supports Minecraft Java Edition 1.8 - 1.17",
-    "step3": "Upon joining the Minecraft server you will see a message containing your code.",
-    "step4": "Please type the four digit code into the box below to continue.",
-    "4digit": "4-Digit Code",
-    "restart": "restart",
-    "verify": "Verify"
+    "claim": "Привязать учетную запись",
+    "enterName": " Пожалуйста, введите имя учетной записи, которую вы хотите привязать",
+    "username": "Имя пользователя",
+    "step1": "Пожалуйста, войдите на наш сервер Minecraft, чтобы сгенерировать ваш код",
+    "step2": "Поддерживает Minecraft Java Edition 1.8 - 1.17",
+    "step3": "После присоединения к серверу Minecraft вы увидите сообщение, содержащее ваш код.",
+    "step4": "Пожалуйста, введите четырёхзначный код в поле ниже, чтобы продолжить.",
+    "4digit": "4-значный код",
+    "restart": "начать заново",
+    "verify": "Подтвердить"
   }
 }

@@ -62,27 +62,27 @@
     },
     "vanilla": {
       "formatted": "Vanilla",
-      "desc": "Vanilla servers aim to recreate Minecraft's original survival gameplay in a multiplayer world. Pure vanilla servers use the server software provided directly by Minecraft and don't have any modifications. Semi-vanilla servers use modified server software and may have a small number of plugins, but only to add simple features that don't significantly change gameplay."
+      "desc": "Vanilla-Server versuchen, Minecrafts ursprüngliches Überlebens-Gameplay in einer Mehrspieler-Welt wiederherzustellen. Pure vanilla Server verwenden die Serversoftware direkt von Minecraft und haben keine Modifikationen. Semi-vanilla Server verwenden modifizierte Server-Software und haben möglicherweise eine kleine Anzahl von Plugins, aber nur um einfache Funktionen hinzuzufügen, die das Gameplay nicht wirklich verändern."
     },
     "minigames": {
       "formatted": "Minigames",
-      "desc": "Minigames servers offer a variety of fun gamemodes that can all be played from within a single server. Players join a central lobby and then select the individual minigame that they want to play. Some are competitive and involve PvP while other games require teamwork and cooperation. Popular minigames include Hide and Seek, Capture the Flag, Spleef and Bedwars."
+      "desc": "Minigames Server bieten eine Vielzahl von lustigen Spielmodi, die alle innerhalb eines Servers gespielt werden können. Spieler treten einer zentralen Lobby bei und wählen dann das individuelle Minispiel, das sie spielen möchten. Es gibt auch eine Reihe von Spielen, die PvP beinhalten, während andere Spiele Teamwork und Zusammenarbeit erfordern."
     },
     "roleplay": {
-      "formatted": "RolePlay",
-      "desc": "Minecraft servers based around roleplaying encourage players to take on the role of a completely different character and immerse themselves in a fantasy world. Roleplay servers are often heavily modified and use custom plugins and pre-built custom or player-made maps to give the server a specific theme."
+      "formatted": "Rollenspiel",
+      "desc": "Minecraft Server rund um Rollenspiel ermutigen Spieler, die Rolle einer völlig anderen Figur zu übernehmen und in eine Fantasy Welt einzutauchen. Rollenspiel Server sind oft stark modifiziert und verwenden benutzerdefinierte Plugins und von Spielern erstellte Karten, um dem Server ein bestimmtes Thema zu geben."
     },
     "pixelmon": {
       "formatted": "Pixelmon",
-      "desc": "Minecraft servers running the multiplayer version of the Pixelmon mod. Pixelmon aims to recreate Pokemon gameplay within Minecraft by adding hundreds of different species of Pokemon that randomly spawn throughout the world and can be captured by players. The mod also adds realistic Pokemon battle mechanics, gyms complete with NPC trainers and a fully functional Pokedex."
+      "desc": "Minecraft Server, die die Multiplayer-Version der Pixelmon Mod verwenden. Pixelmon versucht, Pokemon innerhalb von Minecraft wiederherzustellen, indem hunderte von verschiedenen Arten von Pokemon hinzugefügt werden, die zufällig auf der ganzen Welt spawnen und von Spielern gefangen werden können. Die Mod fügt auch realistische Pokemonkämpfe hinzu, Gyms mit NPC Trainern und einen voll funktionsfähigen Pokedex."
     },
     "parkour": {
       "formatted": "Parkour",
-      "desc": "The objective of Minecraft parkour servers is to complete obstacle courses by running, jumping and climbing from one stage to the next. The courses have different themes and range in difficulty from easy to extremely hard. Parkour servers usually have a timer counting how long it takes to complete each course and show leaderboards of the fastest players."
+      "desc": "Das Ziel von Minecraft Parkour Servern ist es, bis zum Ende eines Hindernisskurses zu kommen, indem man rennt, springt und dann ins nächste Level kommt. Die Kurse haben verschiedene Themen und verschiedene Schwierigkeitsgrade von einfach bis extrem hart. Parkour-Server haben in der Regel einen Timer, der zählt, wie lange man braucht, um jeden Kurs abzuschließen und Ranglisten der schnellsten Spieler zu zeigt."
     },
     "pve": {
       "formatted": "PvE",
-      "desc": "Player versus environment servers have PvP disabled meaning players cannot fight and do damage to each other. Instead, players must work together and survive against the environment and Minecraft's many hostile mobs."
+      "desc": "Spieler gegen Umgebungsserver haben PvP deaktiviert, was bedeutet, dass Spieler sich nicht bekämpfen und einander Schaden zufügen können. Stattdessen müssen Spieler zusammenarbeiten und gegen die Umgebung und die vielen feindlichen Mobs von Minecraft überleben."
     },
     "skywars": {
       "formatted": "SkyWars",

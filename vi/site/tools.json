@@ -1,21 +1,21 @@
 {
   "more": "Công Cụ Khác",
   "crafting": {
-    "title": "Crafting Recipes"
+    "title": "Công thức chế tạo"
   },
   "votifier": {
-    "title": "Votifier Tester",
-    "h2": "Test if your server's votifier is working by just filling out the information below",
-    "whatQ": "What is this tool?",
-    "whatA": "Votifier Tester helps you determine if the Votifier plugin has been correctly installed in your Minecraft server.",
-    "whatVotifierQ": "What is Votifier?",
-    "whatVotifierA": " Votifier is a Minecraft server voting plugin you can install to get notified whenever a player votes for your server on a server list, like Crafty.",
-    "whyQ": "But, why?",
-    "whyA": " Votifier is used by server owners / admins to reward players who vote for their Minecraft server. Voting helps the server get a better ranking on server lists."
+    "title": "Thử nghiện Votifier",
+    "h2": "Kiểm tra nếu votifier có hoạt động cho server của bạn hay không bằng việc nhập thông tin server của bạn bên dưới",
+    "whatQ": "Đây là gì?",
+    "whatA": "Thử nghiệm votifier giúp bạn nhận biết được rằng votifier đã được cài đặt vào server đúng cách hay chưa.",
+    "whatVotifierQ": "Votifier là gì?",
+    "whatVotifierA": " Votifier là một plugin cho server Minecraft giúp bạn nhận biết được khi người chơi bất kì vote cho server của bạn trên một danh sách server, như Crafty.",
+    "whyQ": "Nhưng tại sao?",
+    "whyA": " Votifier được dùng bởi quản trị viên server để trao phần thưởng cho người chơi vote cho server của họ. Việc vote giúp server có vị trí cao hơn trên các danh sách server."
   },
   "ping": {
-    "title": "Get Server Information",
-    "h1": "Get Minecraft Server Information",
-    "paragraph": "Fill out the require fields to get basic information about a Minecraft server such as their status, how many players are currently online, version running and location of the server"
+    "title": "Lấy thông tin server",
+    "h1": "Lấy thông tin server Minecraft",
+    "paragraph": "Điền vào phần yêu cầu để lấy các thông tin cơ bản của server Minecarft như trạng thái, số lượng người chơi trực tuyến, phiên bản và địa điểm của máy chủ"
   }
 }
