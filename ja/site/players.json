@@ -1,14 +1,14 @@
 {
-  "find": "マインクラフト プレイヤーを探す",
+  "find": "プレイヤーを探す",
   "players": "プレイヤー",
-  "mcplayers": "マインクラフト プレイヤー",
+  "mcplayers": "プレイヤー",
   "uuidShort": "ショートUUID",
   "uuidLong": "ロングUUID",
   "status": "Craftyアカウントと",
   "claim": "アカウントを関連付ける",
   "unclaimed": "関連付けられていない",
-  "legacy": "未移行済み",
-  "usernameHistory": "今まで使用したユーザーネーム",
+  "legacy": "未移行",
+  "usernameHistory": "今までに使用したユーザーネーム",
   "socialMedia": "ソーシャルメディア",
   "firstUsername": "最初のユーザーネーム",
   "searchPlayer": "特定のプレイヤーを検索する"
