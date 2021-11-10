@@ -27,7 +27,7 @@
     "short": "短い説明",
     "long": "長い説明",
     "charsRemaining": "文字入力可能",
-    "descLimit": "(最大 { Number }文字)",
+    "descLimit": "（最大 { Number }文字）",
     "website": "ウェブサイト",
     "previous": "戻る",
     "next": "次へ",
