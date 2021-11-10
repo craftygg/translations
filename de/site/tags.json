@@ -86,15 +86,15 @@
     },
     "skywars": {
       "formatted": "SkyWars",
-      "desc": "Skywars is a PvP minigame where players battle each other on floating islands until only one survivor is remaining. Each player spawns on an individual island, when the game begins players must prepare for battle before crossing to the other islands and fighting. Chests on each island contain useful items including weapons and food, and there is commonly a larger island at the centre of the map with even more resources."
+      "desc": "Skywars ist eine PvP Minispiel, in dem Spieler auf schwebenden Inseln gegeneinander kämpfen, bis nur noch einer übrig ist. Jeder Spieler spawnet auf eigenen Inseln, wenn das Spiel beginnt, muss sich der Spieler auf den Kampf vorbereiten, bevor er zu den anderen Inseln geht und kämpft. Truhen auf jeder Insel enthalten nützliche Gegenstände wie Waffen und Nahrung, es gibt in der Regel eine größere Insel im Zentrum der Karte mit noch mehr Ressourcen."
     },
     "hardcore": {
       "formatted": "Hardcore",
-      "desc": "Hardcore servers are competitive PvP servers that don't have many rules and aim to make survival extremely difficult. These servers usually allow griefing and don't have any kind of land protection system. Some hardcore servers will even temporarily ban players upon death or not enable natural health regeneration."
+      "desc": "Hardcore Server sind PvP Server, die nicht viele Regeln haben und versuchen, das Überleben extrem schwierig zu machen. Diese Server erlauben in der Regel Griefing und haben kein Landschutzsystem. Einige Hardcore-Server werden Spieler nach dem Tod bannen oder die natürliche Gesundheitsregeneration deaktivieren."
     },
     "kitpvp": {
       "formatted": "KitPvP",
-      "desc": "KitPvP is a competitive gamemode where players choose a kit to equip before going into battle and fighting each other in different areas. Each kit contains a unique set of items, effects and special abilities including weapons and armour that give players different fighting abilities. New and more powerful kits can be unlocked by scoring points and levelling up."
+      "desc": "KitPvP ist ein Wettkampfspiel, bei dem Spieler ein Kit auswählen, das sie ausrüsten, bevor sie in den Kampf gehen und einander in verschiedenen Bereichen bekämpfen. Jedes Kit enthält ein einzigartiges Set von Gegenständen, Effekten und besonderen Fähigkeiten, einschließlich Waffen und Rüstung, die Spielern verschiedene Kampffähigkeiten geben. Neue und bessere Kits können freigeschaltet werden, indem man Punkte erzielt und auflevelt."
     }
   }
 }

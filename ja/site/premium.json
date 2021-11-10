@@ -6,7 +6,7 @@
   "year": "一年",
   "month": "一か月",
   "craftyBot": "Craftyボット",
-  "craftyBotInformation": "Craftyボットは、マインクラフトにフォーカスを当てた実用的なDiscordボットです。 詳しくはこちら：",
+  "craftyBotInformation": "Craftyボットは、マインクラフトにフォーカスを当てた実用的なDiscordボットです。 詳しくはこちら: ",
   "comingSoon": "近日実装予定",
   "benefits": "プランの機能",
   "subscribe": "登録",
@@ -19,7 +19,7 @@
     "serverTracking": "1個のサーバー トラッキング スロットへのアクセス",
     "dmCommands": "Botへのダイレクトメッセージでコマンドを使用",
     "textureSearch": "/texturesearch （テクスチャ検索） コマンドへのアクセス",
-    "notifications": "特定のユーザー名が利用可能になった時、自動でDiscord、またはメール、またはその両方で通知を受け取る（指定できるユーザー名は最大1個）"
+    "notifications": "特定のユーザー名が利用可能になった時、自動でDiscord、またはメール、またはその両方で通知を受け取る（指定できるユーザー名の最大: 1個）"
   },
   "ruby": {
     "customImage": "サーバーページに好みの画像を表示する機能",
@@ -29,7 +29,7 @@
     "icon": "crafty.gg プロフィールでのアイコンの使用",
     "removeCooldowns": "すべてのコマンドをクールダウンなしで使用",
     "serverTracking": "2個のサーバー トラッキング スロットへのアクセス",
-    "notifications": "特定のユーザー名が利用可能になった時、自動でDiscord、またはメール、またはその両方で通知を受け取る（指定できるユーザー名の最大： 3個）"
+    "notifications": "特定のユーザー名が利用可能になった時、自動でDiscord、またはメール、またはその両方で通知を受け取る（指定できるユーザー名の最大: 3個）"
   },
   "diamond": {
     "slug": "カスタム サーバーURL （/servers/custom-url）",
@@ -38,13 +38,13 @@
     "icon": "crafty.gg上での好みのアイコンの使用",
     "removeUpvote": "Discordサーバー内のすべてのユーザーの高評価要件とクールダウンの削除",
     "serverTracking": "3個のサーバー トラッキング スロットへのアクセス",
-    "notifications": "特定のユーザー名が利用可能になった時、自動でDiscord、またはメール、またはその両方で通知を受け取る（指定できるユーザー名の最大： 8個）"
+    "notifications": "特定のユーザー名が利用可能になった時、自動でDiscord、またはメール、またはその両方で通知を受け取る（指定できるユーザー名の最大: 8個）"
   },
   "futureFeatures": {
     "header": "登録は、Craftyの開発の支援になります。",
     "subheader": "私たちが現在実装を計画している機能のリストです。",
-    "playerStatistics": "プレイヤー統計",
-    "playerStatisticsInformation": "マインクラフト プレイヤーの複数の人気サーバー上での統計情報を取得することができます。 このツールはすでに開発段階であり、Craftyボットに使用されています。",
+    "playerStatistics": "プレイヤーの統計情報",
+    "playerStatisticsInformation": "プレイヤーの複数の人気サーバー上での統計情報を取得することができます。 このツールはすでに開発段階であり、Craftyボットに使用されています。",
     "richTextEditor": "リッチ テキスト エディター",
     "richTextEditorInformation": "今現在、サーバーの説明欄を書く際に使用できるのは「マークダウン記法」のみですが、私たちは、この「リッチ テキスト エディター」機能で、あなたの思い描くような説明文を作成する手助けをするつもりです",
     "serverAnalytics": "サーバー分析",
@@ -52,7 +52,7 @@
     "skinEditor": "スキン エディター",
     "skinEditorInformation": "あなたの思い描くスキンを気軽に作成できる機能、「リッチ スキン エディター」",
     "notifications": "通知機能",
-    "notificationsInformation": "設定さえすれば、「あなたのサーバーがオフラインになりました」、「特定のユーザーネームが利用可能になりました」、「新たなマインクラフトバージョン、記事がリリースされました」など、便利な通知を受け取ることができます。",
+    "notificationsInformation": "設定をすれば、「あなたのサーバーがオフラインになりました」「特定のユーザー名が利用可能になりました」「新たなマインクラフトバージョン、記事がリリースされました」など、便利な通知を受け取ることができます。",
     "yourSuggestion": "あなたの欲しいもの",
     "yourSuggestionInformation": "私たちにどんな機能が欲しいかなどをDiscord上で教える、またはフィードバック ページから送信することで、あなたの機能を参考に、Craftyをより良いものにすることができます。"
   }

@@ -6,7 +6,7 @@
     },
     "anarchy": {
       "formatted": "アナーキー",
-      "desc": "アナーキー サーバーは大抵の場合、ワールド保護は最低限で、法律やルールはありません。  中には、アンフェアアドバンテージを得るため、またはプレイヤーほぼ全員がチートを使用しているアナーキー サーバーでフェアになるために作られた、マインクラフトの根本を変えてしまうようなクライアントを許可しているサーバーもあります。  共通の目的は、厳しいながらも制限のない環境の中で、他のプレイヤーやモブから自身を守り、生き残り、資源を集め、安全で隠れた基地を建設することです。"
+      "desc": "アナーキー サーバーは大抵の場合、ワールド保護は最低限で、法律やルールはありません。 中には、アンフェア アドバンテージを得るため、またはプレイヤーほぼ全員がチートを使用しているアナーキー サーバーでフェアになるために作られた、マインクラフトの根本を変えてしまうようなクライアントを許可しているサーバーもあります。 共通の目的は、厳しいながらも制限のない環境の中で、他のプレイヤーやモブから自身を守り、生き残り、資源を集め、安全で隠れた基地を建設することです。"
     },
     "battleroyale": {
       "formatted": "バトルロイヤル",
@@ -26,18 +26,18 @@
     },
     "factions": {
       "formatted": "ファクション",
-      "desc": "Factions servers are competitive PvP servers that let players team up with others by creating or joining existing clans. Faction members work together to build bases, protect their land, gather valuable resources as well as recruit new members. Factions in a server can either become allies and provide support to each other or choose to be enemies and go into battle."
+      "desc": "ファクション サーバーは、新しくクランを作るか、すでに存在しているクランに参加することでほかのプレイヤーとチームを組み協力する、競争力のあるPvPサーバーです。 ファクションのメンバーは、拠点の建築をしたり、土地の防衛、材料を集めたり、新しいメンバーを募ったりすることが主な仕事です。 サーバー内のファクションは、協力し合い、お互いをサポートすることもできますが、敵対関係になることを選択し、戦闘に持ち込むこともできます。"
     },
     "economy": {
-      "formatted": "エコノミー",
-      "desc": "Economy servers operate a virtual economy that allows players to earn and spend an in-game currency. Players can make money by mining valuable resources, completing challenges, trading with other players, and selling items in shops. Most servers also display leaderboards to encourage competition among the wealthiest players."
+      "formatted": "経済",
+      "desc": "経済サーバーは、プレイヤーがゲーム内通貨を得たり、使用したりすることができる仮想の経済を運営するサーバーです。 プレイヤーは、価値のある材料を採掘したり、チャレンジをクリア、ほかのプレイヤーとトレード、そしてアイテムをショップで販売することでお金を得ることができます。 ほとんどのサーバーは、ほかのプレイヤーとの競争性を増させるために、プレイヤーのランキングを表示しています。"
     },
     "creative": {
       "formatted": "クリエイティブ",
-      "desc": "Creative mode servers have creative features enabled. These modes disable Minecraft's survival features, allowing players to build cities and other complex structures with an unlimited amount of blocks. Fly mode is enabled as part of the creative mode to allow for easier building. Servers also allow the use of world editing plugins which makes the building process even easier."
+      "desc": "クリエイティブ サーバーは、クリエイティブの機能を有効にしているサーバーです。 サバイバルの機能を無効化することで、プレイヤーたちは無限にあるブロックで街を造ったり、複雑な建築物などを作ることができます。 クリエイティブの機能の一つである飛行も有効化されているため、楽に建築をすることができます。 そして、建築をさらに楽にさせてくれるワールドを編集するプラグインなどが使用されています。"
     },
     "mcmmo": {
-      "formatted": "マインクラフトMMO",
+      "formatted": "McMMO",
       "desc": "McMMO is a plugin that adds RPG style features to Minecraft's normal survival gameplay. It allows players to earn experience and level up by doing actions or using tools. By reaching higher levels, they can gain bonuses such as double item drops. Experience can be earned in all sorts of ways from mining and woodcutting to archery and alchemy."
     },
     "skyblock": {
@@ -66,7 +66,7 @@
     },
     "minigames": {
       "formatted": "ミニゲーム",
-      "desc": "Minigames servers offer a variety of fun gamemodes that can all be played from within a single server. Players join a central lobby and then select the individual minigame that they want to play. Some are competitive and involve PvP while other games require teamwork and cooperation. Popular minigames include Hide and Seek, Capture the Flag, Spleef and Bedwars."
+      "desc": "ミニゲーム サーバーは、一つのサーバー内でさまざまなゲームモードをプレイできるサーバーです。 プレイヤーはサーバーに参加するとまず中央ロビーに接続され、そこでプレイしたいミニゲームを選ぶことができます。 チームワークや協力が必要なゲームもあれば、PvP力が関与する競争力のあるゲームもあります。 人気のミニゲームには、「Hide and seek（かくれんぼ）」、「Capture the Flag （敵チームの旗を取り、自拠点まで持ち帰るゲーム）」、「Spleef （相手の下にあるブロックを破壊し、相手を奈落に落とすゲーム）」、ベッドウォーズなどがあります。"
     },
     "roleplay": {
       "formatted": "ロールプレイング",
@@ -74,7 +74,7 @@
     },
     "pixelmon": {
       "formatted": "Pixelmon （ポケモンMod）",
-      "desc": "Minecraft servers running the multiplayer version of the Pixelmon mod. Pixelmon aims to recreate Pokemon gameplay within Minecraft by adding hundreds of different species of Pokemon that randomly spawn throughout the world and can be captured by players. The mod also adds realistic Pokemon battle mechanics, gyms complete with NPC trainers and a fully functional Pokedex."
+      "desc": "ポケモン風Mod、「Pixelmon（ピクセルモン）」のマルチプレイヤー版をプレイできるサーバーです。 Pixelmonは、プレイヤーが捕まえることができる、ワールド中にランダムにスポーンする何千ものポケモンなどで、ゲーム「ポケモン」をマインクラフト内で再現することを目的とたModです。 そして、Pixelmonの機能には、忠実に再現されたポケモンバトルのメカニック、NPCのトレーナーのジム、そして完璧に機能するポケモン辞典などがあります。"
     },
     "parkour": {
       "formatted": "パルクール",
@@ -86,7 +86,7 @@
     },
     "skywars": {
       "formatted": "スカイウォーズ",
-      "desc": "Skywars is a PvP minigame where players battle each other on floating islands until only one survivor is remaining. Each player spawns on an individual island, when the game begins players must prepare for battle before crossing to the other islands and fighting. Chests on each island contain useful items including weapons and food, and there is commonly a larger island at the centre of the map with even more resources."
+      "desc": "スカイウォーズは、最後の一人になるまで浮島の上で戦うミニゲームです。 プレイヤーは個々の島にスポーンし、プレイヤーはゲームが開始されたら、ほかの島に行く前にまず、戦う準備をしなければいけません。 島にあるチェストには、武器や食料などの使えるアイテムが入っています。 そしてたいていの場合、マップの中心には、さらに多くのアイテムなどがある大きな島があります。"
     },
     "hardcore": {
       "formatted": "ハードコア",
