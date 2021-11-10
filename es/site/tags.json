@@ -29,7 +29,7 @@
       "desc": "Los servidores de Facciones son servidores competitivos de PvP que dejan a los jugadores juntarse creando clanes o uniéndose a uno. Los miembros de una facción trabajan juntos para construir bases, proteger su terreno, recolectar recursos valiosos así como reclutar nuvos miembros. Las facciones dentro de un servidor pueden volverse tanto aliadas como proveer soporte entre sí o elegir ser enemigas y enfrentarse en batalla."
     },
     "economy": {
-      "formatted": "Economy",
+      "formatted": "Economía",
       "desc": "Economy servers operate a virtual economy that allows players to earn and spend an in-game currency. Players can make money by mining valuable resources, completing challenges, trading with other players, and selling items in shops. Most servers also display leaderboards to encourage competition among the wealthiest players."
     },
     "creative": {
