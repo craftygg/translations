@@ -26,18 +26,18 @@
     },
     "factions": {
       "formatted": "ファクション",
-      "desc": "Factions servers are competitive PvP servers that let players team up with others by creating or joining existing clans. Faction members work together to build bases, protect their land, gather valuable resources as well as recruit new members. Factions in a server can either become allies and provide support to each other or choose to be enemies and go into battle."
+      "desc": "ファクション サーバーは、新しくクランを作るか、すでに存在しているクランに参加することでほかのプレイヤーとチームを組み協力する、競争力のあるPvPサーバーです。 ファクションのメンバーは、拠点の建築をしたり、土地の防衛、材料を集めたり、新しいメンバーを募ったりすることが主な仕事です。 サーバー内のファクションは、協力し合い、お互いをサポートすることもできますが、敵対関係になることを選択し、戦闘に持ち込むこともできます。"
     },
     "economy": {
-      "formatted": "エコノミー",
-      "desc": "Economy servers operate a virtual economy that allows players to earn and spend an in-game currency. Players can make money by mining valuable resources, completing challenges, trading with other players, and selling items in shops. Most servers also display leaderboards to encourage competition among the wealthiest players."
+      "formatted": "経済",
+      "desc": "経済サーバーは、プレイヤーがゲーム内通貨を得たり、使用したりすることができる仮想の経済を運営するサーバーです。 プレイヤーは、価値のある材料を採掘したり、チャレンジをクリア、ほかのプレイヤーとトレード、そしてアイテムをショップで販売することでお金を得ることができます。 ほとんどのサーバーは、ほかのプレイヤーとの競争性を増させるために、プレイヤーのランキングを表示しています。"
     },
     "creative": {
       "formatted": "クリエイティブ",
-      "desc": "Creative mode servers have creative features enabled. These modes disable Minecraft's survival features, allowing players to build cities and other complex structures with an unlimited amount of blocks. Fly mode is enabled as part of the creative mode to allow for easier building. Servers also allow the use of world editing plugins which makes the building process even easier."
+      "desc": "クリエイティブ サーバーは、クリエイティブの機能を有効にしているサーバーです。 サバイバルの機能を無効化することで、プレイヤーたちは無限にあるブロックで街を造ったり、複雑な建築物などを作ることができます。 クリエイティブの機能の一つである飛行も有効化されているため、楽に建築をすることができます。 そして、建築をさらに楽にさせてくれるワールドを編集するプラグインなどが使用されています。"
     },
     "mcmmo": {
-      "formatted": "マインクラフトMMO",
+      "formatted": "McMMO",
       "desc": "McMMO is a plugin that adds RPG style features to Minecraft's normal survival gameplay. It allows players to earn experience and level up by doing actions or using tools. By reaching higher levels, they can gain bonuses such as double item drops. Experience can be earned in all sorts of ways from mining and woodcutting to archery and alchemy."
     },
     "skyblock": {
