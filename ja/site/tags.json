@@ -42,11 +42,11 @@
     },
     "skyblock": {
       "formatted": "スカイブロック",
-      "desc": "Skyblock servers are multiplayer versions of the original Skyblock survival map. Each player spawns on a small floating island with limited resources and must think creatively to gather materials, expand the island and survive. The majority of Skyblock servers include economic features such as the ability to buy and sell items with in-game currency and leaderboards of the wealthiest players."
+      "desc": "スカイブロック サーバーは、オリジナルのサバイバルのスカイブロック マップのマルチプレイヤー バージョンです。プレイヤーは資源が限られている小さな浮島にスポーンし、クリエイティブに考えて資源を集め、島を拡張し、生活しなければなりません。 多くのスカイブロック サーバーには、ゲーム内通貨でアイテムを売買できる経済機能や、裕福なプレイヤーのランキングなどがあります。"
     },
     "pvp": {
       "formatted": "PvP",
-      "desc": "Minecraft servers with PvP enabled allow players to fight and do damage against each other. PvP servers include a huge variety of different gamemodes from vanilla survival and factions to battle royale style minigames and KitPvP. Players must survive against not only the environment and hostile mobs but also any enemy players. Some servers have PvP enabled throughout the entire map while others have safe zones such as spawn where players can't fight."
+      "desc": "PvPが有効なサーバーでは、プレイヤーはほかのプレイヤーと戦い、ダメージを与えることができます。 PvPサーバーには、「バニラ」や「ファクション」から、「バトル ロイヤル」 スタイルのミニゲームなど、たくさんの種類のゲームモードが含まれています。 プレイヤーは、環境や敵対するモブなどだけでなく、ほかのプレイヤーからも身を守り、生き残らなければなりません。 多くの場合、スポーン地点などには、プレイヤーがダメージを受けないセーフゾーン（安全地帯）がありますが、中にはセーフゾーンがなく、マップ中どこでもPvPが有効化されているサーバーもあります。"
     },
     "prison": {
       "formatted": "プリズン",
@@ -54,7 +54,7 @@
     },
     "survival": {
       "formatted": "サバイバル",
-      "desc": "Survival is the default Minecraft gamemode where players explore the wilderness and gather resources to survive in a hostile environment. Some survival servers are vanilla and don't change normal gameplay, while others use plugins and mods to add extra features such as an in-game economy and player-run towns. Survival servers may also have PvP enabled, meaning players need to survive against hostile mobs and enemy players."
+      "desc": "サバイバルは、荒野を探索し、資材を集め、敵対するモブたちから生き残る、マインクラフトのデフォルトのゲームモードです。 サバイバル サーバーの中には、オリジナルのサバイバル モードをそのまま使用しているサーバーもありますが、たいていの場合、プラグインやModなどを使用し、経済機能や、プレイヤー主導の町などの追加機能を追加しています。 PvPが有効化されていることもあり、その場合、プレイヤーは、敵対するモブと敵プレイヤー、両方を相手に生き残らなければなりません。"
     },
     "towny": {
       "formatted": "生活サーバー",
@@ -62,7 +62,7 @@
     },
     "vanilla": {
       "formatted": "バニラ",
-      "desc": "Vanilla servers aim to recreate Minecraft's original survival gameplay in a multiplayer world. Pure vanilla servers use the server software provided directly by Minecraft and don't have any modifications. Semi-vanilla servers use modified server software and may have a small number of plugins, but only to add simple features that don't significantly change gameplay."
+      "desc": "バニラ サーバーは、マインクラフトのオリジナルのサバイバル モードをマルチプレイヤーで再現することを目的としています。 純粋なバニラ サーバーは、マインクラフトから直接提供される（Spigotなどでない）サーバー ソフトウェアを使用しておらず、改造などが施されていません。 セミ バニラ サーバーは、改造されたサーバー ソフトウェアを使用しており、プラグインを数個導入していることもありますが、どれもシンプルな機能を追加するだけのものであり、ゲーム性を大幅に変更してしまうようなプラグインは使用されていません。"
     },
     "minigames": {
       "formatted": "ミニゲーム",
