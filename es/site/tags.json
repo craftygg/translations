@@ -30,10 +30,10 @@
     },
     "economy": {
       "formatted": "Economía",
-      "desc": "Economy servers operate a virtual economy that allows players to earn and spend an in-game currency. Players can make money by mining valuable resources, completing challenges, trading with other players, and selling items in shops. Most servers also display leaderboards to encourage competition among the wealthiest players."
+      "desc": "Los servidores de economía operan una economía virtual que permite a los jugadores ganar y gastar monedas dentro del juego. Los jugadores pueden ganar dinero minando recursos valiosos, completando desafíos, comerciando con otros jugadores y vendiendo objetos en tiendas. La mayoría de los servidores también muestran tablas de clasificación para fomentar competencia entre los jugadores más ricos."
     },
     "creative": {
-      "formatted": "Creative",
+      "formatted": "Creativo",
       "desc": "Creative mode servers have creative features enabled. These modes disable Minecraft's survival features, allowing players to build cities and other complex structures with an unlimited amount of blocks. Fly mode is enabled as part of the creative mode to allow for easier building. Servers also allow the use of world editing plugins which makes the building process even easier."
     },
     "mcmmo": {
