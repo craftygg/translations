@@ -1,21 +1,21 @@
 {
   "more": "Weitere Tools",
   "crafting": {
-    "title": "Crafting Recipes"
+    "title": "Herstellungsrezepte"
   },
   "votifier": {
     "title": "Votifier Tester",
-    "h2": "Test if your server's votifier is working by just filling out the information below",
-    "whatQ": "What is this tool?",
-    "whatA": "Votifier Tester helps you determine if the Votifier plugin has been correctly installed in your Minecraft server.",
-    "whatVotifierQ": "What is Votifier?",
-    "whatVotifierA": " Votifier is a Minecraft server voting plugin you can install to get notified whenever a player votes for your server on a server list, like Crafty.",
-    "whyQ": "But, why?",
-    "whyA": " Votifier is used by server owners / admins to reward players who vote for their Minecraft server. Voting helps the server get a better ranking on server lists."
+    "h2": "Teste ob der Votifier deines Servers funktioniert, indem du einfach die untenstehenden Informationen ausfüllst",
+    "whatQ": "Was ist dieses Tool?",
+    "whatA": "Votifier Tester hilft dir herauszufinden, ob das Votifier Plugin auf deinem Minecraft Server korrekt installiert wurde.",
+    "whatVotifierQ": "Was ist Votifier?",
+    "whatVotifierA": " Votifier ist ein Minecraft Server Plugin, das du installieren kannst, um benachrichtigt zu werden, wenn ein Spieler auf einer Serverliste wie Crafty für deinen Server stimmt.",
+    "whyQ": "Ja aber warum?",
+    "whyA": " Serverbesitzer / Admins benutzen Votifier um Spieler, die für ihren Server stimmen, zu belohnen. Für einen Server stimmen hilft ihm einen besseren Platz auf Serverlisten zu bekommen."
   },
   "ping": {
-    "title": "Get Server Information",
-    "h1": "Get Minecraft Server Information",
-    "paragraph": "Fill out the require fields to get basic information about a Minecraft server such as their status, how many players are currently online, version running and location of the server"
+    "title": "Serverinformationen ansehen",
+    "h1": "Erhalte Mindcraft Serverinformation",
+    "paragraph": "Fülle die benötigten Felder aus, um grundlegende Informationen über einen Minecraftserver wie seinen Status zu erhalten, wie viele Spieler derzeit online sind, Version und Standort des Servers"
   }
 }

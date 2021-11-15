@@ -4,18 +4,18 @@
     "title": "Рецепты Крафта"
   },
   "votifier": {
-    "title": "Тестер вотификатора",
-    "h2": "Проверьте, работает ли вотификатор вашего сервера, просто заполнив приведенную ниже информацию",
+    "title": "Тест Votifier",
+    "h2": "Проверьте, работает ли Votifier на вашем сервере, заполнив информацию ниже",
     "whatQ": "Что это за инструмент?",
-    "whatA": "Тестер вотификатор поможет вам определить, правильно ли установлен плагин вотификатор на вашем сервере Minecraft.",
-    "whatVotifierQ": "Что такое вотификатор?",
-    "whatVotifierA": " Votifier is a Minecraft server voting plugin you can install to get notified whenever a player votes for your server on a server list, like Crafty.",
-    "whyQ": "But, why?",
-    "whyA": " Votifier is used by server owners / admins to reward players who vote for their Minecraft server. Voting helps the server get a better ranking on server lists."
+    "whatA": "Тест Votifier поможет вам определить, правильно ли установлен плагин Votifier на вашем сервере Minecraft.",
+    "whatVotifierQ": "Что такое Votifier?",
+    "whatVotifierA": " Votifier — это плагин голосования для сервера Minecraft, который вы можете установить, а дальше получать уведомления, когда игрок голосует за ваш сервер в таком списке серверов, как в Crafty.",
+    "whyQ": "Но зачем?",
+    "whyA": " Votifier используется владельцами серверов / администраторами, чтобы вознаграждать игроков, которые голосуют за их сервер Minecraft. Голосование помогает серверу получить высокий рейтинг в списках серверов."
   },
   "ping": {
-    "title": "Get Server Information",
-    "h1": "Get Minecraft Server Information",
-    "paragraph": "Fill out the require fields to get basic information about a Minecraft server such as their status, how many players are currently online, version running and location of the server"
+    "title": "Получить информацию о сервере",
+    "h1": "Получить информацию о сервере Minecraft",
+    "paragraph": "Заполните поля ниже для получения базовой информации о сервере Minecraft, такой как статус, сколько игроков в настоящее время в сети, версия и местоположение сервера"
   }
 }

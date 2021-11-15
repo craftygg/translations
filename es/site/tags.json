@@ -29,16 +29,16 @@
       "desc": "Los servidores de Facciones son servidores competitivos de PvP que dejan a los jugadores juntarse creando clanes o uniéndose a uno. Los miembros de una facción trabajan juntos para construir bases, proteger su terreno, recolectar recursos valiosos así como reclutar nuvos miembros. Las facciones dentro de un servidor pueden volverse tanto aliadas como proveer soporte entre sí o elegir ser enemigas y enfrentarse en batalla."
     },
     "economy": {
-      "formatted": "Economy",
-      "desc": "Economy servers operate a virtual economy that allows players to earn and spend an in-game currency. Players can make money by mining valuable resources, completing challenges, trading with other players, and selling items in shops. Most servers also display leaderboards to encourage competition among the wealthiest players."
+      "formatted": "Economía",
+      "desc": "Los servidores de economía operan una economía virtual que permite a los jugadores ganar y gastar monedas dentro del juego. Los jugadores pueden ganar dinero minando recursos valiosos, completando desafíos, comerciando con otros jugadores y vendiendo objetos en tiendas. La mayoría de los servidores también muestran tablas de clasificación para fomentar competencia entre los jugadores más ricos."
     },
     "creative": {
-      "formatted": "Creative",
-      "desc": "Creative mode servers have creative features enabled. These modes disable Minecraft's survival features, allowing players to build cities and other complex structures with an unlimited amount of blocks. Fly mode is enabled as part of the creative mode to allow for easier building. Servers also allow the use of world editing plugins which makes the building process even easier."
+      "formatted": "Creativo",
+      "desc": "Los servidores de modo creativo tienen las características del creativo activadas. Estos modos desactivan las caracterísitcas del modo supervivencia de Minecraft, permitiendo a los jugadores construir cuidades y otras estructuras complejas con una cantidad ilimitada de bloques. Puedes volar como parte del modo creativo para construir de manera más fácil. Estos servidores también permiten el uso de plugins de edición de mundo (WorldEdit, FAWE, ...) los cuales hacen el proceso de construcción aún más fácil."
     },
     "mcmmo": {
       "formatted": "McMMO",
-      "desc": "McMMO is a plugin that adds RPG style features to Minecraft's normal survival gameplay. It allows players to earn experience and level up by doing actions or using tools. By reaching higher levels, they can gain bonuses such as double item drops. Experience can be earned in all sorts of ways from mining and woodcutting to archery and alchemy."
+      "desc": "McMMO es un plugin que añade características de estilo RPG al juego de supervivencia normal de Minecraft. Permite a los jugadores ganar experiencia y subir de nivel haciendo acciones o usando herramientas. Alcanzando niveles más altos, pueden obtener bonificaciones como objetos dobles. La experiencia se puede ganar de todo tipo de formas, desde la minería y la tala de árboles, hasta el tiro con arco y la alquimia."
     },
     "skyblock": {
       "formatted": "Skyblock",
@@ -49,11 +49,11 @@
       "desc": "Minecraft servers with PvP enabled allow players to fight and do damage against each other. PvP servers include a huge variety of different gamemodes from vanilla survival and factions to battle royale style minigames and KitPvP. Players must survive against not only the environment and hostile mobs but also any enemy players. Some servers have PvP enabled throughout the entire map while others have safe zones such as spawn where players can't fight."
     },
     "prison": {
-      "formatted": "Prison",
+      "formatted": "Prisión",
       "desc": "Prison servers don't have any wilderness and are instead set entirely within a prison-themed map. Players start at the lowest rank with basic tools and must earn money to rank up and become more powerful. Money is earned by mining resources at predesignated mines, and new mines with more valuable resources are unlocked by ranking up. Players can challenge each other to battle in PvP arenas and even buy plots of land inside the prison to build a base and store valuables."
     },
     "survival": {
-      "formatted": "Survival",
+      "formatted": "Supervivencia",
       "desc": "Survival is the default Minecraft gamemode where players explore the wilderness and gather resources to survive in a hostile environment. Some survival servers are vanilla and don't change normal gameplay, while others use plugins and mods to add extra features such as an in-game economy and player-run towns. Survival servers may also have PvP enabled, meaning players need to survive against hostile mobs and enemy players."
     },
     "towny": {
@@ -65,7 +65,7 @@
       "desc": "Vanilla servers aim to recreate Minecraft's original survival gameplay in a multiplayer world. Pure vanilla servers use the server software provided directly by Minecraft and don't have any modifications. Semi-vanilla servers use modified server software and may have a small number of plugins, but only to add simple features that don't significantly change gameplay."
     },
     "minigames": {
-      "formatted": "Minigames",
+      "formatted": "Minijuegos",
       "desc": "Minigames servers offer a variety of fun gamemodes that can all be played from within a single server. Players join a central lobby and then select the individual minigame that they want to play. Some are competitive and involve PvP while other games require teamwork and cooperation. Popular minigames include Hide and Seek, Capture the Flag, Spleef and Bedwars."
     },
     "roleplay": {

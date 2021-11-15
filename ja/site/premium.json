@@ -1,10 +1,10 @@
 {
-  "header": "Crafty プレミアム",
+  "header": "Craftyプレミアム",
   "subheader": "あなたのニーズに合ったプランを選択して、Craftyの開発資金の手助けをお願いします！",
   "monthly": "月間",
   "annually": "年間",
-  "year": "一年",
-  "month": "一か月",
+  "year": "年",
+  "month": "月",
   "craftyBot": "Craftyボット",
   "craftyBotInformation": "Craftyボットは、マインクラフトにフォーカスを当てた実用的なDiscordボットです。 詳しくはこちら: ",
   "comingSoon": "近日実装予定",
@@ -15,30 +15,30 @@
     "slug": "カスタム ユーザーURL （/users/custom-url）",
     "color": "サーバー、プレイヤーページのテーマ色のカスタマイズ",
     "access": "Crafty公式DiscordでのEmerald専用特典へのアクセス",
-    "icon": "crafty.gg上での好みのアイコンの使用",
+    "icon": "crafty.gg上のプロフィールでのEmeraldアイコンの表示",
     "serverTracking": "1個のサーバー トラッキング スロットへのアクセス",
     "dmCommands": "Botへのダイレクトメッセージでコマンドを使用",
     "textureSearch": "/texturesearch （テクスチャ検索） コマンドへのアクセス",
-    "notifications": "特定のユーザー名が利用可能になった時、自動でDiscord、またはメール、またはその両方で通知を受け取る（指定できるユーザー名の最大: 1個）"
+    "notifications": "指定したユーザー名が利用可能になった時、自動でDiscord、またはメール、またはその両方で通知を受け取る（指定できるユーザー名の最大: 1個）"
   },
   "ruby": {
-    "customImage": "サーバーページに好みの画像を表示する機能",
+    "customImage": "サーバーページ上での好みの画像の表示",
     "serverDescription": "サーバー説明欄の文字数制限の500文字から1500文字への引き上げ",
     "moreTags": "サーバーに追加できるタグの数を5から9に増加",
     "access": "Crafty公式DiscordでのRuby専用特典へのアクセス",
-    "icon": "crafty.gg プロフィールでのアイコンの使用",
-    "removeCooldowns": "すべてのコマンドをクールダウンなしで使用",
+    "icon": "crafty.gg上のプロフィールでのRubyアイコンの表示",
+    "removeCooldowns": "コマンド使用のクールダウン削除",
     "serverTracking": "2個のサーバー トラッキング スロットへのアクセス",
-    "notifications": "特定のユーザー名が利用可能になった時、自動でDiscord、またはメール、またはその両方で通知を受け取る（指定できるユーザー名の最大: 3個）"
+    "notifications": "指定したユーザー名が利用可能になった時、自動でDiscord、またはメール、またはその両方で通知を受け取る（指定できるユーザー名の最大: 3個）"
   },
   "diamond": {
     "slug": "カスタム サーバーURL （/servers/custom-url）",
     "earlyAccess": "Craftyの機能を先行体験し、改善点などを考案する",
     "access": "Crafty公式DiscordでのDiamond専用特典へのアクセス",
-    "icon": "crafty.gg上での好みのアイコンの使用",
+    "icon": "crafty.gg上のプロフィールでのDiamondアイコンの表示",
     "removeUpvote": "Discordサーバー内のすべてのユーザーの高評価要件とクールダウンの削除",
     "serverTracking": "3個のサーバー トラッキング スロットへのアクセス",
-    "notifications": "特定のユーザー名が利用可能になった時、自動でDiscord、またはメール、またはその両方で通知を受け取る（指定できるユーザー名の最大: 8個）"
+    "notifications": "指定したユーザー名が利用可能になった時、自動でDiscord、またはメール、またはその両方で通知を受け取る（指定できるユーザー名の最大: 8個）"
   },
   "futureFeatures": {
     "header": "登録は、Craftyの開発の支援になります。",
@@ -54,6 +54,6 @@
     "notifications": "通知機能",
     "notificationsInformation": "設定をすれば、「あなたのサーバーがオフラインになりました」「特定のユーザー名が利用可能になりました」「新たなマインクラフトバージョン、記事がリリースされました」など、便利な通知を受け取ることができます。",
     "yourSuggestion": "あなたの欲しいもの",
-    "yourSuggestionInformation": "私たちにどんな機能が欲しいかなどをDiscord上で教える、またはフィードバック ページから送信することで、あなたの機能を参考に、Craftyをより良いものにすることができます。"
+    "yourSuggestionInformation": "私たちにどんな機能が欲しいかなどを、Discord上、またはフィードバック ページから送信することで、あなたの機能を参考に、Craftyをより良いものにすることができます。"
   }
 }
