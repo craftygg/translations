@@ -78,11 +78,11 @@
     },
     "parkour": {
       "formatted": "パルクール",
-      "desc": "The objective of Minecraft parkour servers is to complete obstacle courses by running, jumping and climbing from one stage to the next. The courses have different themes and range in difficulty from easy to extremely hard. Parkour servers usually have a timer counting how long it takes to complete each course and show leaderboards of the fastest players."
+      "desc": "パルクール サーバーの目的は、走り、ジャンプ、登りアクションなどを駆使し、障害物のあるコースをクリアすることです。 コースごとに別のテーマがあり、難しさのレベルは簡単なものから、とても難しいものまでさまざまです。 たいていのパルクール サーバーでは、最速のプレイヤーを表示したり、一つのコースにどれだけの時間をかけているかを数えるタイマーが表示されています。"
     },
     "pve": {
       "formatted": "PvE",
-      "desc": "Player versus environment servers have PvP disabled meaning players cannot fight and do damage to each other. Instead, players must work together and survive against the environment and Minecraft's many hostile mobs."
+      "desc": "PvE（プレイヤー対モンスター）サーバーでは、他プレイヤーへのダメージは無効化され、戦うことができません。 代わりに、プレイヤーはともに協力し合い、モンスターなどから生き残らなければなりません。"
     },
     "skywars": {
       "formatted": "スカイウォーズ",
@@ -90,7 +90,7 @@
     },
     "hardcore": {
       "formatted": "ハードコア",
-      "desc": "Hardcore servers are competitive PvP servers that don't have many rules and aim to make survival extremely difficult. These servers usually allow griefing and don't have any kind of land protection system. Some hardcore servers will even temporarily ban players upon death or not enable natural health regeneration."
+      "desc": "ハードコア サーバーは、ルールを少なく抑え、サバイバルをハードにすることが目的である競争力のあるPvPサーバーです。 たいていのハードコア サーバーは、荒らし行為を罰さず、ワールド保護システムを使用していません。 中には、プレイヤーが死んでしまった際にプレイヤーを一時的に参加不可能にしたり、自然回復を無効化しているサーバーもあります。"
     },
     "kitpvp": {
       "formatted": "キットPvP",
