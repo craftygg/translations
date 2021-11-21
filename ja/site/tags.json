@@ -13,7 +13,7 @@
       "desc": "Battle Royale servers are for players who wish to test their Minecraft skills against others in a closed-off battle arena that progressively shrinks over time where resources can be found to one-up other players. Battle Royale servers are often inspired by other well know video games such as Fortnite, PUBG, and Call of Duty."
     },
     "bedwars": {
-      "formatted": "ベッドウォーズ",
+      "formatted": "BedWars",
       "desc": "ベッドウォーズは、自チームのベッドを守り、敵チームのベッドを破壊しながら、最後の一人、またはチームになることで勝利する、人気のPvP（プレイヤー対プレイヤー）型マインクラフト ミニゲームです。 ほとんどのサーバーでは、自チームのベッドが破壊されてしまうとリスポーン不可になってしまうため、自チームのベッドを防衛する必要があります。 ベッドウォーズは大抵の場合浮島での戦いになるため、底なしの奈落に落ちることを回避しなければいけません。"
     },
     "hungergames": {
@@ -85,7 +85,7 @@
       "desc": "PvE（プレイヤー対モンスター）サーバーでは、他プレイヤーへのダメージは無効化され、戦うことができません。 代わりに、プレイヤーはともに協力し合い、モンスターなどから生き残らなければなりません。"
     },
     "skywars": {
-      "formatted": "スカイウォーズ",
+      "formatted": "SkyWars",
       "desc": "スカイウォーズは、最後の一人になるまで浮島の上で戦うミニゲームです。 プレイヤーは個々の島にスポーンし、プレイヤーはゲームが開始されたら、ほかの島に行く前にまず、戦う準備をしなければいけません。 島にあるチェストには、武器や食料などの使えるアイテムが入っています。 そしてたいていの場合、マップの中心には、さらに多くのアイテムなどがある大きな島があります。"
     },
     "hardcore": {
