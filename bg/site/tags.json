@@ -1,8 +1,8 @@
 {
   "details": {
     "adventure": {
-      "formatted": "Adventure",
-      "desc": "Adventure servers extend on the Adventure Minecraft Gamemode where the player has limited interactions with a preset world that is usually custom or player-created. The objective is usually to survive by crafting items and killing mobs while dealing with the challenge of not being able to destroy or place blocks."
+      "formatted": "Приключение",
+      "desc": "Сървърите „Приключение“ използват режима на игра „Приключение“, където играчът има ограничени взаимодействия с предварително зададен свят, който обикновено е персонализиран или е създаден от играч. Целта обикновено е да се оцелее изработвайки предмети и убивайки мобове, докато се справяш с предизвикателството да не можеш да премахваш или да поставяш блокчета."
     },
     "anarchy": {
       "formatted": "Anarchy",
