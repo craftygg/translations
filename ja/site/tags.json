@@ -38,7 +38,7 @@
     },
     "mcmmo": {
       "formatted": "McMMO",
-      "desc": "McMMO is a plugin that adds RPG style features to Minecraft's normal survival gameplay. It allows players to earn experience and level up by doing actions or using tools. By reaching higher levels, they can gain bonuses such as double item drops. Experience can be earned in all sorts of ways from mining and woodcutting to archery and alchemy."
+      "desc": "McMMOは、マインクラフトの通常のサバイバル ゲームモードに、RPGのような機能を追加するプラグインです。 このプラグインは、特定の何かをしたり、ツールを使用したりすることで、プレイヤーは経験値を与えられ、レベルアップします。 レベルが高くなるにつれ、アイテムドロップが倍増したりするボーナスが与えられます。 そのほかにも、経験値は、採掘、木こり、弓での攻撃や、McMMOで追加される要素の1つである錬金術など、さまざまな方法で獲得することができます。"
     },
     "skyblock": {
       "formatted": "スカイブロック",
