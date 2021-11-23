@@ -2,7 +2,7 @@
   "details": {
     "adventure": {
       "formatted": "アドベンチャー",
-      "desc": "Adventure servers extend on the Adventure Minecraft Gamemode where the player has limited interactions with a preset world that is usually custom or player-created. The objective is usually to survive by crafting items and killing mobs while dealing with the challenge of not being able to destroy or place blocks."
+      "desc": "アドベンチャー サーバーは、プレイヤーができる行動が制限されているマインクラフトのアドベンチャー ゲームモードを、前もって準備された、プレイヤーにカスタム、または作成されたワールドなどで拡張しているサーバーです。 通常の目的は、ブロックの破壊や設置ができない状況下で、アイテムをクラフトしたり、モブをキルしながら生き延びることです。"
     },
     "anarchy": {
       "formatted": "アナーキー",
@@ -54,7 +54,7 @@
     },
     "survival": {
       "formatted": "サバイバル",
-      "desc": "サバイバルは、荒野を探索し、資材を集め、危険な自然や敵対するモブたちから生き残る、マインクラフトのデフォルトのゲームモードです。 サバイバル サーバーの中には、オリジナルのサバイバル モードをそのまま使用しているサーバーもありますが、たいていの場合、プラグインやModなどを使用し、経済機能や、プレイヤー主導の町などの追加機能を追加しています。 PvPが有効化されていることもあり、その場合、プレイヤーは、敵対するモブと敵プレイヤー、両方を相手に生き残らなければなりません。"
+      "desc": "サバイバルは、荒野を探索し、資材を集め、危険な自然や敵対するモブたちから生き残る、マインクラフトのデフォルトのゲームモードです。 サバイバル サーバーの中には、オリジナルのサバイバル モードをそのまま使用しているサーバーもありますが、たいていの場合、プラグインやModなどを使用し、経済機能や、プレイヤー主導の町などの追加機能を追加しています。 PvPが有効化されていることもあり、その場合、プレイヤーは、敵対するモブと敵プレイヤー、両方を相手に生き延びなければなりません。"
     },
     "towny": {
       "formatted": "生活サーバー",
