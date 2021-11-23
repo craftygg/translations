@@ -23,7 +23,7 @@
   },
   "ruby": {
     "customImage": "Добавяне на персонализирано изображение в страницата на сървъра ти",
-    "serverDescription": "Server description character limit bump to 1,500 characters (instead of 500)",
+    "serverDescription": "1500 символа лимит за описанието на сървъра ти (вместо 500)",
     "moreTags": "Добавяне на до 9 ключови думи за сървъра ти (вместо 5)",
     "access": "Специален рубинен достъп в сървъра в Дискорд на Крафти",
     "icon": "Рубинена значка в твоя профил в crafty.gg",

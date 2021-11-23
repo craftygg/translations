@@ -1,15 +1,15 @@
 {
-  "home": "home",
+  "home": "主页",
   "news": "News",
   "articles": "Articles",
-  "more": "More",
+  "more": "更多",
   "tools": "Tools",
   "bot": "Crafty Bot",
   "viewProfile": "View Profile",
-  "settings": "Settings",
+  "settings": "设置",
   "add": "Add",
   "myUpvotes": "My Upvotes",
-  "signOut": "Sign Out",
-  "help": "Help",
-  "signIn": "Sign in"
+  "signOut": "登出",
+  "help": "帮助",
+  "signIn": "登入"
 }
