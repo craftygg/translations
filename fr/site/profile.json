@@ -4,12 +4,12 @@
   "slug": "Slug",
   "billing": "Facturation",
   "manage": "Manage",
-  "general": "General",
-  "email": "Email",
+  "general": "Général",
+  "email": "E-mail",
   "mainAccount": "Compte Minecraft Principal",
-  "developers": "Developers",
+  "developers": "Développeurs",
   "updateEmail": "Cliquez ici pour mettre à jour votre adresse e-mail",
   "hits": "Hits",
   "key": "Key",
-  "noKey": "You don't have a developer account. For more information visit {{link}}"
+  "noKey": "Vous n'avez pas de compte de développeur. Pour plus d'informations, visitez {{link}}"
 }
