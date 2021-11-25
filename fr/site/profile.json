@@ -1,6 +1,6 @@
 {
-  "mcaccounts": "Minecraft Accounts",
-  "listedServers": "Listed Servers",
+  "mcaccounts": "Comptes Minecraft",
+  "listedServers": "Serveurs listés",
   "slug": "Slug",
   "billing": "Facturation",
   "manage": "Manage",
@@ -10,6 +10,6 @@
   "developers": "Développeurs",
   "updateEmail": "Cliquez ici pour mettre à jour votre adresse e-mail",
   "hits": "Hits",
-  "key": "Key",
+  "key": "Clé",
   "noKey": "Vous n'avez pas de compte de développeur. Pour plus d'informations, visitez {{link}}"
 }
