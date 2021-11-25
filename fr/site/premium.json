@@ -7,9 +7,9 @@
   "month": "mois",
   "craftyBot": "Crafty Bot",
   "craftyBotInformation": "Crafty bot is an advanced Minecraft focussed Discord bot. Find more information at",
-  "comingSoon": "Coming Soon",
+  "comingSoon": "À venir",
   "benefits": "benefits",
-  "subscribe": "Subscribe",
+  "subscribe": "S'abonner",
   "off": "off",
   "emerald": {
     "slug": "Custom slug (/users/custom-slug)",
@@ -26,7 +26,7 @@
     "serverDescription": "Server description character limit bump to 1,500 characters (instead of 500)",
     "moreTags": "Add up to 9 tags on your Server (instead of 5)",
     "access": "Special Ruby access on Crafty's Discord",
-    "icon": "icon on your crafty.gg profile",
+    "icon": "icône sur votre profil crafty.gg",
     "removeCooldowns": "Remove all command cooldowns",
     "serverTracking": "Access to 2 Minecraft server tracking slots",
     "notifications": "Receive notification when Minecraft username becomes available via Discord and/or e-mail (3 username)"
