@@ -4,18 +4,18 @@
     "title": "Recettes de fabrication"
   },
   "votifier": {
-    "title": "Votifier Tester",
-    "h2": "Test if your server's votifier is working by just filling out the information below",
+    "title": "Test de Votifier",
+    "h2": "Testez si le système de votes de votre serveur fonctionne en remplissant les informations suivantes",
     "whatQ": "Quel est cet outil ?",
-    "whatA": "Votifier Tester helps you determine if the Votifier plugin has been correctly installed in your Minecraft server.",
-    "whatVotifierQ": "What is Votifier?",
-    "whatVotifierA": " Votifier is a Minecraft server voting plugin you can install to get notified whenever a player votes for your server on a server list, like Crafty.",
+    "whatA": "Le test Votifier vous aide à déterminer si le plugin Votifier a été correctement installé sur votre serveur Minecraft.",
+    "whatVotifierQ": "Qu'est-ce que Votifier ?",
+    "whatVotifierA": " Votifier est un plugin de vote pour serveur Minecraft que vous pouvez installer pour être informé à chaque fois qu'un joueur vote pour votre serveur sur des listes de serveurs, comme Crafty.",
     "whyQ": "Mais, pourquoi ?",
-    "whyA": " Votifier is used by server owners / admins to reward players who vote for their Minecraft server. Voting helps the server get a better ranking on server lists."
+    "whyA": " Votifier est utilisé par les propriétaires/administrateurs de serveurs pour récompenser les joueurs qui votent pour leur serveur Minecraft. Le vote aide le serveur à obtenir un meilleur classement sur les listes de serveurs."
   },
   "ping": {
     "title": "Informations d'un serveur",
     "h1": "Avoir des informations sur un serveur Minecraft",
-    "paragraph": "Fill out the require fields to get basic information about a Minecraft server such as their status, how many players are currently online, version running and location of the server"
+    "paragraph": "Remplissez les champs requis pour obtenir des informations basiques sur un serveur Minecraft, telles que son statut, le nombre de joueurs connectés, la version et la localisation du serveur"
   }
 }
