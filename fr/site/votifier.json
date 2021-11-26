@@ -1,10 +1,10 @@
 {
-  "header": "Test if your server's votifier is working by just filling out the information below",
-  "desch1": "What is this tool?",
-  "descp1": "Votifier Tester helps you determine if the Votifier plugin has been correctly installed in your Minecraft server.",
-  "desch2": "What is Votifier?",
-  "descp2": "Votifier is a Minecraft server voting plugin you can install to get notified whenever a player votes for your server on a server list, like Crafty.",
-  "desch3": "But, why?",
-  "descp3": "Votifier is used by server owners / admins to reward players who vote for their Minecraft server. Voting helps the server get a better ranking on server lists.",
-  "test": "Test"
+  "header": "Testez si le système de votes de votre serveur fonctionne en remplissant les informations suivantes",
+  "desch1": "Quel est cet outil ?",
+  "descp1": "Le test Votifier vous aide à déterminer si le plugin Votifier a été correctement installé sur votre serveur Minecraft.",
+  "desch2": "Qu'est-ce que Votifier ?",
+  "descp2": "Votifier est un plugin de vote pour serveur Minecraft que vous pouvez installer pour être informé à chaque fois qu'un joueur vote pour votre serveur sur des listes de serveurs, comme Crafty.",
+  "desch3": "Mais, pourquoi ?",
+  "descp3": "Votifier est utilisé par les propriétaires/administrateurs de serveurs pour récompenser les joueurs qui votent pour leur serveur Minecraft. Le vote aide le serveur à obtenir un meilleur classement sur les listes de serveurs.",
+  "test": "Tester"
 }
