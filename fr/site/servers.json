@@ -13,8 +13,8 @@
   "servers": "Serveurs",
   "searchServer": "Rechercher un serveur spécifique",
   "tags": "Catégories",
-  "sortBy": "Sort By",
-  "orderBy": "Order By",
+  "sortBy": "Trier par",
+  "orderBy": "Ordre par",
   "platform": "Plateforme",
   "version": "Version",
   "language": "Langue",
@@ -40,10 +40,10 @@
   "topUpvoters": "Top 10 des upvotants de { Month }",
   "noUpvotes": "Personne n'a encore voté",
   "country": "Pays",
-  "upvoters": "Server Upvoters",
+  "upvoters": "Upvotants du serveur",
   "votedXTimes": " A voté { X } fois",
   "faq": "Questions fréquemment posées",
   "faqSubheader": "Basé sur les questions que se posent les joueurs",
-  "statistics": "Server Statistics",
-  "viewingStats": "Currently viewing statistics about { Type }"
+  "statistics": "Statistiques du serveur",
+  "viewingStats": "Statistiques en cours affiché sur { Type }"
 }
