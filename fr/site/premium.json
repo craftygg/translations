@@ -6,30 +6,30 @@
   "year": "an",
   "month": "mois",
   "craftyBot": "Crafty Bot",
-  "craftyBotInformation": "Crafty bot is an advanced Minecraft focussed Discord bot. Find more information at",
+  "craftyBotInformation": "Crafty bot est un bot Discord avancé focalisé sur Minecraft. Plus d'informations sur",
   "comingSoon": "À venir",
-  "benefits": "benefits",
+  "benefits": "avantages",
   "subscribe": "S'abonner",
   "off": "off",
   "emerald": {
     "slug": "Custom slug (/users/custom-slug)",
     "color": "Custom accent color for your Server & Player page",
     "access": "Special Emerald access on Crafty's Discord",
-    "icon": "icon on your crafty.gg profile",
+    "icon": "icône sur ton profil crafty.gg",
     "serverTracking": "Access to 1 Minecraft server tracking slot",
     "dmCommands": "Ability to use commands in direct messages",
-    "textureSearch": "Access to the /texturesearch command",
-    "notifications": "Receive notification when Minecraft username becomes available via Discord and/or e-mail (1 username)"
+    "textureSearch": "Accès à la commande /texturesearch",
+    "notifications": "Recevez une notification lorsque qu'un pseudo Minecraft est disponible via Discord et/ou par mail (1 pseudo)"
   },
   "ruby": {
-    "customImage": "Ability to add a custom image on your Server page",
-    "serverDescription": "Server description character limit bump to 1,500 characters (instead of 500)",
-    "moreTags": "Add up to 9 tags on your Server (instead of 5)",
+    "customImage": "Possibilité d'ajouter une image personnalisée sur la page de votre serveur",
+    "serverDescription": "Passez la limite de caractères de la description de vos serveurs à 1 500 caractères (au lieu de 500)",
+    "moreTags": "Ajoutez jusqu'à 9 catégories sur votre serveur (au lieu de 5)",
     "access": "Special Ruby access on Crafty's Discord",
     "icon": "icône sur votre profil crafty.gg",
     "removeCooldowns": "Remove all command cooldowns",
     "serverTracking": "Access to 2 Minecraft server tracking slots",
-    "notifications": "Receive notification when Minecraft username becomes available via Discord and/or e-mail (3 username)"
+    "notifications": "Recevoir une notification lorsque qu'un pseudo Minecraft est disponible via Discord et/ou par mail (3 pseudos)"
   },
   "diamond": {
     "slug": "Custom Server slug (/servers/custom-slug)",
@@ -38,7 +38,7 @@
     "icon": "icon on your crafty.gg profile",
     "removeUpvote": "Remove all upvote requirements and cooldowns for all users in a Discord server",
     "serverTracking": "Access to 3 Minecraft server tracking slots",
-    "notifications": "Receive notification when Minecraft username becomes available via Discord and/or e-mail (8 username)"
+    "notifications": "Recevoir une notification lorsque qu'un pseudo Minecraft est disponible via Discord et/ou par mail (8 pseudos)"
   },
   "futureFeatures": {
     "header": "By subscribing, you support the development of Crafty",
