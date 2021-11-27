@@ -15,9 +15,9 @@
     "slug": "Custom slug (/users/custom-slug)",
     "color": "Custom accent color for your Server & Player page",
     "access": "Un accès spécial Emerald sur le Discord de Crafty",
-    "icon": "icône sur ton profil crafty.gg",
+    "icon": "icône sur votre profil crafty.gg",
     "serverTracking": "Accès à 1 emplacement de suivi de serveur Minecraft",
-    "dmCommands": "Ability to use commands in direct messages",
+    "dmCommands": "Posibilité d'utiliser des commandes en messages privés",
     "textureSearch": "Accès à la commande /texturesearch",
     "notifications": "Recevez une notification lorsque qu'un pseudo Minecraft est disponible via Discord et/ou par mail (1 pseudo)"
   },
@@ -35,8 +35,8 @@
     "slug": "Custom Server slug (/servers/custom-slug)",
     "earlyAccess": "Accès anticipé à nos fonctionnalités, ce qui vous permet de faire part de vos avis",
     "access": "Un accès spécial Diamond sur le Discord de Crafty",
-    "icon": "icon on your crafty.gg profile",
-    "removeUpvote": "Remove all upvote requirements and cooldowns for all users in a Discord server",
+    "icon": "icône sur votre profil crafty.gg",
+    "removeUpvote": "Supprimez toutes les exigences et les temps d'attente des upvotes pour tous les utilisateurs sur un serveur Discord",
     "serverTracking": "Accès à 3 emplacements de suivi de serveur Minecraft",
     "notifications": "Recevoir une notification lorsque qu'un pseudo Minecraft est disponible via Discord et/ou par mail (8 pseudos)"
   },
