@@ -1,6 +1,6 @@
 {
   "server": {
-    "success": "Succès!",
+    "success": "Succès !",
     "backToHome": "Retour à la page d'accueil",
     "viewServer": "Visionner serveur",
     "failed": "Échec",

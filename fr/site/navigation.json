@@ -1,15 +1,15 @@
 {
   "home": "accueil",
-  "news": "Nouvelles",
+  "news": "Actualités",
   "articles": "Articles",
-  "more": "Détails",
+  "more": "Plus",
   "tools": "Outils",
   "bot": "Crafty Bot",
-  "viewProfile": "Visionner le profil",
+  "viewProfile": "Voir le profil",
   "settings": "Paramètres",
   "add": "Ajouter",
   "myUpvotes": "Mes Upvotes",
   "signOut": "Se déconnecter",
   "help": "Aide",
-  "signIn": "Connexion"
+  "signIn": "Se connecter"
 }

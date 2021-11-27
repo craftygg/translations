@@ -1,17 +1,17 @@
 {
   "find": "Trouver des skins Minecraft",
   "skins": "Skins",
-  "mcskins": "Minecraft Skins",
+  "mcskins": "Skins Minecraft",
   "apply": "Appliquer",
-  "searchSkin": "Search for a specific player's skin",
+  "searchSkin": "Rechercher le skin d'un joueur spécifique",
   "useSkin": "Utiliser ce skin",
   "download": "Télécharger le skin",
   "capture": "Faites une capture d'écran du skin comme vous le voyez",
-  "runnin": "Running",
-  "flying": "Flying",
-  "rotating": "Rotating",
-  "static": "Static",
-  "walking": "Walking",
+  "runnin": "Court",
+  "flying": "Vole",
+  "rotating": "Tourne",
+  "static": "Statique",
+  "walking": "Marche",
   "type": "Type",
-  "firstSeen": "First Seen"
+  "firstSeen": "Vu la première fois"
 }
