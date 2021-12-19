@@ -1,14 +1,14 @@
 {
-  "mcrecipes": "Minecraft Crafting Recipes",
-  "recipe": "Here's the recipe you asked for",
-  "building": "Building",
-  "decoration": "Decoration",
+  "mcrecipes": "Receitas de Criação do Minecraft",
+  "recipe": "Aqui está a receita para o",
+  "building": "Construção",
+  "decoration": "Decoração",
   "redstone": "Redstone",
-  "transportation": "Transportation",
-  "food": "Food",
-  "tools": "Tools",
-  "combat": "Combat",
-  "brewing": "Brewing",
-  "materials": "Materials",
-  "misc": "Miscellaneous"
+  "transportation": "Transporte",
+  "food": "Comida",
+  "tools": "Ferramentas",
+  "combat": "Combate",
+  "brewing": "Poções",
+  "materials": "Materiais",
+  "misc": "Miscelânea"
 }
