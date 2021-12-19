@@ -1,24 +1,24 @@
 {
-  "header": "The most advanced Minecraft bot for Discord.",
-  "subheader": "Crafty is a must-have for your Minecraft community.",
-  "addToDiscord": "Add to Discord",
-  "viewCommands": "View Commands",
+  "header": "O bot de Minecraft mais avançado do Discord.",
+  "subheader": "O Crafty é essencial para sua comunidade de Minecraft.",
+  "addToDiscord": "Adicione ao Discord",
+  "viewCommands": "Ver Comandos",
   "example1": {
-    "header": "View Player information",
-    "subheader": "Crafty allows you to view information about a Minecraft account, with a simple command"
+    "header": "Veja as informações do Jogador",
+    "subheader": "Crafty permite você ver as informações sobre uma conta de Minecraft, com um simples comando"
   },
   "example2": {
-    "header": "View Server information",
-    "subheader": "With Crafty, you're also able to view Server Information, without ever leaving Discord"
+    "header": "Veja as informações do Servidor",
+    "subheader": "Com Crafty, você também pode ver informações do servidor, sem sair do Discord"
   },
   "example3": {
-    "header": "View Player statistics",
-    "subheader": "Crafty makes it possible for you to view Player statistics from popular Minecraft servers"
+    "header": "Veja as estatísticas do Jogador",
+    "subheader": "Crafty torna possível para você ver as estatísticas dos jogadores de servidores de Minecraft Famosos"
   },
   "example4": {
-    "header": "Play Minecraft Trivia with your friends",
-    "subheader": "Crafty brings all the entertainment to your Discord server. Play Minecraft trivia, view fun facts, have epic Minecraft inspired battles, and so much more!"
+    "header": "Jogue Trivia de Minecraft com seus amigos",
+    "subheader": "Crafty traz todo o entretenimento para seu servidor do Discord. Jogue trivia de Minecraft, veja fatos divertidos, tenha um Minecraft inspirado em batalhas e muito mais!"
   },
-  "botCommands": "Bot Commands",
-  "prettyCoolRight": "Get access to all these cool features by adding Crafty to your Discord server"
+  "botCommands": "Comandos do Bot",
+  "prettyCoolRight": "Obtenha acesso a todos esses recursos legais adicionando Crafty ao seu servidor do Discord"
 }
