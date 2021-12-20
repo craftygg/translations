@@ -1,15 +1,15 @@
 {
-  "home": "home",
-  "news": "News",
-  "articles": "Articles",
-  "more": "More",
-  "tools": "Tools",
+  "home": "início",
+  "news": "Novidades",
+  "articles": "Artigos",
+  "more": "Mais",
+  "tools": "Ferramentas",
   "bot": "Crafty Bot",
-  "viewProfile": "View Profile",
-  "settings": "Settings",
-  "add": "Add",
-  "myUpvotes": "My Upvotes",
-  "signOut": "Sign Out",
-  "help": "Help",
-  "signIn": "Sign in"
+  "viewProfile": "Ver Perfil",
+  "settings": "Configurações",
+  "add": "Adicionar",
+  "myUpvotes": "Meu Votos",
+  "signOut": "Finalizar Sessão",
+  "help": "Ajuda",
+  "signIn": "Iniciar sessão"
 }

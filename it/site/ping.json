@@ -1,0 +1,6 @@
+{
+  "header": "Get Minecraft Server Information",
+  "subheader": "Fill out the require fields to get basic information about a Minecraft server such as their status, how many players are currently online, version running and location of the server",
+  "enter": "Enter your server's IP",
+  "get": "Get Information"
+}
