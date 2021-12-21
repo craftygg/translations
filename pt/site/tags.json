@@ -74,7 +74,7 @@
     },
     "pixelmon": {
       "formatted": "Pixelmon",
-      "desc": "Minecraft servers running the multiplayer version of the Pixelmon mod. Pixelmon aims to recreate Pokemon gameplay within Minecraft by adding hundreds of different species of Pokemon that randomly spawn throughout the world and can be captured by players. The mod also adds realistic Pokemon battle mechanics, gyms complete with NPC trainers and a fully functional Pokedex."
+      "desc": "Servidores de Minecraft executando a versão multiplayer do mod Pixelmon. Pixelmon pretende recriar gameplays de Pokémon dentro de Minecraft, adicionando centenas de espécies diferentes de Pokémons que aparecem aleatoriamente em todo o mundo e que podem ser capturadas por jogadores. O mod também acrescenta mecânica de batalha realista com Pokémons, ginásios completos com treinadores de NPC e um Pokédex totalmente funcional."
     },
     "parkour": {
       "formatted": "Parkour",
@@ -82,7 +82,7 @@
     },
     "pve": {
       "formatted": "PvE",
-      "desc": "Player versus environment servers have PvP disabled meaning players cannot fight and do damage to each other. Instead, players must work together and survive against the environment and Minecraft's many hostile mobs."
+      "desc": "Jogador versus mobs tem o PvP entre Jogadores desativado, ou seja não podem lutar e causar dano uns aos outros. Em vez disso, os jogadores devem trabalhar juntos e sobreviver contra os mobs e as muitas criaturas hostis do Minecraft."
     },
     "skywars": {
       "formatted": "SkyWars",
