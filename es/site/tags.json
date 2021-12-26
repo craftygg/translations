@@ -74,27 +74,27 @@
     },
     "pixelmon": {
       "formatted": "Pixelmon",
-      "desc": "Minecraft servers running the multiplayer version of the Pixelmon mod. Pixelmon aims to recreate Pokemon gameplay within Minecraft by adding hundreds of different species of Pokemon that randomly spawn throughout the world and can be captured by players. The mod also adds realistic Pokemon battle mechanics, gyms complete with NPC trainers and a fully functional Pokedex."
+      "desc": "Son servidores de Minecraft que corren una versión multijugador del mod Pixelmon. Pixelmon tiene como objetivo recrear el modo de juego de Pokemon dentro de Minecraft añadiendo cientos de diferentes especies de Pokemon que aparecen aleatoriamente a lo largo y ancho del mundo y pueden ser capturados por los jugadores. El mod también añade mecánicas realistas de las batallas Pokemon, gimnasios completos con entrenadores NPC y un Pokedex totalmente funcional."
     },
     "parkour": {
       "formatted": "Parkour",
-      "desc": "The objective of Minecraft parkour servers is to complete obstacle courses by running, jumping and climbing from one stage to the next. The courses have different themes and range in difficulty from easy to extremely hard. Parkour servers usually have a timer counting how long it takes to complete each course and show leaderboards of the fastest players."
+      "desc": "El objetivo de los servidores parkour de Minecraft es completar los trayectos corriendo, saltando y escalando de una etapa a la siguiente. Los trayectos tienen diversos temas y varían en dificultad desde fácil a extremadamente difícil. Los servidores de parkour usualmente tienen un temporizador contando cuánto te toma completar cada trayecto y muestran tablas de clasificación con los jugadores más rápidos."
     },
     "pve": {
       "formatted": "PvE",
-      "desc": "Player versus environment servers have PvP disabled meaning players cannot fight and do damage to each other. Instead, players must work together and survive against the environment and Minecraft's many hostile mobs."
+      "desc": "Los servidores de jugador contra entorno (PvE en inglés) tienen el PvP desactivado, lo cual significa que los jugadores no pueden pelear ni hacerse daño entre ellos. En cambio, los jugadores deben trabajar juntos y sobrevivir al entorno y a los cientos de monstruos hostiles de Minecraft."
     },
     "skywars": {
       "formatted": "SkyWars",
-      "desc": "Skywars is a PvP minigame where players battle each other on floating islands until only one survivor is remaining. Each player spawns on an individual island, when the game begins players must prepare for battle before crossing to the other islands and fighting. Chests on each island contain useful items including weapons and food, and there is commonly a larger island at the centre of the map with even more resources."
+      "desc": "Skywars es un minijuego de PvP donde los jugadores batallan entre sí en islas flotantes hasta que solo un sobreviviente queda. Cada jugador aparece en una isla individual. Cuando el juego empieza los jugadores deben prepararse para la batalla antes de atravesar a otras islas y pelear. Hay cofres en cada isla que contienen objetos útiles incluyendo armas y comida, y, comúnmente, hay incluso una isla más grande en el centro del mapa con muchos más recursos."
     },
     "hardcore": {
       "formatted": "Hardcore",
-      "desc": "Hardcore servers are competitive PvP servers that don't have many rules and aim to make survival extremely difficult. These servers usually allow griefing and don't have any kind of land protection system. Some hardcore servers will even temporarily ban players upon death or not enable natural health regeneration."
+      "desc": "Los servidores hardcore son de PvP competitivo en los que no hay muchas reglas y la idea es hacer la supervivencia extremadamente difícil. Estos servidores usualmente permiten destrucción y no tienen ningún tipo de sistema de protección territorial. Hay incluso algunos servidores hardcore que expulsan temporalmente jugadores al morir o que desactivan la regeneración natural de vida."
     },
     "kitpvp": {
       "formatted": "KitPvP",
-      "desc": "KitPvP is a competitive gamemode where players choose a kit to equip before going into battle and fighting each other in different areas. Each kit contains a unique set of items, effects and special abilities including weapons and armour that give players different fighting abilities. New and more powerful kits can be unlocked by scoring points and levelling up."
+      "desc": "KitPvP es un modo de juego competitivo en el que los jugadores escogen un kit para equipar antes de adentrarse en la batalla y luchar por las diferentes áreas. Cada kit contiene una colección única de objetos, efectos y habilidades especiales incluyendo armas y armadura que le dan a los jugadores diversas habilidades de combate. Kits nuevos y más poderosos pueden ser desbloqueados haciendo puntos y subiendo de nivel."
     }
   }
 }
