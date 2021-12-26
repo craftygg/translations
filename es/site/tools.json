@@ -4,18 +4,18 @@
     "title": "Recetas de Fabricación"
   },
   "votifier": {
-    "title": "Votifier Tester",
-    "h2": "Test if your server's votifier is working by just filling out the information below",
-    "whatQ": "What is this tool?",
-    "whatA": "Votifier Tester helps you determine if the Votifier plugin has been correctly installed in your Minecraft server.",
-    "whatVotifierQ": "What is Votifier?",
-    "whatVotifierA": " Votifier is a Minecraft server voting plugin you can install to get notified whenever a player votes for your server on a server list, like Crafty.",
+    "title": "Probador de Votifier",
+    "h2": "Prueba si el votifier de tu servidor está funcionando tan solo llenando la información debajo",
+    "whatQ": "¿Qué es esta herramienta?",
+    "whatA": "El Probador de Votifier te ayuda a determinar si el plugin del Votifier se ha instalado correctamente en tu servidor de Minecraft.",
+    "whatVotifierQ": "¿Qué es Votifier?",
+    "whatVotifierA": " Votifier es un plugin para servidores de Minecraft que puedes instalar para ser notificado/a cada vez que un jugador vota por tu servidor en una lista de servidores, como Crafty.",
     "whyQ": "Pero, por qué?",
-    "whyA": " Votifier is used by server owners / admins to reward players who vote for their Minecraft server. Voting helps the server get a better ranking on server lists."
+    "whyA": " Votifier es usado por dueños y administradores de servidores para recompensar jugadores que votan por su servidor de Minecraft. Votar ayuda al servidor a obtener una mejor clasificación en las listas de servidores."
   },
   "ping": {
     "title": "Obtener Información del Servidor",
-    "h1": "Get Minecraft Server Information",
-    "paragraph": "Fill out the require fields to get basic information about a Minecraft server such as their status, how many players are currently online, version running and location of the server"
+    "h1": "Obtener Información sobre Servidor de Minecraft",
+    "paragraph": "Completa los campos requeridos para obtener información básica sobre un servidor de Minecraft así como su estado, cuántos jugadores están actualmente en línea, versión del juego y ubicación del servidor"
   }
 }
