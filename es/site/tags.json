@@ -69,8 +69,8 @@
       "desc": "Los servidores de minijuegos ofrecen una variedad de modos de juego divertidos que pueden ser jugados en conjunto desde un solo servidor. Los jugadores se unen a un vestíbulo central y luego seleccionan el minijuego que quieren jugar. Algunos son competitivos e involucran PvP, mientras que otros juegos requieren trabajo en equipo y cooperación. Entre los minijuegos populares hay Escondidas, Captura la Bandera, Spleef y Bedwars."
     },
     "roleplay": {
-      "formatted": "RolePlay",
-      "desc": "Minecraft servers based around roleplaying encourage players to take on the role of a completely different character and immerse themselves in a fantasy world. Roleplay servers are often heavily modified and use custom plugins and pre-built custom or player-made maps to give the server a specific theme."
+      "formatted": "Juego de Rol",
+      "desc": "Los servidores de Minecraft alrededor de hacer juego de rol impulsan a los jugadores a tomar el rol de un personaje totalmente diferente y sumergirse en un mundo fantástico. Los servidores de juego de rol son a menudo muy modificados, usan plugins personalizados y mapas pre-construidos o hechos por jugadores para darle al servidor un tema específico."
     },
     "pixelmon": {
       "formatted": "Pixelmon",
