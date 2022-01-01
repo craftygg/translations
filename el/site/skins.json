@@ -1,7 +1,7 @@
 {
-  "find": "Find Minecraft Skins",
+  "find": "Βρείτε Skins Minecraft",
   "skins": "Skins",
-  "mcskins": "Minecraft Skins",
+  "mcskins": "Skins Minecraft",
   "apply": "Εφαρμογή",
   "searchSkin": "Αναζήτηση για ένα συγκεκριμένο skin παίκτη",
   "useSkin": "Χρησιμοποιήστε αυτό το skin",
@@ -10,7 +10,7 @@
   "runnin": "Τρέξιμο",
   "flying": "Πτήση",
   "rotating": "Περιστροφή",
-  "static": "Static",
+  "static": "Στατικό",
   "walking": "Περπάτημα",
   "type": "Τύπος",
   "firstSeen": "Πρώτη Εμφάνιση"
