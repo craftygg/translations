@@ -1,6 +1,6 @@
 {
-  "header": "Get Minecraft Server Information",
-  "subheader": "Fill out the require fields to get basic information about a Minecraft server such as their status, how many players are currently online, version running and location of the server",
-  "enter": "Enter your server's IP",
-  "get": "Get Information"
+  "header": "Λάβετε πληροφορίες διακομιστή Minecraft",
+  "subheader": "Συμπληρώστε τα πεδία που απαιτούνται για να λάβετε βασικές πληροφορίες σχετικά με έναν διακομιστή Minecraft, όπως η κατάστασή του, πόσοι παίκτες είναι αυτήν τη στιγμή σε απευθείας σύνδεση, η έκδοση και η τοποθεσία του διακομιστή",
+  "enter": "Εισάγετε την IP του διακομιστή σας",
+  "get": "Συλλογή πληροφοριών"
 }
