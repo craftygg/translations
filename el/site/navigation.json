@@ -1,9 +1,9 @@
 {
-  "home": "home",
+  "home": "αρχική",
   "news": "Νέα",
-  "articles": "Articles",
+  "articles": "Άρθρα",
   "more": "Περισσότερα",
-  "tools": "Tools",
+  "tools": "Εργαλεία",
   "bot": "Crafty Ρομποτ",
   "viewProfile": "Προβολή Προφίλ",
   "settings": "Ρυθμίσεις",
@@ -11,5 +11,5 @@
   "myUpvotes": "Οι ψήφοι μου",
   "signOut": "Αποσύνδεση",
   "help": "Βοήθεια",
-  "signIn": "Sign in"
+  "signIn": "Συνδεθείτε"
 }
