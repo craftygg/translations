@@ -1,15 +1,15 @@
 {
-  "mcaccounts": "Minecraft Accounts",
-  "listedServers": "Listed Servers",
-  "slug": "Slug",
-  "billing": "Billing",
-  "manage": "Manage",
-  "general": "General",
-  "email": "Email",
-  "mainAccount": "Main Minecraft Account",
-  "developers": "Developers",
-  "updateEmail": "Click here to update your email address",
-  "hits": "Hits",
-  "key": "Key",
-  "noKey": "You don't have a developer account. For more information visit {{link}}"
+  "mcaccounts": "Λογαριασμοί Minecraft",
+  "listedServers": "Διακομιστές Που Εμφανίζονται",
+  "slug": "Γυμνοσάλιαγκας",
+  "billing": "Χρέωση",
+  "manage": "Διαχείριση",
+  "general": "Γενικά",
+  "email": "Ηλεκτρονικό ταχυδρομείο",
+  "mainAccount": "Κύριος Λογαριασμός Minecraft",
+  "developers": "Προγραμματιστές",
+  "updateEmail": "Κάντε κλικ εδώ για να ενημερώσετε τη διεύθυνση ηλεκτρονικού ταχυδρομείου σας",
+  "hits": "Επιτυχίες",
+  "key": "Κλειδί",
+  "noKey": "Δεν έχετε λογαριασμό προγραμματιστή. Για περισσότερες πληροφορίες επισκεφθείτε το {{link}}"
 }
