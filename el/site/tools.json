@@ -1,21 +1,21 @@
 {
   "more": "Περισσότερα Εργαλεία",
   "crafting": {
-    "title": "Crafting Recipes"
+    "title": "Συνταγές Κατασκευής"
   },
   "votifier": {
     "title": "Votifier Tester",
-    "h2": "Test if your server's votifier is working by just filling out the information below",
-    "whatQ": "What is this tool?",
-    "whatA": "Votifier Tester helps you determine if the Votifier plugin has been correctly installed in your Minecraft server.",
-    "whatVotifierQ": "What is Votifier?",
-    "whatVotifierA": " Votifier is a Minecraft server voting plugin you can install to get notified whenever a player votes for your server on a server list, like Crafty.",
-    "whyQ": "But, why?",
-    "whyA": " Votifier is used by server owners / admins to reward players who vote for their Minecraft server. Voting helps the server get a better ranking on server lists."
+    "h2": "Δοκιμάστε αν ο φωνητής του διακομιστή σας λειτουργεί συμπληρώνοντας απλώς τις παρακάτω πληροφορίες",
+    "whatQ": "Τι είναι αυτό το εργαλείο;",
+    "whatA": "Το Votifier Tester σας βοηθά να προσδιορίσετε αν το plugin Votifier έχει εγκατασταθεί σωστά στον διακομιστή σας Minecraft.",
+    "whatVotifierQ": "Τι είναι το Votifier;",
+    "whatVotifierA": " Το Votifier είναι ένα plugin ψηφοφορίας διακομιστή Minecraft, μπορείτε να το εγκαταστήσετε για να ειδοποιηθείτε κάθε φορά που ένας παίκτης ψηφίζει για το διακομιστή σας σε μια λίστα διακομιστών, όπως το Crafty.",
+    "whyQ": "Αλλά γιατί;",
+    "whyA": " Ο φωνητής χρησιμοποιείται από τους ιδιοκτήτες του διακομιστή / διαχειριστές για να ανταμείψει τους παίκτες που ψηφίζουν για τον Minecraft server του. Η ψηφοφορία βοηθά το διακομιστή να πάρει μια καλύτερη κατάταξη στις λίστες διακομιστών."
   },
   "ping": {
-    "title": "Get Server Information",
-    "h1": "Get Minecraft Server Information",
-    "paragraph": "Fill out the require fields to get basic information about a Minecraft server such as their status, how many players are currently online, version running and location of the server"
+    "title": "Λάβετε Πληροφορίες Διακομιστή",
+    "h1": "Λάβετε Πληροφοριών Διακομιστή Minecraft",
+    "paragraph": "Συμπληρώστε τα πεδία που απαιτούνται για να λάβετε βασικές πληροφορίες σχετικά με έναν διακομιστή Minecraft, όπως η κατάστασή του, πόσοι παίκτες είναι αυτήν τη στιγμή σε απευθείας σύνδεση, η έκδοση και η τοποθεσία του διακομιστή"
   }
 }
