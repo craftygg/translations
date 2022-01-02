@@ -1,10 +1,10 @@
 {
-  "header": "Help us improve Crafty!",
-  "subheader": "Tell us what you would like to see improved below",
-  "feedback": "Feedback",
-  "maxCharacters": "Max 1000 characters",
-  "charactersRemaining": "characters remaining",
-  "filling": "I don't like this please change it...",
-  "sendAnonymously": "Send this anonymously",
-  "send": "Send"
+  "header": "Βοηθήστε μας να βελτιώσουμε το Crafty!",
+  "subheader": "Πείτε μας τι θα θέλατε να δείτε να βελτιώνεται παρακάτω",
+  "feedback": "Αξιολόγηση",
+  "maxCharacters": "Μέγιστο 1000 χαρακτήρες",
+  "charactersRemaining": "χαρακτήρες απομένουν",
+  "filling": "Δεν μου αρέσει αυτό παρακαλώ να το αλλάξετε...",
+  "sendAnonymously": "Αποστολή ανώνυμα",
+  "send": "Αποστολή"
 }

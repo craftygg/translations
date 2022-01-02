@@ -16,19 +16,19 @@
     "color": "Προσαρμοσμένο χρώμα έμφασης για τη σελίδα του διακομιστή & του παίκτη",
     "access": "Ειδική Emerald πρόσβαση στο Discord του Crafty",
     "icon": "εικονίδιο στο crafty.gg προφίλ σας ",
-    "serverTracking": "Access to 1 Minecraft server tracking slot",
-    "dmCommands": "Ability to use commands in direct messages",
-    "textureSearch": "Access to the /texturesearch command",
-    "notifications": "Receive notification when Minecraft username becomes available via Discord and/or e-mail (1 username)"
+    "serverTracking": "Πρόσβαση σε 1 υποδοχή παρακολούθησης διακομιστή Minecraft",
+    "dmCommands": "Δυνατότητα χρήσης εντολών σε άμεσα μηνύματα",
+    "textureSearch": "Πρόσβαση στην εντολή /texturesearch",
+    "notifications": "Λάβετε ειδοποίηση όταν το όνομα χρήστη Minecraft γίνει διαθέσιμο μέσω Discord ή/και e-mail (1 όνομα χρήστη)"
   },
   "ruby": {
-    "customImage": "Ability to add a custom image on your Server page",
-    "serverDescription": "Server description character limit bump to 1,500 characters (instead of 500)",
-    "moreTags": "Add up to 9 tags on your Server (instead of 5)",
-    "access": "Special Ruby access on Crafty's Discord",
-    "icon": "icon on your crafty.gg profile",
-    "removeCooldowns": "Remove all command cooldowns",
-    "serverTracking": "Access to 2 Minecraft server tracking slots",
+    "customImage": "Δυνατότητα προσθήκης προσαρμοσμένης εικόνας στη σελίδα του διακομιστή σας",
+    "serverDescription": "Όριο χαρακτήρων περιγραφής διακομιστή σε 1.500 χαρακτήρες (αντί των 500)",
+    "moreTags": "Προσθέστε έως και 9 ετικέτες στον διακομιστή σας (αντί για 5)",
+    "access": "Ειδική πρόσβαση Ruby στο Discord του Crafty",
+    "icon": "εικονίδιο στο crafty.gg προφίλ σας",
+    "removeCooldowns": "Κατάργηση όλων των χρόνων επαναφόρτισης εντολής",
+    "serverTracking": "Πρόσβαση σε 2 υποδοχές παρακολούθησης διακομιστή Minecraft",
     "notifications": "Receive notification when Minecraft username becomes available via Discord and/or e-mail (3 username)"
   },
   "diamond": {

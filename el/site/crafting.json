@@ -1,14 +1,14 @@
 {
-  "mcrecipes": "Minecraft Crafting Recipes",
-  "recipe": "Here's the recipe you asked for",
-  "building": "Building",
-  "decoration": "Decoration",
-  "redstone": "Redstone",
-  "transportation": "Transportation",
-  "food": "Food",
-  "tools": "Tools",
-  "combat": "Combat",
-  "brewing": "Brewing",
-  "materials": "Materials",
-  "misc": "Miscellaneous"
+  "mcrecipes": "Συνταγές Δημιουργίας Minecraft",
+  "recipe": "Εδώ είναι η συνταγή που ζητήσατε",
+  "building": "Κτίριο",
+  "decoration": "Διακόσμηση",
+  "redstone": "Ερυθρόλιθος",
+  "transportation": "Μεταφορά",
+  "food": "Φαγητό",
+  "tools": "Εργαλεία",
+  "combat": "Μάχη",
+  "brewing": "Ζυθοποιία",
+  "materials": "Υλικά",
+  "misc": "Διάφορα"
 }

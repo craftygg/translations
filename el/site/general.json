@@ -8,10 +8,10 @@
   "report": "Αναφορά",
   "location": "Τοποθεσία",
   "adv": "Φίλτρα",
-  "advOptions": "Advanced Options",
-  "search": "Search",
-  "highlow": "High to Low",
-  "lowhigh": "Low to High",
-  "sortBy": "Sort by",
-  "orderBy": "Order by"
+  "advOptions": "Επιλογές για προχωρημένους",
+  "search": "Αναζήτηση",
+  "highlow": "Υψηλά προς χαμηλά",
+  "lowhigh": "Χαμηλά προς υψηλά",
+  "sortBy": "Ταξινόμηση κατά",
+  "orderBy": "Ταξινόμηση κατά"
 }

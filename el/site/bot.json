@@ -1,24 +1,24 @@
 {
-  "header": "The most advanced Minecraft bot for Discord.",
-  "subheader": "Crafty is a must-have for your Minecraft community.",
-  "addToDiscord": "Add to Discord",
-  "viewCommands": "View Commands",
+  "header": "Το πιο προχωρημένο Minecraft bot για το Discord.",
+  "subheader": "Το Crafty είναι απαραίτητο για την κοινότητα Minecraft.",
+  "addToDiscord": "Προσθήκη στο Discord",
+  "viewCommands": "Προβολή Εντολών",
   "example1": {
-    "header": "View Player information",
-    "subheader": "Crafty allows you to view information about a Minecraft account, with a simple command"
+    "header": "Προβολή πληροφοριών παίκτη",
+    "subheader": "Το Crafty σάς επιτρέπει να βλέπετε πληροφορίες σχετικά με έναν λογαριασμό Minecraft, με μια απλή εντολή"
   },
   "example2": {
-    "header": "View Server information",
-    "subheader": "With Crafty, you're also able to view Server Information, without ever leaving Discord"
+    "header": "Πληροφορίες διακομιστή",
+    "subheader": "Με το Crafty, μπορείτε επίσης να δείτε τις Πληροφορίες Διακομιστή, χωρίς ποτέ να φύγετε από το Discord"
   },
   "example3": {
-    "header": "View Player statistics",
-    "subheader": "Crafty makes it possible for you to view Player statistics from popular Minecraft servers"
+    "header": "Προβολή στατιστικών παίκτη",
+    "subheader": "Το Crafty σας δίνει τη δυνατότητα να βλέπετε στατιστικά παίκτη από δημοφιλείς διακομιστές του Minecraft"
   },
   "example4": {
-    "header": "Play Minecraft Trivia with your friends",
-    "subheader": "Crafty brings all the entertainment to your Discord server. Play Minecraft trivia, view fun facts, have epic Minecraft inspired battles, and so much more!"
+    "header": "Παίξε Minecraft Trivia με τους φίλους σου",
+    "subheader": "Το Crafty φέρνει όλη την ψυχαγωγία στον διακομιστή Discord σας. Παίξτε Minecraft trivia, δείτε διασκεδαστικά γεγονότα, έχετε επικές μάχες εμπνευσμένες από το Minecraft και πολλά άλλα!"
   },
-  "botCommands": "Bot Commands",
-  "prettyCoolRight": "Get access to all these cool features by adding Crafty to your Discord server"
+  "botCommands": "Εντολές Bot",
+  "prettyCoolRight": "Αποκτήστε πρόσβαση σε όλες αυτές τις εκπληκτικές δυνατότητες προσθέτοντας το Crafty στον διακομιστή Discord σας"
 }

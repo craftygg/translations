@@ -1,10 +1,10 @@
 {
-  "header": "Test if your server's votifier is working by just filling out the information below",
-  "desch1": "What is this tool?",
-  "descp1": "Votifier Tester helps you determine if the Votifier plugin has been correctly installed in your Minecraft server.",
-  "desch2": "What is Votifier?",
-  "descp2": "Votifier is a Minecraft server voting plugin you can install to get notified whenever a player votes for your server on a server list, like Crafty.",
-  "desch3": "But, why?",
-  "descp3": "Votifier is used by server owners / admins to reward players who vote for their Minecraft server. Voting helps the server get a better ranking on server lists.",
-  "test": "Test"
+  "header": "Δοκιμάστε αν ο φωνητής του διακομιστή σας λειτουργεί συμπληρώνοντας απλώς τις παρακάτω πληροφορίες",
+  "desch1": "Τι είναι αυτό το εργαλείο;",
+  "descp1": "Το Votifier Tester σας βοηθά να προσδιορίσετε αν το plugin Votifier έχει εγκατασταθεί σωστά στον διακομιστή σας Minecraft.",
+  "desch2": "Τι είναι το Votifier;",
+  "descp2": "Το Votifier είναι ένα plugin ψηφοφορίας διακομιστή Minecraft, μπορείτε να το εγκαταστήσετε για να ειδοποιηθείτε κάθε φορά που ένας παίκτης ψηφίζει τον διακομιστή σας σε μια λίστα διακομιστών, όπως το Crafty.",
+  "desch3": "Αλλά γιατί;",
+  "descp3": "Ο φωνητής χρησιμοποιείται από τους ιδιοκτήτες του διακομιστή / διαχειριστές για να ανταμείψει τους παίκτες που ψηφίζουν για τον Minecraft server του. Η ψηφοφορία βοηθά το διακομιστή να πάρει μια καλύτερη κατάταξη στις λίστες διακομιστών.",
+  "test": "Δοκιμή"
 }
