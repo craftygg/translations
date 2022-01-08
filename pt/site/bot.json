@@ -1,24 +1,24 @@
 {
-  "header": "O bot de Minecraft mais avançado do Discord.",
+  "header": "O Bot mais avançado sobre minecraft do Discord.",
   "subheader": "O Crafty é essencial para sua comunidade de Minecraft.",
   "addToDiscord": "Adicione ao Discord",
-  "viewCommands": "Ver Comandos",
+  "viewCommands": "Veja os comandos",
   "example1": {
-    "header": "Veja as informações do Jogador",
-    "subheader": "Crafty permite você ver as informações sobre uma conta de Minecraft, com um simples comando"
+    "header": "Informação do jogador",
+    "subheader": "O Crafty permite que você veja informações sobre uma conta de Minecraft com um simples comando"
   },
   "example2": {
-    "header": "Veja as informações do Servidor",
-    "subheader": "Com Crafty, você também pode ver informações do servidor, sem sair do Discord"
+    "header": "Informação do servidor",
+    "subheader": "Com o Crafty você pode ver informações do Servidor sem sair do Discord"
   },
   "example3": {
-    "header": "Veja as estatísticas do Jogador",
-    "subheader": "Crafty torna possível para você ver as estatísticas dos jogadores de servidores de Minecraft Famosos"
+    "header": "Estatísticas do Jogador",
+    "subheader": "O Crafty permite que você veja estatísticas de servidores famosos de Minecraft"
   },
   "example4": {
-    "header": "Jogue Trivia de Minecraft com seus amigos",
-    "subheader": "Crafty traz todo o entretenimento para seu servidor do Discord. Jogue trivia de Minecraft, veja fatos divertidos, tenha um Minecraft inspirado em batalhas e muito mais!"
+    "header": "Jogue Minecraft Trivia com seus amigos",
+    "subheader": "O Crafty traz todo o entretenimento para seu servidor do Discord. Jogue Minecraft Trivia, veja fatos divertidos, tenha um Minecraft inspirado em batalhas e muito mais!"
   },
   "botCommands": "Comandos do Bot",
-  "prettyCoolRight": "Obtenha acesso a todos esses recursos legais adicionando Crafty ao seu servidor do Discord"
+  "prettyCoolRight": "Obtenha acesso a todos esses recursos legais adicionando o Crafty ao seu servidor do Discord"
 }
