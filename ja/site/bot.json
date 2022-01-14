@@ -1,24 +1,24 @@
 {
-  "header": "今までにないほど実用的なマインクラフト専門のDiscordボット。",
-  "subheader": "Craftyはあなたのマインクラフト コミュニティーに必要不可欠です。",
-  "addToDiscord": "Discordサーバーに追加",
-  "viewCommands": "全コマンドを見る",
+  "header": "今までにないほど高機能な、マインクラフト専門Discordボット。",
+  "subheader": "Craftyは、あなたのマインクラフト コミュニティーに必要不可欠です。",
+  "addToDiscord": "Discordに追加",
+  "viewCommands": "ボット コマンド集",
   "example1": {
     "header": "プレイヤー情報の確認",
-    "subheader": "Craftyを使えば、簡単なコマンド一つでマインクラフトのアカウント情報を確認することができます"
+    "subheader": "Craftyを使えば、シンプルなコマンド一つで簡単にマインクラフトのアカウント情報を確認可能。"
   },
   "example2": {
     "header": "サーバー情報の確認",
-    "subheader": "Craftyを使えば、Discordから目を離すことなくサーバー情報を確認することができます"
+    "subheader": "Craftyなら、Discordから目を離すことなくサーバー情報を確認することだってできる。"
   },
   "example3": {
     "header": "プレイヤーの統計情報の確認",
-    "subheader": "Craftyを使えば、プレイヤーの人気のマインクラフト サーバー上での統計情報を見ることが可能になります。"
+    "subheader": "Craftyを使えば、プレイヤーの人気のマインクラフト サーバー上での統計情報を見ることが可能に。"
   },
   "example4": {
-    "header": "友達と一緒にマインクラフトの雑学を楽しもう",
-    "subheader": "CraftyはあなたのDiscordサーバーにたくさんのエンターテイメントをもたらします。マインクラフトの雑学や、面白い豆知識を教えてくれたり、マインクラフト風バトルコマンドなどなど！"
+    "header": "友達と一緒にマインクラフトの雑学を楽しむ",
+    "subheader": "CraftyはあなたのDiscordサーバーにたくさんのエンターテイメントをもたらします。マインクラフトの雑学や面白い豆知識を教えてくれる機能や、マインクラフト風バトルコマンドなどなど！"
   },
   "botCommands": "ボット コマンド集",
-  "prettyCoolRight": "CraftyをあなたのDiscordサーバーに追加して、たくさんのクールな機能を体験してみましょう"
+  "prettyCoolRight": "CraftyをあなたのDiscordサーバーに追加して、たくさんのクールな機能を使用してみよう。"
 }
