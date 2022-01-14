@@ -1,10 +1,10 @@
 {
   "header": "Craftyの改善にご協力ください！",
-  "subheader": "改善してほしい点等がありましたら、こちらからお教えください",
+  "subheader": "改善してほしい点を以下にご記入ください。",
   "feedback": "フィードバック",
   "maxCharacters": "最大1000文字",
   "charactersRemaining": "文字入力可能",
-  "filling": "これ好きじゃないから変えてほしいな…",
+  "filling": "気に入らない、変更してほしい点など…",
   "sendAnonymously": "匿名で送信する",
   "send": "送信"
 }
