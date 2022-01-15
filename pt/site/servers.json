@@ -45,5 +45,40 @@
   "faq": "Perguntas Frequentes",
   "faqSubheader": "Baseado em quais questões os jogadores fazem",
   "statistics": "Estatísticas do servidor",
-  "viewingStats": "Visualizando estatísticas sobre { Type }"
+  "viewingStats": "Visualizando estatísticas sobre { Type }",
+  "questions": {
+    "1": {
+      "q": "Como faço para entrar no { Server }?",
+      "a1": "Jogue no { Server } com Minecraft Java Edition:",
+      "a2": "Copiar IP do Servidor",
+      "a3": "desta página.",
+      "a4": "Abra o Minecraft.",
+      "a5": "Clique em \"Multijogador\" e, em seguida clique em \"Adicionar Servidor\"",
+      "a6": "Cole o IP do Servidor que você copiou no campo \"Endereço de IP\".",
+      "a7": "Clique em \"Concluído\".",
+      "a8": "Selecione { Server } na lista e clique em \"Entrar no Servidor\"."
+    },
+    "2": {
+      "q": "Qual é o IP do servidor para { Server }?",
+      "a": "Endereço IP do { Server } é "
+    },
+    "3": {
+      "q": "{ Server } tem um servidor de Minecraft: Bedrock/Pocket Edition(PE)?",
+      "a1": "Sim, { Server } é um Minecraft: Bedrock ou conhecido anteriormente como Pocket Edition Server.",
+      "a2": "Não. Você só pode juntar-se ao { Server } usando Minecraft Java Edition.",
+      "a3": "Sim! { Server } suporta ambos o Minecraft: Bedrock Edition e Minecraft: Java Edition"
+    },
+    "4": {
+      "q": "{ Server } é gratuito para jogar?",
+      "a": "Sim, { Server } é gratuito para jogar."
+    },
+    "5": {
+      "q": "Eu tenho um problema ou eu preciso de ajuda com algo. Onde ou a quem eu entro em contato sobre o { Server }?",
+      "a1": "Sugerimos que você entre no Discord do { Server } aqui:"
+    },
+    "6": {
+      "q": "Posso jogar { Server } com TLauncher?",
+      "a": "Não, { Server } é um Servidor de Minecraft Premium."
+    }
+  }
 }

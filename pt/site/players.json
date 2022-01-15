@@ -11,5 +11,6 @@
   "usernameHistory": "Histórico de nomes",
   "socialMedia": "Rede Social",
   "firstUsername": "Primeiro Usuário",
-  "searchPlayer": "Procure por um jogador específico"
+  "searchPlayer": "Procure por um jogador específico",
+  "search": "Pesquise jogadores por nome ou UUID"
 }

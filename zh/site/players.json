@@ -11,5 +11,6 @@
   "usernameHistory": "Username History",
   "socialMedia": "Social Media",
   "firstUsername": "First Username",
-  "searchPlayer": "Search for a specific player"
+  "searchPlayer": "Search for a specific player",
+  "search": "Search for players by name or UUID"
 }

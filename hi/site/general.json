@@ -13,5 +13,6 @@
   "highlow": "High to Low",
   "lowhigh": "Low to High",
   "sortBy": "Sort by",
-  "orderBy": "Order by"
+  "orderBy": "Order by",
+  "copy": "Copy"
 }

@@ -11,5 +11,6 @@
   "usernameHistory": "Lịch sử tên",
   "socialMedia": "Mạng xã hội",
   "firstUsername": "Tên đầu tiên",
-  "searchPlayer": "Tìm kiếm người chơi bất kì"
+  "searchPlayer": "Tìm kiếm người chơi bất kì",
+  "search": "Search for players by name or UUID"
 }
