@@ -11,5 +11,6 @@
   "usernameHistory": "تاریخچه نام کاربری",
   "socialMedia": "شبکه های اجتماعی",
   "firstUsername": "اولین نام کاربری",
-  "searchPlayer": "جستجو برای یک بازیکن مشخص"
+  "searchPlayer": "جستجو برای یک بازیکن مشخص",
+  "search": "Search for players by name or UUID"
 }
