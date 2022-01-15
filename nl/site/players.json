@@ -11,5 +11,6 @@
   "usernameHistory": "Gebruikersnaam Geschiedenis",
   "socialMedia": "Sociale Media",
   "firstUsername": "Eerste Gebruikersnaam",
-  "searchPlayer": "Zoek voor een specifieke speler"
+  "searchPlayer": "Zoek voor een specifieke speler",
+  "search": "Search for players by name or UUID"
 }
