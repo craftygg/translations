@@ -11,5 +11,6 @@
   "usernameHistory": "Ιστορικό Ονομάτων Χρήστη",
   "socialMedia": "Κοινωνικά Δίκτυα",
   "firstUsername": "Πρώτο Όνομα Χρήστη",
-  "searchPlayer": "Αναζήτηση παίκτη"
+  "searchPlayer": "Αναζήτηση παίκτη",
+  "search": "Search for players by name or UUID"
 }
