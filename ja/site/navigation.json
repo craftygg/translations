@@ -2,14 +2,14 @@
   "home": "ホーム",
   "news": "ニュース",
   "articles": "記事",
-  "more": "もっと見る",
+  "more": "その他",
   "tools": "ツール",
   "bot": "Craftボット",
   "viewProfile": "プロフィールを見る",
   "settings": "設定",
   "add": "追加",
   "myUpvotes": "高評価リスト",
-  "signOut": "サインアウト",
+  "signOut": "ログアウト",
   "help": "ヘルプ",
-  "signIn": "サインイン"
+  "signIn": "ログイン"
 }
