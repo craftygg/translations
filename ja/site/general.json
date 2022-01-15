@@ -13,5 +13,6 @@
   "highlow": "高～低",
   "lowhigh": "低～高",
   "sortBy": "絞り込み",
-  "orderBy": "並び替え"
+  "orderBy": "並び替え",
+  "copy": "Copy"
 }
