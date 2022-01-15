@@ -11,5 +11,6 @@
   "usernameHistory": "היסטוריית שם המשתמש",
   "socialMedia": "רשתות חברתיות",
   "firstUsername": "שם המשתמש הראשון",
-  "searchPlayer": "חפש שחקן ספציפי"
+  "searchPlayer": "חפש שחקן ספציפי",
+  "search": "Search for players by name or UUID"
 }
