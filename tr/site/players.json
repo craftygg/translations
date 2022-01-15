@@ -11,5 +11,6 @@
   "usernameHistory": "Kullanıcı Adı Geçmişi",
   "socialMedia": "Sosyal Medya",
   "firstUsername": "İlk Kullanıcı Adı",
-  "searchPlayer": "Belirli bir oyuncu ara"
+  "searchPlayer": "Belirli bir oyuncu ara",
+  "search": "Search for players by name or UUID"
 }
