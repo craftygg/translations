@@ -48,11 +48,11 @@
   "viewingStats": "Actualmente viendo estadísticas sobre { Type }",
   "questions": {
     "1": {
-      "q": "How do I join { Server }?",
-      "a1": "Play on { Server } with Minecraft Java Edition:",
-      "a2": "Copy the Server IP",
-      "a3": "from this page.",
-      "a4": "Open Minecraft.",
+      "q": "Cómo me uno a { Server }?",
+      "a1": "Juega en { Server } con Minecraft Java Edition:",
+      "a2": "Copiar IP del Servidor",
+      "a3": "desde esta página.",
+      "a4": "Abrir Minecraft.",
       "a5": "Click on \"Multiplayer\" and then click \"Add Server\"",
       "a6": "Paste the Server's IP that you have just copied into the \"IP Address\" field.",
       "a7": "Click \"Done\".",
