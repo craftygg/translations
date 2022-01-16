@@ -66,19 +66,19 @@
       "q": "Liệu sử dụng Minecraft Bedrock/Pocket có thể tham gia { Server }?",
       "a1": "Có vì { Server } là một server cho bản Bedrock vốn là phiên bản mới hơn của Pocket (PE).",
       "a2": "Không. Bạn chỉ có thể tham gia { Server } sử dụng bản Java của Minecraft.",
-      "a3": "Yes! { Server } supports both Minecraft: Bedrock Edition and Minecraft: Java Edition"
+      "a3": "Có đấy! { Server } hỗ trợ cả Minecraft Java và Minecraft Bedrock"
     },
     "4": {
-      "q": "Is { Server } a free to play Minecraft Server?",
-      "a": "Yes, { Server } is a free to play Minecraft server."
+      "q": "{ Server } có phải là một server miễn phí?",
+      "a": "Có, { Server } là một server miễn phí."
     },
     "5": {
-      "q": "I have an issue or I need help with something. Where or who do I contact about { Server }?",
-      "a1": "We suggest that you join { Server }'s Discord server here:"
+      "q": "Tôi gặp phải vấn đề hoặc cần giúp về thứ gì đó. Làm cách nào để tôi có thể liên hệ về { Server }?",
+      "a1": "Chúng tôi nghĩ bạn có thể tham gia Discord của { Server } tại đây:"
     },
     "6": {
-      "q": "Can I play { Server } with TLauncher?",
-      "a": "No, { Server } is a Premium Minecraft Server."
+      "q": "Tôi có thể tham gia { Server } khi dùng Minecraft lậu chứ?",
+      "a": "Không vì { Server } cần có tài khoản chính thức."
     }
   }
 }
