@@ -6,7 +6,7 @@
   "uuidLong": "ロングUUID",
   "status": "リンク済み",
   "claim": "リンク",
-  "unclaimed": "未リンク済み",
+  "unclaimed": "未リンク",
   "legacy": "未移行",
   "usernameHistory": "ユーザー名の変更履歴",
   "socialMedia": "ソーシャルメディア",
