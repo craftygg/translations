@@ -48,15 +48,15 @@
   "viewingStats": "{ Type } に関する統計情報を表示中",
   "questions": {
     "1": {
-      "q": "How do I join { Server }?",
-      "a1": "Play on { Server } with Minecraft Java Edition:",
-      "a2": "Copy the Server IP",
-      "a3": "from this page.",
-      "a4": "Open Minecraft.",
-      "a5": "Click on \"Multiplayer\" and then click \"Add Server\"",
-      "a6": "Paste the Server's IP that you have just copied into the \"IP Address\" field.",
-      "a7": "Click \"Done\".",
-      "a8": "Select { Server } from the list and click \"Join Server\"."
+      "q": "{ Server } に参加するには？",
+      "a1": "マインクラフト Java版 で { Server } をプレイ",
+      "a2": "サーバーIPをコピー（クリック）",
+      "a3": "します。",
+      "a4": "マインクラフトを開きます。",
+      "a5": "「マルチプレイヤー」をクリックし、「サーバー追加」をクリックします。",
+      "a6": "「サーバーアドレス」欄にコピーしたサーバーIPを貼り付けます。",
+      "a7": "「完了」をクリックします。",
+      "a8": "一覧の中から { Server } を選択し、「サーバーに接続」をクリックします。"
     },
     "2": {
       "q": "What is the server IP for { Server }?",
