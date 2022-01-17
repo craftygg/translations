@@ -48,37 +48,37 @@
   "viewingStats": "Actualmente viendo estadísticas sobre { Type }",
   "questions": {
     "1": {
-      "q": "How do I join { Server }?",
-      "a1": "Play on { Server } with Minecraft Java Edition:",
-      "a2": "Copy the Server IP",
-      "a3": "from this page.",
-      "a4": "Open Minecraft.",
-      "a5": "Click on \"Multiplayer\" and then click \"Add Server\"",
-      "a6": "Paste the Server's IP that you have just copied into the \"IP Address\" field.",
-      "a7": "Click \"Done\".",
-      "a8": "Select { Server } from the list and click \"Join Server\"."
+      "q": "Cómo me uno a { Server }?",
+      "a1": "Juega en { Server } con Minecraft Java Edition:",
+      "a2": "Copiar IP del Servidor",
+      "a3": "desde esta página.",
+      "a4": "Abrir Minecraft.",
+      "a5": "Haz click en \"Multijugador\" y después en \"Añadir Servidor\"",
+      "a6": "Pega la IP del servidor que acabas de copiar en el campo \"Dirección IP\".",
+      "a7": "Haz click en \"Listo\".",
+      "a8": "Selecciona { Server } en la lista y haz click en \"Entrar al Servidor\"."
     },
     "2": {
-      "q": "What is the server IP for { Server }?",
-      "a": "{ Server }'s IP address is "
+      "q": "¿Cuál es la IP del servidor { Server }?",
+      "a": "La dirección IP de { Server } es "
     },
     "3": {
-      "q": "Does { Server } have a Minecraft: Bedrock / Pocket Edition (PE) server?",
-      "a1": "Yes, { Server } is a Minecraft: Bedrock or previously known as Pocket Edition Server.",
-      "a2": "No. You can only join { Server } using Minecraft Java Edition.",
-      "a3": "Yes! { Server } supports both Minecraft: Bedrock Edition and Minecraft: Java Edition"
+      "q": "¿Tiene { Server } un servidor en Minecraft: Bedrock / Pocket Edition (PE)?",
+      "a1": "Sí, { Server } es un servidor de Minecraft: Bedrock o conocido anteriormente como servidor de Pocket Edition.",
+      "a2": "No. Solo puedes entrar a { Server } usando Minecraft Java Edition.",
+      "a3": "¡Sí! { Server } está disponible en Minecraft: Bedrock Edition y Minecraft: Java Edition."
     },
     "4": {
-      "q": "Is { Server } a free to play Minecraft Server?",
-      "a": "Yes, { Server } is a free to play Minecraft server."
+      "q": "¿Es gratis jugar en { Server }?",
+      "a": "Sí, { Server } es un servidor de Minecraft gratuito."
     },
     "5": {
-      "q": "I have an issue or I need help with something. Where or who do I contact about { Server }?",
-      "a1": "We suggest that you join { Server }'s Discord server here:"
+      "q": "Tengo un problema o necesito ayuda con algo. ¿Dónde o a quién puedo contactar respecto a { Server }?",
+      "a1": "Sugerimos que te unas al Discord de { Server } aquí:"
     },
     "6": {
-      "q": "Can I play { Server } with TLauncher?",
-      "a": "No, { Server } is a Premium Minecraft Server."
+      "q": "Puedo jugar en { Server } con TLauncher?",
+      "a": "No, { Server } es un servidor de Minecraft Premium."
     }
   }
 }

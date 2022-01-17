@@ -48,37 +48,37 @@
   "viewingStats": "Đang xem thông số về { Type }",
   "questions": {
     "1": {
-      "q": "How do I join { Server }?",
-      "a1": "Play on { Server } with Minecraft Java Edition:",
-      "a2": "Copy the Server IP",
-      "a3": "from this page.",
-      "a4": "Open Minecraft.",
-      "a5": "Click on \"Multiplayer\" and then click \"Add Server\"",
-      "a6": "Paste the Server's IP that you have just copied into the \"IP Address\" field.",
-      "a7": "Click \"Done\".",
-      "a8": "Select { Server } from the list and click \"Join Server\"."
+      "q": "Làm thế nào để tham gia { Server }?",
+      "a1": "Tham gia { Server } trên Minecraft Java:",
+      "a2": "Sao chép IP server",
+      "a3": "từ trang này.",
+      "a4": "Mở Minecraft.",
+      "a5": "Nhấp chọn \"Nhiều người chơi\" và nhấp \"Thêm máy chủ\"",
+      "a6": "Dán IP server vừa sao chép vào khung \"Địa chỉ IP\".",
+      "a7": "Nhấp \"Xong\".",
+      "a8": "Chọn { Server } từ danh sách hiện lên và nhấp \"Tham gia máy chủ\"."
     },
     "2": {
-      "q": "What is the server IP for { Server }?",
-      "a": "{ Server }'s IP address is "
+      "q": "IP của { Server } là gì?",
+      "a": "IP của { Server } là "
     },
     "3": {
-      "q": "Does { Server } have a Minecraft: Bedrock / Pocket Edition (PE) server?",
-      "a1": "Yes, { Server } is a Minecraft: Bedrock or previously known as Pocket Edition Server.",
-      "a2": "No. You can only join { Server } using Minecraft Java Edition.",
-      "a3": "Yes! { Server } supports both Minecraft: Bedrock Edition and Minecraft: Java Edition"
+      "q": "Liệu sử dụng Minecraft Bedrock/Pocket có thể tham gia { Server }?",
+      "a1": "Có vì { Server } là một server cho bản Bedrock vốn là phiên bản mới hơn của Pocket (PE).",
+      "a2": "Không. Bạn chỉ có thể tham gia { Server } sử dụng bản Java của Minecraft.",
+      "a3": "Có đấy! { Server } hỗ trợ cả Minecraft Java và Minecraft Bedrock"
     },
     "4": {
-      "q": "Is { Server } a free to play Minecraft Server?",
-      "a": "Yes, { Server } is a free to play Minecraft server."
+      "q": "{ Server } có phải là một server miễn phí?",
+      "a": "Có, { Server } là một server miễn phí."
     },
     "5": {
-      "q": "I have an issue or I need help with something. Where or who do I contact about { Server }?",
-      "a1": "We suggest that you join { Server }'s Discord server here:"
+      "q": "Tôi gặp phải vấn đề hoặc cần giúp về thứ gì đó. Làm cách nào để tôi có thể liên hệ về { Server }?",
+      "a1": "Chúng tôi nghĩ bạn có thể tham gia Discord của { Server } tại đây:"
     },
     "6": {
-      "q": "Can I play { Server } with TLauncher?",
-      "a": "No, { Server } is a Premium Minecraft Server."
+      "q": "Tôi có thể tham gia { Server } khi dùng Minecraft lậu chứ?",
+      "a": "Không vì { Server } cần có tài khoản chính thức."
     }
   }
 }

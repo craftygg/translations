@@ -48,37 +48,37 @@
   "viewingStats": "{ Type } に関する統計情報を表示中",
   "questions": {
     "1": {
-      "q": "How do I join { Server }?",
-      "a1": "Play on { Server } with Minecraft Java Edition:",
-      "a2": "Copy the Server IP",
-      "a3": "from this page.",
-      "a4": "Open Minecraft.",
-      "a5": "Click on \"Multiplayer\" and then click \"Add Server\"",
-      "a6": "Paste the Server's IP that you have just copied into the \"IP Address\" field.",
-      "a7": "Click \"Done\".",
-      "a8": "Select { Server } from the list and click \"Join Server\"."
+      "q": "{ Server } に参加するには？",
+      "a1": "マインクラフト Java版 で { Server } をプレイ",
+      "a2": "サーバーIPをコピー（クリック）",
+      "a3": "します。",
+      "a4": "マインクラフトを開きます。",
+      "a5": "「マルチプレイヤー」をクリックし、「サーバー追加」をクリックします。",
+      "a6": "「サーバーアドレス」欄にコピーしたサーバーIPを貼り付けます。",
+      "a7": "「完了」をクリックします。",
+      "a8": "一覧の中から { Server } を選択し、「サーバーに接続」をクリックします。"
     },
     "2": {
-      "q": "What is the server IP for { Server }?",
-      "a": "{ Server }'s IP address is "
+      "q": "{ Server } のサーバーアドレスは？",
+      "a": "{ Server } のIPアドレス: "
     },
     "3": {
-      "q": "Does { Server } have a Minecraft: Bedrock / Pocket Edition (PE) server?",
-      "a1": "Yes, { Server } is a Minecraft: Bedrock or previously known as Pocket Edition Server.",
-      "a2": "No. You can only join { Server } using Minecraft Java Edition.",
-      "a3": "Yes! { Server } supports both Minecraft: Bedrock Edition and Minecraft: Java Edition"
+      "q": "{ Server } の統合版（BE版）/スマホ版（PE版）のサーバーはありますか？",
+      "a1": "はい。 { Server } は統合版（前PE版）サーバーとして知られています。",
+      "a2": "いいえ。 { Server } にはマインクラフト Java版でしか参加できません。",
+      "a3": "はい！ { Server } は総合版、Java版の両方をサポートしています。"
     },
     "4": {
-      "q": "Is { Server } a free to play Minecraft Server?",
-      "a": "Yes, { Server } is a free to play Minecraft server."
+      "q": "{ Server } は無料で参加できますか？",
+      "a": "はい。 { Server } は無料で参加することができます。"
     },
     "5": {
-      "q": "I have an issue or I need help with something. Where or who do I contact about { Server }?",
-      "a1": "We suggest that you join { Server }'s Discord server here:"
+      "q": "{ Server } に関して問題があったり、助けが必要な場合はどこに連絡をすればよいですか？",
+      "a1": "{ Server } のDiscordサーバーをおすすめします。:"
     },
     "6": {
-      "q": "Can I play { Server } with TLauncher?",
-      "a": "No, { Server } is a Premium Minecraft Server."
+      "q": "{ Server } はTLauncherでプレイできますか？",
+      "a": "いいえ。 { Server } は正式に購入されたアカウントでないと参加できません。"
     }
   }
 }
