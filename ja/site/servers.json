@@ -45,7 +45,7 @@
   "faq": "よくある質問",
   "faqSubheader": "プレイヤーの質問内容に基づいています",
   "statistics": "サーバーの統計情報",
-  "viewingStats": "{ Type } に関する統計情報を表示中",
+  "viewingStats": "{ Type }の統計情報を表示中",
   "questions": {
     "1": {
       "q": "{ Server } に参加するには？",
