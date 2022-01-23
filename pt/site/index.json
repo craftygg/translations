@@ -27,12 +27,12 @@
     "aboutus": "Sobre Nós",
     "premium": "Premium",
     "status": "Status",
-    "navigation": "Navigation",
-    "feedback": "Feedback",
+    "navigation": "Navegação",
+    "feedback": "Opiniões",
     "legal": "Legal",
-    "tos": "Terms of Service",
-    "privacy": "Privacy Policy",
-    "copyright": "© crafty.gg | Not affiliated with Discord or Mojang"
+    "tos": "Termos de Serviço",
+    "privacy": "Política de Privacidade",
+    "copyright": "© crafty.gg | Não é afiliado ao Discord ou à Mojang"
   },
-  "reachedBedrock": "Reached Bedrock"
+  "reachedBedrock": "Bedrock Alcançado"
 }
