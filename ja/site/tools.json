@@ -4,9 +4,9 @@
     "title": "クラフト レシピ集"
   },
   "votifier": {
-    "title": "Votifier テスター",
+    "title": "Votifierテスター",
     "h2": "サーバーのVotifierが動作しているかどうかテストしよう",
-    "whatQ": "「Votifierテスター」って？",
+    "whatQ": "Votifierテスターって？",
     "whatA": "Votifierテスターは、Votifierがサーバーに正しくインストールされているかどうか判別することができるツールです。",
     "whatVotifierQ": "Votifierって？",
     "whatVotifierA": " Votifierは、Craftyのようなサービス上で誰かがあなたのサーバーに高評価をした時に通知を受け取ることができる投票通知プラグインです。",
