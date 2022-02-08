@@ -57,7 +57,7 @@
       "desc": "サバイバルは、荒野を探索し、資材を集め、危険な自然や敵対するモブたちから生き残る、マインクラフトのデフォルトのゲームモード。 サバイバル サーバーの中には、オリジナルのサバイバル モードをそのまま使用しているサーバーもあるが、たいていの場合、プラグインやModなどを使用し、経済機能や、プレイヤー主導の町などの追加機能を追加している。 PvPが有効化されていることもあり、その場合、プレイヤーは、敵対するモブと敵プレイヤーの両方を相手に生き延びなければならない。"
     },
     "towny": {
-      "formatted": "生活サーバー",
+      "formatted": "タウニー",
       "desc": "Towny servers are land management orientated, players can own plots of land and create a town by working together and inviting other players. New players can either join an existing town or create their own, and each town has a mayor who is in charge of managing the residents and setting the rules. Towny also adds economic features including town banks, the ability to purchase land with in-game currency and a taxation system."
     },
     "vanilla": {
