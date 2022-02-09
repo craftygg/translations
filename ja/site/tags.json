@@ -50,7 +50,7 @@
     },
     "prison": {
       "formatted": "プリズン",
-      "desc": "Prison servers don't have any wilderness and are instead set entirely within a prison-themed map. Players start at the lowest rank with basic tools and must earn money to rank up and become more powerful. Money is earned by mining resources at predesignated mines, and new mines with more valuable resources are unlocked by ranking up. Players can challenge each other to battle in PvP arenas and even buy plots of land inside the prison to build a base and store valuables."
+      "desc": "プリズン サーバーには自然が無く、代わりにすべてがプリズン（刑務所）をテーマにしたマップ内で行われる。 プレイヤーは基本的なツールを持った状態で最低ランクからスタートする。 お金を得ることでランクアップし、さらに強力になることができる。 お金はあらかじめ指定された採掘場で素材を採掘することで得ることができ、より高価な資源がある採掘場は、ランクアップによりアンロックされる。 プレイヤーはPvPアリーナで戦闘ができたり、プリズン内の土地を購入し拠点を建て、価値のあるものを保管したりすることもできる。"
     },
     "survival": {
       "formatted": "サバイバル",
