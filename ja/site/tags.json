@@ -58,7 +58,7 @@
     },
     "towny": {
       "formatted": "タウニー",
-      "desc": "Towny servers are land management orientated, players can own plots of land and create a town by working together and inviting other players. New players can either join an existing town or create their own, and each town has a mayor who is in charge of managing the residents and setting the rules. Towny also adds economic features including town banks, the ability to purchase land with in-game currency and a taxation system."
+      "desc": "タウニー サーバーでは、プレイヤーは土地の一部の区を所有し管理でき、ほかのプレイヤーと協力して町を作成したり、招待することができる。 新規プレイヤーはすでに存在している町に参加することも新たな町を作成することもでき、各町には規定を決めたり、住民の管理を担当する町長がいる。 タウニーには町ごとの銀行や、ゲーム内通貨で土地を購入したり、税金機能などの経済的な機能も含まれる。"
     },
     "vanilla": {
       "formatted": "バニラ",
