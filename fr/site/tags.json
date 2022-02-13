@@ -21,8 +21,8 @@
       "desc": "Hunger Games is a popular survival PvP (player vs player) Minecraft mini-game gamemode where the objective is to survive using items found throughout the map and defend against other players to be the last standing player."
     },
     "survivalgames": {
-      "formatted": "Survival Games",
-      "desc": "Survival Games is a popular survival PvP (player vs player) Minecraft mini-game gamemode where the objective is to survive using items found throughout the map and defend against other players to be the last standing player."
+      "formatted": "Survival",
+      "desc": "Le Survival est un mode de jeu Minecraft PvP (Joueurs vs Joueurs) populaire, où l'objectif est de survivre à partir d'objets trouvés en explorant les environs de la carte et se défendant des autres joueurs pour être le dernier joueur restant."
     },
     "factions": {
       "formatted": "Factions",
@@ -77,7 +77,7 @@
       "desc": "Minecraft servers running the multiplayer version of the Pixelmon mod. Pixelmon aims to recreate Pokemon gameplay within Minecraft by adding hundreds of different species of Pokemon that randomly spawn throughout the world and can be captured by players. The mod also adds realistic Pokemon battle mechanics, gyms complete with NPC trainers and a fully functional Pokedex."
     },
     "parkour": {
-      "formatted": "Parkour",
+      "formatted": "Parcours",
       "desc": "The objective of Minecraft parkour servers is to complete obstacle courses by running, jumping and climbing from one stage to the next. The courses have different themes and range in difficulty from easy to extremely hard. Parkour servers usually have a timer counting how long it takes to complete each course and show leaderboards of the fastest players."
     },
     "pve": {
