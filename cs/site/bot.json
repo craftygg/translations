@@ -4,7 +4,7 @@
   "addToDiscord": "Přidat do Discordu",
   "viewCommands": "Zobrazit příkazy",
   "example1": {
-    "header": "View Player information",
+    "header": "Informace o hráči",
     "subheader": "Crafty allows you to view information about a Minecraft account, with a simple command"
   },
   "example2": {
