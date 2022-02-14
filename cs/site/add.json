@@ -39,14 +39,14 @@
   },
   "player": {
     "claim": "Převzít účet",
-    "enterName": " Please enter the name of the account that you would like to claim",
-    "username": "Username",
-    "step1": "Please log into our verification Minecraft server to generate your code",
-    "step2": "Supports Minecraft Java Edition 1.8 - 1.17",
-    "step3": "Upon joining the Minecraft server you will see a message containing your code.",
-    "step4": "Please type the four digit code into the box below to continue.",
-    "4digit": "4-Digit Code",
-    "restart": "restart",
-    "verify": "Verify"
+    "enterName": " Uveďte prosím jméno účtu, který si chcete nárokovat",
+    "username": "Uživatelské jméno",
+    "step1": "Pro vygenerování kódu se připojte prosím na náš Minecraft server",
+    "step2": "Podporuje Minecraft Java Edition 1.8 - 1.17",
+    "step3": "Jakmile se připojíte, dostanete zprávu s kódem.",
+    "step4": "Chcete-li pokračovat, uveďte do pole níže svůj čtyřmístný kód.",
+    "4digit": "Čtyřmístný kód",
+    "restart": "restartovat",
+    "verify": "Ověřit"
   }
 }
