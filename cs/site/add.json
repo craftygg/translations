@@ -1,0 +1,52 @@
+{
+  "server": {
+    "success": "Úspěch!",
+    "backToHome": "Zpět domů",
+    "viewServer": "Zobrazit server",
+    "failed": "Chyba",
+    "failed1": "Něco se pokazilo! Chyba byla zkopírována do Vaší schránky, připojte se na nás Discord kliknutím na tento odkaz a vložte chybu do #support a my Vám pomůžeme!",
+    "tryAgain": "Zkusit znovu",
+    "stepProgress": "Krok { Step } ze 3",
+    "header": "Zařadit nový Minecraft server na Craftym",
+    "verification": "Ověření",
+    "tellMore": "Řekněte nám víc o { Name }",
+    "serverName": "Název serveru",
+    "serverIp": "IP adresa serveru",
+    "serverPort": "Port serveru",
+    "type": "Typ / platforma",
+    "ping": "PING PRO POKRAČOVÁNÍ",
+    "verificationMethod": "Metoda ověření",
+    "motdInstructions": "Ve vaší MOTD (zpráva dne) prosím uveďte následující kód, abyste ověřili, že je opravdu vlastníte nebo spravujete server, který se snažíte přidat",
+    "txtInstructions": "Do svého nastavení DNS přidejte nový TXT záznam do { Code } a jako obsah uveďte následující kód",
+    "note": " Vezměte prosím na vědomí, že aktualizace DNS záznamů trvá nějakou chvíli, takže kontrolujte každých pár sekund",
+    "verified": "Ověřeno",
+    "tags": "Štítky",
+    "languages": "Jazyk(y)",
+    "maxLanguages": "Maximálně 3 jazyky",
+    "version": "Verze",
+    "short": "Stručný popis",
+    "long": "Podrobný popis",
+    "charsRemaining": "znaků zbývá",
+    "descLimit": "(maximálně { Number } znaků)",
+    "website": "Webová stránka",
+    "previous": "Předchozí",
+    "next": "Další",
+    "complete": "Dokončit",
+    "errors": {
+      "loggedIn": "Musíte být přihlášeni, abyste mohli zařadit svůj server do Craftyho. Přihlaste se v pravém horním rohu stránky.",
+      "offline": "Váš server je offline. Před dalším pokusem o odeslání se ujistěte, že je server online."
+    }
+  },
+  "player": {
+    "claim": "Převzít účet",
+    "enterName": " Uveďte prosím jméno účtu, který si chcete nárokovat",
+    "username": "Uživatelské jméno",
+    "step1": "Pro vygenerování kódu se připojte prosím na náš Minecraft server",
+    "step2": "Podporuje Minecraft Java Edition 1.8 - 1.17",
+    "step3": "Jakmile se připojíte, dostanete zprávu s kódem.",
+    "step4": "Chcete-li pokračovat, uveďte do pole níže svůj čtyřmístný kód.",
+    "4digit": "Čtyřmístný kód",
+    "restart": "restartovat",
+    "verify": "Ověřit"
+  }
+}
