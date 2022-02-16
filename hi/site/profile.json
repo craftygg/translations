@@ -1,15 +1,15 @@
 {
-  "mcaccounts": "Minecraft Accounts",
-  "listedServers": "Listed Servers",
+  "mcaccounts": "Minecraft एकाउंट्स",
+  "listedServers": "सूचीबद्ध सर्वर",
   "slug": "Slug",
-  "billing": "Billing",
-  "manage": "Manage",
-  "general": "General",
-  "email": "Email",
-  "mainAccount": "Main Minecraft Account",
-  "developers": "Developers",
-  "updateEmail": "Click here to update your email address",
-  "hits": "Hits",
-  "key": "Key",
-  "noKey": "You don't have a developer account. For more information visit {{link}}"
+  "billing": "बिलिंग",
+  "manage": "प्रबंधन करें",
+  "general": "सामान्य",
+  "email": "ईमेल",
+  "mainAccount": "मुख्य Minecraft एकाउंट",
+  "developers": "डेवलपर",
+  "updateEmail": "अपना ईमेल पता अपडेट करने के लिए यहां क्लिक करें",
+  "hits": "हिट्स",
+  "key": "कुँजी",
+  "noKey": "आपके पास डेवलपर खाता नहीं है। ज्यादा जानकारी के लिये {{link}} पर जाएँ"
 }
