@@ -30,9 +30,9 @@
     "navigation": "नेविगेशन",
     "feedback": "फीडबैक",
     "legal": "कानूनी",
-    "tos": "Terms of Service",
-    "privacy": "Privacy Policy",
-    "copyright": "© crafty.gg | Not affiliated with Discord or Mojang"
+    "tos": "सेवा की शर्तें",
+    "privacy": "गोपनीयता नीति",
+    "copyright": "© crafty.gg | Discord या Mojang से सम्बंधित नहीं"
   },
-  "reachedBedrock": "Reached Bedrock"
+  "reachedBedrock": "आधारशिला पर पहुँच गया"
 }
