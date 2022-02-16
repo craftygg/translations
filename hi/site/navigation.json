@@ -1,15 +1,15 @@
 {
-  "home": "home",
-  "news": "News",
-  "articles": "Articles",
-  "more": "More",
-  "tools": "Tools",
-  "bot": "Crafty Bot",
-  "viewProfile": "View Profile",
-  "settings": "Settings",
-  "add": "Add",
-  "myUpvotes": "My Upvotes",
-  "signOut": "Sign Out",
-  "help": "Help",
-  "signIn": "Sign in"
+  "home": "होम",
+  "news": "समाचार",
+  "articles": "लेख",
+  "more": "अधिक",
+  "tools": "टूल्स",
+  "bot": "Crafty बॉट",
+  "viewProfile": "प्रोफाइल देखें",
+  "settings": "सेटिंग्स",
+  "add": "जोड़ें",
+  "myUpvotes": "मेरे अपवोट",
+  "signOut": "साइन आउट",
+  "help": "सहायता",
+  "signIn": "साइन इन"
 }
