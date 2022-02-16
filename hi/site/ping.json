@@ -1,6 +1,6 @@
 {
-  "header": "Get Minecraft Server Information",
-  "subheader": "Fill out the require fields to get basic information about a Minecraft server such as their status, how many players are currently online, version running and location of the server",
-  "enter": "Enter your server's IP",
-  "get": "Get Information"
+  "header": "Minecraft सर्वर की जानकारी प्राप्त करें",
+  "subheader": "Minecraft सर्वर के बारे में बुनियादी जानकारी प्राप्त करने के लिए आवश्यक फ़ील्ड भरें जैसे कि उनकी स्थिति, वर्तमान में कितने खिलाड़ी ऑनलाइन हैं, संस्करण चल रहा है और सर्वर का स्थान",
+  "enter": "अपने सर्वर की IP डालें",
+  "get": "जानकारी प्राप्त करें"
 }
