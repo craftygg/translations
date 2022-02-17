@@ -58,11 +58,11 @@
     },
     "towny": {
       "formatted": "Towny",
-      "desc": "Towny servers are land management orientated, players can own plots of land and create a town by working together and inviting other players. New players can either join an existing town or create their own, and each town has a mayor who is in charge of managing the residents and setting the rules. Towny also adds economic features including town banks, the ability to purchase land with in-game currency and a taxation system."
+      "desc": "Towny सर्वर भूमि प्रबंधन उन्मुख हैं, खिलाड़ी भूमि के भूखंडों के मालिक हो सकते हैं और एक साथ काम करके और अन्य खिलाड़ियों को आमंत्रित करके एक शहर बना सकते हैं। नए खिलाड़ी या तो मौजूदा शहर में शामिल हो सकते हैं या अपना खुद का बना सकते हैं, और प्रत्येक शहर में एक महापौर होता है जो निवासियों के प्रबंधन और नियमों को स्थापित करने का प्रभारी होता है। Towny शहर के बैंकों, इन-गेम मुद्रा के साथ जमीन खरीदने की क्षमता और कराधान प्रणाली सहित आर्थिक सुविधाओं को भी जोड़ता है।"
     },
     "vanilla": {
       "formatted": "Vanilla",
-      "desc": "Vanilla servers aim to recreate Minecraft's original survival gameplay in a multiplayer world. Pure vanilla servers use the server software provided directly by Minecraft and don't have any modifications. Semi-vanilla servers use modified server software and may have a small number of plugins, but only to add simple features that don't significantly change gameplay."
+      "desc": "Vanilla सर्वर का उद्देश्य मल्टीप्लेयर दुनिया में Minecraft के मूल Survival गेमप्ले को फिर से बनाना है। शुद्ध Vanilla सर्वर सीधे Minecraft द्वारा प्रदान किए गए सर्वर सॉफ़्टवेयर का उपयोग करते हैं और इनमें कोई संशोधन नहीं होता है। सेमी-वेनिला सर्वर संशोधित सर्वर सॉफ़्टवेयर का उपयोग करते हैं और उनमें कम संख्या में प्लगइन्स हो सकते हैं, लेकिन केवल साधारण सुविधाओं को जोड़ने के लिए जो गेमप्ले को महत्वपूर्ण रूप से नहीं बदलते हैं।"
     },
     "minigames": {
       "formatted": "Minigames",
