@@ -1,10 +1,10 @@
 {
   "header": "नीचे दी गई जानकारी को भरकर जांचें कि क्या आपके सर्वर का Votifier काम कर रहा है",
-  "desch1": "What is this tool?",
-  "descp1": "Votifier Tester helps you determine if the Votifier plugin has been correctly installed in your Minecraft server.",
-  "desch2": "What is Votifier?",
-  "descp2": "Votifier is a Minecraft server voting plugin you can install to get notified whenever a player votes for your server on a server list, like Crafty.",
+  "desch1": "यह टूल क्या है?",
+  "descp1": "Votifier Tester आपको यह निर्धारित करने में मदद करता है कि क्या आपके Minecraft सर्वर में Votifier प्लगइन सही तरीके से स्थापित किया गया है।",
+  "desch2": "Votifier क्या है?",
+  "descp2": "Votifier एक Minecraft सर्वर वोटिंग प्लगइन है जिसे आप सूचित करने के लिए इंस्टॉल कर सकते हैं जब भी कोई खिलाड़ी आपके सर्वर के लिए सर्वर सूची पर वोट करता है, जैसे क्राफ्टी।",
   "desch3": "लेकिन क्यों?",
   "descp3": "वोटिफ़ायर का उपयोग सर्वर मालिकों / व्यवस्थापकों द्वारा उन खिलाड़ियों को पुरस्कृत करने के लिए किया जाता है जो अपने Minecraft सर्वर के लिए वोट करते हैं। वोटिंग से सर्वर को सर्वर सूचियों पर बेहतर रैंकिंग प्राप्त करने में मदद मिलती है।",
-  "test": "जांच करें"
+  "test": "जांच"
 }
