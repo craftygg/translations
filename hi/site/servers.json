@@ -51,34 +51,34 @@
       "q": "{ Server } से में कैसे जुड़ू?",
       "a1": "{ Server } पर Minecraft Java Edition के साथ खेलें:",
       "a2": "सर्वर IP कॉपी करें",
-      "a3": "from this page.",
-      "a4": "Open Minecraft.",
-      "a5": "Click on \"Multiplayer\" and then click \"Add Server\"",
-      "a6": "Paste the Server's IP that you have just copied into the \"IP Address\" field.",
-      "a7": "Click \"Done\".",
-      "a8": "Select { Server } from the list and click \"Join Server\"."
+      "a3": "इस पेज से।",
+      "a4": "Minecraft चलाएं।",
+      "a5": "\"Multiplayer\" पर क्लिक करें और फिर \"Add Server\" पर क्लिक करें",
+      "a6": "सर्वर की IP जो आपने कॉपी की है उसे \"IP Address\" के स्थान में पेस्ट करें।",
+      "a7": "\"Done\" दबाएं",
+      "a8": "सूची से { Server } चुने और \"Join Server\" दबाएं।"
     },
     "2": {
-      "q": "What is the server IP for { Server }?",
-      "a": "{ Server }'s IP address is "
+      "q": "{ Server } के लिए सर्वर IP क्या है?",
+      "a": "{ Server } का IP एड्रेस है "
     },
     "3": {
-      "q": "Does { Server } have a Minecraft: Bedrock / Pocket Edition (PE) server?",
-      "a1": "Yes, { Server } is a Minecraft: Bedrock or previously known as Pocket Edition Server.",
-      "a2": "No. You can only join { Server } using Minecraft Java Edition.",
-      "a3": "Yes! { Server } supports both Minecraft: Bedrock Edition and Minecraft: Java Edition"
+      "q": "क्या { Server } का एक Minecraft: Bedrock / Pocket Edition (PE) सर्वर है?",
+      "a1": "हाँ, { Server } एक Minecraft: Bedrock या पहले Pocket Edition Server के रूप में जाना जाता था, है।",
+      "a2": "नहीं। आप { Server } में सिर्फ Minecraft Java Edition का उपयोग करके ही शामिल हो सकते हैं।",
+      "a3": "हाँ ! { Server } Minecraft: Bedrock Edition और Minecraft: Java Edition दोनों को सपोर्ट करता है"
     },
     "4": {
-      "q": "Is { Server } a free to play Minecraft Server?",
-      "a": "Yes, { Server } is a free to play Minecraft server."
+      "q": "क्या { Server } खेलने के लिए मुफ्त Minecraft सर्वर है?",
+      "a": "हाँ, { Server } खेलने के लिए मुफ्त Minecraft सर्वर है।"
     },
     "5": {
-      "q": "I have an issue or I need help with something. Where or who do I contact about { Server }?",
-      "a1": "We suggest that you join { Server }'s Discord server here:"
+      "q": "मुझे कोई समस्या है या मुझे किसी चीज़ के लिए मदद चाहिए। मैं { Server } के बारे में कहाँ और किस से संपर्क करूँ?",
+      "a1": "हम आपको सलाह देते है की आप { Server } के Discord सर्वर से जुड़ें:"
     },
     "6": {
-      "q": "Can I play { Server } with TLauncher?",
-      "a": "No, { Server } is a Premium Minecraft Server."
+      "q": "क्या में { Server } को TLauncher से खेल सकता हूँ?",
+      "a": "नहीं, { Server } एक Premium Minecraft Server है।"
     }
   }
 }
