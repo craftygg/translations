@@ -66,35 +66,35 @@
     },
     "minigames": {
       "formatted": "Minigames",
-      "desc": "Minigames servers offer a variety of fun gamemodes that can all be played from within a single server. Players join a central lobby and then select the individual minigame that they want to play. Some are competitive and involve PvP while other games require teamwork and cooperation. Popular minigames include Hide and Seek, Capture the Flag, Spleef and Bedwars."
+      "desc": "Minigames सर्वर विभिन्न प्रकार के मज़ेदार गेम मोड प्रदान करते हैं जिन्हें एक ही सर्वर के भीतर से चलाया जा सकता है। खिलाड़ी एक केंद्रीय लॉबी में शामिल होते हैं और फिर उस व्यक्तिगत मिनीगेम का चयन करते हैं जिसे वे खेलना चाहते हैं। कुछ प्रतिस्पर्धी हैं और उनमें PvP शामिल है जबकि अन्य खेलों में टीम वर्क और सहयोग की आवश्यकता होती है। लोकप्रिय मिनीगेम्स में Hide and Seek, Capture the Flag, Spleefऔर Bedwars शामिल हैं।"
     },
     "roleplay": {
       "formatted": "RolePlay",
-      "desc": "Minecraft servers based around roleplaying encourage players to take on the role of a completely different character and immerse themselves in a fantasy world. Roleplay servers are often heavily modified and use custom plugins and pre-built custom or player-made maps to give the server a specific theme."
+      "desc": "रोलप्लेइंग पर आधारित Minecraft सर्वर खिलाड़ियों को एक पूरी तरह से अलग चरित्र की भूमिका निभाने और खुद को एक काल्पनिक दुनिया में तल्लीन करने के लिए प्रोत्साहित करते हैं। RolePlay सर्वर अक्सर भारी रूप से संशोधित होते हैं और सर्वर को एक विशिष्ट थीम देने के लिए कस्टम प्लगइन्स और पूर्व-निर्मित कस्टम या प्लेयर-निर्मित मानचित्रों का उपयोग करते हैं।"
     },
     "pixelmon": {
       "formatted": "Pixelmon",
-      "desc": "Minecraft servers running the multiplayer version of the Pixelmon mod. Pixelmon aims to recreate Pokemon gameplay within Minecraft by adding hundreds of different species of Pokemon that randomly spawn throughout the world and can be captured by players. The mod also adds realistic Pokemon battle mechanics, gyms complete with NPC trainers and a fully functional Pokedex."
+      "desc": "Pixelmon मॉड के मल्टीप्लेयर संस्करण को चलाने वाले Minecraft सर्वर। Pixelmon का उद्देश्य Pokemon की सैकड़ों विभिन्न प्रजातियों को जोड़कर Minecraft के भीतर Pokemon गेमप्ले को फिर से बनाना है जो दुनिया भर में बेतरतीब ढंग से फैलते हैं और खिलाड़ियों द्वारा कब्जा कर लिया जा सकता है। मॉड यथार्थवादी पोकेमोन युद्ध यांत्रिकी, NPC प्रशिक्षकों के साथ पूर्ण जिम और पूरी तरह कार्यात्मक Pokedex भी जोड़ता है।"
     },
     "parkour": {
       "formatted": "Parkour",
-      "desc": "The objective of Minecraft parkour servers is to complete obstacle courses by running, jumping and climbing from one stage to the next. The courses have different themes and range in difficulty from easy to extremely hard. Parkour servers usually have a timer counting how long it takes to complete each course and show leaderboards of the fastest players."
+      "desc": "Minecraft parkour सर्वर का उद्देश्य एक चरण से दूसरे चरण तक दौड़ना, कूदना और चढ़ना द्वारा बाधा कोर्स को पूरा करना है। पाठ्यक्रमों में अलग-अलग विषय हैं और कठिनाई में आसान से लेकर अत्यंत कठिन तक की सीमा है। Parkour सर्वर में आमतौर पर एक टाइमर होता है जो यह गिनता है कि प्रत्येक पाठ्यक्रम को पूरा करने में कितना समय लगता है और सबसे तेज खिलाड़ियों का लीडरबोर्ड दिखाते हैं।"
     },
     "pve": {
       "formatted": "PvE",
-      "desc": "Player versus environment servers have PvP disabled meaning players cannot fight and do damage to each other. Instead, players must work together and survive against the environment and Minecraft's many hostile mobs."
+      "desc": "प्लेयर बनाम पर्यावरण सर्वर में PvP अक्षम है जिसका अर्थ है कि खिलाड़ी लड़ नहीं सकते और एक दूसरे को नुकसान नहीं पहुंचा सकते। इसके बजाय, खिलाड़ियों को एक साथ काम करना चाहिए और पर्यावरण और Minecraft के कई शत्रुतापूर्ण मॉब्स के खिलाफ जीवित रहना चाहिए।"
     },
     "skywars": {
       "formatted": "SkyWars",
-      "desc": "Skywars is a PvP minigame where players battle each other on floating islands until only one survivor is remaining. Each player spawns on an individual island, when the game begins players must prepare for battle before crossing to the other islands and fighting. Chests on each island contain useful items including weapons and food, and there is commonly a larger island at the centre of the map with even more resources."
+      "desc": "SkyWars एक PvP मिनीगेम है जहां खिलाड़ी तैरते द्वीपों पर एक-दूसरे से तब तक लड़ते हैं जब तक कि केवल एक जीवित शेष न रह जाए। प्रत्येक खिलाड़ी एक अलग द्वीप पर पैदा होता है, जब खेल शुरू होता है तो खिलाड़ियों को दूसरे द्वीपों को पार करने और लड़ने से पहले युद्ध के लिए तैयार होना चाहिए। प्रत्येक द्वीप पर चेस्ट में हथियार और भोजन सहित उपयोगी वस्तुएं होती हैं, और आमतौर पर मानचित्र के केंद्र में और भी अधिक संसाधनों के साथ एक बड़ा द्वीप होता है।"
     },
     "hardcore": {
       "formatted": "Hardcore",
-      "desc": "Hardcore servers are competitive PvP servers that don't have many rules and aim to make survival extremely difficult. These servers usually allow griefing and don't have any kind of land protection system. Some hardcore servers will even temporarily ban players upon death or not enable natural health regeneration."
+      "desc": "Hardcore सर्वर प्रतिस्पर्धी PvP सर्वर होते हैं जिनमें ज्यादा नियम नहीं होते हैं और इसका उद्देश्य सर्वाइवल को अत्यंत कठिन बनाना है। ये सर्वर आमतौर पर ग्रीफिंग की अनुमति देते हैं और इनमें किसी भी प्रकार की भूमि सुरक्षा प्रणाली नहीं होती है। कुछ Hardcore सर्वर खिलाड़ियों की मृत्यु पर अस्थायी रूप से प्रतिबंध लगा देंगे या प्राकृतिक स्वास्थ्य पुनर्जनन को सक्षम नहीं करेंगे।"
     },
     "kitpvp": {
       "formatted": "KitPvP",
-      "desc": "KitPvP is a competitive gamemode where players choose a kit to equip before going into battle and fighting each other in different areas. Each kit contains a unique set of items, effects and special abilities including weapons and armour that give players different fighting abilities. New and more powerful kits can be unlocked by scoring points and levelling up."
+      "desc": "KitPvP एक प्रतिस्पर्धी गेम मोड है जहां खिलाड़ी युद्ध में जाने और विभिन्न क्षेत्रों में एक-दूसरे से लड़ने से पहले सज्जित करने के लिए एक किट चुनते हैं। प्रत्येक किट में हथियारों और कवच सहित वस्तुओं, प्रभावों और विशेष क्षमताओं का एक अनूठा सेट होता है जो खिलाड़ियों को अलग-अलग लड़ने की क्षमता देता है। नए और अधिक शक्तिशाली किटों को अंक अर्जित करके और लेवल बढ़ा के अनलॉक किया जा सकता है।"
     }
   }
 }
