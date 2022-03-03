@@ -51,10 +51,10 @@
       "q": "How do I join { Server }?",
       "a1": "Jouez sur { Server } avec Minecraft Java Édition:",
       "a2": "Copier l'IP du serveur",
-      "a3": "from this page.",
+      "a3": "de cette page.",
       "a4": "Ouvrir Minecraft.",
-      "a5": "Click on \"Multiplayer\" and then click \"Add Server\"",
-      "a6": "Paste the Server's IP that you have just copied into the \"IP Address\" field.",
+      "a5": "Cliquez sur \"Multijoueur\" puis sur \"Nouveau serveur\"",
+      "a6": "Collez l'adresse IP du serveur que vous venez de copier dans le champ \"Adresse du serveur\".",
       "a7": "Cliquez sur \"Terminé\".",
       "a8": "Select { Server } from the list and click \"Join Server\"."
     },
