@@ -48,15 +48,15 @@
   "viewingStats": "Statistiques en cours affiché sur { Type }",
   "questions": {
     "1": {
-      "q": "How do I join { Server }?",
+      "q": "Comment rejoindre { Server } ?",
       "a1": "Jouez sur { Server } avec Minecraft Java Édition:",
       "a2": "Copier l'IP du serveur",
-      "a3": "from this page.",
+      "a3": "de cette page.",
       "a4": "Ouvrir Minecraft.",
-      "a5": "Click on \"Multiplayer\" and then click \"Add Server\"",
-      "a6": "Paste the Server's IP that you have just copied into the \"IP Address\" field.",
+      "a5": "Cliquez sur \"Multijoueur\" puis sur \"Nouveau serveur\"",
+      "a6": "Collez l'adresse IP du serveur que vous venez de copier dans le champ \"Adresse du serveur\".",
       "a7": "Cliquez sur \"Terminé\".",
-      "a8": "Select { Server } from the list and click \"Join Server\"."
+      "a8": "Sélectionnez { Server } dans la liste et cliquez sur \"Rejoindre\"."
     },
     "2": {
       "q": "Quelle est l'adresse IP du serveur { Server }?",
@@ -65,16 +65,16 @@
     "3": {
       "q": "Est-ce que { Server } a un serveur Minecraft: Bedrock / Pocket Edition (PE) ?",
       "a1": "Oui, { Server } est un Minecraft: Bedrock ou était précédemment connu sous le nom d'un serveur Pocket Edition.",
-      "a2": "No. You can only join { Server } using Minecraft Java Edition.",
-      "a3": "Yes! { Server } supports both Minecraft: Bedrock Edition and Minecraft: Java Edition"
+      "a2": "Non. Vous pouvez rejoindre { Server } qu'en utilisant Minecraft Java Edition.",
+      "a3": "Oui ! { Server } supporte à la fois Minecraft : Bedrock Edition et Minecraft : Java Edition"
     },
     "4": {
-      "q": "Is { Server } a free to play Minecraft Server?",
-      "a": "Yes, { Server } is a free to play Minecraft server."
+      "q": "Est-ce que { Server } est un serveur Minecraft gratuit ?",
+      "a": "Oui, { Server } est un serveur Minecraft gratuit."
     },
     "5": {
-      "q": "I have an issue or I need help with something. Where or who do I contact about { Server }?",
-      "a1": "We suggest that you join { Server }'s Discord server here:"
+      "q": "J'ai un problème ou j'ai besoin d'aide pour quelque chose. Où ou qui dois-je contacter à propos de { Server } ?",
+      "a1": "Nous vous suggérons de rejoindre le serveur Discord de { Server } ici :"
     },
     "6": {
       "q": "Puis-je jouer sur { Server } avec le TLauncher ?",
