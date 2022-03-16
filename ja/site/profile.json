@@ -1,15 +1,15 @@
 {
-  "mcaccounts": "マインクラフト アカウント",
+  "mcaccounts": "マインクラフトアカウント",
   "listedServers": "追加したサーバー",
   "slug": "URL",
   "billing": "請求",
   "manage": "管理",
   "general": "全般",
   "email": "メール",
-  "mainAccount": "マインクラフトのメイン アカウント",
+  "mainAccount": "マインクラフトのメインアカウント",
   "developers": "開発者向け",
   "updateEmail": "メールアドレスを変更する",
   "hits": "使用回数",
   "key": "キー",
-  "noKey": "開発者アカウントがありません。 詳しくはこちら: {{link}}"
+  "noKey": "開発者アカウントがありません。詳しくはこちら: {{link}}"
 }
