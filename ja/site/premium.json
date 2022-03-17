@@ -12,11 +12,11 @@
   "subscribe": "登録",
   "off": "OFF",
   "emerald": {
-    "slug": "カスタム ユーザーURL（/users/custom-url）",
-    "color": "サーバー、プレイヤー ページのテーマ色のカスタマイズ",
+    "slug": "カスタムユーザーURL（/users/custom-url）",
+    "color": "サーバー、プレイヤーページのテーマ色のカスタマイズ",
     "access": "Crafty公式Discord上でのEmerald専用特典へのアクセス",
     "icon": "crafty.ggプロフィールでのEmeraldアイコンの表示",
-    "serverTracking": "1個のサーバー トラッキング スロットへのアクセス",
+    "serverTracking": "1個のサーバートラッキングスロットへのアクセス",
     "dmCommands": "ボットへのDM上でのコマンドの使用",
     "textureSearch": "「/texturesearch」（テクスチャーパック検索）コマンドへのアクセス",
     "notifications": "指定したユーザー名が利用可能になった際、Discordかメール、またはその両方で通知を受け取る（最大1個）"
@@ -28,7 +28,7 @@
     "access": "Crafty公式Discord上でのRuby専用特典へのアクセス",
     "icon": "crafty.ggプロフィールでのRubyアイコンの表示",
     "removeCooldowns": "コマンド使用のクールダウンの削除",
-    "serverTracking": "2個のサーバー トラッキング スロットへのアクセス",
+    "serverTracking": "2個のサーバートラッキングスロットへのアクセス",
     "notifications": "指定したユーザー名が利用可能になった際、Discordかメール、またはその両方で通知を受け取る（最大3個）"
   },
   "diamond": {
@@ -36,8 +36,8 @@
     "earlyAccess": "機能を先行体験し、フィードバックを提供する",
     "access": "Crafty公式Discord上でのDiamond専用特典へのアクセス",
     "icon": "crafty.ggプロフィールでのDiamondアイコンの表示",
-    "removeUpvote": "Discordサーバー内の全ユーザーの高評価要件とクールダウンの削除",
-    "serverTracking": "3個のサーバー トラッキング スロットへのアクセス",
+    "removeUpvote": "Discordサーバー内の全ユーザーの投票要件とクールダウンの削除",
+    "serverTracking": "3個のサーバートラッキングスロットへのアクセス",
     "notifications": "指定したユーザー名が利用可能になった際、Discordかメール、またはその両方で通知を受け取る（最大8個）"
   },
   "futureFeatures": {
@@ -48,12 +48,12 @@
     "richTextEditor": "高度なテキストエディター",
     "richTextEditorInformation": "今現在、サーバーの説明欄を書く際に使用できるのは「マークダウン記法」のみですが、私たちはより高度なテキストエディターを作成し、あなたの思い描く説明文を作成する手助けをする予定です",
     "serverAnalytics": "サーバー分析",
-    "serverAnalyticsInformation": "サーバー オーナーのための分析機能",
-    "skinEditor": "スキン エディター",
+    "serverAnalyticsInformation": "サーバーオーナーのための分析機能",
+    "skinEditor": "スキンエディター",
     "skinEditorInformation": "あなたの思い描くスキンを気軽に作成できる高度なスキンエディター",
     "notifications": "通知",
     "notificationsInformation": "設定をすれば、あなたのサーバーがオフラインになった時や、特定のユーザー名が利用可能になった時、そして新たなマインクラフトバージョン、記事がリリースされた時などに通知を受け取ることができる機能です。",
     "yourSuggestion": "あなたのアイデア",
-    "yourSuggestionInformation": "以上のほかに、私たちに新たなアイデアを公式Discordかフィードバック ページから送信してくだされば、あなたの機能を参考に、Craftyをより良いものにすることができます。"
+    "yourSuggestionInformation": "以上のほかに、私たちに新たなアイデアを公式Discordかフィードバックページから送信してくだされば、あなたの機能を参考に、Craftyをより良いものにすることができます。"
   }
 }
