@@ -2,5 +2,6 @@
   "header": "Lấy thông tin server Minecraft",
   "subheader": "Điền vào phần yêu cầu để lấy các thông tin cơ bản của server Minecarft như trạng thái, số lượng người chơi trực tuyến, phiên bản và địa điểm của máy chủ",
   "enter": "Nhập IP server của bạn",
-  "get": "Lấy thông tin"
+  "get": "Lấy thông tin",
+  "pinger": "Server Pinger"
 }

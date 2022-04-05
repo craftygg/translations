@@ -2,5 +2,6 @@
   "header": "Erhalte Mindcraft Serverinformation",
   "subheader": "Füllen Sie die benötigten Felder aus, um grundlegende Informationen über einen Minecraftserver wie seinen Status zu erhalten, wie viele Spieler derzeit online sind, Version und Standort des Servers",
   "enter": "Gib die IP deines Servers ein",
-  "get": "Jetzt informieren"
+  "get": "Jetzt informieren",
+  "pinger": "Serverpinger"
 }
