@@ -14,7 +14,7 @@
     "whyA": " Serverbesitzer / Admins benutzen Votifier um Spieler, die für ihren Server stimmen, zu belohnen. Für einen Server stimmen hilft ihm einen besseren Platz auf Serverlisten zu bekommen."
   },
   "ping": {
-    "title": "Server Pinger",
+    "title": "Serverpinger",
     "h1": "Erhalte Mindcraft Serverinformation",
     "paragraph": "Fülle die benötigten Felder aus, um grundlegende Informationen über einen Minecraftserver wie seinen Status zu erhalten, wie viele Spieler derzeit online sind, Version und Standort des Servers"
   }
