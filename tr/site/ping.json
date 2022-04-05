@@ -2,5 +2,6 @@
   "header": "Minecraft Sunucusu Hakkında Bilgi Alın",
   "subheader": "Bir Minecraft sunucusunun durumunu, şu anda kaç oyuncunun çevrimiçi olduğunu, sunucu sürümünü ve sunucunun konumu gibi temel bilgileri almak için gerekli alanları doldurun",
   "enter": "Sunucunun IP adresini girin",
-  "get": "Bilgileri Görüntüle"
+  "get": "Bilgileri Görüntüle",
+  "pinger": "Server Pinger"
 }
