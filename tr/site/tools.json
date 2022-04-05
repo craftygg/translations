@@ -14,7 +14,7 @@
     "whyA": " Votifier, sunucu sahipleri/yöneticileri tarafından Minecraft sunucularına oy veren oyuncuları ödüllendirmek için kullanılır. Votifier, sunucunun sunucu listelerinde daha iyi bir sıralama elde etmesine yardımcı olur."
   },
   "ping": {
-    "title": "Server Pinger",
+    "title": "Sunucu Pingleyici",
     "h1": "Minecraft Sunucu Bilgisi Al",
     "paragraph": "Sunucu durumu, şu anda kaç oyuncunun çevrimiçi olduğu, sunucu sürümü ve sunucunun konumu gibi sunucu hakkında temel bilgileri almak için gerekli alanları doldurun"
   }
