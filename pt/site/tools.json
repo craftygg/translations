@@ -14,7 +14,7 @@
     "whyA": " O Votifier é usado pelos donos/administradores do servidor para recompensar os jogadores que votam em seus servidores de Minecraft. Os votos ajuda o servidor a obter uma melhor classificação nas listas de servidores."
   },
   "ping": {
-    "title": "Server Pinger",
+    "title": "Ping do Servidor",
     "h1": "Obtenha informações do servidor de Minecraft",
     "paragraph": "Preencha os campos requeridos para obter informações básicas sobre um servidor de Minecraft, como o seu status, quantos jogadores estão online no momento, versão sendo executada e local do servidor"
   }
