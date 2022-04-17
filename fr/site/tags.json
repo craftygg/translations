@@ -2,23 +2,23 @@
   "details": {
     "adventure": {
       "formatted": "Aventure",
-      "desc": "Adventure servers extend on the Adventure Minecraft Gamemode where the player has limited interactions with a preset world that is usually custom or player-created. The objective is usually to survive by crafting items and killing mobs while dealing with the challenge of not being able to destroy or place blocks."
+      "desc": "Les serveurs d'Aventures s'étendent sur le mode Minecraft aventure où le joueur a des interactions limité avec un monde predefini qui est souvent customisation ou créer par les joueurs. L'objectif est souvent de survivre en produisant des objets et en tuant des monstres tout en realisant le defis de ne pas poser ou casser des blocs."
     },
     "anarchy": {
       "formatted": "Anarchie",
-      "desc": "Anarchy servers often tend to be lawless with minimal land protection and no rules. Some anarchy servers allow cheating such as clients that modify how Minecraft works to give an unfair advantage or fair advantage in an anarchy setting where every player is also cheating. The common objective is to survive and defend from other players and mobs, gather resources, build secure and hidden bases, all within an unforgiving yet nonrestrictive environment where griefing runs rampant."
+      "desc": "Les serveurs d'anarchie ont souvent tendance à être sans loi avec une protection minimale des terres et sans règles. Certains serveurs d'anarchie permettent de tricher comme des clients qui modifient le fonctionnement de Minecraft pour donner un avantage injuste ou un avantage équitable dans un paramètre anarchique où chaque joueur triche. L'objectif commun est de survivre et de défendre contre les autres joueurs et les créatures, de récolter des ressources. construire des bases sûres et cachées, le tout dans un environnement impitoyable et non restrictif où le deuil s'exécute de manière rampante."
     },
     "battleroyale": {
       "formatted": "Battle Royale",
-      "desc": "Battle Royale servers are for players who wish to test their Minecraft skills against others in a closed-off battle arena that progressively shrinks over time where resources can be found to one-up other players. Battle Royale servers are often inspired by other well know video games such as Fortnite, PUBG, and Call of Duty."
+      "desc": "Les serveurs Battle Royale sont destinés aux joueurs qui souhaitent tester leurs compétences Minecraft contre les autres dans une arène de combat fermée qui se réduit progressivement au fil du temps où des ressources peuvent être trouvées pour unir d'autres joueurs. Les serveurs Battle Royale sont souvent inspirés d'autres jeux vidéo connus comme Fortnite, PUBG ou Call of Duty."
     },
     "bedwars": {
       "formatted": "BedWars",
-      "desc": "Bedwars is a popular strategic PvP (player vs player) Minecraft mini-game gamemode where the objective is to be the last player (or team) alive by either defending or eliminating the opponents. The Bedwars gamemode often involves a bed that must be protected as when it's destroyed you no longer respawn. Bedwars is usually set on islands in the sky where the biggest danger is to not fall into the bottomless void."
+      "desc": "Bedwars est un mode de jeu en mode PvP stratégique populaire (joueur contre joueur), un mini-jeu Minecraft où l'objectif est d'être le dernier joueur (ou l'équipe) vivant en défendant ou en éliminant les adversaires. Le mode de jeu en Bedwars implique souvent un lit qui doit être protégé comme quand il est détruit, vous ne réapparaîtrez plus. Les Bedwars sont généralement placés sur des îles dans le ciel où le plus grand danger est de ne pas tomber dans le vide sans fond."
     },
     "hungergames": {
       "formatted": "Hunger Games",
-      "desc": "Hunger Games is a popular survival PvP (player vs player) Minecraft mini-game gamemode where the objective is to survive using items found throughout the map and defend against other players to be the last standing player."
+      "desc": "Le Survival est un mode de jeu Minecraft PvP (Joueurs vs Joueurs) populaire, où l'objectif est de survivre à partir d'objets trouvés en explorant les environs de la carte et se défendant des autres joueurs pour être le dernier joueur restant."
     },
     "survivalgames": {
       "formatted": "Survival",
@@ -26,27 +26,27 @@
     },
     "factions": {
       "formatted": "Factions",
-      "desc": "Factions servers are competitive PvP servers that let players team up with others by creating or joining existing clans. Faction members work together to build bases, protect their land, gather valuable resources as well as recruit new members. Factions in a server can either become allies and provide support to each other or choose to be enemies and go into battle."
+      "desc": "Les serveurs de Factions sont des serveurs PvP (joueur contre joueur) compétitifs qui permettent aux joueurs de faire équipe avec d'autres joueurs en créant ou en rejoignant des clans existants. Les membres de la faction travaillent ensemble pour construire des bases, protéger leurs terres, collecter des ressources précieuses et recruter de nouveaux membres. Les factions dans un serveur peuvent soit devenir des alliés et fournir un soutien mutuel, soit choisir d'être des ennemis et entrer au combat."
     },
     "economy": {
       "formatted": "Économie",
-      "desc": "Economy servers operate a virtual economy that allows players to earn and spend an in-game currency. Players can make money by mining valuable resources, completing challenges, trading with other players, and selling items in shops. Most servers also display leaderboards to encourage competition among the wealthiest players."
+      "desc": "Les serveurs économiques gèrent une économie virtuelle qui permet aux joueurs de gagner et de dépenser une monnaie en jeu. Les joueurs peuvent gagner de l'argent en minant des ressources précieuses, en complétant des défis, en échangeant avec d'autres joueurs, et en vendant des objets dans les magasins. La plupart des serveurs affichent aussi des classements pour encourager la concurrence entre les joueurs les plus riches."
     },
     "creative": {
       "formatted": "Créatif",
-      "desc": "Creative mode servers have creative features enabled. These modes disable Minecraft's survival features, allowing players to build cities and other complex structures with an unlimited amount of blocks. Fly mode is enabled as part of the creative mode to allow for easier building. Servers also allow the use of world editing plugins which makes the building process even easier."
+      "desc": "Les serveurs de mode créatif ont des fonctionnalités créatives activées. Ces modes désactivent les fonctionnalités de survie de Minecraft, permettant aux joueurs de construire des villes et d'autres structures complexes avec un nombre illimité de blocs. Le mode Vol est activé dans le mode créatif afin de faciliter la construction. Les serveurs permettent également l'utilisation de plugins d'édition de monde qui rendent le processus de construction encore plus facile."
     },
     "mcmmo": {
       "formatted": "McMMO",
-      "desc": "McMMO is a plugin that adds RPG style features to Minecraft's normal survival gameplay. It allows players to earn experience and level up by doing actions or using tools. By reaching higher levels, they can gain bonuses such as double item drops. Experience can be earned in all sorts of ways from mining and woodcutting to archery and alchemy."
+      "desc": "McMMO est un plugin qui ajoute des fonctionnalités de style RPG au jeu de survie normal de Minecraft. Il permet aux joueurs de gagner de l'expérience et de passer au niveau supérieur en faisant des actions ou en utilisant des outils. En atteignant des niveaux plus élevés, ils peuvent gagner des bonus tels que la chute de deux objets. L'expérience peut être acquise de toutes sortes de façons, de l'exploitation minière à la coupe du bois, au tir à l'arc et à l'alchimie."
     },
     "skyblock": {
       "formatted": "Skyblock",
-      "desc": "Skyblock servers are multiplayer versions of the original Skyblock survival map. Each player spawns on a small floating island with limited resources and must think creatively to gather materials, expand the island and survive. The majority of Skyblock servers include economic features such as the ability to buy and sell items with in-game currency and leaderboards of the wealthiest players."
+      "desc": "Les serveurs Skyblock sont des versions multijoueurs de la carte originale de survie Skyblock. Chaque joueur fait apparaître sur une petite île flottante avec des ressources limitées et doit réfléchir de façon créative pour récolter des matériaux, étendre l'île et survivre. La majorité des serveurs Skyblock comprennent des fonctionnalités économiques telles que la possibilité d'acheter et de vendre des objets avec la monnaie en jeu et les classements des joueurs les plus riches."
     },
     "pvp": {
       "formatted": "PvP",
-      "desc": "Minecraft servers with PvP enabled allow players to fight and do damage against each other. PvP servers include a huge variety of different gamemodes from vanilla survival and factions to battle royale style minigames and KitPvP. Players must survive against not only the environment and hostile mobs but also any enemy players. Some servers have PvP enabled throughout the entire map while others have safe zones such as spawn where players can't fight."
+      "desc": "Les serveurs Minecraft avec PvP permettent aux joueurs de se battre et de se causer des dégâts. Les serveurs PvP comprennent une grande variété de modes de jeu allant de la survie à la vanille et aux factions aux mini-jeux de style royale et au KitPvP. Les joueurs doivent survivre non seulement contre l'environnement et les créatures hostiles, mais aussi contre les joueurs ennemis. Certains serveurs ont le PvP activés sur toute la carte tandis que d'autres ont des zones sûres telles que l'apparition où les joueurs ne peuvent pas se battre."
     },
     "prison": {
       "formatted": "Prison",
