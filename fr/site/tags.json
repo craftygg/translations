@@ -50,7 +50,7 @@
     },
     "prison": {
       "formatted": "Prison",
-      "desc": "Prison servers don't have any wilderness and are instead set entirely within a prison-themed map. Players start at the lowest rank with basic tools and must earn money to rank up and become more powerful. Money is earned by mining resources at predesignated mines, and new mines with more valuable resources are unlocked by ranking up. Players can challenge each other to battle in PvP arenas and even buy plots of land inside the prison to build a base and store valuables."
+      "desc": "Les serveurs de la prison n'ont pas de nature vierge et sont à la place entièrement placés sur une carte sur le thème de la prison. Les joueurs commencent au niveau le plus bas avec les outils de base et doivent gagner de l'argent pour se classer et devenir plus puissants. L'argent est gagné en minant des ressources dans des mines prédésignées, et de nouvelles mines avec des ressources plus précieuses sont débloquées par le classement. Les joueurs peuvent se défier mutuellement pour se battre dans les arènes JcJ et même acheter des parcelles de terrain dans la prison pour construire une base et stocker des objets de valeur."
     },
     "survival": {
       "formatted": "Survie",
