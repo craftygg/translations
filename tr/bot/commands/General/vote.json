@@ -1,9 +1,9 @@
 {
-	"name": "vote",
-	"description": "Support the bot by voting for it.",
-	"upvotingDescription": "Upvoting is a free way to show your support for Crafty. It helps increase Craftys ranking on Discord bot listing websites. Below are a few ways you can upvote Crafty.\n",
-	"voteLocking": "Vote locking",
-	"voteLockingDescription": "While using Crafty you may notice that some commands require you to upvote Crafty for you to continue. This lock is in place to slowdown traffic on highly used commands. If you're unable to upvote or would like to skip it, you can use /vote skip. Skipping the upvote will remove the votelock on commands.",
-	"upvoteRewards": "(Upvote rewards)",
-	"embedAuthor": "Upvote Crafty"
+	"name": "oyver",
+	"description": "Oy vererek botu destekleyin.",
+	"upvotingDescription": "Oy vermek, Crafty'ye desteğinizi göstermenin ücretsiz bir yoludur. Crafty'nin Discord bot listeleme web sitelerindeki sıralamasını yükseltmeye yardımcı olur. Aşağıda Crafty'ye oy verebileceğiniz birkaç yol var.\n",
+	"voteLocking": "Oy kilidi",
+	"voteLockingDescription": "Crafty'yi kullanırken bazı komutları kullanabilmeniz için Crafty'ye oy vermeniz gerektiğini fark etmişsinizdir. Bu kilit, çok kullanılan komutlardaki trafiği yavaşlatmak için uygulanmaktadır. Eğer oy veremiyorsanız veya bunu geçmek istiyorsanız, /vote skip komutunu kullanabilirsiniz. Oy vermeyi atlamak komutlar üzerindeki oy kilidini kaldıracaktır.",
+	"upvoteRewards": "(Oy verme ödülleri)",
+	"embedAuthor": "Crafty'yi Oyla"
 }
