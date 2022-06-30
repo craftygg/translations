@@ -1,13 +1,13 @@
 {
-	"name": "info",
-	"description": "Provides information about this application, and links for adding it and joining the support server.",
-	"descriptionContent1": "The most advanced Minecraft bot for Discord.",
-	"descriptionContent2": "A must-have bot for your Minecraft community.",
-	"uptime": "Uptime",
-	"serverUsage": "Server Usage",
-	"host": "• **Host**: {{uptime.host}}",
-	"process": "• **Process**: {{uptime.process}}",
-	"cpuLoad": "• **CPU Load**: {{usage.cpuLoad}}",
-	"memoryUsage": "• **Heap**: {{usage.ramUsed}}MB (Total: {{usage.ramTotal}}MB)",
-	"info": "Info"
+	"name": "bilgi",
+	"description": "Bu uygulama hakkında bilgi verir ve uygulamayı eklemeniz ve destek sunucusuna katılmanız için bağlantılar sağlar.",
+	"descriptionContent1": "Discord için en gelişmiş Minecraft botu.",
+	"descriptionContent2": "Minecraft topluluğunuz için sahip olunması gereken bir bot.",
+	"uptime": "Çalışma Süresi",
+	"serverUsage": "Sunucu Kullanımı",
+	"host": "• **Sunucu**: {{uptime.host}}",
+	"process": "• **İşlem**: {{uptime.process}}",
+	"cpuLoad": "• **İşlemci Yükü**: {{usage.cpuLoad}}",
+	"memoryUsage": "• **Bellek Yığını**: {{usage.ramUsed}}MB (Toplam: {{usage.ramTotal}}MB)",
+	"info": "Bilgi"
 }
