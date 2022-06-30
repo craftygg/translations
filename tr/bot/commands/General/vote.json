@@ -1,0 +1,9 @@
+{
+	"name": "oyver",
+	"description": "Oy vererek botu destekleyin.",
+	"upvotingDescription": "Oy vermek, Crafty'ye desteğinizi göstermenin ücretsiz bir yoludur. Crafty'nin Discord bot listeleme web sitelerindeki sıralamasını yükseltmeye yardımcı olur. Aşağıda Crafty'ye oy verebileceğiniz birkaç yol var.\n",
+	"voteLocking": "Oy kilidi",
+	"voteLockingDescription": "Crafty'yi kullanırken bazı komutları kullanabilmeniz için Crafty'ye oy vermeniz gerektiğini fark etmişsinizdir. Bu kilit, çok kullanılan komutlardaki trafiği yavaşlatmak için uygulanmaktadır. Eğer oy veremiyorsanız veya bunu geçmek istiyorsanız, /vote skip komutunu kullanabilirsiniz. Oy vermeyi atlamak komutlar üzerindeki oy kilidini kaldıracaktır.",
+	"upvoteRewards": "(Oy verme ödülleri)",
+	"embedAuthor": "Crafty'yi Oyla"
+}

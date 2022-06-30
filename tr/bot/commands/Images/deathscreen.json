@@ -1,0 +1,10 @@
+{
+	"name": "ölümekranı",
+	"description": "Minecraft Ölüm Ekranı",
+	"textChoiceName": "metin",
+	"textChoiceDescription": "Metnin",
+	"scoreChoiceName": "skor",
+	"scoreChoiceDescription": "Özel skor",
+	"embedAuthor": "Minecraft Splash Metni",
+	"altText": "Crafty (crafty.gg) tarafından oluşturulan Minecraft Ölüm Ekranı"
+}

@@ -1,0 +1,6 @@
+{
+	"name": "köylü",
+	"description": "Bir mesajı köylü konuşmasına çevirir",
+	"messageInputName": "mesaj",
+	"messageInputDescription": "Çevirilecek mesaj"
+}

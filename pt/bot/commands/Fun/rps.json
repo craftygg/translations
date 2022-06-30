@@ -1,0 +1,13 @@
+{
+	"name": "ppt",
+	"description": "Pedra, papel ou tesoura?",
+	"choiceInputName": "escolha",
+	"choiceInputDescription": "Sua escolha",
+	"choiceRock": "pedra",
+	"choicePaper": "papel",
+	"choiceShears": "tesoura",
+	"result": "Eu escolhi {{botChoice}} e você escolheu {{choice}}.",
+	"tie": "\nDeu empate!",
+	"win": "\nVocê venceu",
+	"lose": "\nEu venci!"
+}

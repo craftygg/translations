@@ -1,0 +1,6 @@
+{
+	"name": "büyü",
+	"description": "Mesajınızı Minecraft'ın büyü diline çevirin.",
+	"textInputName": "metin",
+	"textInputDescription": "Büyülenecek metin."
+}
