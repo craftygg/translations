@@ -1,6 +1,6 @@
 {
-	"name": "enchant",
-	"description": "Translate your message into Minecraft's enchantment language.",
-	"textInputName": "text",
-	"textInputDescription": "The text to enchant."
+	"name": "büyü",
+	"description": "Mesajınızı Minecraft'ın büyü diline çevirin.",
+	"textInputName": "metin",
+	"textInputDescription": "Büyülenecek metin."
 }
