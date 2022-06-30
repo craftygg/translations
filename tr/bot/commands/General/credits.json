@@ -1,9 +1,9 @@
 {
-	"name": "credits",
-	"description": "See the team behind Crafty and what services we use.",
-	"descriptionContent": "These are the tools and people that bring you Crafty.",
-	"devs": "Devs",
-	"staff": "Staff",
-	"tools": "Tools",
+	"name": "katkılar",
+	"description": "Crafty'nin arkasındaki ekibi ve hangi hizmetleri kullandığımızı görün.",
+	"descriptionContent": "Bunlar size Crafty'yi sunan araçlar ve insanlardır.",
+	"devs": "Geliştiriciler",
+	"staff": "Yetkili",
+	"tools": "Araçlar",
 	"credits": "Crafty Credits"
 }
