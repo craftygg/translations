@@ -1,13 +1,13 @@
 {
-	"name": "rps",
-	"description": "Rock, paper or shears?",
-	"choiceInputName": "choice",
-	"choiceInputDescription": "Your choice",
-	"choiceRock": "rock",
-	"choicePaper": "paper",
-	"choiceShears": "shears",
-	"result": "I chose {{botChoice}} you chose {{choice}}.",
-	"tie": "\nIt's a tie!",
-	"win": "\nYou win",
-	"lose": "\nI win!"
+	"name": "tkm",
+	"description": "Taş, kağıt veya makas?",
+	"choiceInputName": "seçim",
+	"choiceInputDescription": "Seçimin",
+	"choiceRock": "taş",
+	"choicePaper": "kağit",
+	"choiceShears": "makas",
+	"result": "Ben {{botChoice}} seçtim, sen {{choice}}.",
+	"tie": "\nBerabere!",
+	"win": "\nKazandın",
+	"lose": "\nKazandım!"
 }
