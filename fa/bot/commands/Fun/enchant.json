@@ -1,6 +1,6 @@
 {
-	"name": "enchant",
-	"description": "Translate your message into Minecraft's enchantment language.",
-	"textInputName": "text",
-	"textInputDescription": "The text to enchant."
+	"name": "افسون کردن",
+	"description": "پیام خود را به زبان افسونگری مایکرافت ترجمه کنید.",
+	"textInputName": "متن",
+	"textInputDescription": "متنی که باید به افسون تبدیل شود."
 }
