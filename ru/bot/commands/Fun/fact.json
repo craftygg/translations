@@ -1,8 +1,8 @@
 {
 	"name": "fact",
-	"description": "Sends you a random fun fact from a collection of over 400.",
-	"factIdInputName": "fact_id",
-	"factIdInputDescription": "The ID of the fact you want to get",
-	"embedTitle": "Minecraft Fact {{id}}",
-	"embedInformation": "Source: [{{source}}]({{link}})\nLast updated: {{updated}}"
+	"description": "Отправляет вам случайный веселый факт из коллекции, насчитывающей более 400 фактов.",
+	"factIdInputName": "id_факта",
+	"factIdInputDescription": "ID того факта, который вы хотите получить",
+	"embedTitle": "Факт Minecraft {{id}}",
+	"embedInformation": "Источник: [{{source}}]({{link}})\nПоследнее обновление: {{updated}}"
 }
