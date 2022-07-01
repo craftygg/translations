@@ -1,13 +1,13 @@
 {
-	"name": "info",
-	"description": "Provides information about this application, and links for adding it and joining the support server.",
-	"descriptionContent1": "The most advanced Minecraft bot for Discord.",
-	"descriptionContent2": "A must-have bot for your Minecraft community.",
-	"uptime": "Uptime",
-	"serverUsage": "Server Usage",
+	"name": "thông tin",
+	"description": "Cung cấp thông tin về bot này, và cách để thêm nó và tham gia server hỗ trợ.",
+	"descriptionContent1": "Bot dành cho Discord tối tân nhất.",
+	"descriptionContent2": "Một con bot cần có cho cộng đồng Minecraft của bạn.",
+	"uptime": "Thời gian hoạt động",
+	"serverUsage": "Tình trạng server",
 	"host": "• **Host**: {{uptime.host}}",
-	"process": "• **Process**: {{uptime.process}}",
-	"cpuLoad": "• **CPU Load**: {{usage.cpuLoad}}",
-	"memoryUsage": "• **Heap**: {{usage.ramUsed}}MB (Total: {{usage.ramTotal}}MB)",
-	"info": "Info"
+	"process": "• **Xử lí**: {{uptime.process}}",
+	"cpuLoad": "• **Mức sử dụng CPU**: {{usage.cpuLoad}}",
+	"memoryUsage": "• **Đang xử lí**: {{usage.ramUsed}}MB (Tổng cộng: {{usage.ramTotal}}MB)",
+	"info": "Thông tin"
 }

@@ -1,13 +1,13 @@
 {
-	"name": "rps",
-	"description": "Rock, paper or shears?",
-	"choiceInputName": "choice",
-	"choiceInputDescription": "Your choice",
-	"choiceRock": "rock",
-	"choicePaper": "paper",
-	"choiceShears": "shears",
-	"result": "I chose {{botChoice}} you chose {{choice}}.",
-	"tie": "\nIt's a tie!",
-	"win": "\nYou win",
-	"lose": "\nI win!"
+	"name": "石头剪子布",
+	"description": "石头，剪子还是布？",
+	"choiceInputName": "选择",
+	"choiceInputDescription": "您的选择",
+	"choiceRock": "石头",
+	"choicePaper": "布",
+	"choiceShears": "剪子",
+	"result": "我选择 {{botChoice}} 您选择 {{choice}}。",
+	"tie": "\n打平了！",
+	"win": "\n你赢了！",
+	"lose": "\n我赢了！"
 }

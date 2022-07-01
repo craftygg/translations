@@ -1,6 +1,6 @@
 {
-	"name": "enchant",
-	"description": "Translate your message into Minecraft's enchantment language.",
-	"textInputName": "text",
-	"textInputDescription": "The text to enchant."
+	"name": "एंचेंट",
+	"description": "आपके सन्देश को Minecraft की एनचेंटमेन्ट भाषा में अनुवाद करना।",
+	"textInputName": "पाठ",
+	"textInputDescription": "एनचेंट करने के लिए पाठ।"
 }

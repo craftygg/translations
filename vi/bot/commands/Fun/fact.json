@@ -3,6 +3,6 @@
 	"description": "Gửi một sự thật ngẫu nhiên trong danh sách hơn 400 sự thật khác nhau.",
 	"factIdInputName": "id_sự_thật",
 	"factIdInputDescription": "Số ID của sự thật mà bạn muốn biết",
-	"embedTitle": "Minecraft Fact {{id}}",
-	"embedInformation": "Source: [{{source}}]({{link}})\nLast updated: {{updated}}"
+	"embedTitle": "Sự thật Mineraft {{id}}",
+	"embedInformation": "Nguồn: [{{source}}]({{link}})\nCập nhật lần cuối: {{updated}}"
 }
