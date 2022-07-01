@@ -1,9 +1,9 @@
 {
-	"name": "pvp",
-	"description": "Start an epic Minecraft PvP battle in Discord.",
-	"participant1InputName": "participant1",
-	"participant1InputDescription": "The first participant in the pvp battle.",
-	"participant2InputName": "participant2",
-	"participant2InputDescription": "The second participant in the pvp battle.",
-	"embedDescription": "⚔️ **{{user1}}** VS **{{user2}}**\n\n{{scenario_text}}\n\n🏆 Winner: **{{winner}}**"
+	"name": "پی‌وی‌پی",
+	"description": "یک مبارزه بازیکن با بازیکن ماینکرافتی در دیسکورد داشته باشید.",
+	"participant1InputName": "شرکت‌کننده1",
+	"participant1InputDescription": "شرکت کننده اول در این مبارزه پی‌وی‌پی",
+	"participant2InputName": "شرکت‌کننده2",
+	"participant2InputDescription": "شرکت کننده دوم در این مبارزه پی‌وی‌پی",
+	"embedDescription": "⚔️ **{{user1}}** در علیه **{{user2}}**\n\n{{scenario_text}}\n\n🏆 برنده: **{{winner}}**"
 }
