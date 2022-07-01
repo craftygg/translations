@@ -1,5 +1,5 @@
 {
-	"name": "update",
-	"description": "Shows what the newest updates are for Crafty.",
-	"embedAuthor": "Crafty {{updateVersion}} Update"
+	"name": "cập nhật",
+	"description": "Xem qua cập nhật gần đây nhất của Crafty.",
+	"embedAuthor": "Bản cập nhật {{updateVersion}} của Crafty"
 }
