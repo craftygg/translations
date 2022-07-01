@@ -1,8 +1,8 @@
 {
-	"name": "fact",
-	"description": "Sends you a random fun fact from a collection of over 400.",
-	"factIdInputName": "fact_id",
-	"factIdInputDescription": "The ID of the fact you want to get",
+	"name": "sự thật",
+	"description": "Gửi một sự thật ngẫu nhiên trong danh sách hơn 400 sự thật khác nhau.",
+	"factIdInputName": "id_sự_thật",
+	"factIdInputDescription": "Số ID của sự thật mà bạn muốn biết",
 	"embedTitle": "Minecraft Fact {{id}}",
 	"embedInformation": "Source: [{{source}}]({{link}})\nLast updated: {{updated}}"
 }
