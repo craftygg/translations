@@ -1,9 +1,9 @@
 {
 	"name": "pvp",
 	"description": "Начните эпическую PvP битву в Discord.",
-	"participant1InputName": "participant1",
-	"participant1InputDescription": "The first participant in the pvp battle.",
-	"participant2InputName": "participant2",
-	"participant2InputDescription": "The second participant in the pvp battle.",
-	"embedDescription": "⚔️ **{{user1}}** VS **{{user2}}**\n\n{{scenario_text}}\n\n🏆 Winner: **{{winner}}**"
+	"participant1InputName": "участник1",
+	"participant1InputDescription": "Первый участник PvP битвы.",
+	"participant2InputName": "участник2",
+	"participant2InputDescription": "Второй участник PvP битвы.",
+	"embedDescription": "⚔️ **{{user1}}** VS **{{user2}}**\n\n{{scenario_text}}\n\n🏆 Победитель: **{{winner}}**"
 }
