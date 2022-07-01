@@ -1,13 +1,13 @@
 {
-	"name": "info",
+	"name": "资料",
 	"description": "Provides information about this application, and links for adding it and joining the support server.",
 	"descriptionContent1": "The most advanced Minecraft bot for Discord.",
 	"descriptionContent2": "A must-have bot for your Minecraft community.",
-	"uptime": "Uptime",
-	"serverUsage": "Server Usage",
-	"host": "• **Host**: {{uptime.host}}",
+	"uptime": "开机时间",
+	"serverUsage": "服务器使用",
+	"host": "• **主机**: {{uptime.host}}",
 	"process": "• **Process**: {{uptime.process}}",
 	"cpuLoad": "• **CPU Load**: {{usage.cpuLoad}}",
 	"memoryUsage": "• **Heap**: {{usage.ramUsed}}MB (Total: {{usage.ramTotal}}MB)",
-	"info": "Info"
+	"info": "资料"
 }
