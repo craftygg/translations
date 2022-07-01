@@ -1,13 +1,13 @@
 {
-	"name": "rps",
-	"description": "Rock, paper or shears?",
-	"choiceInputName": "choice",
-	"choiceInputDescription": "Your choice",
-	"choiceRock": "rock",
-	"choicePaper": "paper",
-	"choiceShears": "shears",
-	"result": "I chose {{botChoice}} you chose {{choice}}.",
-	"tie": "\nIt's a tie!",
-	"win": "\nYou win",
-	"lose": "\nI win!"
+	"name": "kéo búa bao",
+	"description": "Kéo, búa hay bao?",
+	"choiceInputName": "lựa_chọn",
+	"choiceInputDescription": "Lựa chọn của bạn",
+	"choiceRock": "búa",
+	"choicePaper": "bao",
+	"choiceShears": "kéo",
+	"result": "Tôi chọn {{botChoice}}, bạn chọn {{choice}}.",
+	"tie": "\nHòa!",
+	"win": "\nBạn thắng",
+	"lose": "\nTôi thắng!"
 }
