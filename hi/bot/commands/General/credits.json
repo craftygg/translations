@@ -1,9 +1,9 @@
 {
-	"name": "credits",
-	"description": "See the team behind Crafty and what services we use.",
-	"descriptionContent": "These are the tools and people that bring you Crafty.",
-	"devs": "Devs",
-	"staff": "Staff",
-	"tools": "Tools",
-	"credits": "Crafty Credits"
+	"name": "आभार",
+	"description": "Crafty के पीछे की टीम देखें और हम किन सेवाओं का उपयोग करते हैं।",
+	"descriptionContent": "यह वे उपकरण और लोग हैं जो Crafty के निर्माण में योगदान देते हैं।",
+	"devs": "डेवलपर",
+	"staff": "स्टाफ",
+	"tools": "उपकरण",
+	"credits": "Crafty आभार"
 }

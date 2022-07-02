@@ -1,7 +1,7 @@
 {
 	"name": "तथ्य",
 	"description": "आपको 400 से अधिक के संग्रह से एक यादृच्छिक मजेदार तथ्य भेजता है।",
-	"factIdInputName": "तथ्य_आईडी",
+	"factIdInputName": "fact_id",
 	"factIdInputDescription": "उस तथ्य की आईडी जिसे आप प्राप्त करना चाहते हैं",
 	"embedTitle": "Minecraft तथ्य {{id}}",
 	"embedInformation": "स्त्रोत: [{{source}}]({{link}})\nअंतिम अद्यतन: {{updated}}"
