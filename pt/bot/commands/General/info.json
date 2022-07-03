@@ -8,6 +8,6 @@
 	"host": "**Hospedagem**: {{uptime.host}}",
 	"process": "• **Processo**: {{uptime.process}}",
 	"cpuLoad": "• **Carga da CPU**: {{usage.cpuLoad}}",
-	"memoryUsage": "• **Heap**: {{usage.ramUsed}}MB (Total: {{usage.ramTotal}}MB)",
-	"info": "Info"
+	"memoryUsage": "• **Memória RAM**: {{usage.ramUsed}}MB (Total: {{usage.ramTotal}}MB)",
+	"info": "Informações"
 }
