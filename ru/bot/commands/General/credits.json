@@ -2,8 +2,8 @@
 	"name": "credits",
 	"description": "See the team behind Crafty and what services we use.",
 	"descriptionContent": "These are the tools and people that bring you Crafty.",
-	"devs": "Devs",
-	"staff": "Staff",
-	"tools": "Tools",
+	"devs": "Разработчики",
+	"staff": "Персонал",
+	"tools": "Инструменты",
 	"credits": "Crafty Credits"
 }
