@@ -1,9 +1,9 @@
 {
 	"name": "info",
-	"description": "Provides information about this application, and links for adding it and joining the support server.",
-	"descriptionContent1": "The most advanced Minecraft bot for Discord.",
-	"descriptionContent2": "A must-have bot for your Minecraft community.",
-	"uptime": "Uptime",
+	"description": "Предоставляет информацию о боте, ссылку для его добавления и ссылку для присоединения к серверу поддержки.",
+	"descriptionContent1": "Самый продвинутый бот по Minecraft для Discord.",
+	"descriptionContent2": "Crafty - необходимый бот для вашего сообщества по Minecraft.",
+	"uptime": "Аптайм",
 	"serverUsage": "Server Usage",
 	"host": "• **Host**: {{uptime.host}}",
 	"process": "• **Process**: {{uptime.process}}",
