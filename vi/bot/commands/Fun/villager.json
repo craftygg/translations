@@ -1,5 +1,5 @@
 {
-	"name": "dân làng",
+	"name": "dân_làng",
 	"description": "Phiên dịch một tin nhắn thành cách dân làng nói",
 	"messageInputName": "tin_nhắn",
 	"messageInputDescription": "Văn bản để được dịch"

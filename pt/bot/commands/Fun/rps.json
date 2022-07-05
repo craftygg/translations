@@ -6,8 +6,8 @@
 	"choiceRock": "pedra",
 	"choicePaper": "papel",
 	"choiceShears": "tesoura",
-	"result": "Eu escolhi {{botChoice}} e você escolheu {{choice}}.",
-	"tie": "\nDeu empate!",
+	"result": "Eu escolhi {{botChoice}} você escolheu {{choice}}.",
+	"tie": "\nEmpatou!",
 	"win": "\nVocê venceu",
 	"lose": "\nEu venci!"
 }
