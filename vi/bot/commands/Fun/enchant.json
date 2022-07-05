@@ -1,6 +1,6 @@
 {
-	"name": "cường hóa",
+	"name": "cường_hóa",
 	"description": "Phiên dịch tin nhắn của bạn thành ngôn ngữ cường hóa của Minecraft.",
-	"textInputName": "nội dung",
+	"textInputName": "nội_dung",
 	"textInputDescription": "Thứ mà bạn muốn dịch sang."
 }
