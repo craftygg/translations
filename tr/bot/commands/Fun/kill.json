@@ -1,0 +1,6 @@
+{
+	"name": "öldür",
+	"description": "Birini öldür.",
+	"opponentInputName": "düşman",
+	"opponentInputDescription": "Öldürülecek düşman."
+}

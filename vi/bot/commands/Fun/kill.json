@@ -1,0 +1,6 @@
+{
+	"name": "kill",
+	"description": "/kill một ai đó.",
+	"opponentInputName": "mục_tiêu",
+	"opponentInputDescription": "Mục tiêu để dùng /kill."
+}

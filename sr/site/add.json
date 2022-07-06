@@ -1,0 +1,52 @@
+{
+  "server": {
+    "success": "Успешно!",
+    "backToHome": "Натраг на почетну",
+    "viewServer": "Погледај сервер",
+    "failed": "Неуспешно",
+    "failed1": "Нешто је пошло напоко! Грешка је копирана у твој клипборд, уђи на наш discord тако што ћеш кликнути овде и налепи грешку у #support и ми ћемо ти помоћи!",
+    "tryAgain": "Покушај поново",
+    "stepProgress": "Корак { Step } од 3",
+    "header": "Додајте нови Minecraft Сервер на Crafty",
+    "verification": "Верификација",
+    "tellMore": "Кажите нам више о { Name }",
+    "serverName": "Име Сервера",
+    "serverIp": "IP сервера",
+    "serverPort": "Порт Сервера",
+    "type": "Тип/Платформа",
+    "ping": "ПИНГУЈ ДА НАСТАВИШ",
+    "verificationMethod": "Метода Верификације",
+    "motdInstructions": "Молимо у MOTD свог сервера додајте следећи код да верификујете да сте ви власник или руководите сервером који покушавате да додате",
+    "txtInstructions": "У ваша DNS подешавања, направите TXT запис на { Code } и у садржај додајте следећи код",
+    "note": " Имајте на уму да је DNS-у потребно неко време да се ажурира, па наставите да поверавате сваких пар секунди",
+    "verified": "Верификован",
+    "tags": "Ознаке",
+    "languages": "Језици",
+    "maxLanguages": "Максимално 3 језика",
+    "version": "Верзија",
+    "short": "Кратак Опис",
+    "long": "Дужи Опис",
+    "charsRemaining": "карактера остало",
+    "descLimit": "(највише { Number } карактера)",
+    "website": "Сајт",
+    "previous": "Претходно",
+    "next": "Следеће",
+    "complete": "Завршено",
+    "errors": {
+      "loggedIn": "Морате бити улоговани да би додали ваш сервер на Crafty. Улогујте се у горњем левом углу сајта.",
+      "offline": "Ваш сервер је offline. Обезбедите да је online пре него што га поднесете опет."
+    }
+  },
+  "player": {
+    "claim": "Claim Account",
+    "enterName": " Please enter the name of the account that you would like to claim",
+    "username": "Username",
+    "step1": "Please log into our verification Minecraft server to generate your code",
+    "step2": "Supports Minecraft Java Edition 1.8 - 1.17",
+    "step3": "Upon joining the Minecraft server you will see a message containing your code.",
+    "step4": "Please type the four digit code into the box below to continue.",
+    "4digit": "4-Digit Code",
+    "restart": "restart",
+    "verify": "Verify"
+  }
+}

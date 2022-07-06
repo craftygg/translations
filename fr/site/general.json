@@ -1,0 +1,18 @@
+{
+  "view": "Voir",
+  "lifetimeUpvotes": "Upvotes depuis toujours :",
+  "upvotesThisMonth": "Upvotes ce mois-ci :",
+  "lifetimeViews": "Vues depuis toujours :",
+  "viewsThisMonth": "Vues ce mois-ci :",
+  "upvote": "Upvote",
+  "report": "Signaler",
+  "location": "Localisation",
+  "adv": "Recherche avancée",
+  "advOptions": "Options avancées",
+  "search": "Rechercher",
+  "highlow": "Haut à bas",
+  "lowhigh": "Bas à haut",
+  "sortBy": "Trier par",
+  "orderBy": "Tri par",
+  "copy": "Copier"
+}

@@ -1,0 +1,13 @@
+{
+	"name": "石头剪子布",
+	"description": "石头，剪子还是布？",
+	"choiceInputName": "选择",
+	"choiceInputDescription": "您的选择",
+	"choiceRock": "石头",
+	"choicePaper": "布",
+	"choiceShears": "剪子",
+	"result": "我选择 {{botChoice}} 您选择 {{choice}}。",
+	"tie": "\n打平了！",
+	"win": "\n你赢了！",
+	"lose": "\n我赢了！"
+}

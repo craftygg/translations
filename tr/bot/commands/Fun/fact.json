@@ -1,0 +1,8 @@
+{
+	"name": "bilgi",
+	"description": "Size 400'den fazla koleksiyondan rastgele bir eğlenceli bilgi gösterir.",
+	"factIdInputName": "bilgi_id",
+	"factIdInputDescription": "Görmek istediğiniz bilginin id'si",
+	"embedTitle": "Minecraft Bilgisi {{id}}",
+	"embedInformation": "Kaynak: [{{source}}]({{link}})\nSon Güncelleme: {{updated}}"
+}

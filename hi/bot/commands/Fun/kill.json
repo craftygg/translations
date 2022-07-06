@@ -1,0 +1,6 @@
+{
+	"name": "मारना",
+	"description": "किसी को मारना।",
+	"opponentInputName": "प्रतिद्वंद्वी",
+	"opponentInputDescription": "मारने के लिए प्रतिद्वंद्वी।"
+}

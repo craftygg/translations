@@ -1,0 +1,8 @@
+{
+	"name": "mctext",
+	"description": "Gera o Minecraft como texto com suporte para formatação de códigos de Minecraft",
+	"textChoiceName": "texto",
+	"textChoiceDescription": "Seu texto",
+	"embedAuthor": "Gerador de Texto para Minecraft pelo Crafty",
+	"altText": "Texto de Minecraft gerado pelo Crafty (crafty.gg)"
+}

@@ -1,0 +1,8 @@
+{
+	"name": "splashtext",
+	"description": "Texto splash personalizado do Minecraft",
+	"textChoiceName": "texto",
+	"textChoiceDescription": "Seu texto",
+	"embedAuthor": "Texto Splash do Minecraft",
+	"altText": "Texto Splash de Minecraft gerado pelo Crafty (crafty.gg)"
+}

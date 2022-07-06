@@ -1,0 +1,100 @@
+{
+  "details": {
+    "adventure": {
+      "formatted": "Macera",
+      "desc": "Macera sunucuları, oyuncunun genellikle özel veya oyuncu tarafından oluşturulan önceden belirlenmiş bir dünyayla sınırlı etkileşime sahip olduğu oyun modudur. Amaç genellikle blokları yok edememe veya yerleştirememe zorluğuyla uğraşırken eşyaları hazırlayarak ve mobları öldürerek hayatta kalmaktır."
+    },
+    "anarchy": {
+      "formatted": "Anarşi",
+      "desc": "Anarşi sunucuları, genellikle minimum arazi koruması ve kural olmaksızın kanunsuz olma eğilimindedir. Bazı anarşi sunucuları, her oyuncunun da hile yaptığı bir anarşi ortamında Minecraft'ın çalışma şeklini adil olmayan bir avantaj veya adil avantaj sağlamak için değiştiren istemciler gibi hileye izin verir. Ortak amaç, hayatta kalmak ve diğer oyunculardan ve moblardan korunmak, kaynakları toplamak, güvenli ve gizli üsler inşa etmektir."
+    },
+    "battleroyale": {
+      "formatted": "Battle Royale",
+      "desc": "Battle Royale sunucuları, kaynakların diğer oyunculara geçebildiği, zamanla giderek küçülen kapalı bir savaş arenasında Minecraft becerilerini başkalarına karşı test etmek isteyen oyuncular içindir. Battle Royale sunucuları genellikle Fortnite, PUBG ve Call of Duty gibi diğer iyi bilinen video oyunlarından ilham alır."
+    },
+    "bedwars": {
+      "formatted": "BedWars",
+      "desc": "Bedwars, amacı rakipleri savunarak veya ortadan kaldırarak hayatta kalan son oyuncu (veya takım) olmak olan popüler bir stratejik PvP (oyuncu vs oyuncu) oyun modudur. BedWars oyun modu genellikle, yok edildiğinde artık yeniden doğmadığınız yatağınızın korunmasına dayanır. Bedwars genellikle en büyük tehlikenin dipsiz boşluğa düşmemek olduğu gökyüzündeki adalarda oynanır."
+    },
+    "hungergames": {
+      "formatted": "Hunger Games",
+      "desc": "Hunger Games, popüler bir hayatta kalma PvP (oyuncuya karşı oyuncu) oyun modudur; burada amaç, haritada bulunan öğeleri kullanarak diğer oyunculara karşı ayakta kalan son oyuncu olmaktır."
+    },
+    "survivalgames": {
+      "formatted": "Survival Games",
+      "desc": "Survival Games, popüler bir hayatta kalma PvP (oyuncuya karşı oyuncu) oyun modudur; burada amaç, haritada bulunan öğeleri kullanarak diğer oyunculara karşı ayakta kalan son oyuncu olmaktır."
+    },
+    "factions": {
+      "formatted": "Faction",
+      "desc": "Faction sunucuları, oyuncuların klanlar oluşturarak veya mevcut klanlara katılarak başkalarıyla ekip oluşturmasına olanak tanıyan rekabetçi PvP sunucularıdır. Faction üyeleri üsler inşa etmek, topraklarını korumak, değerli kaynakları toplamak ve yeni üyeler toplamak için birlikte çalışırlar. Bir sunucudaki gruplar ya müttefik olabilir ve birbirlerine destek sağlayabilir ya da düşman olmayı seçip savaşa girebilir."
+    },
+    "economy": {
+      "formatted": "Ekonomi",
+      "desc": "Ekonomi sunucuları, oyuncuların oyun içi bir para birimi kazanmalarına ve harcamalarına izin veren sanal bir ekonomi sunar. Oyuncular, değerli madenleri kazarak, zorlukları tamamlayarak, diğer oyuncularla ticaret yaparak ve dükkanlarda ürün satarak para kazanabilirler. Çoğu sunucu, en zengin oyuncular arasındaki rekabeti teşvik etmek için skor tablolarında adlarını gösterir."
+    },
+    "creative": {
+      "formatted": "Yaratıcı",
+      "desc": "Yaratıcı mod sunucularında yaratıcı özellikler etkindir. Bu modlar Minecraft'ın hayatta kalma özelliklerini devre dışı bırakarak oyuncuların sınırsız sayıda blokla şehirler ve diğer karmaşık yapılar inşa etmesine olanak tanır. Uçma modu, daha kolay yapı yapmaya izin vermek için yaratıcı modun bir parçası olarak etkinleştirilir. Sunucular ayrıca, yapı yapma sürecini daha da kolaylaştıran dünya düzenleme eklentilerinin kullanımına izin verir."
+    },
+    "mcmmo": {
+      "formatted": "McMMO",
+      "desc": "McMMO, Minecraft'ın normal hayatta kalma oyununa RPG tarzı özellikler ekleyen bir eklentidir. Oyuncuların eylemler yaparak veya eşyaları kullanarak deneyim kazanmalarını ve seviye atlamalarını sağlar. Daha yüksek seviyelere ulaşarak çift eşya düşürme gibi bonuslar kazanabilirler. Madencilik ve ağaç kesiminden okçuluk ve simyaya kadar her türlü yolla tecrübe kazanılabilir."
+    },
+    "skyblock": {
+      "formatted": "SkyBlock",
+      "desc": "SkyBlock sunucuları, orijinal SkyBlock hayatta kalma haritasının çok oyunculu sürümleridir. Her oyuncu sınırlı kaynaklara sahip küçük bir adada doğar ve materyal toplamak, adayı genişletmek ve hayatta kalmak için yaratıcı bir şekilde düşünmelidir. SkyBlock sunucularının çoğunluğu, oyun içi para birimi ile ürün satın alma ve satma, en zengin oyuncuların skor tablolarında gözüktüğü gibi özellikleri içerir."
+    },
+    "pvp": {
+      "formatted": "PvP",
+      "desc": "PvP'nin etkin olduğu Minecraft sunucuları, oyuncuların birbirleriyle savaşmasına ve birbirlerine zarar vermesine izin verir. PvP sunucuları, hayatta kalma ve battle royale tarzı mini oyunlara ve KitPvP'ye kadar çok çeşitli farklı oyun modlarını içerir. Oyuncular sadece çevreye ve düşman çetelere karşı değil, aynı zamanda herhangi bir düşman oyuncuya karşı da hayatta kalmalıdır. Bazı sunucularda tüm harita boyunca PvP etkinleştirilirken, diğerlerinde oyuncuların savaşamayacağı spawn gibi güvenli bölgeler bulunur."
+    },
+    "prison": {
+      "formatted": "Hapishane",
+      "desc": "Hapishane sunucularında herhangi bir vahşi doğa yoktur ve bunun yerine tamamen hapishane temalı bir harita vardır. Oyuncular, temel araçlarla en düşük rütbeden başlar ve rütbe atlamak ve daha güçlü olmak için para kazanmak zorundadır. Önceden belirlenmiş madenlerde madencilik yaparak para kazanılır ve daha değerli kaynaklara sahip yeni madenler, sırayla açılır. Oyuncular PvP arenalarında savaşmak için birbirlerine meydan okuyabilir ve hatta bir üs inşa etmek ve değerli eşyalarını depolamak için hapishanenin içinde araziler satın alabilirler."
+    },
+    "survival": {
+      "formatted": "Hayatta Kalma",
+      "desc": "Hayatta Kalma, oyuncuların vahşi doğayı keşfettiği ve düşmanca bir ortamda hayatta kalmak için kaynakları topladığı varsayılan Minecraft oyun modudur. Bazı hayatta kalma sunucuları normaldir ve normal oynanışı değiştirmezken, diğerleri oyun içi ekonomi ve oyuncuların yönettiği kasabalar gibi ekstra özellikler eklemek için eklentiler ve modlar kullanır. Hayatta kalma sunucularında ayrıca PvP etkin olabilir, bu da oyuncuların moblara ve düşman oyunculara karşı hayatta kalması gerektiği anlamına gelir."
+    },
+    "towny": {
+      "formatted": "Towny",
+      "desc": "Towny sunucuları arazi yönetimi odaklıdır, oyuncular arazilere sahip olabilir ve birlikte çalışarak ve diğer oyuncuları davet ederek bir kasaba oluşturabilir. Yeni oyuncular mevcut bir kasabaya katılabilir veya kendi kasabalarını oluşturabilir ve her kasabanın, sakinleri yönetmekten ve kuralları belirlemekten sorumlu bir belediye başkanı vardır. Towny ayrıca şehir bankaları, oyun içi para birimiyle arazi satın alma ve vergilendirme sistemi gibi ekonomik özellikler de ekler."
+    },
+    "vanilla": {
+      "formatted": "Vanilla",
+      "desc": "Vanilla sunucuları, Minecraft'ın orijinal hayatta kalma oyununu çok oyunculu bir dünyada yeniden yaratmayı amaçlıyor. Saf vanilla sunucuları, doğrudan Minecraft tarafından sağlanan sunucu yazılımını kullanır ve herhangi bir modifikasyonu yoktur. Yarı vanilla sunucular, yalnızca oynanışı önemli ölçüde değiştirmeyen, basit özellikler ekleyen değiştirilmiş sunucu yazılımı kullanabilir."
+    },
+    "minigames": {
+      "formatted": "Mini Oyunlar",
+      "desc": "Mini oyun sunucuları, tümü tek bir sunucudan oynanabilen çeşitli eğlenceli oyun modları sunar. Oyuncular merkezi bir lobiye katılır ve ardından oynamak istedikleri mini oyunu seçerler. Bazıları rekabetçidir ve PvP'yi içerirken, diğer oyunlar ekip çalışması ve işbirliği gerektirir. Popüler mini oyunlar arasında Hide and Seek, Capture the Flag, Spleef ve BedWars bulunur."
+    },
+    "roleplay": {
+      "formatted": "Rol Yapma",
+      "desc": "Rol yapmaya dayalı Minecraft sunucuları, oyuncuları tamamen farklı bir karakterin rolünü üstlenmeye ve kendilerini bir fantezi dünyasına sokmaya teşvik eder. Rol yapma sunucuları genellikle büyük ölçüde değiştirilir ve sunucuya belirli bir tema vermek için özel eklentiler ve önceden oluşturulmuş özel veya oyuncu yapımı haritalar kullanır."
+    },
+    "pixelmon": {
+      "formatted": "Pixelmon",
+      "desc": "Pixelmon, dünya çapında rastgele ortaya çıkan ve oyuncular tarafından ele geçirilebilen yüzlerce farklı Pokemon türü ekleyerek Minecraft içinde Pokemon oynanışını yeniden yaratmayı hedefliyor. Mod ayrıca gerçekçi Pokemon savaş mekaniği, NPC eğitmenleri ile tamamlanmış spor salonları ve tamamen işlevsel bir Pokedex ekler."
+    },
+    "parkour": {
+      "formatted": "Parkur",
+      "desc": "Parkur sunucularının amacı, bir aşamadan diğerine koşarak, zıplayarak ve tırmanarak engelli parkurları tamamlamaktır. Parkurlar farklı temalara sahiptir ve zorluk dereceleri kolaydan son derece zora kadar değişir. Parkur sunucularında genellikle her bölümü tamamlamanın ne kadar sürdüğünü ve en hızlı oyuncuların skor tablolarını gösteren bir zamanlayıcı bulunur."
+    },
+    "pve": {
+      "formatted": "PvE",
+      "desc": "Oyuncuya karşı ortam sunucuları PvP'yi devre dışı bırakmıştır, yani oyuncular savaşamaz ve birbirlerine zarar veremez. Bunun yerine, oyuncular birlikte çalışmalı ve çevreye ve Minecraft'ın birçok mobuna karşı hayatta kalmalıdır."
+    },
+    "skywars": {
+      "formatted": "SkyWars",
+      "desc": "SkyWars, oyuncuların havadaki adalarda tek bir kurtulan kalana kadar birbirleriyle savaştığı bir PvP mini oyunudur. Her oyuncu ayrı bir adada doğar, oyun başladığında oyuncuların diğer adalara geçmeden ve savaşmadan önce savaşa hazırlanmaları gerekir. Her adadaki sandıklar, silahlar ve yiyecekler dahil olmak üzere faydalı öğeler içerir ve genellikle haritanın merkezinde daha da fazla kaynağa sahip daha büyük bir ada bulunur."
+    },
+    "hardcore": {
+      "formatted": "Hardcore",
+      "desc": "Hardcore sunucular, çok fazla kuralı olmayan ve hayatta kalmayı son derece zorlaştırmayı amaçlayan rekabetçi PvP sunucularıdır. Bu sunucular genellikle tahribat yapmaya izin verir ve herhangi bir arazi koruma sistemine sahip değildir. Bazı hardcore sunucular, oyuncular öldükten sonra geçici olarak doğal sağlık yenilenmesini kapatabilir."
+    },
+    "kitpvp": {
+      "formatted": "KitPvP",
+      "desc": "KitPvP, oyuncuların savaşa girmeden ve farklı alanlarda birbirleriyle savaşmadan önce giymek için bir kit seçtiği rekabetçi bir oyun modudur. Her kit, oyunculara farklı dövüş yetenekleri kazandıran silahlar ve zırhlar dahil olmak üzere benzersiz bir dizi öğe, efekt ve özel yetenek verir. Puan toplayarak ve seviye atlayarak yeni ve daha güçlü kitlerin kilidi açılabilir."
+    }
+  }
+}

@@ -1,0 +1,6 @@
+{
+	"name": "kill",
+	"description": "Убивает кого-то.",
+	"opponentInputName": "противник",
+	"opponentInputDescription": "Противник, которого требуется убить."
+}

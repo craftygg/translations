@@ -1,0 +1,8 @@
+{
+	"name": "splashtext",
+	"description": "Пользовательский текст заставки Minecraft",
+	"textChoiceName": "текст",
+	"textChoiceDescription": "Ваш текст",
+	"embedAuthor": "Текст заставки Minecraft",
+	"altText": "Текст заставки Minecraft, созданный Crafty (crafty.gg)"
+}

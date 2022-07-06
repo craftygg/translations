@@ -1,0 +1,24 @@
+{
+  "header": "De meest geavanceerde bot voor Discord.",
+  "subheader": "Crafty is een must-have voor jouw Minecraft community.",
+  "addToDiscord": "Voeg toe aan Discord",
+  "viewCommands": "Bekijk Commando's",
+  "example1": {
+    "header": "Bekijk Spelerinformatie",
+    "subheader": "Met Crafty kun je informatie over een Minecraft account bekijken met een simpel commando"
+  },
+  "example2": {
+    "header": "Bekijk Serverinformatie",
+    "subheader": "Met Crafty ben je ook in staat om Serverinformatie bekijken, zonder ooit Discord te verlaten"
+  },
+  "example3": {
+    "header": "Bekijk Spelerstatistieken",
+    "subheader": "Crafty maakt het mogelijk voor jou om Spelerstatistieken te bekijken van populaire Minecraft servers"
+  },
+  "example4": {
+    "header": "Speel Minecraft Trivia met je vrienden",
+    "subheader": "Crafty brengt al het entertainment naar je Discord server. Speel Minecraft Trivia, bekijk leuke feiten, heb epische Minecraft geïnspireerde gevechten, en nog veel meer!"
+  },
+  "botCommands": "Bot Commando's",
+  "prettyCoolRight": "Krijg toegang tot al deze coole functies door Crafty toe te voegen aan je Discord server"
+}

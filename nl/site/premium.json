@@ -1,0 +1,59 @@
+{
+  "header": "Crafty Premium",
+  "subheader": "Kies een plan dat past bij uw behoeften en financier de ontwikkeling van Crafty tegelijkertijd!",
+  "monthly": "Maandelijks",
+  "annually": "Jaarlijks",
+  "year": "jaar",
+  "month": "maand",
+  "craftyBot": "Crafty Bot",
+  "craftyBotInformation": "Crafty bot is een geavanceerde Discord bot gefocust op Minecraft. Vind meer informatie op",
+  "comingSoon": "Binnenkort beschikbaar",
+  "benefits": "voordelen",
+  "subscribe": "Abonneren",
+  "off": "voordeel",
+  "emerald": {
+    "slug": "Aangepaste slug (/users/custom-slug)",
+    "color": "Aangepaste accentkleur voor jouw Server & Spelerpagina",
+    "access": "Speciale Smaragd toegang op Crafty's Discord",
+    "icon": "icoon op je crafty.gg profiel",
+    "serverTracking": "Toegang tot 1 Minecraft server tracking slot",
+    "dmCommands": "Mogelijkheid om commando's te gebruiken in directe berichten",
+    "textureSearch": "Toegang tot het /texturesearch commando",
+    "notifications": "Ontvang een bericht wanneer een Minecraft gebruikersnaam beschikbaar komt via Discord en/of e-mail (1 gebruikersnaam)"
+  },
+  "ruby": {
+    "customImage": "Mogelijkheid om een aangepaste afbeelding toe te voegen op uw Server pagina",
+    "serverDescription": "Server description character limit bump to 1,500 characters (instead of 500)",
+    "moreTags": "Voeg tot 9 tags toe aan je server (in plaats van 5)",
+    "access": "Speciale Smaragd toegang op Crafty's Discord",
+    "icon": "icoon op je crafty.gg profiel",
+    "removeCooldowns": "Verwijder alle commando cooldowns",
+    "serverTracking": "Toegang tot 2 Minecraft server tracking slots",
+    "notifications": "Ontvang een bericht wanneer een Minecraft gebruikersnaam beschikbaar komt via Discord en/of e-mail (3 gebruikersnamen)"
+  },
+  "diamond": {
+    "slug": "Aangepaste Server slug (/servers/custom-slug)",
+    "earlyAccess": "Vroegtijdige toegang tot onze functies, waar u feedback op kunt geven",
+    "access": "Speciale Diamant toegang op Crafty's Discord",
+    "icon": "icoon op je crafty.gg profiel",
+    "removeUpvote": "Verwijder alle upvote vereisten en cooldowns voor alle gebruikers in een Discord server",
+    "serverTracking": "Toegang tot 3 Minecraft server tracking slots",
+    "notifications": "Ontvang een bericht wanneer een Minecraft gebruikersnaam beschikbaar komt via Discord en/of e-mail (8 gebruikersnamen)"
+  },
+  "futureFeatures": {
+    "header": "Door je te abonneren, steun je de ontwikkeling van Crafty",
+    "subheader": "Hier is een lijst van functies die we in de toekomst willen introduceren",
+    "playerStatistics": "Spelerstatistieken",
+    "playerStatisticsInformation": "Ontvang Minecraft speler statistieken over meerdere populaire Minecraft servers, allemaal-in-één. Deze tool is al in ontwikkeling en wordt gebruikt door Crafty bot",
+    "richTextEditor": "Opgemaakte tekst bewerker",
+    "richTextEditorInformation": "Op dit moment kunt u alleen Markdown gebruiken voor de beschrijving van uw server, we zijn van plan om dit te wijzigen met een feature rich text editor om je te helpen met het maken van de beste beschrijving voor je server",
+    "serverAnalytics": "Server Analytics",
+    "serverAnalyticsInformation": "Analytics voor servereigenaren voor betere inzichten",
+    "skinEditor": "Skin Bewerker",
+    "skinEditorInformation": "Laat een rich skin bewerker zien om ongehinderd je volgende beste skin te maken",
+    "notifications": "Notificaties",
+    "notificationsInformation": "Ontvang nuttige meldingen (als u zich aanmeldt) wanneer uw server offline gaat, wanneer een Minecraft gebruikersnaam beschikbaar is, wanneer er een nieuwe Minecraft versie of artikel uit is, en meer!",
+    "yourSuggestion": "Uw suggestie",
+    "yourSuggestionInformation": "Uw idee zou hier kunnen zijn. Word lid van onze discord en laat ons weten wat je graag wilt zien of vul het formulier in de feedbackpagina in"
+  }
+}

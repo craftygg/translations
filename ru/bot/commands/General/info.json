@@ -1,0 +1,13 @@
+{
+	"name": "info",
+	"description": "Предоставляет информацию о боте, ссылку для его добавления и ссылку для присоединения к серверу поддержки.",
+	"descriptionContent1": "Самый продвинутый бот по Minecraft для Discord.",
+	"descriptionContent2": "Crafty - необходимый бот для вашего сообщества по Minecraft.",
+	"uptime": "Аптайм",
+	"serverUsage": "Использование сервера",
+	"host": "• **Хост**: {{uptime.host}}",
+	"process": "• **Процесс**: {{uptime.process}}",
+	"cpuLoad": "• **CPU Load**: {{usage.cpuLoad}}",
+	"memoryUsage": "• **Heap**: {{usage.ramUsed}}MB (Total: {{usage.ramTotal}}MB)",
+	"info": "Info"
+}

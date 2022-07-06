@@ -1,0 +1,10 @@
+{
+  "header": "Haz una prueba para ver si el 'votifier' de tu servidor está funcionando rellenando la información a continuación",
+  "desch1": "¿Qué es esto?",
+  "descp1": "El 'votifier tester' te permite ver si el plugin Votifier ha sido instalado correctamente en tu servidor de Minecraft.",
+  "desch2": "¿Qué es Votifier?",
+  "descp2": "Votifier es un plugin de Minecraft de votación que puedes instalar para ser notificado cada vez que un jugador vota tu servidor en una lista de servidor como Crafty.",
+  "desch3": "Pero ¿por qué?",
+  "descp3": "Votifier es usado por dueños/administradores de servidorеs para recompensar a los jugadores que votan sus servidores de Minecraft. Votar ayuda al servidor a tener más visibilidad en las listas de servidores.",
+  "test": "Probar"
+}

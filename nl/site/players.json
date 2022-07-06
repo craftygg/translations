@@ -1,0 +1,16 @@
+{
+  "find": "Vind Minecraft Spelers",
+  "players": "Spelers",
+  "mcplayers": "Minecraft Spelers",
+  "uuidShort": "UUID Kort",
+  "uuidLong": "UUID Lang",
+  "status": "Geclaimed",
+  "claim": "Claimen",
+  "unclaimed": "Niet toegewezen",
+  "legacy": "Nalatenschap",
+  "usernameHistory": "Gebruikersnaam Geschiedenis",
+  "socialMedia": "Sociale Media",
+  "firstUsername": "Eerste Gebruikersnaam",
+  "searchPlayer": "Zoek voor een specifieke speler",
+  "search": "Search for players by name or UUID"
+}

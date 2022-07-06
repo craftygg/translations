@@ -1,0 +1,21 @@
+{
+  "more": "Daha Fazla Araç",
+  "crafting": {
+    "title": "Eşya Yapılışları"
+  },
+  "votifier": {
+    "title": "Votifier Test Edici",
+    "h2": "Aşağıdaki bilgileri doldurarak sunucundaki Votifier'ın çalışıp çalışmadığını test edin",
+    "whatQ": "Bu araç nedir?",
+    "whatA": "Votifier Test Edici, Votifier eklentisinin Minecraft sunucunuza doğru şekilde kurulup kurulmadığını tespit etmenize yardımcı olur.",
+    "whatVotifierQ": "Votifier Nedir?",
+    "whatVotifierA": " Votifier, Crafty gibi bir sunucu listesinde, bir oyuncu sunucunuz için oy verdiğinde bildirim almak için yükleyebileceğiniz bir Minecraft sunucusu oylama eklentisidir.",
+    "whyQ": "Ama, neden?",
+    "whyA": " Votifier, sunucu sahipleri/yöneticileri tarafından Minecraft sunucularına oy veren oyuncuları ödüllendirmek için kullanılır. Votifier, sunucunun sunucu listelerinde daha iyi bir sıralama elde etmesine yardımcı olur."
+  },
+  "ping": {
+    "title": "Sunucu Bilgisi",
+    "h1": "Minecraft Sunucu Bilgisi Al",
+    "paragraph": "Sunucu durumu, şu anda kaç oyuncunun çevrimiçi olduğu, sunucu sürümü ve sunucunun konumu gibi sunucu hakkında temel bilgileri almak için gerekli alanları doldurun"
+  }
+}

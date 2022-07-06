@@ -1,0 +1,84 @@
+{
+  "description": "Description du serveur",
+  "generalInfo": "Informations générales",
+  "additionalInfo": " Informations supplémentaire",
+  "about": "À propos",
+  "serverStatus": "Statut du serveur",
+  "serverDetails": "Détails du serveur",
+  "status": "statut",
+  "views": "Vues",
+  "upvotes": "Upvotes",
+  "find": "Trouvez votre serveur préféré",
+  "mcservers": "Serveurs Minecraft",
+  "servers": "Serveurs",
+  "searchServer": "Rechercher un serveur spécifique",
+  "tags": "Catégories",
+  "sortBy": "Trier par",
+  "orderBy": "Ordre par",
+  "platform": "Plateforme",
+  "version": "Version",
+  "language": "Langue",
+  "showOffline": "Afficher les serveurs hors ligne",
+  "playersOnline": "Joueurs en ligne",
+  "upvotesMonthly": "Upvotes (mensuel)",
+  "upvotesLifetime": "Upvotes (depuis toujours)",
+  "viewsMonthly": "Vues (mensuel)",
+  "viewsLifetime": "Vues (depuis toujours)",
+  "uptime": "Disponibilité",
+  "recentlyListed": "Ajouté récemment",
+  "primaryLanguage": "Langue (primaire)",
+  "copyip": "Copier l'IP",
+  "clickTag": "Cliquez pour voir les serveurs avec cette catégorie",
+  "ipCopiedTop": "Adresse IP copiée",
+  "ipCopiedBot": "copié dans le presse-papier !",
+  "lastPing": "Dernier ping",
+  "website": "Site web",
+  "listedBy": "Ajouté par",
+  "listedOn": "Ajouté le",
+  "lastEdit": "Dernière modification",
+  "store": "Boutique",
+  "topUpvoters": "Top 10 des upvotants de { Month }",
+  "noUpvotes": "Personne n'a encore voté",
+  "country": "Pays",
+  "upvoters": "Upvotants du serveur",
+  "votedXTimes": " A voté { X } fois",
+  "faq": "Questions fréquemment posées",
+  "faqSubheader": "Basé sur les questions que se posent les joueurs",
+  "statistics": "Statistiques du serveur",
+  "viewingStats": "Statistiques en cours affiché sur { Type }",
+  "questions": {
+    "1": {
+      "q": "Comment rejoindre { Server } ?",
+      "a1": "Jouez sur { Server } avec Minecraft Java Édition:",
+      "a2": "Copier l'IP du serveur",
+      "a3": "de cette page.",
+      "a4": "Ouvrir Minecraft.",
+      "a5": "Cliquez sur \"Multijoueur\" puis sur \"Nouveau serveur\"",
+      "a6": "Collez l'adresse IP du serveur que vous venez de copier dans le champ \"Adresse du serveur\".",
+      "a7": "Cliquez sur \"Terminé\".",
+      "a8": "Sélectionnez { Server } dans la liste et cliquez sur \"Rejoindre\"."
+    },
+    "2": {
+      "q": "Quelle est l'adresse IP du serveur { Server }?",
+      "a": "L'adresse IP de { Server } est "
+    },
+    "3": {
+      "q": "Est-ce que { Server } a un serveur Minecraft: Bedrock / Pocket Edition (PE) ?",
+      "a1": "Oui, { Server } est un Minecraft: Bedrock ou était précédemment connu sous le nom d'un serveur Pocket Edition.",
+      "a2": "Non. Vous pouvez rejoindre { Server } qu'en utilisant Minecraft Java Edition.",
+      "a3": "Oui ! { Server } supporte à la fois Minecraft : Bedrock Edition et Minecraft : Java Edition"
+    },
+    "4": {
+      "q": "Est-ce que { Server } est un serveur Minecraft gratuit ?",
+      "a": "Oui, { Server } est un serveur Minecraft gratuit."
+    },
+    "5": {
+      "q": "J'ai un problème ou j'ai besoin d'aide pour quelque chose. Où ou qui dois-je contacter à propos de { Server } ?",
+      "a1": "Nous vous suggérons de rejoindre le serveur Discord de { Server } ici :"
+    },
+    "6": {
+      "q": "Puis-je jouer sur { Server } avec le TLauncher ?",
+      "a": "Non, { Server } est un serveur Minecraft Premium."
+    }
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "mcaccounts": "Minecraft Hesapları",
+  "listedServers": "Listelenen Sunucular",
+  "slug": "Bağlantı",
+  "billing": "Fatura",
+  "manage": "Yönet",
+  "general": "Genel",
+  "email": "E-posta",
+  "mainAccount": "Ana Minecraft Hesabı",
+  "developers": "Geliştiriciler",
+  "updateEmail": "E-posta adresinizi güncellemek için buraya tıklayın",
+  "hits": "İstekler",
+  "key": "Anahtar",
+  "noKey": "Bir geliştirici hesabınız yok. Daha fazla bilgi için {{link}} adresini ziyaret edin"
+}

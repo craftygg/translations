@@ -1,0 +1,84 @@
+{
+  "description": "サーバー説明",
+  "generalInfo": "全般情報",
+  "additionalInfo": " 追加情報",
+  "about": "概要",
+  "serverStatus": "サーバーステータス",
+  "serverDetails": "サーバーの詳細",
+  "status": "ステータス",
+  "views": "閲覧数",
+  "upvotes": "投票数",
+  "find": "お気に入りのサーバーを見つける",
+  "mcservers": "マインクラフトサーバー",
+  "servers": "サーバー",
+  "searchServer": "特定のサーバーを検索",
+  "tags": "タグ",
+  "sortBy": "絞り込み",
+  "orderBy": "並べ替え",
+  "platform": "プラットフォーム",
+  "version": "バージョン",
+  "language": "言語",
+  "showOffline": "オフラインのサーバーを表示",
+  "playersOnline": "オンラインプレイヤー数",
+  "upvotesMonthly": "投票数（今月）",
+  "upvotesLifetime": "投票数（合計）",
+  "viewsMonthly": "閲覧数（今月）",
+  "viewsLifetime": "閲覧数（合計）",
+  "uptime": "稼働率",
+  "recentlyListed": "最近追加",
+  "primaryLanguage": "メイン言語",
+  "copyip": "IPをコピー",
+  "clickTag": "クリックでこのタグが付いているサーバーを見る",
+  "ipCopiedTop": "IPをコピーしました",
+  "ipCopiedBot": "がコピーされました！",
+  "lastPing": "最終自動　情報更新",
+  "website": "ウェブサイト",
+  "listedBy": "追加した　ユーザー",
+  "listedOn": "追加した　日にち",
+  "lastEdit": "最終編集",
+  "store": "ストア",
+  "topUpvoters": "{ Month }の投票したユーザー トップ10",
+  "noUpvotes": "まだ誰も投票していません",
+  "country": "国",
+  "upvoters": "投票したユーザー一覧",
+  "votedXTimes": " 投票回数{ X }回",
+  "faq": "よくある質問",
+  "faqSubheader": "プレイヤーの質問内容に基づいています",
+  "statistics": "サーバーの統計情報",
+  "viewingStats": "{ Type }の統計情報を表示中",
+  "questions": {
+    "1": {
+      "q": "{ Server }に参加するには？",
+      "a1": "マインクラフトJava版で{ Server }をプレイする場合",
+      "a2": "サーバーIPをコピー",
+      "a3": "します。",
+      "a4": "マインクラフトを開きます。",
+      "a5": "「マルチプレイヤー」をクリックし、「サーバー追加」をクリックします。",
+      "a6": "「サーバーアドレス」欄に、コピーしたサーバーIPを貼り付けます。",
+      "a7": "「完了」をクリックします。",
+      "a8": "一覧の中から{ Server }を選択し、「サーバーに接続」をクリックします。"
+    },
+    "2": {
+      "q": "{ Server }のサーバーアドレスは？",
+      "a": "{ Server }のIPアドレス: "
+    },
+    "3": {
+      "q": "{ Server }の統合版（BE版）/スマホ版（PE版）用サーバーはありますか？",
+      "a1": "はい。{ Server }は統合版（前「PE」版）サーバーです。",
+      "a2": "いいえ。{ Server }にはマインクラフトJava版でしか参加できません。",
+      "a3": "はい！{ Server }は総合版、Java版の両方をサポートしています。"
+    },
+    "4": {
+      "q": "{ Server }は無料でプレイできますか？",
+      "a": "はい。{ Server }は無料でプレイすることができます。"
+    },
+    "5": {
+      "q": "{ Server }に関して問題があったり、助けが必要な場合はどこに連絡をすればよいですか？",
+      "a1": "{ Server }のDiscordサーバーをおすすめします。招待リンク:"
+    },
+    "6": {
+      "q": "{ Server }はTLauncherでプレイできますか？",
+      "a": "いいえ。{ Server }は正規に購入されたアカウントでないと参加できません。"
+    }
+  }
+}

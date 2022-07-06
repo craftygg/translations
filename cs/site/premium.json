@@ -1,0 +1,59 @@
+{
+  "header": "Crafty Premium",
+  "subheader": "Vyberte si plán, který vyhovuje Vašim potřebám a zároveň podpořte vývoj Craftyho!",
+  "monthly": "Měsíční",
+  "annually": "Roční",
+  "year": "rok",
+  "month": "měsíc",
+  "craftyBot": "Bot Crafty",
+  "craftyBotInformation": "Crafty je pokročilý Discord bot zaměřen na Minecraft. Pro více informací navštivte",
+  "comingSoon": "Připravujeme",
+  "benefits": "výhody",
+  "subscribe": "Odebírat",
+  "off": "vypnuto",
+  "emerald": {
+    "slug": "Vlastní slug (/users/vlastní-slug)",
+    "color": "Vlastní barva pro stránky Vašeho serveru a hráče",
+    "access": "Speciální Emeraldový přístup na Craftyho Discordu",
+    "icon": "ikona na Vašem crafty.gg profilu",
+    "serverTracking": "Přístup k 1 sledovacímu slotů Minecraft serveru",
+    "dmCommands": "Možnost používat příkazy v přímých zprávách",
+    "textureSearch": "Přístup k příkazu /texturesearch",
+    "notifications": "Dostanete upozornění Discordem nebo e-mailem, když se Minecraft uživatelské jméno stane dostupné (1 uživatelské jméno)"
+  },
+  "ruby": {
+    "customImage": "Možnost přidat si vlastní obrázek na stránku svého serveru",
+    "serverDescription": "Růst limitu znaků na 1 500 pro popis serveru (z 500)",
+    "moreTags": "Přidejte až 9 tagů na svůj server (místo 5)",
+    "access": "Speciální Ruby přístup na Craftyho Discordu",
+    "icon": "ikona na Vašem crafty.gg profilu",
+    "removeCooldowns": "Odstraní všechny zpomalení příkazů",
+    "serverTracking": "Přístup ke 2 sledovacím slotům pro Minecraft servery",
+    "notifications": "Dostanete upozornění Discordem nebo e-mailem, když se Minecraft uživatelské jméno stane dostupné (3 uživatelská jména)"
+  },
+  "diamond": {
+    "slug": "Vlastní slug serveru (/server/vlastní-slug)",
+    "earlyAccess": "Předběžný přístup k našim službám, na které můžete poskytnout zpětnou vazbu",
+    "access": "Speciální Diamond přístup na Crafyho Discord",
+    "icon": "icon on your crafty.gg profile",
+    "removeUpvote": "Remove all upvote requirements and cooldowns for all users in a Discord server",
+    "serverTracking": "Access to 3 Minecraft server tracking slots",
+    "notifications": "Receive notification when Minecraft username becomes available via Discord and/or e-mail (8 username)"
+  },
+  "futureFeatures": {
+    "header": "By subscribing, you support the development of Crafty",
+    "subheader": "Here's a list of features we plan to introduce in the future",
+    "playerStatistics": "Player Statistics",
+    "playerStatisticsInformation": "Get Minecraft player statistics across multiple popular Minecraft servers, all-in-one. This tool is already under development and is used by Crafty bot",
+    "richTextEditor": "Rich Text Editor",
+    "richTextEditorInformation": "Right now you can only use Markdown for your server's description, we plan to change this with a feature rich text editor to help you create the best description for your server",
+    "serverAnalytics": "Server Analytics",
+    "serverAnalyticsInformation": "Analytics for server owners for better insights",
+    "skinEditor": "Skin Editor",
+    "skinEditorInformation": "Feature rich skin editor for you to create your next best skin freely and with ease",
+    "notifications": "Notifications",
+    "notificationsInformation": "Receive useful notifications (if you opt in) when your server goes offline, when a Minecraft username is available, when a new Minecraft version or article is out, and more!",
+    "yourSuggestion": "Your Suggestion",
+    "yourSuggestionInformation": "Your idea could be here. Join our discord and let us know what you'd like to see or fill out the form in the feedback page"
+  }
+}

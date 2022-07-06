@@ -1,0 +1,59 @@
+{
+  "header": "Crafty Premium",
+  "subheader": "Choisissez un plan qui correspond à vos besoins et financez le développement de Crafty en même temps!",
+  "monthly": "Mensuel",
+  "annually": "Annuellement",
+  "year": "an",
+  "month": "mois",
+  "craftyBot": "Crafty Bot",
+  "craftyBotInformation": "Crafty bot est un bot Discord avancé focalisé sur Minecraft. Plus d'informations sur",
+  "comingSoon": "À venir",
+  "benefits": "avantages",
+  "subscribe": "S'abonner",
+  "off": "de réduction",
+  "emerald": {
+    "slug": "Custom slug (/users/custom-slug)",
+    "color": "Couleur d'accentuation personnalisée pour vos pages Serveur et Joueur",
+    "access": "Un accès spécial Emerald sur le Discord de Crafty",
+    "icon": "icône sur votre profil crafty.gg",
+    "serverTracking": "Accès à 1 emplacement de suivi de serveur Minecraft",
+    "dmCommands": "Posibilité d'utiliser des commandes en messages privés",
+    "textureSearch": "Accès à la commande /texturesearch",
+    "notifications": "Recevez une notification lorsque qu'un pseudo Minecraft est disponible via Discord et/ou par mail (1 pseudo)"
+  },
+  "ruby": {
+    "customImage": "Possibilité d'ajouter une image personnalisée sur la page de votre serveur",
+    "serverDescription": "Passez la limite de caractères de la description de vos serveurs à 1 500 caractères (au lieu de 500)",
+    "moreTags": "Ajoutez jusqu'à 9 catégories sur votre serveur (au lieu de 5)",
+    "access": "Un accès spécial Ruby sur le Discord de Crafty",
+    "icon": "icône sur votre profil crafty.gg",
+    "removeCooldowns": "Supprimez tous les temps d'attente des commandes",
+    "serverTracking": "Accès à 2 emplacements de suivi de serveur Minecraft",
+    "notifications": "Recevoir une notification lorsque qu'un pseudo Minecraft est disponible via Discord et/ou par mail (3 pseudos)"
+  },
+  "diamond": {
+    "slug": "Custom Server slug (/servers/custom-slug)",
+    "earlyAccess": "Accès anticipé à nos fonctionnalités, ce qui vous permet de faire part de vos avis",
+    "access": "Un accès spécial Diamond sur le Discord de Crafty",
+    "icon": "icône sur votre profil crafty.gg",
+    "removeUpvote": "Supprimez toutes les exigences et les temps d'attente des upvotes pour tous les utilisateurs sur un serveur Discord",
+    "serverTracking": "Accès à 3 emplacements de suivi de serveur Minecraft",
+    "notifications": "Recevoir une notification lorsque qu'un pseudo Minecraft est disponible via Discord et/ou par mail (8 pseudos)"
+  },
+  "futureFeatures": {
+    "header": "En vous abonnant, vous soutenez le développement de Crafty",
+    "subheader": "Voici une liste des fonctionnalités que nous prévoyons d'introduire à l'avenir",
+    "playerStatistics": "Statistiques de joueurs",
+    "playerStatisticsInformation": "Obtenez les statistiques des joueurs sur plusieurs serveurs Minecraft populaires, tout en un. Cet outil est déjà en cours de développement et est utilisé par Crafty bot",
+    "richTextEditor": "Éditeur de texte avancé",
+    "richTextEditorInformation": "Pour l'instant, vous ne pouvez utiliser que les balises Markdown pour la description de votre serveur. Nous prévoyons de changer ça avec un éditeur de texte avancé pour vous aider à créer la meilleure description pour votre serveur",
+    "serverAnalytics": "Analyse de serveurs",
+    "serverAnalyticsInformation": "Analyse pour les propriétaires de serveurs pour avoir de meilleures informations",
+    "skinEditor": "Éditeur de skins",
+    "skinEditorInformation": "Un éditeur de skin avancé qui vous permet de créer votre prochain skin librement et en toute simplicité",
+    "notifications": "Notifications",
+    "notificationsInformation": "Recevez des notifications utiles (si vous acceptez) quand votre serveur est hors ligne, quand un pseudo Minecraft est disponible, quand une nouvelle version de Minecraft ou un nouvel article est publié, et plus encore !",
+    "yourSuggestion": "Vos suggestions",
+    "yourSuggestionInformation": "Votre idée pourrait être ici. Rejoignez notre discord et faites-nous part de ce que vous aimeriez voir ou remplissez le formulaire de la page feedback"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "find": "Encontre Jogadores de Minecraft",
+  "players": "Jogadores",
+  "mcplayers": "Jogadores de Minecraft",
+  "uuidShort": "UUID Curto",
+  "uuidLong": "UUID Longo",
+  "status": "Reivindicado",
+  "claim": "Reivindicar",
+  "unclaimed": "Não-Reivindicado",
+  "legacy": "Legado",
+  "usernameHistory": "Histórico de Nomes",
+  "socialMedia": "Redes Sociais",
+  "firstUsername": "Primeiro Nome",
+  "searchPlayer": "Procure por um jogador específico",
+  "search": "Pesquise jogadores por nome ou UUID"
+}

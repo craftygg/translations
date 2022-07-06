@@ -1,0 +1,12 @@
+{
+	"name": "उपलब्धि",
+	"description": "Crafty उपलब्धि जनरेटर",
+	"itemChoiceName": "वस्तु",
+	"itemChoiceDescription": "Minecraft वस्तु चुनें",
+	"titleChoiceName": "शीर्षक",
+	"titleChoiceDescription": "उपलब्धि शीर्षक डालें",
+	"descriptionChoiceName": "विवरण",
+	"descriptionChoiceDescription": "उपलब्धि विवरण डालें",
+	"embedAuthor": "Crafty उपलब्धि जनरेटर",
+	"altText": "Crafty (crafty.gg) द्वारा बनायीं गयी Minecraft उपलब्धि"
+}

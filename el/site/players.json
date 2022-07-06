@@ -1,0 +1,16 @@
+{
+  "find": "Βρείτε Παίκτες Minecraft",
+  "players": "Παίκτες",
+  "mcplayers": "Παίκτες Minecraft",
+  "uuidShort": "UUID Σύντομο",
+  "uuidLong": "UUID Μεγάλο",
+  "status": "Διεκδικημένο",
+  "claim": "Διεκδίκηση",
+  "unclaimed": "Αδιεκδίκητο",
+  "legacy": "Παλαιού τύπου (legacy)",
+  "usernameHistory": "Ιστορικό Ονομάτων Χρήστη",
+  "socialMedia": "Κοινωνικά Δίκτυα",
+  "firstUsername": "Πρώτο Όνομα Χρήστη",
+  "searchPlayer": "Αναζήτηση παίκτη",
+  "search": "Search for players by name or UUID"
+}

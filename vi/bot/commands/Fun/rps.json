@@ -1,0 +1,13 @@
+{
+	"name": "kéo_búa_bao",
+	"description": "Kéo, búa hay bao?",
+	"choiceInputName": "lựa_chọn",
+	"choiceInputDescription": "Lựa chọn của bạn",
+	"choiceRock": "búa",
+	"choicePaper": "bao",
+	"choiceShears": "kéo",
+	"result": "Tôi chọn {{botChoice}}, bạn chọn {{choice}}.",
+	"tie": "\nHòa!",
+	"win": "\nBạn thắng",
+	"lose": "\nTôi thắng!"
+}

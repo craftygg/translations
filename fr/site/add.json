@@ -1,0 +1,52 @@
+{
+  "server": {
+    "success": "Succès !",
+    "backToHome": "Retour à la page d'accueil",
+    "viewServer": "Visionner serveur",
+    "failed": "Échec",
+    "failed1": "Quelque chose a mal tourné! L'erreur a été copiée dans votre presse-papiers, rejoignez notre discorde en cliquant ici et collez l'erreur dans #support et nous vous aiderons!",
+    "tryAgain": "Réessayez",
+    "stepProgress": "Étape { Step } sur 3",
+    "header": "Lister un nouveau serveur Minecraft sur Crafty",
+    "verification": "Vérification",
+    "tellMore": "Dites-nous en plus sur { Name }",
+    "serverName": "Nom du serveur",
+    "serverIp": "Adresse du serveur",
+    "serverPort": "Port du serveur",
+    "type": "Type/Plateforme",
+    "ping": "PING POUR CONTINUER",
+    "verificationMethod": "Méthode de vérification",
+    "motdInstructions": "Dans votre MOTD de serveur, veuillez inclure le code suivant pour vérifier que vous possédez ou gérez le serveur que vous essayez d'ajouter",
+    "txtInstructions": "Dans vos paramètres DNS, créez un enregistrement TXT dans { Code } et dans le contenu, ajoutez le code suivant",
+    "note": "Veuillez noter que la mise à jour du DNS prend un peu de temps, alors continuez à vérifier toutes les quelques secondes.",
+    "verified": "Vérifié",
+    "tags": "Mots-clés",
+    "languages": "Langue(s)",
+    "maxLanguages": "Max 3 Langues",
+    "version": "Version",
+    "short": "Brève description",
+    "long": "Description longue",
+    "charsRemaining": "caractères restants",
+    "descLimit": "(max { Number } caractères)",
+    "website": "Site internet",
+    "previous": "Précédent",
+    "next": "Suivant",
+    "complete": "Complet",
+    "errors": {
+      "loggedIn": "Vous devez être connecté pour répertorier votre serveur sur Crafty. Connectez-vous dans le coin supérieur droit du site.",
+      "offline": "Votre serveur est hors ligne. Assurez-vous qu'il est en ligne avant de le soumettre à nouveau."
+    }
+  },
+  "player": {
+    "claim": "Revendiquer ce compte",
+    "enterName": " Veuillez enter le pseudo du compte que vous souhaitez revendiquer",
+    "username": "Pseudo",
+    "step1": "Connectez-vous à notre serveur Minecraft de vérification pour générer votre code",
+    "step2": "Prend en charge la version Minecraft Java Edition 1.8 - 1.17",
+    "step3": "En rejoignant le serveur Minecraft, vous recevrez un message avec votre code.",
+    "step4": "Veuillez saisir le code à quatre chiffres ci-dessous pour continuer.",
+    "4digit": "Code à 4 chiffres",
+    "restart": "redémarrer",
+    "verify": "Vérifier"
+  }
+}

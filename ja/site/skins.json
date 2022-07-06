@@ -1,0 +1,17 @@
+{
+  "find": "スキンを見つける",
+  "skins": "スキン",
+  "mcskins": "マインクラフトスキン",
+  "apply": "スキンを適応",
+  "searchSkin": "特定のユーザーのスキンを検索",
+  "useSkin": "このスキンを使用",
+  "download": "このスキンをダウンロード",
+  "capture": "今見ている状態のスキンの写真を撮る",
+  "runnin": "走り",
+  "flying": "飛行",
+  "rotating": "回転",
+  "static": "静止",
+  "walking": "歩き",
+  "type": "タイプ",
+  "firstSeen": "追加された時間"
+}

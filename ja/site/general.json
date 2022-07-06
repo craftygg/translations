@@ -1,0 +1,18 @@
+{
+  "view": "詳しく見る",
+  "lifetimeUpvotes": "今までの合計投票数:",
+  "upvotesThisMonth": "今月の投票数:",
+  "lifetimeViews": "今までの合計閲覧数:",
+  "viewsThisMonth": "今月の閲覧数:",
+  "upvote": "投票",
+  "report": "報告",
+  "location": "場所",
+  "adv": "詳細検索",
+  "advOptions": "詳細オプション",
+  "search": "検索",
+  "highlow": "高～低",
+  "lowhigh": "低～高",
+  "sortBy": "絞り込み",
+  "orderBy": "並び替え",
+  "copy": "コピー"
+}

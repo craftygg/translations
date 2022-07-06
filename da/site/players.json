@@ -1,0 +1,16 @@
+{
+  "find": "Find Minecraft Players",
+  "players": "Players",
+  "mcplayers": "Minecraft Players",
+  "uuidShort": "UUID Short",
+  "uuidLong": "UUID Long",
+  "status": "Claimed",
+  "claim": "Claim",
+  "unclaimed": "Unclaimed",
+  "legacy": "Legacy",
+  "usernameHistory": "Username History",
+  "socialMedia": "Social Media",
+  "firstUsername": "First Username",
+  "searchPlayer": "Search for a specific player",
+  "search": "Search for players by name or UUID"
+}

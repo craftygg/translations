@@ -1,0 +1,16 @@
+{
+  "find": "Tìm người chơi Minecraft",
+  "players": "Người chơi",
+  "mcplayers": "Người chơi Minecraft",
+  "uuidShort": "UUID ngắn",
+  "uuidLong": "UUID dài",
+  "status": "Đã được nhận",
+  "claim": "Nhận",
+  "unclaimed": "Chưa được nhận",
+  "legacy": "Cũ",
+  "usernameHistory": "Lịch sử tên",
+  "socialMedia": "Mạng xã hội",
+  "firstUsername": "Tên đầu tiên",
+  "searchPlayer": "Tìm kiếm người chơi bất kì",
+  "search": "Tìm kiếm người chơi qua tên hoặc UUID"
+}

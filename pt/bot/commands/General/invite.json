@@ -1,0 +1,5 @@
+{
+	"name": "convite",
+	"description": "Verifique como você pode me convidar.",
+	"content": "Você pode me convidar a qualquer momento abrindo meu cartão de usuário. Você também pode usar o seguinte link [link]({{inviteLink}})"
+}

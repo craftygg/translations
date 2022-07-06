@@ -1,0 +1,9 @@
+{
+	"name": "vote",
+	"description": "Support the bot by voting for it.",
+	"upvotingDescription": "Upvoting is a free way to show your support for Crafty. It helps increase Craftys ranking on Discord bot listing websites. Below are a few ways you can upvote Crafty.\n",
+	"voteLocking": "Vote locking",
+	"voteLockingDescription": "While using Crafty you may notice that some commands require you to upvote Crafty for you to continue. This lock is in place to slowdown traffic on highly used commands. If you're unable to upvote or would like to skip it, you can use /vote skip. Skipping the upvote will remove the votelock on commands.",
+	"upvoteRewards": "(Upvote rewards)",
+	"embedAuthor": "Upvote Crafty"
+}

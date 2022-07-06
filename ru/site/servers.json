@@ -1,0 +1,84 @@
+{
+  "description": "Описание сервера",
+  "generalInfo": "Основная информация",
+  "additionalInfo": " Дополнительная информация",
+  "about": "Сведения",
+  "serverStatus": "Статус сервера",
+  "serverDetails": "Детальнее о сервере",
+  "status": "статус",
+  "views": "Просмотры",
+  "upvotes": "Голоса \"за\"",
+  "find": "Найдите ваш любимый сервер",
+  "mcservers": "Сервера Minecraft",
+  "servers": "Серверы",
+  "searchServer": "Поиск конкретного сервера",
+  "tags": "Теги",
+  "sortBy": "Сортировать по",
+  "orderBy": "Упорядочить по",
+  "platform": "Платформа",
+  "version": "Версия",
+  "language": "Язык",
+  "showOffline": "Показать сервера, которые оффлайн",
+  "playersOnline": "Онлайн",
+  "upvotesMonthly": "Кол-во голосов (за месяц)",
+  "upvotesLifetime": "Кол-во голосов (за все время)",
+  "viewsMonthly": "Просмотров (за месяц)",
+  "viewsLifetime": "Просмотров (за все время)",
+  "uptime": "Аптайм",
+  "recentlyListed": "Недавно добавленные в список",
+  "primaryLanguage": "Язык (основной)",
+  "copyip": "Скопировать IP",
+  "clickTag": "Нажмите для просмотра серверов с этим тегом",
+  "ipCopiedTop": "IP скопирован",
+  "ipCopiedBot": "скопирован в буфер обмена!",
+  "lastPing": "Последний пинг",
+  "website": "Сайт",
+  "listedBy": "Размещен",
+  "listedOn": "Добавлен",
+  "lastEdit": "Последняя правка",
+  "store": "Магазин",
+  "topUpvoters": "Топ 10 голосующих за { Month }",
+  "noUpvotes": "Пока никто не проголосовал",
+  "country": "Страна",
+  "upvoters": "Проголосовавшие \"за\" сервер",
+  "votedXTimes": " Проголосовал { X } раз",
+  "faq": "Часто задаваемые вопросы",
+  "faqSubheader": "Основаны на вопросах игроков",
+  "statistics": "Статистика сервера",
+  "viewingStats": "Просмотр статистики по { Type }",
+  "questions": {
+    "1": {
+      "q": "Как мне присоединиться к { Server }?",
+      "a1": "Играйте на { Server } с помощью Minecraft Java Edition:",
+      "a2": "Копировать IP сервера",
+      "a3": "с этой страницы.",
+      "a4": "Откройте Minecraft.",
+      "a5": "Нажмите на \"Multiplayer\", затем на \"Add Server\"",
+      "a6": "Вставьте IP сервера, который вы скопировали, в поле \"IP Addres\".",
+      "a7": "Нажмите \"Done\".",
+      "a8": "Выберите { Server } из списка и нажмите \"Join Server\"."
+    },
+    "2": {
+      "q": "Какой IP у { Server }?",
+      "a": "IP-адрес { Server }: "
+    },
+    "3": {
+      "q": "Есть ли у { Server } сервер Minecraft: Bedrock / Pocket Edition (PE)?",
+      "a1": "Да, { Server } - сервер Minecraft: Bedrock или ранее известный как Pocket Edition.",
+      "a2": "Нет. Вы можете присоединиться к { Server } только с помощью Minecraft Java Edition.",
+      "a3": "Да! { Server } поддерживает Minecraft: Bedrock Edition и Minecraft: Java Edition"
+    },
+    "4": {
+      "q": "На { Server } можно играть бесплатно?",
+      "a": "Да, на { Server } можно играть бесплатно."
+    },
+    "5": {
+      "q": "У меня возникла проблема и мне нужна помощь. Где или с кем можно связаться по поводу { Server }?",
+      "a1": "Мы рекомендуем вам присоединиться к Discord серверу { Server } здесь:"
+    },
+    "6": {
+      "q": "Могу ли я играть на { Server } с помощью TLauncher?",
+      "a": "Нет, { Server } — это премиум сервер Minecraft."
+    }
+  }
+}

@@ -1,0 +1,84 @@
+{
+  "description": "Sunucu Açıklaması",
+  "generalInfo": "Genel Bilgi",
+  "additionalInfo": " Ek Bilgi",
+  "about": "Hakkında",
+  "serverStatus": "Sunucu durumu",
+  "serverDetails": "Sunucu detayları",
+  "status": "durum",
+  "views": "Görüntülenme",
+  "upvotes": "Oylar",
+  "find": "Favori sunucunu bul",
+  "mcservers": "Minecraft Sunucuları",
+  "servers": "Sunucular",
+  "searchServer": "Belirli bir sunucu ara",
+  "tags": "Etiketler",
+  "sortBy": "Sırala",
+  "orderBy": "Sıralama Öğesi",
+  "platform": "Platform",
+  "version": "Sürüm",
+  "language": "Dil",
+  "showOffline": "Çevrimdışı sunucuları göster",
+  "playersOnline": "Çevrimiçi Oyuncular",
+  "upvotesMonthly": "Oylar (aylık)",
+  "upvotesLifetime": "Oylar (ömür boyu)",
+  "viewsMonthly": "Görüntülenme (aylık)",
+  "viewsLifetime": "Görüntülenme (ömür boyu)",
+  "uptime": "Çalışma Süresi",
+  "recentlyListed": "En Son Listelenen",
+  "primaryLanguage": "Dil (Birincil)",
+  "copyip": "IP'yi Kopyala",
+  "clickTag": "Bu etikete sahip sunucuları görüntülemek için tıklayın",
+  "ipCopiedTop": "IP Kopyalandı",
+  "ipCopiedBot": "panoya kopyalandı!",
+  "lastPing": "Son ping",
+  "website": "Website",
+  "listedBy": "Listeleyen",
+  "listedOn": "Listelendi",
+  "lastEdit": "Son düzenleme",
+  "store": "Mağaza",
+  "topUpvoters": "{ Month } Ayının En Çok Oy Verenleri",
+  "noUpvotes": "Henüz hiç kimse oy vermedi",
+  "country": "Ülke",
+  "upvoters": "Sunucu Oy Verenleri",
+  "votedXTimes": " { X } kez oy verildi",
+  "faq": "Sıkça Sorulan Sorular",
+  "faqSubheader": "Oyuncuların sorduğu soruları baz alındı",
+  "statistics": "Sunucu İstatistikleri",
+  "viewingStats": "Şu anda { Type } ile ilgili istatistikler görüntüleniyor",
+  "questions": {
+    "1": {
+      "q": "{ Server } sunucusuna nasıl girerim?",
+      "a1": "Minecraft Java Sürümü ile { Server } Sunucusunda Oyna:",
+      "a2": "Sunucunun IP Adresini Kopyala",
+      "a3": "bu sayfadan.",
+      "a4": "Minecraft'ı aç.",
+      "a5": "\"Çok Oyunculu\" seçeneğini seç ardından \"Sunucu Ekle\" seçeneğine tıkla",
+      "a6": "Kopyaladığın Sunucu IP Adresini \"Sunucu Adresi\" bölümüne yapıştır.",
+      "a7": "\"Tamam\" butonuna tıkla.",
+      "a8": "Sunucu listesinden { Server } sunucusunu seç ve \"Sunucuya Katıl\" butonuna tıkla."
+    },
+    "2": {
+      "q": "{ Server } sunucusunun IP adresi ne?",
+      "a": "{ Server } sunucusunun IP adresi "
+    },
+    "3": {
+      "q": "{ Server } sunucusunun Minecraft: Bedrock / Pocket Edition (PE) sunucusu var mı?",
+      "a1": "Evet, { Server } sunucusu Minecraft: Bedrock sunucusu veya önceden Pocket Edition sunucusu olarak biliniyordu.",
+      "a2": "Hayır. { Server } sunucusuna yalnızca Minecraft Java sürümü ile girebilirsin.",
+      "a3": "Evet! { Server } sunucusu hem Minecraft: Bedrock sürümünü hem de Minecraft: Java sürümünü destekliyor"
+    },
+    "4": {
+      "q": "{ Server } sunucusu oynaması ücretsiz bir sunucu mu?",
+      "a": "Evet, { Server } sunucusu oynaması ücretsiz bir Minecraft sunucusu."
+    },
+    "5": {
+      "q": "Bir sorunum var ya da bir konuda yardım gerekiyor. { Server } sunucusu hakkında nereden veya kiminle iletişim kurabilirim?",
+      "a1": "{ Server } sunucusunun Discord sunucusuna katılmanı öneriyoruz."
+    },
+    "6": {
+      "q": "{ Server } sunucusunda TLauncher ile oynayabilir miyim?",
+      "a": "Hayır, { Server } sunucusu Premium Minecraft Sunucusudur."
+    }
+  }
+}

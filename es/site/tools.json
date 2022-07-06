@@ -1,0 +1,21 @@
+{
+  "more": "Más herramientas",
+  "crafting": {
+    "title": "Recetas de Fabricación"
+  },
+  "votifier": {
+    "title": "Probador de Votifier",
+    "h2": "Prueba si el votifier de tu servidor está funcionando tan solo llenando la información debajo",
+    "whatQ": "¿Qué es esta herramienta?",
+    "whatA": "El Probador de Votifier te ayuda a determinar si el plugin del Votifier se ha instalado correctamente en tu servidor de Minecraft.",
+    "whatVotifierQ": "¿Qué es Votifier?",
+    "whatVotifierA": " Votifier es un plugin para servidores de Minecraft que puedes instalar para ser notificado/a cada vez que un jugador vota por tu servidor en una lista de servidores, como Crafty.",
+    "whyQ": "Pero, por qué?",
+    "whyA": " Votifier es usado por dueños y administradores de servidores para recompensar jugadores que votan por su servidor de Minecraft. Votar ayuda al servidor a obtener una mejor clasificación en las listas de servidores."
+  },
+  "ping": {
+    "title": "Chequear Servidor",
+    "h1": "Obtener Información sobre Servidor de Minecraft",
+    "paragraph": "Completa los campos requeridos para obtener información básica sobre un servidor de Minecraft así como su estado, cuántos jugadores están actualmente en línea, versión del juego y ubicación del servidor"
+  }
+}

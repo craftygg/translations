@@ -1,0 +1,52 @@
+{
+  "server": {
+    "success": "¡Conseguido!",
+    "backToHome": "Volver al inicio",
+    "viewServer": "Ver servidor",
+    "failed": "Error",
+    "failed1": "¡Algo salió mal! El error ha sido copiado en tu portapapeles. ¡Únete a nuestro servidor de Discord haciendo clic aquí, pega el error en #support y te ayudaremos!",
+    "tryAgain": "Inténtalo de nuevo",
+    "stepProgress": "Paso { Step } de 3",
+    "header": "Listar un nuevo servidor de Minecraft en Crafty",
+    "verification": "Verificación",
+    "tellMore": "Cuéntanos más acerca de { Name }",
+    "serverName": "Nombre del servidor",
+    "serverIp": "IP del servidor",
+    "serverPort": "Puerto del servidor",
+    "type": "Tipo/plataforma",
+    "ping": "PING PARA PROCEDER",
+    "verificationMethod": "Método de verificación",
+    "motdInstructions": "En el MOTD de tu servidor, por favor, incluye el siguiente código para verificar que posees o administras el servidor que estás intentando añadir",
+    "txtInstructions": "En tu configuración DNS, crea un registro TXT a { Code } y en el contenido añade el siguiente código",
+    "note": " Por favor, ten en cuenta que el DNS tarda un poco en actualizarse, así que ve comprobándolo cada pocos segundos",
+    "verified": "Verificado",
+    "tags": "Etiquetas",
+    "languages": "Idioma(s)",
+    "maxLanguages": "Máximo 3 idiomas",
+    "version": "Versión",
+    "short": "Descripción corta",
+    "long": "Descripción larga",
+    "charsRemaining": "caracteres restantes",
+    "descLimit": "(máximo { Number } caracteres)",
+    "website": "Sitio web",
+    "previous": "Anterior",
+    "next": "Siguiente",
+    "complete": "Completado",
+    "errors": {
+      "loggedIn": "Debes iniciar sesión para listar tu servidor en Crafty. Inicia sesión en la esquina superior derecha del sitio.",
+      "offline": "Tu servidor está desconectado. Asegúrate de que esté conectado antes de enviarlo de nuevo."
+    }
+  },
+  "player": {
+    "claim": "Reclamar cuenta",
+    "enterName": " Por favor, introduce el nombre de la cuenta que deseas reclamar",
+    "username": "Nombre de usuario",
+    "step1": "Por favor, inicia sesión en nuestro servidor de Minecraft para generar tu código",
+    "step2": "Soporta Minecraft: Java Edition 1.8-1.17",
+    "step3": "Al unirte al servidor de Minecraft verás un mensaje que contiene tu código.",
+    "step4": "Por favor, escribe el código de cuatro dígitos en el cuadro de abajo para continuar.",
+    "4digit": "Código de 6 dígitos",
+    "restart": "reiniciar",
+    "verify": "Verificar"
+  }
+}

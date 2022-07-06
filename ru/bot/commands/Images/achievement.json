@@ -1,0 +1,12 @@
+{
+	"name": "achievement",
+	"description": "Генератор достижений",
+	"itemChoiceName": "предмет",
+	"itemChoiceDescription": "Выберите предмет Minecraft",
+	"titleChoiceName": "название",
+	"titleChoiceDescription": "Задайте название достижения",
+	"descriptionChoiceName": "описание",
+	"descriptionChoiceDescription": "Задайте описание достижения",
+	"embedAuthor": "Генератор достижений",
+	"altText": "Достижение Minecraft, созданное Crafty (crafty.gg)"
+}

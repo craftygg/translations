@@ -1,0 +1,7 @@
+{
+  "header": "Obtenir des informations sur le serveur Minecraft",
+  "subheader": "Remplissez les champs requis pour obtenir des informations de base sur un serveur Minecraft, telles que leur statut, le nombre de joueurs actuellement en ligne, la version en cours d'exécution et l'emplacement du serveur.",
+  "enter": "Entrez l'adresse IP de votre serveur",
+  "get": "Obtenir des informations",
+  "pinger": "Server Pinger"
+}

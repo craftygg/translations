@@ -1,0 +1,13 @@
+{
+	"name": "rps",
+	"description": "Камень, бумага или ножницы?",
+	"choiceInputName": "выбор",
+	"choiceInputDescription": "Ваш выбор",
+	"choiceRock": "камень",
+	"choicePaper": "бумага",
+	"choiceShears": "ножницы",
+	"result": "Я выбрал {{botChoice}}, вы выбрали {{choice}}.",
+	"tie": "\nНичья!",
+	"win": "\nВы победили",
+	"lose": "\nЯ победил!"
+}

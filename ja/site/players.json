@@ -1,0 +1,16 @@
+{
+  "find": "プレイヤーを見つける",
+  "players": "プレイヤー",
+  "mcplayers": "マインクラフトプレイヤー",
+  "uuidShort": "ショートUUID",
+  "uuidLong": "ロングUUID",
+  "status": "リンク済み",
+  "claim": "リンク",
+  "unclaimed": "未リンク",
+  "legacy": "未移行",
+  "usernameHistory": "ユーザー名の変更履歴",
+  "socialMedia": "ソーシャルメディア",
+  "firstUsername": "最初のユーザー名",
+  "searchPlayer": "特定のプレイヤーを検索する",
+  "search": "名前またはUUIDでプレイヤーを検索"
+}

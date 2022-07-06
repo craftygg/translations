@@ -1,0 +1,59 @@
+{
+  "header": "Crafty Premium",
+  "subheader": "Wähle einen Plan, der deinen Bedürfnissen entspricht und finanziere Crafty´s Entwicklung gleichzeitig!",
+  "monthly": "Monatlich",
+  "annually": "Jährlich",
+  "year": "Jahr",
+  "month": "Monat",
+  "craftyBot": "Crafty Bot",
+  "craftyBotInformation": "Crafty Bot ist ein fortgeschrittener Minecraft fokussierter Discord Bot. Finde mehr Informationen unter",
+  "comingSoon": "In Kürze verfügbar",
+  "benefits": "Vorteile",
+  "subscribe": "Abonnieren",
+  "off": "weniger",
+  "emerald": {
+    "slug": "Eigener Slug (/users/custom-slug)",
+    "color": "Benutzerdefinierte Akzentfarbe für deine Server & Spielerseite",
+    "access": "Besonderer Smaragdzugriff auf Crafty's Discord",
+    "icon": "Symbol auf deinem crafty.gg Profil",
+    "serverTracking": "Zugriff auf 1 Minecraft Server Tracking Slot",
+    "dmCommands": "Fähigkeit Befehle in Direktnachrichten zu verwenden",
+    "textureSearch": "Zugriff auf den /texturesearch Befehl",
+    "notifications": "Erhalte eine Benachrichtigung über Discord und/oder e-mail, wenn Minecraft Benutzername verfügbar wird (1 Benutzername)"
+  },
+  "ruby": {
+    "customImage": "Möglichkeit ein eigenes Bild auf deiner Serverseite hinzuzufügen",
+    "serverDescription": "Zeichenlimit für Serverbeschreibung auf 1.500 Zeichen (statt 500) gesetzt",
+    "moreTags": "Füge bis zu 9 Tags auf deinem Server hinzu (statt 5)",
+    "access": "Spezieller Rubinzugriff auf Crafty´s Discord",
+    "icon": "Symbol auf deinem crafty.gg Profil",
+    "removeCooldowns": "Entferne alle Befehlsabklingzeiten",
+    "serverTracking": "Zugriff auf 2 Minecraft Server Tracking Slots",
+    "notifications": "Erhalte eine Benachrichtigung über Discord und/oder e-mail, wenn Minecraft Benutzername verfügbar wird (3 Benutzernamen)"
+  },
+  "diamond": {
+    "slug": "Eigener Server Slug (/servers/custom-slug)",
+    "earlyAccess": "Früher Zugang zu unseren Funktionen, wo du Feedback geben kannst",
+    "access": "Spezieller Diamantzugriff auf Crafty's Discord",
+    "icon": "Symbol auf crafty.gg Profil",
+    "removeUpvote": "Entferne alle Upvote Anforderungen und Cooldowns für jeden Benutzer in einem Discord Server",
+    "serverTracking": "Zugriff auf 3 Minecraft Server Tracking Slots",
+    "notifications": "Erhalte eine Benachrichtigung über Discord und/oder e-mail, wenn Minecraft Benutzername verfügbar wird (8 Benutzernamen)"
+  },
+  "futureFeatures": {
+    "header": "Durch Abonnieren unterstützt du die Entwicklung von Crafty",
+    "subheader": "Hier ist eine Liste von Funktionen, die wir in der Zukunft hinzufügen wollen",
+    "playerStatistics": "Spielerstatistiken",
+    "playerStatisticsInformation": "Erhalte Minecraft Spielerstatistiken über mehrere beliebte Minecraft Server, alles in einem. Dieses Tool ist bereits in Entwicklung und wird vom Crafty Bot verwendet",
+    "richTextEditor": "Rich Text Bearbeiter",
+    "richTextEditorInformation": "Im Moment kannst du nur Markdown für die Beschreibung deines Servers verwenden, wir planen, dies mit einem Feature Rich Text Editor zu ändern, um dir zu helfen, die beste Beschreibung für deinen Server zu erstellen",
+    "serverAnalytics": "Server Analyse",
+    "serverAnalyticsInformation": "Analyse für Serverbesitzer für bessere Einblicke",
+    "skinEditor": "Skin Bearbeiter",
+    "skinEditorInformation": "Feature Rich Skin Editor damit Sie Ihren nächsten besten Skin frei und bequem erstellen können",
+    "notifications": "Benachrichtigungen",
+    "notificationsInformation": "Erhalte nützliche Benachrichtigungen (wenn du dich einloggst) wenn dein Server offline geht, wenn ein Minecraft Benutzername verfügbar ist, wenn eine neue Minecraft Version oder ein Artikel herauskommt ist und mehr!",
+    "yourSuggestion": "Dein Vorschlag",
+    "yourSuggestionInformation": "Deine Idee könnte hier sein. Trete unserem Discord bei und lasse uns wissen, was du sehen möchten oder fülle das Formular in der Feedback Seite aus"
+  }
+}

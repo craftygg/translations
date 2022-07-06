@@ -1,0 +1,5 @@
+{
+	"name": "अपडेट",
+	"description": "Crafty के नवीनतम अपडेट दिखता है।",
+	"embedAuthor": "Crafty {{updateVersion}} अपडेट"
+}

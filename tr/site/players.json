@@ -1,0 +1,16 @@
+{
+  "find": "Minecraft Oyuncularını Bul",
+  "players": "Oyuncular",
+  "mcplayers": "Minecraft Oyuncuları",
+  "uuidShort": "Kısa UUID",
+  "uuidLong": "Uzun UUID",
+  "status": "Alındı",
+  "claim": "Al",
+  "unclaimed": "Alınmadı",
+  "legacy": "Eski",
+  "usernameHistory": "Kullanıcı Adı Geçmişi",
+  "socialMedia": "Sosyal Medya",
+  "firstUsername": "İlk Kullanıcı Adı",
+  "searchPlayer": "Belirli bir oyuncu ara",
+  "search": "Oyuncuları isimleriyle veya UUID adresleriyle ara"
+}

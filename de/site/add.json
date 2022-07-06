@@ -1,0 +1,52 @@
+{
+  "server": {
+    "success": "Erfolg!",
+    "backToHome": "Zurück zur Startseite",
+    "viewServer": "Betrachte Server",
+    "failed": "Fehlgeschlagen",
+    "failed1": "Etwas ist schiefgelaufen! Der Fehler wurde in deine Zwischenablage kopiert, betrete unseren Discord indem du hier klickst und füge den Fehler in #support ein und wir helfen dir!",
+    "tryAgain": "Erneut versuchen",
+    "stepProgress": "Schritt { Step } von 3",
+    "header": "Einen neuen Minecraft-Server bei Crafty auflisten",
+    "verification": "Verifizierung",
+    "tellMore": "Erzählen Sie uns mehr über { Name }",
+    "serverName": "Server Name",
+    "serverIp": "Server IP",
+    "serverPort": "Server Port",
+    "type": "Typ/Plattform",
+    "ping": "PING UM WEITERZUMACHEN",
+    "verificationMethod": "Verifizierungsmethode",
+    "motdInstructions": "Bitte lege bei deinem Server MOTD den folgenden Code bei, um zu überprüfen, ob du den Server besitzt oder verwaltest, den du hinzufügen möchtest",
+    "txtInstructions": "Erstelle in deinen DNS Einstellungen einen TXT Eintrag zu { Code } und füge den folgenden Code hinzu",
+    "note": " Bitte beachte, dass DNS etwas Zeit braucht, um zu aktualisieren, also überprüfe es alle paar Sekunden",
+    "verified": "Verifiziert",
+    "tags": "Tags",
+    "languages": "Sprache(n)",
+    "maxLanguages": "Max. 3 Sprachen",
+    "version": "Version",
+    "short": "Kurze Beschreibung",
+    "long": "Lange Beschreibung",
+    "charsRemaining": "zeichen übrig",
+    "descLimit": "(max. { Number } Zeichen)",
+    "website": "Webseite",
+    "previous": "Vorherige",
+    "next": "Nächste",
+    "complete": "Vollständig",
+    "errors": {
+      "loggedIn": "Du musst eingeloggt sein, um deinen Server bei Crafty aufzulisten. Melde dich in der oberen rechten Ecke der Seite an.",
+      "offline": "Dein Server ist offline. Stelle sicher dass er online ist, bevor du ihn erneut sendest."
+    }
+  },
+  "player": {
+    "claim": "Account beanspruchen",
+    "enterName": " Bitte gib den Namen des Accounts den du beanspruchen möchtest ein",
+    "username": "Benutzername",
+    "step1": "Bitte betrete unseren Minecraft Server, um deinen Code zu generieren",
+    "step2": "Unterstützt die Minecraft Java Edition 1.8 - 1.17",
+    "step3": "Beim Betreten des Minecraft-Servers wirst du eine Nachricht mit deinem Code sehen.",
+    "step4": "Bitte gib den vierstelligen Code in das untere Feld ein, um fortzufahren.",
+    "4digit": "4-stelliger Code",
+    "restart": "neustarten",
+    "verify": "Verifizieren"
+  }
+}

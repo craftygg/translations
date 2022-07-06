@@ -1,0 +1,12 @@
+{
+	"name": "başarım",
+	"description": "Crafty İlerleme Oluşturucu",
+	"itemChoiceName": "eşya",
+	"itemChoiceDescription": "Minecraft eşyası seç",
+	"titleChoiceName": "başlık",
+	"titleChoiceDescription": "Başarım başlığını belirle",
+	"descriptionChoiceName": "açıklama",
+	"descriptionChoiceDescription": "Başarım açıklamasını belirle",
+	"embedAuthor": "Crafty İlerleme Oluşturucu",
+	"altText": "Crafty (crafty.gg) tarafından oluşturulan Minecraft Başarımı"
+}

@@ -1,0 +1,84 @@
+{
+  "description": "सर्वर विवरण",
+  "generalInfo": "सामान्य जानकारी",
+  "additionalInfo": " अतिरिक्त जानकारी",
+  "about": "बारे में",
+  "serverStatus": "सर्वर स्थिति",
+  "serverDetails": "सर्वर जानकारी",
+  "status": "स्थिति",
+  "views": "व्यूज",
+  "upvotes": "अपवोट",
+  "find": "अपना पसंदीदा सर्वर खोजें",
+  "mcservers": "Minecraft Servers",
+  "servers": "Server",
+  "searchServer": "एक विशिष्ट खिलाड़ी की खोज करें",
+  "tags": "टैग्स",
+  "sortBy": "छांटें",
+  "orderBy": "क्रमानुसार करें",
+  "platform": "प्लेटफार्म",
+  "version": "संस्करण",
+  "language": "भाषा",
+  "showOffline": "ऑफलाइन सर्वर दिखाओ",
+  "playersOnline": "खिलाड़ी ऑनलाइन",
+  "upvotesMonthly": "अपवोट (मासिक)",
+  "upvotesLifetime": "अपवोट (जीवनकाल)",
+  "viewsMonthly": "व्यूज (मासिक)",
+  "viewsLifetime": "व्यूज (जीवनकाल)",
+  "uptime": "अपटाइम",
+  "recentlyListed": "हाल ही में सूचीबद्ध किये गए",
+  "primaryLanguage": "भाषा (प्राथमिक)",
+  "copyip": "IP कॉपी करें",
+  "clickTag": "इस टैग के सर्वर देखने के लिए क्लिक करें",
+  "ipCopiedTop": "IP कॉपी हो गयी",
+  "ipCopiedBot": "क्लिपबोर्ड में कॉपी हो गयी!",
+  "lastPing": "अंतिम पिंग",
+  "website": "वेबसाइट",
+  "listedBy": "द्वारा सूचीबद्ध",
+  "listedOn": "पर सूचीबद्ध",
+  "lastEdit": "अंतिम सम्पादन",
+  "store": "स्टोर",
+  "topUpvoters": "{ Month } के शीर्ष 10 अपवोटर्स",
+  "noUpvotes": "अब तक किसी ने अपवोट नहीं किया",
+  "country": "देश",
+  "upvoters": "सर्वर के अपवोटर्स",
+  "votedXTimes": " वोट दिया { X } बार",
+  "faq": "अक्सर पूछे जाने वाले प्रश्न",
+  "faqSubheader": "खिलाड़ी क्या सवाल करते हैं इसके आधार पर",
+  "statistics": "सर्वर आंकड़े",
+  "viewingStats": "वर्तमान में { Type } के बारे में आंकड़े देख रहे है",
+  "questions": {
+    "1": {
+      "q": "{ Server } से में कैसे जुड़ू?",
+      "a1": "{ Server } पर Minecraft Java Edition के साथ खेलें:",
+      "a2": "सर्वर IP कॉपी करें",
+      "a3": "इस पेज से।",
+      "a4": "Minecraft चलाएं।",
+      "a5": "\"Multiplayer\" पर क्लिक करें और फिर \"Add Server\" पर क्लिक करें",
+      "a6": "सर्वर की IP जो आपने कॉपी की है उसे \"IP Address\" के स्थान में पेस्ट करें।",
+      "a7": "\"Done\" दबाएं",
+      "a8": "सूची से { Server } चुने और \"Join Server\" दबाएं।"
+    },
+    "2": {
+      "q": "{ Server } के लिए सर्वर IP क्या है?",
+      "a": "{ Server } का IP एड्रेस है "
+    },
+    "3": {
+      "q": "क्या { Server } का एक Minecraft: Bedrock / Pocket Edition (PE) सर्वर है?",
+      "a1": "हाँ, { Server } एक Minecraft: Bedrock या पहले Pocket Edition Server के रूप में जाना जाता था, है।",
+      "a2": "नहीं। आप { Server } में सिर्फ Minecraft Java Edition का उपयोग करके ही शामिल हो सकते हैं।",
+      "a3": "हाँ ! { Server } Minecraft: Bedrock Edition और Minecraft: Java Edition दोनों को सपोर्ट करता है"
+    },
+    "4": {
+      "q": "क्या { Server } खेलने के लिए मुफ्त Minecraft सर्वर है?",
+      "a": "हाँ, { Server } खेलने के लिए मुफ्त Minecraft सर्वर है।"
+    },
+    "5": {
+      "q": "मुझे कोई समस्या है या मुझे किसी चीज़ के लिए मदद चाहिए। मैं { Server } के बारे में कहाँ और किस से संपर्क करूँ?",
+      "a1": "हम आपको सलाह देते है की आप { Server } के Discord सर्वर से जुड़ें:"
+    },
+    "6": {
+      "q": "क्या में { Server } को TLauncher से खेल सकता हूँ?",
+      "a": "नहीं, { Server } एक Premium Minecraft Server है।"
+    }
+  }
+}

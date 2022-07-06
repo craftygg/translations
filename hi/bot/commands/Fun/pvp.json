@@ -1,0 +1,9 @@
+{
+	"name": "pvp",
+	"description": "Discord में एक मजेदार Minecraft PvP युद्ध शुरू करें।",
+	"participant1InputName": "प्रतिभागी1",
+	"participant1InputDescription": "Pvp युद्ध में प्रथम प्रतिभागी।",
+	"participant2InputName": "प्रतिभागी2",
+	"participant2InputDescription": "Pvp युद्ध में द्वितीय प्रतिभागी।",
+	"embedDescription": "⚔️ **{{user1}}** VS **{{user2}}**\n\n{{scenario_text}}\n\n🏆 विजेता: **{{winner}}**"
+}

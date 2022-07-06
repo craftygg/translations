@@ -1,0 +1,16 @@
+{
+  "find": "Minecraft प्लेयर ढूंढें",
+  "players": "प्लेयर",
+  "mcplayers": "Minecraft प्लेयर",
+  "uuidShort": "संक्षिप्त UUID",
+  "uuidLong": "दीर्घ UUID",
+  "status": "दावा किया",
+  "claim": "दावा करें",
+  "unclaimed": "अनक्लेम्ड",
+  "legacy": "विरासत",
+  "usernameHistory": "यूजरनेम हिस्ट्री",
+  "socialMedia": "सोशल मीडिया",
+  "firstUsername": "पहला यूजरनेम",
+  "searchPlayer": "एक विशिष्ट खिलाड़ी की खोज करें",
+  "search": "प्लेयर्स को UUID या नाम द्वारा खोजें"
+}

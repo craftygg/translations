@@ -1,0 +1,100 @@
+{
+  "details": {
+    "adventure": {
+      "formatted": "Aventura",
+      "desc": "Servidores de aventura estendem na Aventura de Minecraft, onde o jogador tem interações limitadas com um mundo predefinido que é geralmente personalizado ou criado por jogadores. O objetivo é geralmente sobreviver criando itens e matando monstros enquanto lida com o desafio de não ser capaz de destruir ou colocar blocos."
+    },
+    "anarchy": {
+      "formatted": "Anarquia",
+      "desc": "Os servidores de anarquia geralmente tendem a ser sem lei com proteção mínima de terra e sem regras. Alguns servidores anárquicos permitem trapaçar, como clientes que modificam como o Minecraft funciona para dar uma vantagem injusta ou uma vantagem justa numa configuração anárquica onde todo jogador também está trapaceando. O objetivo comum é sobreviver e defender de outros jogadores e monstros, coletar recursos, construir bases seguras e ocultas, tudo dentro de um ambiente imperdoável mas não restritivo onde o sofrimento é desenfreado."
+    },
+    "battleroyale": {
+      "formatted": "Battle Royale",
+      "desc": "Servidores de Battle Royale são para jogadores que desejam testar suas habilidades de Minecraft contra outros em uma arena de batalha fechada que encolhe progressivamente ao longo do tempo onde os recursos podem ser encontrados para um único jogador. Servidores de Battle Royale são muitas vezes inspirados por outros jogos de vídeo bem conhecidos, como Fortnite, PUBG e Call of Duty."
+    },
+    "bedwars": {
+      "formatted": "BedWars",
+      "desc": "Bedwars é um mini modo de jogo estratégico popular (jogador contra jogadores) onde o objetivo é ser o último jogador (ou equipe) vivo(a) defendendo e eliminando os oponentes. O modo de jogo do Bedwars envolve uma cama que deve ser protegida, caso for destruída, você não renasce mais. As guerras de bedwars geralmente se instalam em ilhas no céu, onde o maior perigo é não cair no vazio sem fim."
+    },
+    "hungergames": {
+      "formatted": "Hunger Games",
+      "desc": "Hunger Games é um mini modo de jogo popular de sobrevivência JxJ (jogador vs jogador) onde o objetivo é sobreviver usando itens encontrados em todo o mapa e se defender de outros jogadores para ser o último jogador em pé."
+    },
+    "survivalgames": {
+      "formatted": "Survival Games",
+      "desc": "Survival Games é um mini modo de jogo popular de sobrevivência JxJ (jogador contra jogadores) onde o objetivo é sobreviver usando itens encontrados em todo o mapa e se defender de outros jogadores para ser o último jogador em pé."
+    },
+    "factions": {
+      "formatted": "Facção",
+      "desc": "Servidores de facção são servidores PvP competitivos que permitem que os jogadores juntem outros, criando ou unindo os clãs existentes. Os membros da Facção trabalham juntos para construir bases, proteger suas terras, coletar recursos valiosos, bem como recrutar novos membros. Fações em um servidor podem se tornar aliados e fornecer apoio uns aos outros ou escolher ser inimigos e entrar em batalha."
+    },
+    "economy": {
+      "formatted": "Economia",
+      "desc": "Servidores de economia operam uma economia virtual que permite aos jogadores ganhar e gastar uma moeda no jogo. Jogadores podem ganhar dinheiro minerando recursos valiosos, completando desafios, negociando com outros jogadores e vendendo itens nas lojas. A maioria dos servidores também mostra classificações para incentivar a competição entre os jogadores mais ricos."
+    },
+    "creative": {
+      "formatted": "Criativo",
+      "desc": "Servidores do modo criativo possuem recursos criativos habilitados. Esses modos desativam os recursos de sobrevivência do Minecraft, permitindo que os jogadores construam cidades e outras estruturas complexas com uma quantidade ilimitada de blocos. O modo de voô está ativado como parte do modo criativo para facilitar a construção. Os servidores também permitem o uso de plugins de edição de mundos, o que torna o processo de construção ainda mais fácil."
+    },
+    "mcmmo": {
+      "formatted": "McMMO",
+      "desc": "McMMO é um plugin que adiciona recursos estilo RPG ao jogo normal de sobrevivência do Minecraft. Ele permite aos jogadores ganhar experiência e subir de nível fazendo ações ou usando ferramentas. Ao atingir níveis mais elevados, eles podem ganhar bônus como quedas de itens em dobro. A experiência pode ser adquirida de todas as formas, desde a mineração até à arqueação e alquimia."
+    },
+    "skyblock": {
+      "formatted": "SkyBlock",
+      "desc": "Servidores de Skyblock são versões multijogador do mapa original de sobrevivência do SkyBlock. Cada jogador nasce em uma pequena ilha flutuante com recursos limitados e deve pensar criativamente em coletar materiais, expandir a ilha e sobreviver. A maioria dos servidores do Skyblock incluem características econômicas, como a habilidade de comprar e vender itens com moeda no jogo e placares de classificação dos jogadores mais ricos."
+    },
+    "pvp": {
+      "formatted": "PvP",
+      "desc": "Servidores de Minecraft com PvP habilitado permitem que jogadores lutem e causem danos uns aos outros. Servidores PvP incluem uma enorme variedade de modos de jogo diferentes da sobrevivência vanilla e facções para combater minigames de estilo Battle Royale e KitPvP. Os jogadores devem sobreviver não só contra o ambiente e as criaturas hostis, mas também contra quaisquer jogadores inimigos. Alguns servidores possuem o PvP ativado em todo o mapa, enquanto outros possuem zonas seguras, como spawn onde os jogadores não podem lutar."
+    },
+    "prison": {
+      "formatted": "Prisão",
+      "desc": "Os servidores de prisão não são selvagens e, em vez disso, são definidos inteiramente dentro de um mapa temático da prisão. Jogadores começam no nível mais baixo com ferramentas básicas e devem ganhar dinheiro para classificar e se tornar mais poderoso. O dinheiro é ganho pela mineração de recursos em minas pré-designadas, e novas minas com recursos mais valiosos são desbloqueadas ao classificar. Jogadores podem desafiar uns aos outros para batalhar em arenas PvP e até mesmo comprar lotes de terra dentro da prisão para construir uma base e armazenar itens de valor."
+    },
+    "survival": {
+      "formatted": "Sobrevivência",
+      "desc": "Sobrevivência é o modo de jogo padrão do Minecraft, onde os jogadores exploram a natureza selvagem e coletam recursos para sobreviver em um ambiente hostil. Alguns servidores de sobrevivência são vanilla e não mudam nada do jogo normal, enquanto outros usam plugins e mods para adicionar recursos extras como uma economia no jogo e cidades de jogadores. Os servidores de sobrevivência também podem ter o PvP ativado, o que significa que os jogadores precisam sobreviver contra criaturas hostis e jogadores inimigos."
+    },
+    "towny": {
+      "formatted": "Cidade",
+      "desc": "Servidores de cidade são orientados para a gestão da terra, jogadores podem possuir terrenos próprios e criar uma cidade, trabalhando juntos e convidando outros jogadores. Novos jogadores podem entrar em uma cidade existente ou criar uma própria e cada cidade tem um presidente da câmara encarregado de gerir os residentes e de estabelecer as regras. O modo cidade também adiciona recursos econômicos, incluindo bancos urbanos, a capacidade de comprar terra com moeda dentro do jogo e um sistema fiscal."
+    },
+    "vanilla": {
+      "formatted": "Padrão",
+      "desc": "Servidores Vanilla buscam recriar o jogo original de sobrevivência do Minecraft em um mundo multijogador. Os servidores vanilla usam o software do servidor fornecido diretamente pelo Minecraft e não têm modificações. Servidores Semi-vanilla usam software de servidor modificado e podem ter um pequeno número de plugins, mas apenas para adicionar recursos simples que não mudam significativamente a gameplay."
+    },
+    "minigames": {
+      "formatted": "Minigames",
+      "desc": "Os servidores de Minigames oferecem uma variedade de modos de jogo divertidos que podem ser jogados a partir de um único servidor. Jogadores entram em um lobby central e depois selecionam o minigame individual que querem jogar. Alguns são competitivos e envolvem PvP, enquanto outros jogos requerem trabalho em equipe e cooperação. Minigames populares incluem: Esconde-Esconde, Capture a Bandeira, Spleef e Bedwars."
+    },
+    "roleplay": {
+      "formatted": "Roleplay",
+      "desc": "Servidores de Minecraft baseados em roleplay encorajam jogadores a assumirem o papel de um personagem completamente diferente e se imergem em um mundo de fantasia. Os servidores de Roleplay muitas vezes são fortemente modificados e usam plugins personalizados e mapas pré-construídos para dar ao servidor um tema específico."
+    },
+    "pixelmon": {
+      "formatted": "Pixelmon",
+      "desc": "Servidor de Pixelmon pretendem recriar uma gameplay de Pokémon dentro do Minecraft, adicionando centenas de espécies diferentes de Pokémons que aparecem aleatoriamente em todo o mundo e que podem ser capturadas por jogadores. O mod também acrescenta mecânica de batalha realista com Pokémons, ginásios completos com treinadores de NPC e uma Pokédex totalmente funcional."
+    },
+    "parkour": {
+      "formatted": "Parkour",
+      "desc": "O objetivo dos servidores de parkour do Minecraft é completar cursos de obstáculos rodando, pulando e subindo de uma fase para a outra. Os percursos têm diferentes temas e variações em dificuldade de fácil para extremamente difícil. Os servidores de Parkour geralmente têm um temporizador que conta o tempo que leva para completar cada percurso e mostrar os rankings dos jogadores mais rápidos."
+    },
+    "pve": {
+      "formatted": "PvE",
+      "desc": "Servidores de PvE tem o PvP desativado ou seja, jogadores não podem lutar e causar dano uns aos outros. Em vez disso, os jogadores devem trabalhar juntos e sobreviver contra o ambiente e as muitas criaturas hostis do Minecraft."
+    },
+    "skywars": {
+      "formatted": "SkyWars",
+      "desc": "Skywars é um minigame onde os jogadores lutam entre si em ilhas flutuantes até que apenas um sobrevivente permaneça. Cada jogador é gerado em uma ilha individual, quando o jogo começa os jogadores devem se preparar para a batalha antes de atravessar as outras ilhas e lutar. Os baús de cada ilha contêm itens úteis, incluindo armas e comida e há geralmente uma ilha maior no centro do mapa com ainda mais recursos."
+    },
+    "hardcore": {
+      "formatted": "Hardcore",
+      "desc": "Servidores Hardcore são servidores de PvP competitivos que não têm muitas regras e objetivos para tornar a sobrevivência extremamente difícil. Esses servidores geralmente permitem grifar e não têm nenhum tipo de sistema de proteção de terra. Alguns servidores hardcore até proibirão temporariamente jogadores após a morte ou não habilitaram a regeneração de saúde natural."
+    },
+    "kitpvp": {
+      "formatted": "KitPvP",
+      "desc": "KitPvP é um modo de jogo competitivo onde os jogadores escolhem um kit para equipar antes de entrar em batalha e lutar uns com os outros em diferentes áreas. Cada kit contém um conjunto único de itens, efeitos e habilidades especiais, incluindo armas e armaduras que dão aos jogadores diferentes habilidades de luta. Kits novos e mais poderosos podem ser desbloqueados ao marcar pontos e subir de nível."
+    }
+  }
+}

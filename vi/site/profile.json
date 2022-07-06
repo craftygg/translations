@@ -1,0 +1,15 @@
+{
+  "mcaccounts": "Tài khoản Minecraft",
+  "listedServers": "Đã công khai server",
+  "slug": "Slug",
+  "billing": "Thanh toán",
+  "manage": "Quản lý",
+  "general": "Tổng quan",
+  "email": "Email",
+  "mainAccount": "Tài khoản Minecraft chính",
+  "developers": "Lập trình viên",
+  "updateEmail": "Nhấn để thay đổi email của bạn",
+  "hits": "Hits",
+  "key": "Key",
+  "noKey": "Bạn không có tài khoản lập trình viên. Để biết thêm thông tin chi tiết, hãy ghé thăm {{link}}"
+}

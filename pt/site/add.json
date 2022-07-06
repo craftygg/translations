@@ -1,0 +1,52 @@
+{
+  "server": {
+    "success": "Bem-Sucedido!",
+    "backToHome": "Voltar à página principal",
+    "viewServer": "Ver o Servidor",
+    "failed": "Falha",
+    "failed1": "Alguma coisa deu errado! Copie o erro para sua área de transferência, junte-se a nosso Discord clicando aqui e cole o seu erro no canal #support e aguarde até que seja ajudado(a)!",
+    "tryAgain": "Tente novamente",
+    "stepProgress": "Passo { Step } de 3",
+    "header": "Liste um novo Servidor de Minecraft no Crafty",
+    "verification": "Verificação",
+    "tellMore": "Conte-nos mais sobre { Name }",
+    "serverName": "Nome do Servidor",
+    "serverIp": "IP do Servidor",
+    "serverPort": "Porta do Servidor",
+    "type": "Tipo/Plataforma",
+    "ping": "PING PARA PROSSEGUIR",
+    "verificationMethod": "Método de Verificação",
+    "motdInstructions": "No MOTD do seu servidor, por favor, inclua o seguinte código para verificar se você possui ou gerencia o servidor que você está tentando adicionar",
+    "txtInstructions": "Nas configurações do DNS, crie um registro TXT para { Code } e no conteúdo adicione o seguinte código",
+    "note": " Por favor, note que o DNS leva algum tempo para atualizar, então continue verificando a cada segundo",
+    "verified": "Verificado",
+    "tags": "Tags",
+    "languages": "Linguagens",
+    "maxLanguages": "Máximo 3 linguagens",
+    "version": "Versões",
+    "short": "Descrição Curta",
+    "long": "Descrição Longa",
+    "charsRemaining": "carácteres restantes",
+    "descLimit": "(máximo { Number } carácteres)",
+    "website": "Site",
+    "previous": "Anterior",
+    "next": "Próximo",
+    "complete": "Completado",
+    "errors": {
+      "loggedIn": "Você deve estar conectado para listar seu servidor no Crafty. Faça o login no canto superior direito do site.",
+      "offline": "Seu servidor está desligado. Verifique se está online antes de envia-lo novamente."
+    }
+  },
+  "player": {
+    "claim": "Reivindicar Conta",
+    "enterName": " Por favor, digite o nome da conta que você deseja criar",
+    "username": "Nome de Usuário",
+    "step1": "Por favor, entre em nosso servidor de verificação do Minecraft para gerar seu código",
+    "step2": "Suporta Minecraft Edição Java 1.8 - 1.17",
+    "step3": "Ao entrar no servidor de Minecraft, você verá uma mensagem contendo seu código.",
+    "step4": "Por favor, digite o código de 4 dígitos na caixa abaixo para continuar",
+    "4digit": "Código de 4 Dígitos",
+    "restart": "reiniciar",
+    "verify": "Verificar"
+  }
+}

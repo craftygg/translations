@@ -1,0 +1,100 @@
+{
+  "details": {
+    "adventure": {
+      "formatted": "Abenteuer",
+      "desc": "Abenteuer Server erstrecken sich auf den Abenteuer Minecraft Spielmodus, wo der Spieler begrenzte Interaktionen mit einer voreingestellten Welt hat, die üblicherweise benutzerdefiniert oder von Spielern erstellt wurde. Das Ziel besteht in der Regel darin, durch die Herstellung von Gegenständen und das Töten von Mobs zu überleben, während man sich der Herausforderung stellt, Blöcke nicht zerstören und platzieren zu können."
+    },
+    "anarchy": {
+      "formatted": "Anarchie",
+      "desc": "Anarchie Server sind oft gesetzlos mit minimalem Landschutz und ohne Regeln. Einige Anarchie Server erlauben cheating wie zum Beispiel Clients, welche die Funktionsweise von Minecraft ändern, um einen unfairen Vorteil oder einen fairen Vorteil in einer Anarchie Einstellung zu bieten, in der jeder Spieler auch cheated. Das gemeinsame Ziel besteht darin, zu überleben und sich vor anderen Spielern und Kreaturen zu verteidigen, Ressourcen zu sammeln um sichere und versteckte Basen bauen, alles in einer unverzeihlichen, aber nicht restriktiven Umgebung, in der die Trauer wütet."
+    },
+    "battleroyale": {
+      "formatted": "Battle Royale",
+      "desc": "Battle Royale Server sind für Spieler, die ihre Minecraft Skills gegen andere in einer geschlossenen Kampfarena testen möchten, die im Laufe der Zeit allmählich schrumpft, wo Ressourcen gefunden werden können, um andere Spieler zu überbieten. Battle Royale Server werden oft von anderen bekannten Videospielen wie Fortnite, PUBG und Call of Duty inspiriert."
+    },
+    "bedwars": {
+      "formatted": "BedWars",
+      "desc": "Bedwars ist ein beliebtes strategisches PvP (Spieler gegen Spieler) Minecraft Minispiel, bei dem das Ziel darin besteht, der letzte Spieler (oder Team) zu sein, der durch die Verteidigung oder Beseitigung der Gegner am Leben ist. Der Bedwars Spielmodus beinhaltet oft ein Bett, das beschützt werden muss, da man sonst nicht mehr wiederbelebt wird. Bedwars spielt normalerweise auf Inseln im Himmel wo die größte Gefahr darin besteht, nicht in die unendliche Leere zu fallen."
+    },
+    "hungergames": {
+      "formatted": "Hunger Games",
+      "desc": "Hunger Games ist ein beliebtes Überleben PvP (Spieler gegen Spieler) Minecraft Minispiel, bei dem das Ziel darin besteht, mit Gegenständen, die in der Karte gefunden werden, zu überleben und sich gegen andere Spieler zu verteidigen, um der letzte stehende Spieler zu sein."
+    },
+    "survivalgames": {
+      "formatted": "Survival Games",
+      "desc": "Survival Games ist ein beliebtes Überleben PvP (Spieler gegen Spieler) Minecraft Minispiel, bei dem das Ziel darin besteht, mit Gegenständen, die auf der Karte gefunden werden, zu überleben und sich gegen andere Spieler zu verteidigen, um der letzte stehende Spieler zu sein."
+    },
+    "factions": {
+      "formatted": "Fractions",
+      "desc": "Fraktionsserver sind kompetitive PvP-Server, die es Spielern ermöglichen, sich mit anderen zusammenzuschließen, indem sie bestehenden Clans beitreten oder neue erstellen. Fraktionsmitglieder arbeiten zusammen, um Basen zu bauen, ihr Land zu schützen, wertvolle Ressourcen zu sammeln und neue Mitglieder zu rekrutieren. Die Fraktionen auf einem Server können entweder Verbündete werden und sich gegenseitig unterstützen oder Feinde sein und in den Krieg ziehen."
+    },
+    "economy": {
+      "formatted": "Economy",
+      "desc": "Economy Server betreiben eine virtuelle Ökonomie, die es Spielern ermöglicht, eine In-Game-Währung zu verdienen und auszugeben. Spieler können Geld verdienen, indem sie wertvolle Ressourcen abbauen, Herausforderungen abschließen, mit anderen Spielern handeln und Gegenstände in Geschäften verkaufen. Die meisten Server zeigen auch Ranglisten an, um den Wettbewerb zwischen den reichsten Spielern zu fördern."
+    },
+    "creative": {
+      "formatted": "Kreativ",
+      "desc": "Kreativ Mode Server haben die Kreativ Funktionen aktiviert. Diese Modi deaktivieren die Überlebensfunktionen von Minecraft, so können Spieler Städte und andere komplexe Strukturen mit einer unbegrenzten Anzahl an Blöcken bauen. Der Flugmodus ist als Teil des kreativen Modus aktiviert, um das Erstellen zu vereinfachen. Server ermöglichen auch die Verwendung von Weltbearbeitungs-Plugins, die den Bauprozess noch einfacher machen."
+    },
+    "mcmmo": {
+      "formatted": "McMMO",
+      "desc": "McMMO ist ein Plugin, das Minecrafts normalen Überlebensmodus mit RPG Funktionen erweitert. Es erlaubt Spielern Erfahrung zu sammeln und aufzuwerten, indem sie Aktionen durchführen oder Werkzeuge verwenden. Durch das Erreichen eines höheren Levels können sie Boni wie zum Beispiel doppelte Item Drops erhalten. Erfahrung lässt sich auf vielfältige Art und Weise sammeln, vom Bergbau und Holzfällerei bis hin zu Bogenschießen und Alchemie."
+    },
+    "skyblock": {
+      "formatted": "Skyblock",
+      "desc": "Skyblock Server sind Multiplayer-Versionen der ursprünglichen Skyblock Überlebenskarte. Jeder Spieler spawnt auf einer kleinen schwebenden Insel mit begrenzten Ressourcen und muss kreativ denken, um Materialien zu sammeln, die Insel zu erweitern und zu überleben. Die meisten Skyblock Server umfassen wirtschaftliche Features wie die Möglichkeit, Gegenstände mit In-Game-Währung zu kaufen und verkaufen und Ranglisten der reichsten Spieler."
+    },
+    "pvp": {
+      "formatted": "PvP",
+      "desc": "Minecraft Server mit PvP ermöglichen es Spielern gegeneinander zu kämpfen und Schaden zu verursachen. PvP-Server enthalten eine große Auswahl an verschiedenen Spielmodi, von Vanilla-Überleben und Fraktionen bis hin zu Battle Royale Minigames und KitPvP. Spieler müssen nicht nur die Umgebung und feindliche Mobs überleben, sondern auch feindliche Spieler. Einige Server haben PvP auf der gesamten Karte aktiviert, während andere sichere Zonen haben wie den Spawn, in denen Spieler nicht kämpfen können."
+    },
+    "prison": {
+      "formatted": "Prison",
+      "desc": "Prisonserver haben keine Wildnis und sind stattdessen vollständig innerhalb einer Gefängniskarte. Spieler beginnen auf dem niedrigsten Rang mit Grundwerkzeugen und müssen Geld verdienen, um aufzuleveln und mächtiger zu werden. Geld wird durch den Abbau von Ressourcen in vorgegebenen Minen verdient, neue Minen mit wertvolleren Ressourcen werden freigeschaltet, wenn man auflevelt. Spieler können sich in PvP-Arenas zum Kampf herausfordern und sogar Grundstücke im Gefängnis kaufen, um eine Basis zu bauen und Wertgegenstände zu lagern."
+    },
+    "survival": {
+      "formatted": "Überleben",
+      "desc": "Überleben ist der Standard-Minecraft-Spielmodus, in dem Spieler die Wildnis erkunden und Ressourcen sammeln, um in einer feindlichen Umgebung zu überleben. Einige Überlebensserver sind Vanilla und ändern das normales Gameplay nicht während andere Plugins und Mods verwenden, um zusätzliche Features wie eine Wirtschaft im Spiel und von Spielern geführte Städte hinzuzufügen. Überlebensserver können auch PvP aktiviert haben, was bedeutet, dass Spieler gegen feindliche Mobs und feindliche Spieler überleben müssen."
+    },
+    "towny": {
+      "formatted": "Towny",
+      "desc": "Towny Server sind an Land orientiert, Spieler können Grundstücke besitzen und eine Stadt erschaffen, indem sie zusammenarbeiten und andere Spieler einladen. Neue Spieler können entweder einer existierenden Stadt beitreten oder ihre eigene erstellen. Jede Stadt hat einen Bürgermeister, der für die Verwaltung der Bewohner und die Festlegung der Regeln zuständig ist. Towny fügt auch wirtschaftliche Merkmale hinzu wie die Stadtbanken, die Möglichkeit, Land mit In-Game-Währung zu kaufen und ein Steuersystem."
+    },
+    "vanilla": {
+      "formatted": "Vanilla",
+      "desc": "Vanilla-Server versuchen, Minecrafts ursprüngliches Überlebens-Gameplay in einer Mehrspieler-Welt wiederherzustellen. Pure vanilla Server verwenden die Serversoftware direkt von Minecraft und haben keine Modifikationen. Semi-vanilla Server verwenden modifizierte Server-Software und haben möglicherweise eine kleine Anzahl von Plugins, aber nur um einfache Funktionen hinzuzufügen, die das Gameplay nicht wirklich verändern."
+    },
+    "minigames": {
+      "formatted": "Minigames",
+      "desc": "Minigames Server bieten eine Vielzahl von lustigen Spielmodi, die alle innerhalb eines Servers gespielt werden können. Spieler treten einer zentralen Lobby bei und wählen dann das individuelle Minispiel, das sie spielen möchten. Es gibt auch eine Reihe von Spielen, die PvP beinhalten, während andere Spiele Teamwork und Zusammenarbeit erfordern."
+    },
+    "roleplay": {
+      "formatted": "Rollenspiel",
+      "desc": "Minecraft Server rund um Rollenspiel ermutigen Spieler, die Rolle einer völlig anderen Figur zu übernehmen und in eine Fantasy Welt einzutauchen. Rollenspiel Server sind oft stark modifiziert und verwenden benutzerdefinierte Plugins und von Spielern erstellte Karten, um dem Server ein bestimmtes Thema zu geben."
+    },
+    "pixelmon": {
+      "formatted": "Pixelmon",
+      "desc": "Minecraft Server, die die Multiplayer-Version der Pixelmon Mod verwenden. Pixelmon versucht, Pokemon innerhalb von Minecraft wiederherzustellen, indem hunderte von verschiedenen Arten von Pokemon hinzugefügt werden, die zufällig auf der ganzen Welt spawnen und von Spielern gefangen werden können. Die Mod fügt auch realistische Pokemonkämpfe hinzu, Gyms mit NPC Trainern und einen voll funktionsfähigen Pokedex."
+    },
+    "parkour": {
+      "formatted": "Parkour",
+      "desc": "Das Ziel von Minecraft Parkour Servern ist es, bis zum Ende eines Hindernisskurses zu kommen, indem man rennt, springt und dann ins nächste Level kommt. Die Kurse haben verschiedene Themen und verschiedene Schwierigkeitsgrade von einfach bis extrem hart. Parkour-Server haben in der Regel einen Timer, der zählt, wie lange man braucht, um jeden Kurs abzuschließen und Ranglisten der schnellsten Spieler zu zeigt."
+    },
+    "pve": {
+      "formatted": "PvE",
+      "desc": "Spieler gegen Umgebungsserver haben PvP deaktiviert, was bedeutet, dass Spieler sich nicht bekämpfen und einander Schaden zufügen können. Stattdessen müssen Spieler zusammenarbeiten und gegen die Umgebung und die vielen feindlichen Mobs von Minecraft überleben."
+    },
+    "skywars": {
+      "formatted": "SkyWars",
+      "desc": "Skywars ist eine PvP Minispiel, in dem Spieler auf schwebenden Inseln gegeneinander kämpfen, bis nur noch einer übrig ist. Jeder Spieler spawnet auf eigenen Inseln, wenn das Spiel beginnt, muss sich der Spieler auf den Kampf vorbereiten, bevor er zu den anderen Inseln geht und kämpft. Truhen auf jeder Insel enthalten nützliche Gegenstände wie Waffen und Nahrung, es gibt in der Regel eine größere Insel im Zentrum der Karte mit noch mehr Ressourcen."
+    },
+    "hardcore": {
+      "formatted": "Hardcore",
+      "desc": "Hardcore Server sind PvP Server, die nicht viele Regeln haben und versuchen, das Überleben extrem schwierig zu machen. Diese Server erlauben in der Regel Griefing und haben kein Landschutzsystem. Einige Hardcore-Server werden Spieler nach dem Tod bannen oder die natürliche Gesundheitsregeneration deaktivieren."
+    },
+    "kitpvp": {
+      "formatted": "KitPvP",
+      "desc": "KitPvP ist ein Wettkampfspiel, bei dem Spieler ein Kit auswählen, das sie ausrüsten, bevor sie in den Kampf gehen und einander in verschiedenen Bereichen bekämpfen. Jedes Kit enthält ein einzigartiges Set von Gegenständen, Effekten und besonderen Fähigkeiten, einschließlich Waffen und Rüstung, die Spielern verschiedene Kampffähigkeiten geben. Neue und bessere Kits können freigeschaltet werden, indem man Punkte erzielt und auflevelt."
+    }
+  }
+}

@@ -1,0 +1,8 @@
+{
+	"name": "văn_bản_MC",
+	"description": "Tạo văn bản theo kiểu Minecraft với hỗ trợ định dạng văn bản của Minecraft",
+	"textChoiceName": "văn_bản",
+	"textChoiceDescription": "Văn bản của bạn",
+	"embedAuthor": "Tạo văn bản kiểu Minecraft với Crafty",
+	"altText": "Ảnh văn bản Minecraft được tạo bởi Crafty (crafty.gg)"
+}

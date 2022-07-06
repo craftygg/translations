@@ -1,0 +1,84 @@
+{
+  "description": "Mô tả server",
+  "generalInfo": "Thông tin chung",
+  "additionalInfo": " Thông tin thêm",
+  "about": "Thông tin",
+  "serverStatus": "Tình trạng server",
+  "serverDetails": "Thông tin server",
+  "status": "trạng thái",
+  "views": "Lượt xem",
+  "upvotes": "Lượt vote",
+  "find": "Tìm server ưa thích của bạn",
+  "mcservers": "Server Minecraft",
+  "servers": "Server",
+  "searchServer": "Tìm kiếm server bất kì",
+  "tags": "Thẻ",
+  "sortBy": "Sắp xếp theo",
+  "orderBy": "Thứ tự theo",
+  "platform": "Nền tảng",
+  "version": "Phiên bản",
+  "language": "Ngôn ngữ",
+  "showOffline": "Hiển thị các server ngoại tuyến",
+  "playersOnline": "Người chơi trực tuyến",
+  "upvotesMonthly": "Vote (hàng tháng)",
+  "upvotesLifetime": "Vote (toàn thời gian)",
+  "viewsMonthly": "Lượt xem (hàng tháng)",
+  "viewsLifetime": "Lượt xem (toàn thời gian)",
+  "uptime": "Thời gian hoạt động",
+  "recentlyListed": "Được thêm gần đây",
+  "primaryLanguage": "Ngôn ngữ chính",
+  "copyip": "Sap chép IP",
+  "clickTag": "Nhấn để xem các server với thẻ này",
+  "ipCopiedTop": "Đã sao chép IP",
+  "ipCopiedBot": "đã được lưu vào khay nhớ tạm!",
+  "lastPing": "Ping gần đây",
+  "website": "Website",
+  "listedBy": "Đăng lên bởi",
+  "listedOn": "Đăng lên lúc",
+  "lastEdit": "Chỉnh sửa lần cuối",
+  "store": "Cửa hàng",
+  "topUpvoters": "Top 10 người vote { Month }",
+  "noUpvotes": "Chưa có ai vote cả",
+  "country": "Quốc gia",
+  "upvoters": "Người vote server",
+  "votedXTimes": " Đã vote { X } lần",
+  "faq": "Câu hỏi thường gặp",
+  "faqSubheader": "Dựa theo những câu hỏi mà người chơi đặt ra",
+  "statistics": "Thông số server",
+  "viewingStats": "Đang xem thông số về { Type }",
+  "questions": {
+    "1": {
+      "q": "Làm thế nào để tham gia { Server }?",
+      "a1": "Tham gia { Server } trên Minecraft Java:",
+      "a2": "Sao chép IP server",
+      "a3": "từ trang này.",
+      "a4": "Mở Minecraft.",
+      "a5": "Nhấp chọn \"Nhiều người chơi\" và nhấp \"Thêm máy chủ\"",
+      "a6": "Dán IP server vừa sao chép vào khung \"Địa chỉ IP\".",
+      "a7": "Nhấp \"Xong\".",
+      "a8": "Chọn { Server } từ danh sách hiện lên và nhấp \"Tham gia máy chủ\"."
+    },
+    "2": {
+      "q": "IP của { Server } là gì?",
+      "a": "IP của { Server } là "
+    },
+    "3": {
+      "q": "Liệu sử dụng Minecraft Bedrock/Pocket có thể tham gia { Server }?",
+      "a1": "Có vì { Server } là một server cho bản Bedrock vốn là phiên bản mới hơn của Pocket (PE).",
+      "a2": "Không. Bạn chỉ có thể tham gia { Server } sử dụng bản Java của Minecraft.",
+      "a3": "Có đấy! { Server } hỗ trợ cả Minecraft Java và Minecraft Bedrock"
+    },
+    "4": {
+      "q": "{ Server } có phải là một server miễn phí?",
+      "a": "Có, { Server } là một server miễn phí."
+    },
+    "5": {
+      "q": "Tôi gặp phải vấn đề hoặc cần giúp về thứ gì đó. Làm cách nào để tôi có thể liên hệ về { Server }?",
+      "a1": "Chúng tôi nghĩ bạn có thể tham gia Discord của { Server } tại đây:"
+    },
+    "6": {
+      "q": "Tôi có thể tham gia { Server } khi dùng Minecraft lậu chứ?",
+      "a": "Không vì { Server } cần có tài khoản chính thức."
+    }
+  }
+}

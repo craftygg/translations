@@ -1,0 +1,84 @@
+{
+  "description": "Serverbeschreibung",
+  "generalInfo": "Allgemeine Information",
+  "additionalInfo": " Zusätzliche Information",
+  "about": "Info",
+  "serverStatus": "Serverstatus",
+  "serverDetails": "Server Details",
+  "status": "Status",
+  "views": "Aufrufe",
+  "upvotes": "Upvotes",
+  "find": "Finde deinen Lieblingsserver",
+  "mcservers": "Minecraft Server",
+  "servers": "Servers",
+  "searchServer": "Nach einem bestimmten Spieler suchen",
+  "tags": "Tags",
+  "sortBy": "Sortieren nach",
+  "orderBy": "Reihenfolge nach",
+  "platform": "Plattform",
+  "version": "Version",
+  "language": "Sprache",
+  "showOffline": "Offline Server anzeigen",
+  "playersOnline": "Spieler online",
+  "upvotesMonthly": "Upvotes (monatlich)",
+  "upvotesLifetime": "Upvotes (Lebenslang)",
+  "viewsMonthly": "Aufrufe (monatlich)",
+  "viewsLifetime": "Aufrufe (Lebenslang)",
+  "uptime": "Laufzeit",
+  "recentlyListed": "Zuletzt gelistet",
+  "primaryLanguage": "Sprache (Primär)",
+  "copyip": "IP kopieren",
+  "clickTag": "Klicken, um Server mit diesem Tag anzusehen",
+  "ipCopiedTop": "IP kopiert",
+  "ipCopiedBot": "in die Zwischenablage kopiert!",
+  "lastPing": "Letzter Ping",
+  "website": "Webseite",
+  "listedBy": "Auflistung nach",
+  "listedOn": "Aufgelistet am",
+  "lastEdit": "Zuletzt bearbeitet",
+  "store": "Geschäft",
+  "topUpvoters": "Top 10 Upvoter vom { Month }",
+  "noUpvotes": "Es hat noch niemand geupvoted",
+  "country": "Land",
+  "upvoters": "Server Upvoter",
+  "votedXTimes": " { X } mal abgestimmt",
+  "faq": "Häufig gestellte Fragen",
+  "faqSubheader": "Basierend auf Fragen, die Spieler stellen",
+  "statistics": "Server Statistiken",
+  "viewingStats": "Statistiken zu { Type } werden gerade angezeigt",
+  "questions": {
+    "1": {
+      "q": "Wie kann ich { Server } beitreten?",
+      "a1": "Spiele auf { Server } mit Minecraft Java Edition:",
+      "a2": "Serveradresse kopieren",
+      "a3": "von dieser Seite.",
+      "a4": "Öffne Minecraft.",
+      "a5": "Klicke auf \"Mehrspieler\" und dann auf \"Server hinzufügen\"",
+      "a6": "Füge die Serveradresse, die du gerade kopiert hast in das \"Serveradresse\" Feld ein.",
+      "a7": "Klicke auf \"Fertig\".",
+      "a8": "Wähle { Server } aus und klicke auf \"Server beitreten\"."
+    },
+    "2": {
+      "q": "Was ist die Serveradresse für { Server }?",
+      "a": "{ Server }s Adresse ist "
+    },
+    "3": {
+      "q": "Hat { Server } einen Minecraft: Bedrock / Pocket Edition (PE) server?",
+      "a1": "Ja, { Server } ist ein Minecraft: Bedrock oder früher bekannt als Pocket Edition Server.",
+      "a2": "Nein. Du kannst { Server } nur mit Minecraft Java Edition beitreten.",
+      "a3": "Ja! { Server } unterstützt Minecraft: Bedrock Edition UND Minecraft: Java Edition"
+    },
+    "4": {
+      "q": "Kann man auf { Server } kostenlos spielen?",
+      "a": "Ja, du kannst kostenlos auf { Server } spielen."
+    },
+    "5": {
+      "q": "Ich habe ein Problem oder brauche Hilfe bei etwas. Wo oder wen kontaktiere ich wegen { Server }?",
+      "a1": "Wir empfehlen, dass du hier dem Discord Server von { Server } beitrittst:"
+    },
+    "6": {
+      "q": "Kann ich mit TLaunchen auf { Server } spielen?",
+      "a": "Nein, { Server } ist ein Premium Minecraft Server."
+    }
+  }
+}

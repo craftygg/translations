@@ -1,0 +1,5 @@
+{
+	"name": "cập_nhật",
+	"description": "Xem qua cập nhật gần đây nhất của Crafty.",
+	"embedAuthor": "Bản cập nhật {{updateVersion}} của Crafty"
+}

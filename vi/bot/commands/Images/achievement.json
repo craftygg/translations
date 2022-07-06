@@ -1,0 +1,12 @@
+{
+	"name": "thành_tựu",
+	"description": "Tạo ảnh thành tựu với Crafty",
+	"itemChoiceName": "vật_phẩm",
+	"itemChoiceDescription": "Chọn vật phẩm trong Minecraft",
+	"titleChoiceName": "tiêu_đề",
+	"titleChoiceDescription": "Đặt tiêu đề cho thành tựu",
+	"descriptionChoiceName": "nội_dung",
+	"descriptionChoiceDescription": "Đặt nội dung cho thành tựu",
+	"embedAuthor": "Tạo ảnh thành tựu với Crafty",
+	"altText": "Ảnh thành tựu được tạo bởi Crafty (crafty.gg)"
+}

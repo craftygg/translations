@@ -1,0 +1,8 @@
+{
+	"name": "mctext",
+	"description": "Minecraft स्वरूपण कोड का प्रयोग करके Minecraft जैसा टेक्स्ट बनाता है",
+	"textChoiceName": "टेक्स्ट",
+	"textChoiceDescription": "आपका टेक्स्ट",
+	"embedAuthor": "Crafty Minecraft टेक्स्ट जेनेरेटर",
+	"altText": "Crafty (crafty.gg) द्वारा बनाया गया Minecraft टेक्स्ट"
+}

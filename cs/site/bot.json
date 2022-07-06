@@ -1,0 +1,24 @@
+{
+  "header": "Nejpokročilejší Minecraft bot pro Discord.",
+  "subheader": "Crafty je nezbytný pro Vaši Minecraft komunitu.",
+  "addToDiscord": "Přidat do Discordu",
+  "viewCommands": "Zobrazit příkazy",
+  "example1": {
+    "header": "Informace o hráči",
+    "subheader": "Crafty Vám umožňuje zobrazit si informace o Minecraft účtu jednoduchým příkazem"
+  },
+  "example2": {
+    "header": "Zobrazit informace o serveru",
+    "subheader": "S Craftym máte možnost si zobrazit informace o serveru bez toho, aniž byste museli opustit Discord"
+  },
+  "example3": {
+    "header": "Zobrazit hráčovy statistiky",
+    "subheader": "Crafty Vám umožňuje zobrazit si statistiky jakéhokoli hráče z populárních serverů"
+  },
+  "example4": {
+    "header": "Hrajte Minecraft Triviu se svými přáteli",
+    "subheader": "Crafty přináší veškerou zábavu do Vašeho Discord serveru. Hrajte Minecraft trivium, zobrazte si zábavná fakta, mějte epické souboje inspirované Minecraftem a spoustu dalšího!"
+  },
+  "botCommands": "Botovy příkazy",
+  "prettyCoolRight": "Získejte přístup k všem těmto úžasným věcem přidáním Craftyho na svůj Discord server"
+}

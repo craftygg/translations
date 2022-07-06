@@ -1,0 +1,16 @@
+{
+  "find": "پیدا کردن بازیکنان ماینکرافت",
+  "players": "بازیکنان",
+  "mcplayers": "بازیکنان ماینکرافت",
+  "uuidShort": "UUID کوتاه",
+  "uuidLong": "UUID کامل",
+  "status": "دریافت شده",
+  "claim": "دریافت",
+  "unclaimed": "گرفته نشده",
+  "legacy": "قدیمی",
+  "usernameHistory": "تاریخچه نام کاربری",
+  "socialMedia": "شبکه های اجتماعی",
+  "firstUsername": "اولین نام کاربری",
+  "searchPlayer": "جستجو برای یک بازیکن مشخص",
+  "search": "جستجو برای بازیکن بر اساس نام یا UUID"
+}

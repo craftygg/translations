@@ -1,0 +1,59 @@
+{
+  "header": "Crafty Premium",
+  "subheader": "İhtiyaçlarınıza uygun bir plan seçin ve Crafty'nin gelişimini finanse edin!",
+  "monthly": "Aylık",
+  "annually": "Yıllık",
+  "year": "yıl",
+  "month": "ay",
+  "craftyBot": "Crafty Bot",
+  "craftyBotInformation": "Crafty Bot, Minecraft odaklı gelişmiş bir Discord botudur. Daha fazla bilgi için",
+  "comingSoon": "Yakında",
+  "benefits": "ayrıcalıklar",
+  "subscribe": "Abone Ol",
+  "off": "indirim",
+  "emerald": {
+    "slug": "Özel bağlantı (/users/özel-bağlantı)",
+    "color": "Sunucu ve Profiliniz için özel vurgu rengi",
+    "access": "Crafty Discord sunucusunda özel Emerald erişimi",
+    "icon": "simgesi crafty.gg profilinde gözükür",
+    "serverTracking": "1 adet Minecraft sunucusu izleme yerine erişim",
+    "dmCommands": "Doğrudan mesajlarda komutları kullanma özelliği",
+    "textureSearch": "/texturesearch komutuna erişim",
+    "notifications": "Minecraft kullanıcı adı kullanılabilir hale geldiğinde Discord ve/veya e-posta yoluyla bildirim alın (1 kullanıcı adı)"
+  },
+  "ruby": {
+    "customImage": "Sunucu sayfanıza özel bir resim ekleme özelliği",
+    "serverDescription": "Sunucu açıklaması karakter sınırı 1500 karakter olur (500 yerine)",
+    "moreTags": "Sunucunuza en fazla 9 etiket ekleyin (5 yerine)",
+    "access": "Crafty Discord sunucusunda özel Ruby erişimi",
+    "icon": "simgesi crafty.gg profilinde gözükür",
+    "removeCooldowns": "Tüm komut bekleme sürelerini kaldır",
+    "serverTracking": "2 adet Minecraft sunucusu izleme yerine erişim",
+    "notifications": "Minecraft kullanıcı adı kullanılabilir hale geldiğinde Discord ve/veya e-posta yoluyla bildirim alın (3 kullanıcı adı)"
+  },
+  "diamond": {
+    "slug": "Özel Sunucu bağlantısı (/servers/özel-bağlantı)",
+    "earlyAccess": "Geri bildirim sağlayabileceğiniz özelliklerimize Erken Erişim",
+    "access": "Crafty Discord sunucusunda özel Diamond erişimi",
+    "icon": "simgesi crafty.gg profilinde gözükür",
+    "removeUpvote": "Discord sunucusundaki tüm kullanıcılar için tüm oy gereksinimlerini ve bekleme sürelerini kaldırın",
+    "serverTracking": "3 adet Minecraft sunucusu izleme yerine erişim",
+    "notifications": "Minecraft kullanıcı adı kullanılabilir hale geldiğinde Discord ve/veya e-posta yoluyla bildirim alın (8 kullanıcı adı)"
+  },
+  "futureFeatures": {
+    "header": "Abone olarak Crafty'nin gelişimini desteklersiniz",
+    "subheader": "İşte gelecekte sunmayı planladığımız özelliklerin bir listesi",
+    "playerStatistics": "Oyuncu İstatistikleri",
+    "playerStatisticsInformation": "Hepsi bir arada, birden fazla popüler Minecraft sunucusunda ki Minecraft oyuncu istatistiklerini alın. Bu araç zaten geliştirme aşamasındadır ve Crafty Bot tarafından kullanılmaktadır",
+    "richTextEditor": "Zengin Metin Editörü",
+    "richTextEditorInformation": "Şu anda yalnızca sunucunuzun açıklaması için Markdown'ı kullanabilirsiniz, bunu, sunucunuz için en iyi açıklamayı oluşturmanıza yardımcı olmak adına zengin özelliklere sahip bir metin düzenleyiciyle değiştirmeyi planlıyoruz",
+    "serverAnalytics": "Sunucu Analizleri",
+    "serverAnalyticsInformation": "Sunucu sahiplerinin daha iyi kavraması için analizler",
+    "skinEditor": "Cilt Düzenletici",
+    "skinEditorInformation": "Bir sonraki en iyi cildinizi özgürce ve kolayca oluşturabilmeniz için zengin özelliklere sahip bir cilt editörü",
+    "notifications": "Bildirimler",
+    "notificationsInformation": "Sunucunuz çevrimdışı olduğunda, bir Minecraft kullanıcı adı kullanılabilir olduğunda, yeni bir Minecraft sürümü veya makalesi çıktığında ve daha fazlası olduğunda yararlı bildirimler alın (tercih ederseniz)!",
+    "yourSuggestion": "Önerileriniz",
+    "yourSuggestionInformation": "Sizin fikriniz de burada olabilir. Discord'umuza katılın ve ne görmek istediğinizi bize bildirin veya geri bildirim sayfasındaki formu doldurun"
+  }
+}

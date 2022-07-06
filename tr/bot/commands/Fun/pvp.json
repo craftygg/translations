@@ -1,0 +1,9 @@
+{
+	"name": "pvp",
+	"description": "Discord'da destansı bir Minecraft PvP savaşı başlatın.",
+	"participant1InputName": "katılımcı1",
+	"participant1InputDescription": "Pvp savaşının ilk katılımcısı.",
+	"participant2InputName": "katılımcı2",
+	"participant2InputDescription": "Pvp savaşının ikinci katılımcısı.",
+	"embedDescription": "⚔️ **{{user1}}** VS **{{user2}}**\n\n{{scenario_text}}\n\n🏆 Kazanan: **{{winner}}**"
+}

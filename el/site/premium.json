@@ -1,0 +1,59 @@
+{
+  "header": "Crafty Premium",
+  "subheader": "Επιλέξτε μια συνδρομή που ταιριάζει στις ανάγκες σας και να χρηματοδοτήσει την ανάπτυξη της Crafty ταυτόχρονα!",
+  "monthly": "Μηνιαία",
+  "annually": "Ετήσια",
+  "year": "έτος",
+  "month": "μήνα",
+  "craftyBot": "Crafty Bot",
+  "craftyBotInformation": "Το Crafty bot είναι ένα προηγμένο Minecraft εστιασμένο Discord bot. Βρείτε περισσότερες πληροφορίες στο",
+  "comingSoon": "Σύντομα κοντά σας",
+  "benefits": "παροχές",
+  "subscribe": "Εγγραφή",
+  "off": "έκπτωση",
+  "emerald": {
+    "slug": "Προσαρμοσμένο slug (/users/custom-slug)",
+    "color": "Προσαρμοσμένο χρώμα έμφασης για τη σελίδα του διακομιστή & του παίκτη",
+    "access": "Ειδική Emerald πρόσβαση στο Discord του Crafty",
+    "icon": "εικονίδιο στο crafty.gg προφίλ σας ",
+    "serverTracking": "Πρόσβαση σε 1 υποδοχή παρακολούθησης διακομιστή Minecraft",
+    "dmCommands": "Δυνατότητα χρήσης εντολών σε άμεσα μηνύματα",
+    "textureSearch": "Πρόσβαση στην εντολή /texturesearch",
+    "notifications": "Λάβετε ειδοποίηση όταν το όνομα χρήστη Minecraft γίνει διαθέσιμο μέσω Discord ή/και e-mail (1 όνομα χρήστη)"
+  },
+  "ruby": {
+    "customImage": "Δυνατότητα προσθήκης προσαρμοσμένης εικόνας στη σελίδα του διακομιστή σας",
+    "serverDescription": "Όριο χαρακτήρων περιγραφής διακομιστή σε 1.500 χαρακτήρες (αντί των 500)",
+    "moreTags": "Προσθέστε έως και 9 ετικέτες στον διακομιστή σας (αντί για 5)",
+    "access": "Ειδική πρόσβαση Ruby στο Discord του Crafty",
+    "icon": "εικονίδιο στο crafty.gg προφίλ σας",
+    "removeCooldowns": "Κατάργηση όλων των χρόνων επαναφόρτισης εντολής",
+    "serverTracking": "Πρόσβαση σε 2 υποδοχές παρακολούθησης διακομιστή Minecraft",
+    "notifications": "Receive notification when Minecraft username becomes available via Discord and/or e-mail (3 username)"
+  },
+  "diamond": {
+    "slug": "Custom Server slug (/servers/custom-slug)",
+    "earlyAccess": "Early Access to our features, where you can provide feedback",
+    "access": "Special Diamond access on Crafty's Discord",
+    "icon": "icon on your crafty.gg profile",
+    "removeUpvote": "Remove all upvote requirements and cooldowns for all users in a Discord server",
+    "serverTracking": "Access to 3 Minecraft server tracking slots",
+    "notifications": "Receive notification when Minecraft username becomes available via Discord and/or e-mail (8 username)"
+  },
+  "futureFeatures": {
+    "header": "By subscribing, you support the development of Crafty",
+    "subheader": "Here's a list of features we plan to introduce in the future",
+    "playerStatistics": "Player Statistics",
+    "playerStatisticsInformation": "Get Minecraft player statistics across multiple popular Minecraft servers, all-in-one. This tool is already under development and is used by Crafty bot",
+    "richTextEditor": "Rich Text Editor",
+    "richTextEditorInformation": "Right now you can only use Markdown for your server's description, we plan to change this with a feature rich text editor to help you create the best description for your server",
+    "serverAnalytics": "Server Analytics",
+    "serverAnalyticsInformation": "Analytics for server owners for better insights",
+    "skinEditor": "Skin Editor",
+    "skinEditorInformation": "Feature rich skin editor for you to create your next best skin freely and with ease",
+    "notifications": "Ειδοποιήσεις",
+    "notificationsInformation": "Receive useful notifications (if you opt in) when your server goes offline, when a Minecraft username is available, when a new Minecraft version or article is out, and more!",
+    "yourSuggestion": "Οι προτάσεις σου",
+    "yourSuggestionInformation": "Η ιδέα σας θα μπορούσε να είναι εδώ. Μπείτε στο Discord μας και ενημερώστε μας για το τι θα θέλατε να δείτε ή να συμπληρώσετε τη φόρμα στη σελίδα σχολίων"
+  }
+}

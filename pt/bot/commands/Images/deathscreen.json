@@ -1,0 +1,10 @@
+{
+	"name": "tela_de_morte",
+	"description": "Tela de Morte do Minecraft",
+	"textChoiceName": "texto",
+	"textChoiceDescription": "Seu texto",
+	"scoreChoiceName": "pontuação",
+	"scoreChoiceDescription": "Pontuação personalizada",
+	"embedAuthor": "Texto Splash do Minecraft",
+	"altText": "Tela de Morte do Minecraft gerada pelo Crafty (crafty.gg)"
+}

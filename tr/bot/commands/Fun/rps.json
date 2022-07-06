@@ -1,0 +1,13 @@
+{
+	"name": "tkm",
+	"description": "Taş, kağıt veya makas?",
+	"choiceInputName": "seçim",
+	"choiceInputDescription": "Seçimin",
+	"choiceRock": "taş",
+	"choicePaper": "kağit",
+	"choiceShears": "makas",
+	"result": "Ben {{botChoice}} seçtim, sen {{choice}}.",
+	"tie": "\nBerabere!",
+	"win": "\nKazandın",
+	"lose": "\nKazandım!"
+}

@@ -1,0 +1,6 @@
+{
+	"name": "ग्रामवासी",
+	"description": "सन्देश को ग्रामवासी की बोली में अनुदित करता है",
+	"messageInputName": "सन्देश",
+	"messageInputDescription": "अनुवाद करने के लिए पाठ"
+}

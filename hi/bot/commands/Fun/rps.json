@@ -1,0 +1,13 @@
+{
+	"name": "rps",
+	"description": "पत्थर, कागज़ या कैंची?",
+	"choiceInputName": "चुनाव",
+	"choiceInputDescription": "आपकी पसंद",
+	"choiceRock": "पत्थर",
+	"choicePaper": "कागज़",
+	"choiceShears": "कैंची",
+	"result": "मैंने चुना {{botChoice}} आपने चुना {{choice}}।",
+	"tie": "\nयह बराबर हो गया!",
+	"win": "\nआप जीते",
+	"lose": "\nमैं जीता!"
+}

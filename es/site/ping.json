@@ -1,0 +1,7 @@
+{
+  "header": "Obtener información sobre un servidor de Minecraft",
+  "subheader": "Rellena los campos requeridos para obtener información básica sobre un servidor de Minecraft como su estado, cuántos jugadores están en línea, la versión y la ubicación del servidor",
+  "enter": "Introduce la dirección IP de tu servidor",
+  "get": "Obtener información",
+  "pinger": "Chequear Servidor"
+}

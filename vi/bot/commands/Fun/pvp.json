@@ -1,0 +1,9 @@
+{
+	"name": "pvp",
+	"description": "Mở một cuộc PvP như trong Minecraft ngay trong Discord.",
+	"participant1InputName": "người_chơi_1",
+	"participant1InputDescription": "Người tham gia thứ nhất trong trận pvp.",
+	"participant2InputName": "người_chơi_2",
+	"participant2InputDescription": "Người tham gia thứ hai trong trận pvp.",
+	"embedDescription": "⚔️ **{{user1}}** VS **{{user2}}**\n\n{{scenario_text}}\n\n🏆 Người chiến thắng: **{{winner}}**"
+}

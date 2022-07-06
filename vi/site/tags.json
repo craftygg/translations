@@ -1,0 +1,100 @@
+{
+  "details": {
+    "adventure": {
+      "formatted": "Phiêu lưu",
+      "desc": "Server phiêu lưu mở rộng trên chế độ phiêu lưu của Minecraft nơi mà người chơi có sự giới hạn về khả năng tương tác trong một thế giới được tạo sẵn hoặc được người chơi tạo. Mục tiêu thường là sinh tồn bằng cách chế tạo vật phẩm và tiêu diệt mob trong khi không thể đặt hay phá hủy khối nào trong thế giới."
+    },
+    "anarchy": {
+      "formatted": "Vô luật lệ",
+      "desc": "Các server vô luật lệ thường có hướng không quan tâm với việc bảo vệ đất đai và không có luật. Vài server vô luật cho phép gian lận như sử dụng các phần mềm bên thứ ba để gây các tác động tạo ra thế bất cân bằng hoặc đúng hơn là cân bằng trong khoảng vô luật lệ khi mà ai cũng gian lận. Mục tiêu cơ bản là tồn tại và bảo vệ bản thân khỏi những người chơi khác, thu thập tài nguyên, xây dựng căn cứ an toàn và bí mật, tất cả trong một môi trường mà tràn lan sự đau khổ và hủy hoại."
+    },
+    "battleroyale": {
+      "formatted": "Chiến sinh tử",
+      "desc": "Server có chế độ sinh tử thường dành cho những ai muốn thử thách khả năng bản thân trong một chiến trường liên tục thu bé với các vật phẩm có thể được thu thập để đánh bại những người khác. Những server này thường lấy ý tưởng từ những game nổi tiếng như Fortnite, PUBG và Call of Duty."
+    },
+    "bedwars": {
+      "formatted": "Bedwar",
+      "desc": "Bedwar là một chế độ PvP (người chơi đối đầu người chơi) phổ biến với mục tiêu là trở thành người chơi (hoặc đội) sống sót cuối cùng bằng việc phòng thủ hoặc loại các đối thủ. Chế độ này thường sẽ có một chiếc giường để bạn bảo vệ và bạn sec không thể hồi sinh khi nó bị phá hủy. Bedwar thường sẽ diễn ra trên các đảo bay với mối nguy lớn nhất chính là rơi xuống khoảng không vô tận phía dưới."
+    },
+    "hungergames": {
+      "formatted": "Trò chơi sống còn",
+      "desc": "Là một chế độ PvP (người chơi đối đầu người chơi) nổi tiếng nơi mà mục tiêu là sống sót với các vật phẩm thu thập được trên bản đồ và chiến đấu với những người chơi khác để trở thành kẻ cuối cùng sống sót."
+    },
+    "survivalgames": {
+      "formatted": "Trò chơi sinh tồn",
+      "desc": "Trò chơi sinh tồn là một chế độ PvP (người chơi đối đầu người chơi) nổi tiếng nơi mà mục tiêu là sống sót với các vật phẩm thu thập được trên bản đồ và chiến đấu với những người chơi khác để trở thành kẻ cuối cùng sống sót."
+    },
+    "factions": {
+      "formatted": "Faction",
+      "desc": "Server faction là một loại hình PvP cạnh tranh cho phép người chơi lập nhóm với nhau bằng cách tạo hoặc tham gia các hội có sẵn. Các thành viên trong faction hợp tác với nhau để xây dựng căn cứ, bảo vệ vùng đất của mình, thu thập tài nguyên quý cũng như tìm kiếm thành viên mới. Các faction trong server có thể trở thành đồng minh và hỗ trợ lẫn nhau hoặc chọn trở thành kẻ thù để đối đầu nhau."
+    },
+    "economy": {
+      "formatted": "Kinh tế",
+      "desc": "Server kinh tế tạo ra một nền kinh tế ảo cho phép người chơi kiếm và chi tiêu. Người chơi có thể kiếm tiền bằng cách khai thác các tài nguyên có giá trị, hoàn thành các thử thách, giao dịch với những người chơi khác và bán các vật phẩm trong cửa hàng. Hầu hết các server cũng sẽ có bảng xếp hạng độ giàu có để khuyến khích cạnh tranh giữa các người chơi."
+    },
+    "creative": {
+      "formatted": "Sáng tạo",
+      "desc": "Server sáng tạo sẽ có chế độ sáng tạo được kích hoạt. Kiểu server này sẽ vô hiệu hóa chế độ sinh tồn, cho phép người chơi xây dựng các công trình đồ sộ với số lượng vô hạn tài nguyên. Đi kèm với chế độ sáng tạo là khả năng bay theo mặc định để người chơi có thể dễ dàng di chuyển. Server cũng có thể sẽ hỗ trợ một số plugin như World Edit để giúp tiến trình xây dựng dễ dàng hơn."
+    },
+    "mcmmo": {
+      "formatted": "McMMO",
+      "desc": "McMMO là một dạng plugin thêm các tính năng giống với RPG cho chế độ sinh tồn của Minecraft. Nó cho phép người chơi nhận kinh nghiệm và lên cấp bằng việc hoạt động hay sử dụng công cụ. Lên cấp càng cao sẽ có cơ hội nhận được thưởng thêm như nhân đôi vật phẩm rơi ra. Kinh nghiệm có thể được nhận qua nhiều cách từ đào mỏ cho đến chặt gỗ đến bắn tỉa, săn bắt."
+    },
+    "skyblock": {
+      "formatted": "Đảo trời",
+      "desc": "Server đảo trời là dạng nhiều người chơi của sinh tồn đảo bay. Mỗi người chơi sẽ được xuất hiện trên một hòn đảo bay nhỏ với số lượng có hạn tài nguyên và phải nghĩ cách để kiếm thêm vật liệu, mở rộng đảo và sống sót. Phần lớn các server đảo bay sẽ có một hệ thống tiền tệ để người chơi có thể mua và bán vật phẩm và bảng xếp hạng những người giàu có nhất."
+    },
+    "pvp": {
+      "formatted": "PvP",
+      "desc": "Server với chế độ PvP được bật cho phép người chơi chiến đấu với nhau. Server PvP bao gồm lượng lớn các chế độ khác nhau từ sinh tồn đặc trưng, faction cho đến kiểu chiến đấu sinh tử và KitPvP. Người chơi không chỉ sinh tồn giữa thiên nhiên mà còn với các người chơi khác. Một số server sẽ cho phép PvP ở mọi nơi trong khi số khác sẽ có vùng an toàn không cho phép PvP như ở spawn."
+    },
+    "prison": {
+      "formatted": "Ngục tù",
+      "desc": "Server ngục tù không mang sự hoang vu nhưng có môi trường bao quanh trong một bản đồ dưới dạng nhà tù. Người chơi sẽ bắt đầu ở bậc thấp nhất với công cụ cơ bản và phải kiếm tiền để thăng cấp và trở nên mạnh hơn. Tiền được kiếm thông qua đào khoáng sản ở các mỏ được làm sẵn, càng lên bậc cao, giá trị khoáng sản sẽ tăng dần. Người chơi có thể thách thức nhau trên đấu trường PvP và còn có thể mua đất trong nhà tù để xây dựng căn cứ, cất giữ tài sản."
+    },
+    "survival": {
+      "formatted": "Sinh tồn",
+      "desc": "Sinh tồn là một chế độ mặc định của Minecraft để người chơi có thể khám phá vùng hoang vu và thu thập tài nguyên để tồn tại. Một số server sinh tồn giữ nguyên sự cơ bản của minecraft trong khi phần còn lại dùng các plugin và mod để thêm các tính năng phụ như hệ thống tiền tệ và làng xã do người chơi tổ chức. Server sinh tồn cũng có thể sẽ cho phép PvP nghĩa là người chơi phải sống sót qua môi trường mà người chơi khác."
+    },
+    "towny": {
+      "formatted": "Làng xã",
+      "desc": "Server towny được định hướng quản lý đất đai, người chơi có thể sở hữu các mảnh đất và tạo ra một thị trấn bằng cách làm việc cùng nhau và mời những người khác. Người chơi mới có thể tham gia vào một thị trấn hiện có hoặc tạo thị trấn của riêng họ, mỗi thị trấn sẽ có một thị trưởng chịu trách nhiệm quản lý cư dân và thiết lập các quy tắc. Towny cũng có hệ thống kinh tế bao gồm ngân hàng thị trấn, khả năng mua đất bằng tiền tệ trong server và hệ thống thuế."
+    },
+    "vanilla": {
+      "formatted": "Vanilla",
+      "desc": "Server vanilla hướng tới việc dựng lại chế độ sinh tồn đặc trưng của Minecraft trong chế độ nhiều người chơi. Server chuẩn vanilla sẽ dùng phần mềm máy chủ được cung cấp trực tiếp bởi Minecraft và sẽ không có sự thay đổi gì. Server cận vanilla sẽ có cái tiến trải nghiệm đôi chút qua việc thêm một lượng nhỏ plugin nhưng chỉ để thêm các tính năng đơn giản mà không làm thay đổi trải nghiệm chơi."
+    },
+    "minigames": {
+      "formatted": "Minigame",
+      "desc": "Server mimigame mang đến một lượng các chế độ chơi giải trí có thể tham gia trong một server. Người chơi sẽ tham gia vào một sảnh lớn và chọn trò chơi ở đây để tham gia chơi. Một số là chế độ đối đầu PvP, số khác là các chế độ cần sự hợp tác nhóm. Các minigame nổi tiếng có thể kể đến như Trốn tìm, Cướp cờ, Bedwar, ..."
+    },
+    "roleplay": {
+      "formatted": "Nhập vai",
+      "desc": "Server Minecraft về nhập vai khuyến khích người chơi nhận vai trò của một nhân vật khác hoàn toàn và đắm mình vào một thế giới kì diệu. Server nhập vai thường được biến đổi rất nhiều và sử dụng plugin tự tạo và bản đồ tự tạo hoặc do người chơi tạo ra để cho server có một chủ đề cụ thể."
+    },
+    "pixelmon": {
+      "formatted": "Pixelmon",
+      "desc": "Là những server sử dụng mod Pixelmon nhưng mở dưới dạng nhiều người chơi. Pixelmon chú tâm vào việc thêm hàng trăm loài Pokemon xuất hiện ngẫu nhiên trong thế giới và có thể được thuần hóa bởi người chơi. Mod này còn có thêm vào đấu trường Pokemon với cách thức hoạt động như bộ game Pokemon, trại huấn luyện với các huấn luyện viên là các NPC cùng với Pokedex như bạn thường thấy."
+    },
+    "parkour": {
+      "formatted": "Parkour",
+      "desc": "Mục tiêu của các server parkour là hoàn thành vượt qua các chướng ngại vật bằng việc chạy nhảy, leo trèo từ ải này đến ải khác. Các phần sẽ có nhiều chủ đề khác nhau và sẽ sắp xếp theo mức độ từ dễ như ăn bánh đến khó ảo ma. Server parkour thường sẽ có tính thời gian để xem bạn mất bao lâu để hoàn thành từng phần và có cả bảng xếp hạng những con người nhanh nhất."
+    },
+    "pve": {
+      "formatted": "PvE",
+      "desc": "Server với chế độ người chơi đối đầu môi trường (PvE) thường tắt chế độ PvP có nghĩa người chơi sẽ không đối đầu nhau. Thay vào đó họ phải hợp tác cùng nhau và sống sót đối mặt với môi trường và số lượng lớn quái của Minecraft."
+    },
+    "skywars": {
+      "formatted": "SkyWar",
+      "desc": "SkyWar là một chế độ PvP nơi mà người chơi chiến đấu với nhau trên các hòn đảo bay cho đến khi chỉ còn một người sống sót. Mỗi người sẽ xuất hiện trên một hòn đảo nhỏ, khi trò chơi bắt đầu thì họ sẽ tự chuẩn bị trước khi giao chiến với người khác. Mỗi đảo sẽ có một chiếc rương trong đó chứa đựng nhiều vật phẩm dùng cho việc chiến đấu như vũ khí, thực phẩm và nhiều vật phẩm giá trị hơn sẽ có ở trên hòn đảo lớn ở giữa."
+    },
+    "hardcore": {
+      "formatted": "Siêu khó",
+      "desc": "Server siêu khó là các server PvP không có quá nhiều luật và có mục đích là biến việc sinh tồn trở nên khó khăn hơn. Các server này thường sẽ cho phép tác động vào thế giới và không có hệ thống bảo vệ thế giới nào. Một số server siêu khó sẽ còn cấm tạm thời người chơi họ chết trong thế giới hoặc không bật hồi phục tự nhiên."
+    },
+    "kitpvp": {
+      "formatted": "KitPvP",
+      "desc": "KitPvP là một chế độ PvP cho phép người chơi chọn một bộ đồ dùng để sẵn sàng trước khi tham gia vào chiến trường máu lửa với người chơi khác. Mỗi bộ đồ dùng sẽ gồm một dãy vật phẩm, thuốc, vũ khí, giáp và các khả năng đặc trưng. Để mở khóa các bộ đồ dùng cao cấp hơn, người chơi sẽ cần phải kiếm điểm qua các trận chiến và lên cấp."
+    }
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "more": "Plus d'outils",
+  "crafting": {
+    "title": "Recettes de fabrication"
+  },
+  "votifier": {
+    "title": "Test de Votifier",
+    "h2": "Testez si le système de votes de votre serveur fonctionne en remplissant les informations suivantes",
+    "whatQ": "Quel est cet outil ?",
+    "whatA": "Le test Votifier vous aide à déterminer si le plugin Votifier a été correctement installé sur votre serveur Minecraft.",
+    "whatVotifierQ": "Qu'est-ce que Votifier ?",
+    "whatVotifierA": " Votifier est un plugin de vote pour serveur Minecraft que vous pouvez installer pour être informé à chaque fois qu'un joueur vote pour votre serveur sur des listes de serveurs, comme Crafty.",
+    "whyQ": "Mais, pourquoi ?",
+    "whyA": " Votifier est utilisé par les propriétaires/administrateurs de serveurs pour récompenser les joueurs qui votent pour leur serveur Minecraft. Le vote aide le serveur à obtenir un meilleur classement sur les listes de serveurs."
+  },
+  "ping": {
+    "title": "Server Pinger",
+    "h1": "Avoir des informations sur un serveur Minecraft",
+    "paragraph": "Remplissez les champs requis pour obtenir des informations basiques sur un serveur Minecraft, telles que son statut, le nombre de joueurs connectés, la version et la localisation du serveur"
+  }
+}

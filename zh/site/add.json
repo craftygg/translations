@@ -1,0 +1,52 @@
+{
+  "server": {
+    "success": "成功!",
+    "backToHome": "返回首页",
+    "viewServer": "浏览服务器",
+    "failed": "失败",
+    "failed1": "Something went wrong! The error has been copied to your clipboard, join our discord by clicking here and paste the error in #support and we'll help you out!",
+    "tryAgain": "再試一次",
+    "stepProgress": "步骤 { Step } ，共 3 步",
+    "header": "List a new Minecraft Server on Crafty",
+    "verification": "Verification",
+    "tellMore": "告诉我们更多关于{ Name }",
+    "serverName": "服务器名字",
+    "serverIp": "服务器 IP",
+    "serverPort": "Server Port",
+    "type": "类型/平台",
+    "ping": "PING TO PROCEED",
+    "verificationMethod": "验证方式",
+    "motdInstructions": "In your Server MOTD please include the following code to verify that you own or manage the server you are trying to add",
+    "txtInstructions": "In your DNS settings, create a TXT record to { Code } and in the content add the following code",
+    "note": " Please note that DNS takes a little while to update, so keep checking every few seconds",
+    "verified": "已验证",
+    "tags": "Tags",
+    "languages": "语言",
+    "maxLanguages": "最多 3 种语言",
+    "version": "版本",
+    "short": "Short Description",
+    "long": "Long Description",
+    "charsRemaining": "characters remaining",
+    "descLimit": "(最多 { Number } 个字符)",
+    "website": "网站",
+    "previous": "上一页",
+    "next": "下一页",
+    "complete": "完成",
+    "errors": {
+      "loggedIn": "You must be logged in to list your server on Crafty. Sign in on the top right corner of the site.",
+      "offline": "Your server is offline. Ensure it is online before submitting it again."
+    }
+  },
+  "player": {
+    "claim": "Claim Account",
+    "enterName": " Please enter the name of the account that you would like to claim",
+    "username": "Username",
+    "step1": "Please log into our verification Minecraft server to generate your code",
+    "step2": "Supports Minecraft Java Edition 1.8 - 1.17",
+    "step3": "Upon joining the Minecraft server you will see a message containing your code.",
+    "step4": "Please type the four digit code into the box below to continue.",
+    "4digit": "4 位代码",
+    "restart": "重新启动",
+    "verify": "验证"
+  }
+}

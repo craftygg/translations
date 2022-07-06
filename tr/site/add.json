@@ -1,0 +1,52 @@
+{
+  "server": {
+    "success": "Başarılı!",
+    "backToHome": "Ana sayfaya dön",
+    "viewServer": "Sunucuyu Görüntüle",
+    "failed": "Başarısız",
+    "failed1": "Bir şeyler ters gitti! Hata kopyalandı, buraya tıklayarak Discord'umuza katılın ve hatayı #support kanalına yapıştırın, size yardımcı olacağız!",
+    "tryAgain": "Tekrar deneyin",
+    "stepProgress": "{ Step }. adım (3)",
+    "header": "Crafty'de yeni bir Minecraft Sunucusu Listele",
+    "verification": "Doğrulama",
+    "tellMore": "Bize { Name } hakkında daha fazla şey söyle",
+    "serverName": "Sunucu Adı",
+    "serverIp": "Sunucu Adresi",
+    "serverPort": "Sunucu Portu",
+    "type": "Tür/Platform",
+    "ping": "DEVAM ETMEK İÇİN PİNGLE",
+    "verificationMethod": "Doğrulama Yöntemi",
+    "motdInstructions": "Sunucu Açıklamanıza, sunucunun sahibi olduğunuzu veya sunucuyu yönettiğinizi doğrulamak için lütfen aşağıdaki kodu ekleyin",
+    "txtInstructions": "DNS ayarlarınızda, { Code } adresine bir TXT kaydı oluşturun ve içeriğe şu kodu ekleyin",
+    "note": " DNS'nin güncellenmesinin biraz zaman aldığını lütfen unutmayın, bu nedenle her birkaç saniyede bir kontrol etmeye devam edin",
+    "verified": "Doğrulandı",
+    "tags": "Etiketler",
+    "languages": "Dil(ler)",
+    "maxLanguages": "Maksimum 3 Dil",
+    "version": "Sürüm",
+    "short": "Kısa Açıklama",
+    "long": "Uzun Açıklama",
+    "charsRemaining": "kalan karakter",
+    "descLimit": "(maksimum { Number } karakter)",
+    "website": "İnternet Sitesi",
+    "previous": "Önceki",
+    "next": "Sonraki",
+    "complete": "Tamamla",
+    "errors": {
+      "loggedIn": "Sunucunuzu Crafty'de listelemek için oturum açmış olmanız gerekiyor. Sitenin sağ üst köşesinden oturum açın.",
+      "offline": "Sunucunuz çevrimdışı. Tekrar göndermeden önce çevrimiçi olduğundan emin olun."
+    }
+  },
+  "player": {
+    "claim": "Hesap Sahiplen",
+    "enterName": " Lütfen sahiplenmek istediğiniz hesabın adını girin",
+    "username": "Kullanıcı Adı",
+    "step1": "Lütfen kodunuzu oluşturmak için doğrulama Minecraft sunucumuza giriş yapın",
+    "step2": "Minecraft Java Sürümü 1.8 - 1.17 sürümlerini destekler",
+    "step3": "Minecraft sunucusuna girdiğinizde, kodunuzu içeren bir mesaj göreceksiniz.",
+    "step4": "Devam etmek için lütfen dört haneli kodu aşağıdaki kutuya yazın.",
+    "4digit": "4 Haneli Kod",
+    "restart": "yeniden başlat",
+    "verify": "Doğrula"
+  }
+}

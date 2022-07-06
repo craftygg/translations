@@ -1,0 +1,10 @@
+{
+	"name": "màn_hình_chết",
+	"description": "Màn hình chết như trong Minecraft",
+	"textChoiceName": "nội_dung",
+	"textChoiceDescription": "Nội dung mà bạn muốn",
+	"scoreChoiceName": "điểm",
+	"scoreChoiceDescription": "Số điểm kinh nghiệm tùy ý",
+	"embedAuthor": "Splash của Minecraft",
+	"altText": "Ảnh màn hình chết được tạo bởi Crafty (crafty.gg)"
+}

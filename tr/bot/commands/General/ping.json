@@ -1,0 +1,5 @@
+{
+	"name": "güncelleme",
+	"description": "Crafty için en yeni güncellemelerin neler olduğunu gösterir.",
+	"embedAuthor": "Crafty {{updateVersion}} Güncellemesi"
+}
