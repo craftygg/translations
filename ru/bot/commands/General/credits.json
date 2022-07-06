@@ -1,9 +1,9 @@
 {
 	"name": "credits",
 	"description": "Ознакомьтесь с командой Crafty и с тем, какие сервисы мы используем.",
-	"descriptionContent": "These are the tools and people that bring you Crafty.",
+	"descriptionContent": "Это те инструменты и люди, которые помогают работать Crafty.",
 	"devs": "Разработчики",
 	"staff": "Персонал",
 	"tools": "Инструменты",
-	"credits": "Crafty Credits"
+	"credits": "Команда Crafty"
 }
