@@ -1,8 +1,8 @@
 {
-  "header": "Находите сервера, игроков и скины Minecraft!",
-  "subheader": "Находите игроков по нику, популярные сервера, уникальные скины и статистики игроков Minecraft! Стройте сообщество Minecraft самим сообществом Minecraft.",
-  "topServers": "Лучшие сервера Minecraft за { Month }",
-  "topPlayers": "Лучшие игроки Minecraft за { Month }",
+  "header": "Откройте для себя сервера, игроков и скины Minecraft!",
+  "subheader": "Находите игроков по нику, популярные сервера, уникальные скины и статистики игроков Minecraft! Создано для сообщества Minecraft, сообществом Minecraft.",
+  "topServers": "Самые популярные сервера Minecraft за { Month }",
+  "topPlayers": "Самые популярные игроки Minecraft за { Month }",
   "topSkins": "Лучшие скины Minecraft за { Month }",
   "mcnews": "Новости Minecraft",
   "latestmcnews": "Последние новости Minecraft",
