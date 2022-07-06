@@ -1,6 +1,6 @@
 {
-	"failPrefix": "I am sorry, but",
-	"supportServer": "Support Server",
-	"addToServer": "Add me to your server!",
-	"premium": "Premium"
+	"failPrefix": "Извините, но",
+	"supportServer": "Сервер поддержки",
+	"addToServer": "Добавьте меня на свой сервер!",
+	"premium": "Премиум"
 }
