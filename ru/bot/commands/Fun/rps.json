@@ -1,6 +1,6 @@
 {
 	"name": "rps",
-	"description": "Камень, бумага или ножницы?",
+	"description": "Камень, ножницы или бумага?",
 	"choiceInputName": "выбор",
 	"choiceInputDescription": "Ваш выбор",
 	"choiceRock": "камень",
