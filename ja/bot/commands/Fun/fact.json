@@ -1,8 +1,8 @@
 {
-	"name": "fact",
-	"description": "Sends you a random fun fact from a collection of over 400.",
-	"factIdInputName": "fact_id",
-	"factIdInputDescription": "The ID of the fact you want to get",
-	"embedTitle": "Minecraft Fact {{id}}",
-	"embedInformation": "Source: [{{source}}]({{link}})\nLast updated: {{updated}}"
+	"name": "豆知識",
+	"description": "400個以上の豆知識の中から、ランダムに一つ選び送信します。",
+	"factIdInputName": "豆知識ID",
+	"factIdInputDescription": "見たい豆知識のID",
+	"embedTitle": "マインクラフトの豆知識 {{id}}",
+	"embedInformation": "ソース: [{{source}}]({{link}})\n最終更新: {{updated}}"
 }
