@@ -1,13 +1,13 @@
 {
-	"name": "rps",
-	"description": "Rock, paper or shears?",
-	"choiceInputName": "choice",
-	"choiceInputDescription": "Your choice",
-	"choiceRock": "rock",
-	"choicePaper": "paper",
-	"choiceShears": "shears",
-	"result": "I chose {{botChoice}} you chose {{choice}}.",
-	"tie": "\nIt's a tie!",
-	"win": "\nYou win",
-	"lose": "\nI win!"
+	"name": "じゃんけん",
+	"description": "じゃんけんぽん！",
+	"choiceInputName": "手",
+	"choiceInputDescription": "出す手",
+	"choiceRock": "グー",
+	"choicePaper": "パー",
+	"choiceShears": "チョキ",
+	"result": "僕……{{botChoice}} 君……{{choice}}",
+	"tie": "\nあいこ！",
+	"win": "\n君の勝ち！",
+	"lose": "\n僕の勝ち！"
 }

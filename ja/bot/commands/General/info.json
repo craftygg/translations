@@ -1,13 +1,13 @@
 {
 	"name": "info",
 	"description": "Provides information about this application, and links for adding it and joining the support server.",
-	"descriptionContent1": "The most advanced Minecraft bot for Discord.",
-	"descriptionContent2": "A must-have bot for your Minecraft community.",
-	"uptime": "Uptime",
-	"serverUsage": "Server Usage",
-	"host": "• **Host**: {{uptime.host}}",
-	"process": "• **Process**: {{uptime.process}}",
-	"cpuLoad": "• **CPU Load**: {{usage.cpuLoad}}",
+	"descriptionContent1": "今までにないほど高機能な、マインクラフト専門のDiscordボット。",
+	"descriptionContent2": "Craftyボットは、あなたのマインクラフトコミュニティーに必要不可欠です。",
+	"uptime": "稼働率",
+	"serverUsage": "サーバー使用率",
+	"host": "・**ホスト**: {{uptime.host}}",
+	"process": "・**プロセス**: {{uptime.process}}",
+	"cpuLoad": "・**CPU負荷**: {{usage.cpuLoad}}",
 	"memoryUsage": "• **Heap**: {{usage.ramUsed}}MB (Total: {{usage.ramTotal}}MB)",
 	"info": "Info"
 }
