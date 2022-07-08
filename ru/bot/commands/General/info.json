@@ -7,7 +7,7 @@
 	"serverUsage": "Использование сервера",
 	"host": "• **Хост**: {{uptime.host}}",
 	"process": "• **Процесс**: {{uptime.process}}",
-	"cpuLoad": "• **CPU Load**: {{usage.cpuLoad}}",
-	"memoryUsage": "• **Heap**: {{usage.ramUsed}}MB (Total: {{usage.ramTotal}}MB)",
-	"info": "Info"
+	"cpuLoad": "- **Нагрузка CPU**: {{usage.cpuLoad}}",
+	"memoryUsage": "• **Использование памяти**: {{usage.ramUsed}}МБ (всего: {{usage.ramTotal}}МБ)",
+	"info": "Информация"
 }
