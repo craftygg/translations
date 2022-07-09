@@ -1,5 +1,5 @@
 {
-	"name": "ping",
-	"description": "Verifique a latência do bot e do Discord.",
-	"content": "🏓 Pong! {{latency}}ms"
+	"name": "atualização",
+	"description": "Mostra quais são as atualizações mais recentes do Crafty.",
+	"embedAuthor": "Atualização {{updateVersion}} do Crafty"
 }

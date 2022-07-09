@@ -1,5 +1,5 @@
 {
-	"name": "ping",
-	"description": "Проверьте задержку между ботом и Discord.",
-	"content": "🏓 Pong! {{latency}}ms"
+	"name": "update",
+	"description": "Показывает последние обновления Crafty.",
+	"embedAuthor": "Обновление Crafty {{updateVersion}}"
 }

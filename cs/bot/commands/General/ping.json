@@ -1,5 +1,5 @@
 {
-	"name": "update",
-	"description": "Shows what the newest updates are for Crafty.",
-	"embedAuthor": "Crafty {{updateVersion}} Update"
+	"name": "ping",
+	"description": "Check round trip latency between the bot and Discord.",
+	"content": "🏓 Pong! {{latency}}ms"
 }
