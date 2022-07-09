@@ -5,9 +5,9 @@
 	"descriptionContent2": "आपके Minecraft समुदाय के लिए बेहद जरूरी बॉट।",
 	"uptime": "सक्रिय अवधि",
 	"serverUsage": "सर्वर उपयोग",
-	"host": "• **होस्ट**: {{uptime.host}}",
-	"process": "• **प्रिक्रिया**: {{uptime.process}}",
-	"cpuLoad": "• **CPU लोड**: {{usage.cpuLoad}}",
-	"memoryUsage": "• **हीप**: {{usage.ramUsed}}MB (कुल: {{usage.ramTotal}}MB)",
+	"host": "• **होस्ट**: {{host}}",
+	"process": "• **प्रिक्रिया**: {{process}}",
+	"cpuLoad": "• **CPU लोड**: {{cpuLoad}}",
+	"memoryUsage": "• **हीप**: {{ramUsed}}MB (कुल: {{ramTotal}}MB)",
 	"info": "जानकारी"
 }

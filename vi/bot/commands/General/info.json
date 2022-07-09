@@ -5,9 +5,9 @@
 	"descriptionContent2": "Một con bot cần có cho cộng đồng Minecraft của bạn.",
 	"uptime": "Thời gian hoạt động",
 	"serverUsage": "Tình trạng server",
-	"host": "• **Host**: {{uptime.host}}",
-	"process": "• **Xử lí**: {{uptime.process}}",
-	"cpuLoad": "• **Mức sử dụng CPU**: {{usage.cpuLoad}}",
-	"memoryUsage": "• **Đang xử lí**: {{usage.ramUsed}}MB (Tổng cộng: {{usage.ramTotal}}MB)",
+	"host": "• **Host**: {{host}}",
+	"process": "• **Xử lí**: {{process}}",
+	"cpuLoad": "• **Mức sử dụng CPU**: {{cpuLoad}}",
+	"memoryUsage": "• **Đang xử lí**: {{ramUsed}}MB (Tổng cộng: {{ramTotal}}MB)",
 	"info": "Thông tin"
 }

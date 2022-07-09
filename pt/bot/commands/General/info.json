@@ -5,9 +5,9 @@
 	"descriptionContent2": "O Crafty é essencial para sua comunidade de Minecraft.",
 	"uptime": "Tempo de atividade",
 	"serverUsage": "Uso do servidor",
-	"host": "• **Hospedagem**: {{uptime.host}}",
-	"process": "• **Processo**: {{uptime.process}}",
-	"cpuLoad": "• **Carga da CPU**: {{usage.cpuLoad}}",
-	"memoryUsage": "• **Memória RAM**: {{usage.ramUsed}}MB (Total: {{usage.ramTotal}}MB)",
+	"host": "• **Hospedagem**: {{host}}",
+	"process": "• **Processo**: {{process}}",
+	"cpuLoad": "• **Carga da CPU**: {{cpuLoad}}",
+	"memoryUsage": "• **Memória RAM**: {{ramUsed}}MB (Total: {{ramTotal}}MB)",
 	"info": "Informações"
 }
