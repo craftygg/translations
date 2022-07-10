@@ -1,5 +1,5 @@
 {
-	"name": "güncelleme",
-	"description": "Crafty için en yeni güncellemelerin neler olduğunu gösterir.",
-	"embedAuthor": "Crafty {{updateVersion}} Güncellemesi"
+	"name": "ping",
+	"description": "Bot ve Discord arasındaki gidiş-dönüş gecikme süresini kontrol edin.",
+	"content": "🏓 Pong! {{latency}}ms"
 }

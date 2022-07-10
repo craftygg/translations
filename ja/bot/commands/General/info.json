@@ -5,9 +5,9 @@
 	"descriptionContent2": "Craftyボットは、あなたのマインクラフトコミュニティーに必要不可欠です。",
 	"uptime": "稼働率",
 	"serverUsage": "サーバー使用率",
-	"host": "・**ホスト**: {{uptime.host}}",
-	"process": "・**プロセス**: {{uptime.process}}",
-	"cpuLoad": "・**CPU負荷**: {{usage.cpuLoad}}",
-	"memoryUsage": "• **Heap**: {{usage.ramUsed}}MB (Total: {{usage.ramTotal}}MB)",
+	"host": "・**ホスト**: {{host}}",
+	"process": "・**プロセス**: {{process}}",
+	"cpuLoad": "・**CPU負荷**: {{cpuLoad}}",
+	"memoryUsage": "• **Heap**: {{ramUsed}}MB (Total: {{ramTotal}}MB)",
 	"info": "Info"
 }

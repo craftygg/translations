@@ -1,5 +1,5 @@
 {
-	"name": "cập_nhật",
-	"description": "Xem qua cập nhật gần đây nhất của Crafty.",
-	"embedAuthor": "Bản cập nhật {{updateVersion}} của Crafty"
+	"name": "ping",
+	"description": "Kiểm tra độ trễ của bot với Discord.",
+	"content": "🏓 Pong! {{latency}}ms"
 }

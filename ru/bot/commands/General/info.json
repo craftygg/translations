@@ -5,9 +5,9 @@
 	"descriptionContent2": "Crafty - необходимый бот для вашего сообщества по Minecraft.",
 	"uptime": "Аптайм",
 	"serverUsage": "Использование сервера",
-	"host": "• **Хост**: {{uptime.host}}",
-	"process": "• **Процесс**: {{uptime.process}}",
-	"cpuLoad": "- **Нагрузка CPU**: {{usage.cpuLoad}}",
-	"memoryUsage": "• **Использование памяти**: {{usage.ramUsed}}МБ (всего: {{usage.ramTotal}}МБ)",
+	"host": "• **Хост**: {{host}}",
+	"process": "• **Процесс**: {{process}}",
+	"cpuLoad": "- **Нагрузка CPU**: {{cpuLoad}}",
+	"memoryUsage": "• **Использование памяти**: {{ramUsed}}МБ (всего: {{ramTotal}}МБ)",
 	"info": "Информация"
 }
