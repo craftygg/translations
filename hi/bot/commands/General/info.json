@@ -1,13 +1,13 @@
 {
 	"name": "जानकारी",
-	"description": "इस एप्लिकेशन के बारे में जानकारी प्रदान करता है, और इसे जोड़ने और समर्थन सर्वर में शामिल होने के लिए लिंक प्रदान करता है।",
+	"description": "एप्लीकेशन की जानकारी, इसे जोड़ने और समर्थन सर्वर में शामिल होने की लिंक प्रदान करता है।",
 	"descriptionContent1": "Discord के लिए सबसे उन्नत Minecraft बॉट।",
 	"descriptionContent2": "आपके Minecraft समुदाय के लिए बेहद जरूरी बॉट।",
 	"uptime": "सक्रिय अवधि",
 	"serverUsage": "सर्वर उपयोग",
-	"host": "• **होस्ट**: {{host}}",
-	"process": "• **प्रिक्रिया**: {{process}}",
-	"cpuLoad": "• **CPU लोड**: {{cpuLoad}}",
-	"memoryUsage": "• **हीप**: {{ramUsed}}MB (कुल: {{ramTotal}}MB)",
+	"host": "• **Host**: {{host}}",
+	"process": "• **Process**: {{process}}",
+	"cpuLoad": "• **CPU Load**: {{cpuLoad}}",
+	"memoryUsage": "• **Heap**: {{ramUsed}}MB (Total: {{ramTotal}}MB)",
 	"info": "जानकारी"
 }
