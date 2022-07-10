@@ -1,5 +1,5 @@
 {
 	"name": "ping",
-	"description": "Verifique a latência do bot e do Discord.",
+	"description": "Check round trip latency between the bot and Discord.",
 	"content": "🏓 Pong! {{latency}}ms"
 }
