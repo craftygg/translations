@@ -1,5 +1,5 @@
 {
 	"name": "ping",
-	"description": "बॉट और Discord के मध्य विलंबता समय की जांच करता है।",
-	"content": "🏓 पोंग! {{latency}}ms"
+	"description": "Check round trip latency between the bot and Discord.",
+	"content": "🏓 Pong! {{latency}}ms"
 }
