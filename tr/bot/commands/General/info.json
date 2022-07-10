@@ -5,9 +5,9 @@
 	"descriptionContent2": "Minecraft topluluğunuz için sahip olunması gereken bir bot.",
 	"uptime": "Çalışma Süresi",
 	"serverUsage": "Sunucu Kullanımı",
-	"host": "• **Host**: {{host}}",
-	"process": "• **Process**: {{process}}",
-	"cpuLoad": "• **CPU Load**: {{cpuLoad}}",
-	"memoryUsage": "• **Heap**: {{ramUsed}}MB (Total: {{ramTotal}}MB)",
+	"host": "• **Sunucu**: {{host}}",
+	"process": "• **İşlem**: {{process}}",
+	"cpuLoad": "• **İşlemci Yükü**: {{cpuLoad}}",
+	"memoryUsage": "• **Bellek Yığını**: {{ramUsed}}MB (Toplam: {{ramTotal}}MB)",
 	"info": "Bilgi"
 }
