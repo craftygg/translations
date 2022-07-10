@@ -1,5 +1,5 @@
 {
-	"name": "güncelleme",
-	"description": "Crafty için en yeni güncellemelerin neler olduğunu gösterir.",
-	"embedAuthor": "Crafty {{updateVersion}} Güncellemesi"
+	"name": "update",
+	"description": "Shows what the newest updates are for Crafty.",
+	"embedAuthor": "Crafty {{updateVersion}} Update"
 }
