@@ -5,7 +5,7 @@
 	"descriptionContent2": "A must-have bot for your Minecraft community.",
 	"uptime": "开机时间",
 	"serverUsage": "服务器使用",
-	"host": "• **主机**: {{host}}",
+	"host": "• **Host**: {{host}}",
 	"process": "• **Process**: {{process}}",
 	"cpuLoad": "• **CPU Load**: {{cpuLoad}}",
 	"memoryUsage": "• **Heap**: {{ramUsed}}MB (Total: {{ramTotal}}MB)",
