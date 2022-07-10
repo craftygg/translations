@@ -6,8 +6,8 @@
 	"uptime": "Thời gian hoạt động",
 	"serverUsage": "Tình trạng server",
 	"host": "• **Host**: {{host}}",
-	"process": "• **Xử lí**: {{process}}",
-	"cpuLoad": "• **Mức sử dụng CPU**: {{cpuLoad}}",
-	"memoryUsage": "• **Đang xử lí**: {{ramUsed}}MB (Tổng cộng: {{ramTotal}}MB)",
+	"process": "• **Process**: {{process}}",
+	"cpuLoad": "• **CPU Load**: {{cpuLoad}}",
+	"memoryUsage": "• **Heap**: {{ramUsed}}MB (Total: {{ramTotal}}MB)",
 	"info": "Thông tin"
 }

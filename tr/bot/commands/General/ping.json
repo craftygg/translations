@@ -1,5 +1,5 @@
 {
 	"name": "ping",
-	"description": "Bot ve Discord arasındaki gidiş-dönüş gecikme süresini kontrol edin.",
+	"description": "Bot ve Discord arasındaki gidiş-dönüş gecikme süresini kontrol et.",
 	"content": "🏓 Pong! {{latency}}ms"
 }
