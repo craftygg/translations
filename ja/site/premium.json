@@ -13,8 +13,8 @@
   "off": "OFF",
   "emerald": {
     "slug": "カスタムユーザーURL（/users/custom-url）",
-    "color": "サーバー、プレイヤーページのテーマ色のカスタマイズ",
-    "access": "Crafty公式Discord上でのEmerald専用特典へのアクセス",
+    "color": "サーバーページ・プレイヤーページのテーマ色のカスタマイズ",
+    "access": "Crafty公式Discordサーバー上でのEmerald専用特典へのアクセス",
     "icon": "crafty.ggプロフィールでのEmeraldアイコンの表示",
     "serverTracking": "1個のサーバートラッキングスロットへのアクセス",
     "dmCommands": "ボットへのDM上でのコマンドの使用",
@@ -25,7 +25,7 @@
     "customImage": "サーバーページ上でのカスタム画像の表示",
     "serverDescription": "サーバー説明欄の文字数制限の500文字から1500文字への引き上げ",
     "moreTags": "サーバーに追加可能な最大タグ数の5個から9個への引き上げ",
-    "access": "Crafty公式Discord上でのRuby専用特典へのアクセス",
+    "access": "Crafty公式Discordサーバー上でのRuby専用特典へのアクセス",
     "icon": "crafty.ggプロフィールでのRubyアイコンの表示",
     "removeCooldowns": "コマンド使用のクールダウンの削除",
     "serverTracking": "2個のサーバートラッキングスロットへのアクセス",
@@ -34,7 +34,7 @@
   "diamond": {
     "slug": "カスタム サーバーURL（/servers/custom-url）",
     "earlyAccess": "機能を先行体験し、フィードバックを提供する",
-    "access": "Crafty公式Discord上でのDiamond専用特典へのアクセス",
+    "access": "Crafty公式Discordサーバー上でのDiamond専用特典へのアクセス",
     "icon": "crafty.ggプロフィールでのDiamondアイコンの表示",
     "removeUpvote": "Discordサーバー内の全ユーザーの投票要件とクールダウンの削除",
     "serverTracking": "3個のサーバートラッキングスロットへのアクセス",
