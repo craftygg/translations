@@ -1,6 +1,6 @@
 {
-	"name": "villager",
-	"description": "Translates a message to villager speech",
-	"messageInputName": "message",
-	"messageInputDescription": "Text to translate"
+	"name": "روستایی",
+	"description": "ترجمه یک پیام به زبان روستایی ها",
+	"messageInputName": "پیام",
+	"messageInputDescription": "متن برای ترجمه"
 }
