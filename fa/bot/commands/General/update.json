@@ -1,5 +1,5 @@
 {
-	"name": "update",
-	"description": "Shows what the newest updates are for Crafty.",
-	"embedAuthor": "Crafty {{updateVersion}} Update"
+	"name": "بروزرسانی",
+	"description": "ویژگی های بروزرسانی های جدید کرفتی را نمایش می دهد.",
+	"embedAuthor": "کرفتی نسخه {{updateVersion}}"
 }
