@@ -1,9 +1,9 @@
 {
-	"name": "vote",
-	"description": "Support the bot by voting for it.",
-	"upvotingDescription": "Upvoting is a free way to show your support for Crafty. It helps increase Craftys ranking on Discord bot listing websites. Below are a few ways you can upvote Crafty.\n",
-	"voteLocking": "Vote locking",
-	"voteLockingDescription": "While using Crafty you may notice that some commands require you to upvote Crafty for you to continue. This lock is in place to slowdown traffic on highly used commands. If you're unable to upvote or would like to skip it, you can use /vote skip. Skipping the upvote will remove the votelock on commands.",
-	"upvoteRewards": "(Upvote rewards)",
-	"embedAuthor": "Upvote Crafty"
+	"name": "رائ‌دادن",
+	"description": "از بات با رائ دادن به آن حمایت کنید.",
+	"upvotingDescription": "رائ دادن به کرفتی یک راه رایگان برای پشتیبانی از کرفتی می باشد. این به کرفتی کمک می‌کند که رده‌اش در سطح‌بندی سایت های لیست بات دیسکورد بالاتر برود. چند راه برای رائ دادن به کرفتی وجود دارد که به شرح زیر است.\n",
+	"voteLocking": "قفل رائ",
+	"voteLockingDescription": "وقتی که از کرفتی استفاده می کنید، ممکن است متوجه شده باشید که بعضی دستورات نیازمند به این هستند که شما به کرفتی رائ بدهید تا بتوانید آنها را اجرا کنید. این قفل برای این به وجود آمده که مقداری از ترافیک سنگین دستورات پراستفاده کم شود. اگر شما نمی توانید رائ دهید یا دوست دارید از آن بگذرید، می توانید از دستور ‎/vote skip استفاده کنید. گذشتن از رائ دادن باعث حذف قفل رائ روی دستورات خواهد شد.",
+	"upvoteRewards": "(جوایز رائ دادن)",
+	"embedAuthor": "رائ دادن به کرفتی"
 }
