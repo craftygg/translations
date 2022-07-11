@@ -1,8 +1,8 @@
 {
-	"name": "achievement",
-	"description": "Crafty Advancement Generator",
-	"itemChoiceName": "item",
-	"itemChoiceDescription": "Choose Minecraft item",
+	"name": "دستاوردها",
+	"description": "دستاوردساز کرفتی",
+	"itemChoiceName": "آیتم",
+	"itemChoiceDescription": "یک آیتم ماینکرافت انتخاب کنید",
 	"titleChoiceName": "title",
 	"titleChoiceDescription": "Set Achievement title",
 	"descriptionChoiceName": "description",
