@@ -1,5 +1,5 @@
 {
-	"name": "invite",
-	"description": "Check how you can invite me.",
-	"content": "You can invite me anytime by opening my user card. You can also use the following link [link]({{inviteLink}})"
+	"name": "دعوت",
+	"description": "بررسی اینکه چجوری می توانید مرا به سرور دعوت کنید.",
+	"content": "شما هروقت که بخواهید می توانید مرا از طریق باز کردن پروفایلم در دیسکورد به سروری اضافه کنید. همچنین می توانید از لینک مقابل برای دعوت من استفاده کنید [link]({{inviteLink}})"
 }
