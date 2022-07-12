@@ -1,13 +1,13 @@
 {
 	"name": "info",
-	"description": "Provides information about this application, and links for adding it and joining the support server.",
-	"descriptionContent1": "The most advanced Minecraft bot for Discord.",
-	"descriptionContent2": "A must-have bot for your Minecraft community.",
-	"uptime": "Uptime",
-	"serverUsage": "Server Usage",
+	"description": "Proporciona información sobre esta aplicación y enlaces para añadirla y unirse al servidor de soporte.",
+	"descriptionContent1": "El bot de Minecraft más avanzado para Discord.",
+	"descriptionContent2": "Un bot indispensable para tu comunidad en Minecraft.",
+	"uptime": "Tiempo en línea",
+	"serverUsage": "Uso del Servidor",
 	"host": "• **Host**: {{host}}",
-	"process": "• **Process**: {{process}}",
-	"cpuLoad": "• **CPU Load**: {{cpuLoad}}",
-	"memoryUsage": "• **Heap**: {{ramUsed}}MB (Total: {{ramTotal}}MB)",
+	"process": "• **Proceso**: {{process}}",
+	"cpuLoad": "• **Carga en CPU**: {{cpuLoad}}",
+	"memoryUsage": "• **Montículo**: {{ramUsed}}MB (Total: {{ramTotal}}MB)",
 	"info": "Info"
 }
