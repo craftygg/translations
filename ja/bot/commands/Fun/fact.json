@@ -1,7 +1,7 @@
 {
 	"name": "豆知識",
 	"description": "400個以上の豆知識の中から、ランダムに一つ選び送信します。",
-	"factIdInputName": "豆知識ID",
+	"factIdInputName": "豆知識id",
 	"factIdInputDescription": "見たい豆知識のID",
 	"embedTitle": "マインクラフトの豆知識 {{id}}",
 	"embedInformation": "ソース: [{{source}}]({{link}})\n最終更新: {{updated}}"
