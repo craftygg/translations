@@ -1,5 +1,5 @@
 {
-	"name": "PvP",
+	"name": "pvp",
 	"description": "Start an epic Minecraft PvP battle in Discord.",
 	"participant1InputName": "participant1",
 	"participant1InputDescription": "The first participant in the pvp battle.",
