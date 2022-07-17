@@ -4,5 +4,6 @@
 	"factIdInputName": "bilgi_id",
 	"factIdInputDescription": "Görmek istediğiniz bilginin id'si",
 	"embedTitle": "Minecraft Bilgisi {{id}}",
-	"embedInformation": "Kaynak: [{{source}}]({{link}})\nSon Güncelleme: {{updated}}"
+	"embedInformation": "Kaynak: [{{source}}]({{link}})\nSon Güncelleme: {{updated}}",
+	"information": "Information"
 }
