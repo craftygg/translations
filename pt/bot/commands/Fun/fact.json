@@ -5,5 +5,5 @@
 	"factIdInputDescription": "O ID do fato que você deseja obter",
 	"embedTitle": "Fato do Minecraft {{id}}",
 	"embedInformation": "Fonte: [{{source}}]({{link}})\nÚltima atualização: {{updated}}",
-	"information": "Information"
+	"information": "Informação"
 }
