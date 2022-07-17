@@ -5,5 +5,5 @@
 	"factIdInputDescription": "उस तथ्य की आईडी जिसे आप प्राप्त करना चाहते हैं",
 	"embedTitle": "Minecraft तथ्य {{id}}",
 	"embedInformation": "स्त्रोत: [{{source}}]({{link}})\nअंतिम अद्यतन: {{updated}}",
-	"information": "Information"
+	"information": "जानकारी"
 }
