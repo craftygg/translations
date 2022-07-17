@@ -4,5 +4,6 @@
 	"factIdInputName": "fact_id",
 	"factIdInputDescription": "The ID of the fact you want to get",
 	"embedTitle": "Minecraft Fact {{id}}",
-	"embedInformation": "Source: [{{source}}]({{link}})\nLast updated: {{updated}}"
+	"embedInformation": "Source: [{{source}}]({{link}})\nLast updated: {{updated}}",
+	"information": "Information"
 }
