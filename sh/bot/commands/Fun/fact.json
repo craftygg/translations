@@ -1,9 +1,9 @@
 {
-	"name": "fact",
-	"description": "Sends you a random fun fact from a collection of over 400.",
-	"factIdInputName": "fact_id",
-	"factIdInputDescription": "The ID of the fact you want to get",
-	"embedTitle": "Minecraft Fact {{id}}",
-	"embedInformation": "Source: [{{source}}]({{link}})\nLast updated: {{updated}}",
-	"information": "Information"
+	"name": "činjenica",
+	"description": "Šalje nasumičnu zabavnu činjenicu iz kolekcije od više 400.",
+	"factIdInputName": "činjenica_id",
+	"factIdInputDescription": "ID činjenice koju želiš da dobiješ",
+	"embedTitle": "Minecraft Činjenica {{id}}",
+	"embedInformation": "Izvor:[{{source}}]({{link}})\nPoslednja izmena: {{updated}}",
+	"information": "Infomacija"
 }
