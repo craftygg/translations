@@ -8,6 +8,6 @@
 	"choiceShears": "makaze",
 	"result": "Ja sam izabrao {{botChoice}} ti si izabrao {{choice}}.",
 	"tie": "\nNerešeno je!",
-	"win": "\nYou win",
-	"lose": "\nI win!"
+	"win": "\nTi si pobedio",
+	"lose": "\nJa sam pobedio!"
 }
