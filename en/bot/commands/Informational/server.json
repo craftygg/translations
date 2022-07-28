@@ -1,8 +1,8 @@
 {
 	"name": "server",
 	"description": "Request information about a Minecraft multiplayer server.",
-	"PlatformInputName": "platform",
-	"PlatformnputDescription": "Choose between a Java edition or Bedrock edition server",
+	"platformInputName": "platform",
+	"platformInputDescription": "Choose between a Java edition or Bedrock edition server",
 	"javaEdition": "Java edition",
 	"bedrockEdition": "Bedrock edition",
 	"addressInputName": "address",
