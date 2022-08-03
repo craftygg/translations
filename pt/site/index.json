@@ -1,15 +1,15 @@
 {
-  "header": "Descubra servidores de Minecraft, Jogadores e Skins!",
-  "subheader": "Pesquise jogadores de Minecraft, servidores de Minecraft mais votados, Skins únicas e Estatísticas de jogadores! Construído para a comunidade de Minecraft, pela comunidade de Minecraft.",
+  "header": "Descubra Servidores de Minecraft, Jogadores e Skins!",
+  "subheader": "Procure nomes de usuários de Minecraft, servidores de Minecraft mais votados, Skins únicas e estatísticas de jogadores! Construído para comunidade de Minecraft, pela comunidade de Minecraft.",
   "topServers": "Servidores de Minecraft mais votados em { Month }",
   "topPlayers": "Jogadores de Minecraft mais votados em { Month }",
-  "topSkins": "Skins de Minecraft mais votadas em { Month }",
+  "topSkins": "Skins de Minecraft mais votados em { Month }",
   "mcnews": "Notícias sobre Minecraft",
-  "latestmcnews": "Últimas notícias sobre Minecraft",
-  "viewmore": "Ver mais",
+  "latestmcnews": "Últimas notícias sobre Mincraft",
+  "viewmore": "Veja mais",
   "explore": "Explorar",
   "noResults": "Sem Resultados",
-  "results": "🔎 Aqui estão os seus resultados",
+  "results": "Aqui está seus resultados",
   "january": "Janeiro",
   "february": "Fevereiro",
   "march": "Março",
@@ -24,15 +24,15 @@
   "December": "Dezembro",
   "footer": {
     "about": "Sobre",
-    "aboutus": "Sobre Nós",
+    "aboutus": "Quem Somos",
     "premium": "Premium",
     "status": "Status",
     "navigation": "Navegação",
     "feedback": "Opiniões",
-    "legal": "Legal",
+    "legal": "Informações Legais",
     "tos": "Termos de Serviço",
     "privacy": "Política de Privacidade",
-    "copyright": "© crafty.gg | Não é afiliado ao Discord ou à Mojang"
+    "copyright": "© crafty.gg | Não é afiliado ao Discord ou Mojang"
   },
-  "reachedBedrock": "Bedrock Alcançado"
+  "reachedBedrock": "Rocha-Mãe Alcançada"
 }
