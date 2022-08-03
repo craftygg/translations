@@ -4,5 +4,6 @@
 	"factIdInputName": "id_факта",
 	"factIdInputDescription": "ID того факта, который вы хотите получить",
 	"embedTitle": "Факт Minecraft {{id}}",
-	"embedInformation": "Источник: [{{source}}]({{link}})\nПоследнее обновление: {{updated}}"
+	"embedInformation": "Источник: [{{source}}]({{link}})\nПоследнее обновление: {{updated}}",
+	"information": "Информация"
 }

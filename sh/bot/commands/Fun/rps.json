@@ -1,13 +1,13 @@
 {
-	"name": "rps",
-	"description": "Rock, paper or shears?",
-	"choiceInputName": "choice",
-	"choiceInputDescription": "Your choice",
-	"choiceRock": "rock",
-	"choicePaper": "paper",
-	"choiceShears": "shears",
-	"result": "I chose {{botChoice}} you chose {{choice}}.",
-	"tie": "\nIt's a tie!",
-	"win": "\nYou win",
-	"lose": "\nI win!"
+	"name": "kpm",
+	"description": "Kamen, paper ili makaze?",
+	"choiceInputName": "izbor",
+	"choiceInputDescription": "Tvoj izbor",
+	"choiceRock": "kamen",
+	"choicePaper": "papir",
+	"choiceShears": "makaze",
+	"result": "Ja sam izabrao {{botChoice}} ti si izabrao {{choice}}.",
+	"tie": "\nNerešeno je!",
+	"win": "\nTi si pobedio",
+	"lose": "\nJa sam pobedio!"
 }

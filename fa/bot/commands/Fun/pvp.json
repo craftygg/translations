@@ -5,5 +5,6 @@
 	"participant1InputDescription": "شرکت کننده اول در این مبارزه پی‌وی‌پی",
 	"participant2InputName": "شرکت‌کننده2",
 	"participant2InputDescription": "شرکت کننده دوم در این مبارزه پی‌وی‌پی",
-	"embedDescription": "⚔️ **{{user1}}** در علیه **{{user2}}**\n\n{{scenario_text}}\n\n🏆 برنده: **{{winner}}**"
+	"embedDescription": "⚔️ **{{user1}}** در علیه **{{user2}}**\n\n{{scenario_text}}\n\n🏆 برنده: **{{winner}}**",
+	"minecraftPvP": "Minecraft PvP"
 }

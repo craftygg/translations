@@ -1,5 +1,5 @@
 {
 	"name": "ping",
-	"description": "Check round trip latency between the bot and Discord.",
+	"description": "ボットとDiscordの通信遅延速度（RTT）を表示します。",
 	"content": "🏓 Pong! {{latency}}ms"
 }

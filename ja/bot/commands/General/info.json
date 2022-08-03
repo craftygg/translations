@@ -1,6 +1,6 @@
 {
-	"name": "info",
-	"description": "Provides information about this application, and links for adding it and joining the support server.",
+	"name": "情報",
+	"description": "このアプリケーションに関する情報や招待用リンク、そしてCraftyサポートサーバーへの参加リンクを表示します。",
 	"descriptionContent1": "今までにないほど高機能な、マインクラフト専門のDiscordボット。",
 	"descriptionContent2": "Craftyボットは、あなたのマインクラフトコミュニティーに必要不可欠です。",
 	"uptime": "稼働率",
@@ -9,5 +9,5 @@
 	"process": "• **Process**: {{process}}",
 	"cpuLoad": "• **CPU Load**: {{cpuLoad}}",
 	"memoryUsage": "• **Heap**: {{ramUsed}}MB (Total: {{ramTotal}}MB)",
-	"info": "Info"
+	"info": "情報"
 }

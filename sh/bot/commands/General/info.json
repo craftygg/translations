@@ -1,13 +1,13 @@
 {
-	"name": "info",
-	"description": "Provides information about this application, and links for adding it and joining the support server.",
-	"descriptionContent1": "The most advanced Minecraft bot for Discord.",
-	"descriptionContent2": "A must-have bot for your Minecraft community.",
-	"uptime": "Uptime",
-	"serverUsage": "Server Usage",
+	"name": "informacije",
+	"description": "Pruža informacije o ovoj aplikaciji, i linkove za dodavanje i ulaz u server za podršku.",
+	"descriptionContent1": "Najnapredniji Minecraft bot za Discord.",
+	"descriptionContent2": "Bot koga morate imati u vašoj Minecraft zajednici.",
+	"uptime": "Vreme rada",
+	"serverUsage": "Korišćenje Servera",
 	"host": "• **Host**: {{host}}",
 	"process": "• **Process**: {{process}}",
-	"cpuLoad": "• **CPU Load**: {{cpuLoad}}",
+	"cpuLoad": "• **CPU Iskorišćenost**: {{cpuLoad}}",
 	"memoryUsage": "• **Heap**: {{ramUsed}}MB (Total: {{ramTotal}}MB)",
-	"info": "Info"
+	"info": "Informacije"
 }

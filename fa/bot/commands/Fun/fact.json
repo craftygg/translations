@@ -4,5 +4,6 @@
 	"factIdInputName": "شناسه_دانستنی",
 	"factIdInputDescription": "شناسه دانستنی که می خواهید آن را دریافت کنید",
 	"embedTitle": "دانستنی ماینکرافت {{id}}",
-	"embedInformation": "منبع: [{{source}}]({{link}})\nآخرین بار بروز شده در: {{updated}}"
+	"embedInformation": "منبع: [{{source}}]({{link}})\nآخرین بار بروز شده در: {{updated}}",
+	"information": "اطلاعات"
 }

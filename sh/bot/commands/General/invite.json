@@ -1,5 +1,5 @@
 {
-	"name": "invite",
-	"description": "Check how you can invite me.",
-	"content": "You can invite me anytime by opening my user card. You can also use the following link [link]({{inviteLink}})"
+	"name": "pozivnica",
+	"description": "Proveri kako možeš da me pozoveš.",
+	"content": "Uvek me možeš pozvati tako što ćeš otvoriti moju korisničku karticu. Možeš iskoristiti i ovaj link [link]({{inviteLink}})"
 }

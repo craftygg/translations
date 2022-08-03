@@ -1,9 +1,9 @@
 {
-	"name": "vote",
-	"description": "Support the bot by voting for it.",
-	"upvotingDescription": "Upvoting is a free way to show your support for Crafty. It helps increase Craftys ranking on Discord bot listing websites. Below are a few ways you can upvote Crafty.\n",
-	"voteLocking": "Vote locking",
-	"voteLockingDescription": "While using Crafty you may notice that some commands require you to upvote Crafty for you to continue. This lock is in place to slowdown traffic on highly used commands. If you're unable to upvote or would like to skip it, you can use /vote skip. Skipping the upvote will remove the votelock on commands.",
-	"upvoteRewards": "(Upvote rewards)",
-	"embedAuthor": "Upvote Crafty"
+	"name": "glasaj",
+	"description": "Podrži bota glasajući za njega.",
+	"upvotingDescription": "Glasanje je besplatan način da podržite Craftyja. Pomaže da Craftyjev rang na Discord bot listama bude veći. Ispod su par načina na koje možeš glasati za Craftyja.\n",
+	"voteLocking": "Zaključivanje glasanja",
+	"voteLockingDescription": "Dok koristite Craftyja možda primetite da neke komande zahtevaju da glasate za Craftyja da nastavite.\nOvo zaključivanje je tu da uspori visoko korišćene komance. Ako ne možete da glasate ili želite da preskočite možete iskoristiti /vote skip. Preskakaje glasanja će obrisati zaključavanje sa komandi.",
+	"upvoteRewards": "(Nagrade za glasanje)",
+	"embedAuthor": "Glasaj za Craftyja"
 }
