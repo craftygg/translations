@@ -1,6 +1,6 @@
 {
-  "name": "server",
-  "description": "Request information about a Minecraft multiplayer server.",
+	"name": "help",
+	"description": "List of all commands",
   "commandName": "command",
   "commandDescription": "Display help for a command.",
   "embedAuthor": "Crafty's commands",
