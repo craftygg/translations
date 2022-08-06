@@ -1,6 +1,6 @@
 {
-	"name": "help",
-	"description": "List of all commands",
+	"name": "trợ_giúp",
+	"description": "Danh sách toàn bộ các lệnh",
 	"commandName": "lệnh",
 	"commandDescription": "Hiển thị hướng dẫn sử dụng lệnh.",
 	"embedAuthor": "Lệnh của Crafty",
