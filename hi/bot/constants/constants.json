@@ -1,6 +1,6 @@
 {
 	"failPrefix": "मैं माफ़ी चाहता हूँ, लेकिन",
-	"failMessage": ":x: An error occurred, please try again later.",
+	"failMessage": ":x: एक त्रुटि हो गयी, कृपया दोबारा प्रयास करें।",
 	"supportServer": "सहायता सर्वर",
 	"addToServer": "मुझे अपने सर्वर में जोड़ें!",
 	"premium": "प्रीमियम"
