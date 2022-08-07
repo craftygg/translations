@@ -1,10 +1,10 @@
 {
   "name": "observador",
   "description": "Gerador de Meme Observador do Crafty",
-  "topChoiceName": "top",
+  "topChoiceName": "topo",
   "topChoiceDescription": "Texto exibido na parte superior",
-  "bottomChoiceName": "bottom",
+  "bottomChoiceName": "fundo",
   "bottomChoiceDescription": "Texto exibido na parte inferior",
   "embedAuthor": "Gerador de Meme Observador do Crafty",
-  "altText": "Meme Observador de Minecraft gerado pelo Crafty (crafty.gg)"
+  "altText": "Meme de Observador de Minecraft gerado pelo Crafty (crafty.gg)"
 }
