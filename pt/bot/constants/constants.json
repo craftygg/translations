@@ -1,7 +1,7 @@
 {
-	"failPrefix": "Sinto muito, mas",
+	"failPrefix": "Lamento, mas",
 	"failMessage": ":x: An error occurred, please try again later.",
 	"supportServer": "Servidor de Suporte",
-	"addToServer": "Me convide para seu servidor!",
+	"addToServer": "Me adicione em seu servidor!",
 	"premium": "Premium"
 }
