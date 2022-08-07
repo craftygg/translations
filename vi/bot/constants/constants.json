@@ -1,5 +1,6 @@
 {
 	"failPrefix": "Tôi xin lỗi, nhưng mà",
+	"failMessage": ":x: An error occurred, please try again later.",
 	"supportServer": "Server hỗ trợ",
 	"addToServer": "Thêm tôi vào server của bạn!",
 	"premium": "Premium"
