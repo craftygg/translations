@@ -1,0 +1,19 @@
+{
+	"name": "profile",
+	"description": "View information about a Minecraft player.",
+	"usernameInputName": "username",
+	"usernameInputDescription": "The username of the user you want to view information about.",
+	"skin": "Skin: [View Skin]({{link}})\n",
+	"optifineCape": "Optifine Cape: [View Optifine Cape]({{link}})\n",
+	"minecraftCape": "Minecraft Cape: [View Cape]({{link}})\n",
+	"skinChanges": "Skin Changes: {{number}} [View all]({{link}})",
+	"embedAuthor": "Minecraft profile for {{username}}",
+	"uuid": "UUID",
+	"textures": "Textures",
+	"information": "Information",
+	"usernameChanges": "Username changes:",
+	"accountType": "Account type:",
+	"nameHistory": "Name history",
+	"firstUsername": "First username",
+	"doesNotExist": ":x: User does not exist."
+}
