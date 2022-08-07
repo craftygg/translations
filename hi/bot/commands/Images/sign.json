@@ -1,5 +1,5 @@
 {
-  "name": "sign",
+  "name": "संकेत",
   "description": "Generates a Minecraft sign with custom text",
   "textChoiceName": "text",
   "textChoiceDescription": "Your text",
