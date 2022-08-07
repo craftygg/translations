@@ -1,5 +1,6 @@
 {
 	"failPrefix": "ببخشید، اما",
+	"failMessage": ":x: An error occurred, please try again later.",
 	"supportServer": "سرور پشتیبانی",
 	"addToServer": "من را به سرور خود اضافه کنید!",
 	"premium": "پریمیوم"
