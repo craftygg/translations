@@ -1,5 +1,6 @@
 {
 	"failPrefix": "申し訳ありませんが、",
+	"failMessage": ":x: An error occurred, please try again later.",
 	"supportServer": "サポートサーバー",
 	"addToServer": "Add me to your server!",
 	"premium": "Premium"

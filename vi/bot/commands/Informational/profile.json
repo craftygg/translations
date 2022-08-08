@@ -1,0 +1,19 @@
+{
+	"name": "hồ_sơ",
+	"description": "Xem thông tin của một người chơi Minecraft.",
+	"usernameInputName": "tên_người_chơi",
+	"usernameInputDescription": "Tên của người chơi mà bạn muốn xem thông tin.",
+	"skin": "Skin: [Xem skin]({{link}})\n",
+	"optifineCape": "Cape Optifine: [Xem cape Optifine]({{link}})\n",
+	"minecraftCape": "Cape Minecraft: [Xem cape]({{link}})\n",
+	"skinChanges": "Số lần đổi skin: {{number}} [Xem tất cả]({{link}})",
+	"embedAuthor": "Hồ sơ người chơi của {{username}}",
+	"uuid": "UUID",
+	"textures": "Skin",
+	"information": "Thông tin",
+	"usernameChanges": "Số lần đổi tên:",
+	"accountType": "Loại tài khoản:",
+	"nameHistory": "Lịch sử đổi tên",
+	"firstUsername": "Tên đầu tiên",
+	"doesNotExist": ":x: Người chơi không tồn tại."
+}

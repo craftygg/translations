@@ -1,5 +1,6 @@
 {
 	"failPrefix": "Žao mi je, ali",
+	"failMessage": ":x: An error occurred, please try again later.",
 	"supportServer": "Server za podršku",
 	"addToServer": "Dodaj me na svoj server!",
 	"premium": "Premium"

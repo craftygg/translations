@@ -1,5 +1,6 @@
 {
 	"failPrefix": "Извините, но",
+	"failMessage": ":x: An error occurred, please try again later.",
 	"supportServer": "Сервер поддержки",
 	"addToServer": "Добавьте меня на свой сервер!",
 	"premium": "Премиум"
