@@ -1,8 +1,8 @@
 {
-	"failPrefix": "Lamento, mas",
+	"failPrefix": "Sinto muito, mas",
 	"failMessage": ":x: Ocorreu um erro, por favor tente novamente mais tarde.",
 	"supportServer": "Servidor de Suporte",
-	"addToServer": "Me adicione em seu servidor!",
+	"addToServer": "Me convide para seu servidor!",
 	"premium": "Premium",
 	"cooldownMessage": ":x: You are on cooldown! Please wait {{seconds}}s to use this again!"
 }
