@@ -3,5 +3,6 @@
 	"failMessage": ":x: An error occurred, please try again later.",
 	"supportServer": "Сервер поддержки",
 	"addToServer": "Добавьте меня на свой сервер!",
-	"premium": "Премиум"
+	"premium": "Премиум",
+	"cooldownMessage": ":x: You are on cooldown! Please wait {{seconds}}s to use this again!"
 }
