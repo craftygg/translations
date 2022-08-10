@@ -4,5 +4,5 @@
 	"supportServer": "Servidor de Suporte",
 	"addToServer": "Me convide para seu servidor!",
 	"premium": "Premium",
-	"cooldownMessage": ":x: You are on cooldown! Please wait {{seconds}}s to use this again!"
+	"cooldownMessage": ":x: Você está em cooldown! Por favor, espere {{seconds}}s para usar isso novamente!"
 }
