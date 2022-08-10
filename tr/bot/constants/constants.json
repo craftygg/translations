@@ -3,5 +3,6 @@
 	"failMessage": ":x: An error occurred, please try again later.",
 	"supportServer": "Destek Sunucusu",
 	"addToServer": "Beni sunucuna ekle!",
-	"premium": "Premium"
+	"premium": "Premium",
+	"cooldownMessage": ":x: You are on cooldown! Please wait {{seconds}}s to use this again!"
 }
