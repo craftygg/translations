@@ -15,11 +15,11 @@
 	"information": "Информация",
 	"players": "Игроки",
 	"playersOnline": "Онлайн: `{{players}}`",
-	"playersMaximium": "Maximum: `{{maximum}}`",
-	"version": "Version",
-	"running": "Running `{{version}}`",
-	"protocol": "Protocol `{{protocol}}`",
-	"modInformation": "Mod Information",
-	"modType": "Mod Type: `{{type}}`",
+	"playersMaximium": "Максимум: `{{maximum}}`",
+	"version": "Версия",
+	"running": "Запущено `{{version}}`",
+	"protocol": "Протокол `{{protocol}}`",
+	"modInformation": "Информация о модификациях",
+	"modType": "Тип модификации: `{{type}}`",
 	"mods": "Mods ({{number}}): "
 }
