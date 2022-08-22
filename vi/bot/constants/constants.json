@@ -4,5 +4,5 @@
 	"supportServer": "Server hỗ trợ",
 	"addToServer": "Thêm tôi vào server của bạn!",
 	"premium": "Premium",
-	"cooldownMessage": ":x: You are on cooldown! Please wait {{seconds}}s to use this again!"
+	"cooldownMessage": ":x: Bạn đang hơi nhanh đó! Vui lòng đợi sau {{seconds}} giây để tiếp tục dùng lệnh!"
 }
