@@ -1,6 +1,6 @@
 {
 	"name": "verzaubern",
 	"description": "Übersetze deine Nachricht in Minecrafts Zaubersprache.",
-	"textInputName": "Text",
+	"textInputName": "text",
 	"textInputDescription": "Der Text zum verzaubern."
 }
