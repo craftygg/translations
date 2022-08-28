@@ -1,7 +1,7 @@
 {
 	"name": "प्रोफाइल",
 	"description": "एक Minecraft खिलाड़ी के बारे में जानकारी प्राप्त करें।",
-	"usernameInputName": "उपयोगकर्ता-नाम",
+	"usernameInputName": "उपयोगकर्ता",
 	"usernameInputDescription": "जिस उपयोगकर्ता के बारे में आप जानकारी प्राप्त करना चाहते हैं उसका नाम।",
 	"skin": "स्किन: [स्किन देखें]({{link}})\n",
 	"optifineCape": "Optifine केप: [Optifine केप देखें]({{link}})\n",
