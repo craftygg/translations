@@ -13,7 +13,7 @@
 	"information": "Information",
 	"usernameChanges": "Username changes:",
 	"accountType": "Account type:",
-	"nameHistory": "Name history",
-	"firstUsername": "First username",
-	"doesNotExist": ":x: User does not exist."
+	"nameHistory": "Historique de noms",
+	"firstUsername": "Premier nom d'utilisateur",
+	"doesNotExist": ":x: Cet utilisateur n'existe pas."
 }
