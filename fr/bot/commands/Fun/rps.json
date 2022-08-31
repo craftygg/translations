@@ -1,13 +1,13 @@
 {
-	"name": "rps",
-	"description": "Rock, paper or shears?",
-	"choiceInputName": "choice",
-	"choiceInputDescription": "Your choice",
-	"choiceRock": "rock",
-	"choicePaper": "paper",
-	"choiceShears": "shears",
-	"result": "I chose {{botChoice}} you chose {{choice}}.",
-	"tie": "\nIt's a tie!",
-	"win": "\nYou win",
-	"lose": "\nI win!"
+	"name": "pierre-feuille-ciseaux",
+	"description": "Pierre, feuille ou ciseaux ?",
+	"choiceInputName": "choix",
+	"choiceInputDescription": "Votre choix",
+	"choiceRock": "pierre",
+	"choicePaper": "feuille",
+	"choiceShears": "ciseaux",
+	"result": "J'ai choisi {{botChoice}}, tu as choisi {{choice}}.",
+	"tie": "\nC'est une égalité !",
+	"win": "\nTu as gagné",
+	"lose": "\nJ'ai gagné !"
 }
