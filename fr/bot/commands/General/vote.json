@@ -1,9 +1,9 @@
 {
 	"name": "vote",
-	"description": "Support the bot by voting for it.",
-	"upvotingDescription": "Upvoting is a free way to show your support for Crafty. It helps increase Craftys ranking on Discord bot listing websites. Below are a few ways you can upvote Crafty.\n",
-	"voteLocking": "Vote locking",
-	"voteLockingDescription": "While using Crafty you may notice that some commands require you to upvote Crafty for you to continue. This lock is in place to slowdown traffic on highly used commands. If you're unable to upvote or would like to skip it, you can use /vote skip. Skipping the upvote will remove the votelock on commands.",
-	"upvoteRewards": "(Upvote rewards)",
-	"embedAuthor": "Upvote Crafty"
+	"description": "Soutenez le bot en votant pour lui.",
+	"upvotingDescription": "Le vote est un moyen gratuit de montrer votre soutien à Crafty. Il aide à augmenter le classement de Crafty sur les sites web de listes de bots Discord. Vous trouverez ci-dessous quelques façons de voter Crafty.\n",
+	"voteLocking": "Verrouillage de vote",
+	"voteLockingDescription": "En utilisant Crafty, vous pourrez remarquer que certaines commandes nécessitentque vous votiez pour Crafty pour continuer. Ce verrouillage est mis en place pour réduire le trafic sur les commandes les plus utilisées. Si vous ne pouvez pas voter ou si vous souhaitez éviter cette étape, vous pouvez utiliser /vote skip. Ignorer le vote supprimera le verrou de vote sur les commandes.",
+	"upvoteRewards": "(Récompenses de vote)",
+	"embedAuthor": "Votez pour Crafty"
 }
