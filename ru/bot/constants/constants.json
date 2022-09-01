@@ -1,8 +1,8 @@
 {
 	"failPrefix": "Извините, но",
-	"failMessage": ":x: An error occurred, please try again later.",
+	"failMessage": ":x: Произошла ошибка, пожалуйста, повторите попытку позже.",
 	"supportServer": "Сервер поддержки",
 	"addToServer": "Добавьте меня на свой сервер!",
 	"premium": "Премиум",
-	"cooldownMessage": ":x: You are on cooldown! Please wait {{seconds}}s to use this again!"
+	"cooldownMessage": ":x: Пожалуйста, подождите {{seconds}} секунд, чтобы использовать это снова!"
 }
