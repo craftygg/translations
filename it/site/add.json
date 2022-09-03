@@ -20,7 +20,7 @@
     "txtInstructions": "In your DNS settings, create a TXT record to { Code } and in the content add the following code",
     "note": " Please note that DNS takes a little while to update, so keep checking every few seconds",
     "verified": "Verified",
-    "tags": "Tags",
+    "tags": "Tag",
     "languages": "Language(s)",
     "maxLanguages": "Max 3 Languages",
     "version": "Version",
@@ -29,7 +29,7 @@
     "charsRemaining": "characters remaining",
     "descLimit": "(max { Number } characters)",
     "website": "Website",
-    "previous": "Previous",
+    "previous": "Precedente",
     "next": "Next",
     "complete": "Complete",
     "errors": {
