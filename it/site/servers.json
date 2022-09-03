@@ -44,14 +44,14 @@
   "votedXTimes": " Voted { X } times",
   "faq": "Frequently Asked Questions",
   "faqSubheader": "Based on what questions players make",
-  "statistics": "Server Statistics",
+  "statistics": "Statistiche del server",
   "viewingStats": "Currently viewing statistics about { Type }",
   "questions": {
     "1": {
       "q": "How do I join { Server }?",
       "a1": "Play on { Server } with Minecraft Java Edition:",
       "a2": "Copy the Server IP",
-      "a3": "from this page.",
+      "a3": "da questa pagina.",
       "a4": "Open Minecraft.",
       "a5": "Click on \"Multiplayer\" and then click \"Add Server\"",
       "a6": "Paste the Server's IP that you have just copied into the \"IP Address\" field.",
