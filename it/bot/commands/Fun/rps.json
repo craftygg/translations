@@ -3,7 +3,7 @@
 	"description": "Rock, paper or shears?",
 	"choiceInputName": "choice",
 	"choiceInputDescription": "Your choice",
-	"choiceRock": "rock",
+	"choiceRock": "sasso",
 	"choicePaper": "paper",
 	"choiceShears": "shears",
 	"result": "I chose {{botChoice}} you chose {{choice}}.",

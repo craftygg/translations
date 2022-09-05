@@ -34,7 +34,7 @@
     },
     "creative": {
       "formatted": "Creative",
-      "desc": "Creative mode servers have creative features enabled. These modes disable Minecraft's survival features, allowing players to build cities and other complex structures with an unlimited amount of blocks. Fly mode is enabled as part of the creative mode to allow for easier building. Servers also allow the use of world editing plugins which makes the building process even easier."
+      "desc": "I server in modalità creativa hanno funzionalità creative abilitate. Queste modalità disabilitano le funzionalità di sopravvivenza di Minecraft, consentendo ai giocatori di costruire città e altre strutture complesse con una quantità illimitata di blocchi. La modalità volo è abilitata come parte della modalità creativa per consentire una costruzione più facile. I server consentono anche l'uso di plugin di editing mondiale che rende il processo di costruzione ancora più facile."
     },
     "mcmmo": {
       "formatted": "McMMO",
@@ -50,7 +50,7 @@
     },
     "prison": {
       "formatted": "Prison",
-      "desc": "Prison servers don't have any wilderness and are instead set entirely within a prison-themed map. Players start at the lowest rank with basic tools and must earn money to rank up and become more powerful. Money is earned by mining resources at predesignated mines, and new mines with more valuable resources are unlocked by ranking up. Players can challenge each other to battle in PvP arenas and even buy plots of land inside the prison to build a base and store valuables."
+      "desc": "I server carcerari non hanno alcun deserto e sono invece impostati interamente all'interno di una mappa a tema carcerario. I giocatori iniziano al rango più basso con gli strumenti di base e devono guadagnare soldi per classificarsi e diventare più potenti. Il denaro viene guadagnato minando risorse in miniere prenominate, e nuove miniere con risorse più preziose vengono sbloccate classificandosi. I giocatori possono sfidarsi a vicenda per combattere in arene PvP e persino comprare appezzamenti di terra all'interno della prigione per costruire una base e memorizzare oggetti di valore."
     },
     "survival": {
       "formatted": "Survival",

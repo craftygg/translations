@@ -2,5 +2,5 @@
 	"name": "villager",
 	"description": "Translates a message to villager speech",
 	"messageInputName": "message",
-	"messageInputDescription": "Text to translate"
+	"messageInputDescription": "Testo da tradurre"
 }

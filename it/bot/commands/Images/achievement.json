@@ -4,7 +4,7 @@
 	"itemChoiceName": "item",
 	"itemChoiceDescription": "Choose Minecraft item",
 	"titleChoiceName": "title",
-	"titleChoiceDescription": "Set Achievement title",
+	"titleChoiceDescription": "Imposta il titolo dell'Obiettivo",
 	"descriptionChoiceName": "description",
 	"descriptionChoiceDescription": "Set Achievement description",
 	"embedAuthor": "Crafty Advancement Generator",
