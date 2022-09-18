@@ -1,13 +1,13 @@
 {
 	"name": "rps",
-	"description": "Rock, paper or shears?",
-	"choiceInputName": "choice",
-	"choiceInputDescription": "Your choice",
-	"choiceRock": "rock",
-	"choicePaper": "paper",
-	"choiceShears": "shears",
-	"result": "I chose {{botChoice}} you chose {{choice}}.",
-	"tie": "\nIt's a tie!",
-	"win": "\nYou win",
-	"lose": "\nI win!"
+	"description": "¿Piedra, papel o tijeras?",
+	"choiceInputName": "elección",
+	"choiceInputDescription": "Tu elección",
+	"choiceRock": "roca",
+	"choicePaper": "papel",
+	"choiceShears": "tijeras",
+	"result": "Escogí {{botChoice}} tú escogiste {{choice}}.",
+	"tie": "\n¡Empate!",
+	"win": "\nTú ganas",
+	"lose": "\n¡Yo gano!"
 }
