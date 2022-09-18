@@ -1,8 +1,8 @@
 {
 	"failPrefix": "Lo siento, pero",
-	"failMessage": ":x: An error occurred, please try again later.",
-	"supportServer": "Support Server",
-	"addToServer": "Add me to your server!",
+	"failMessage": ":x: Se ha producido un error, por favor, inténtalo de nuevo más tarde.",
+	"supportServer": "Servidor de Soporte",
+	"addToServer": "¡Añádeme a tu servidor!",
 	"premium": "Premium",
-	"cooldownMessage": ":x: You are on cooldown! Please wait {{seconds}}s to use this again!"
+	"cooldownMessage": ":x: ¡Estás en cooldown! ¡Por favor, espera {{seconds}}s para volver a usarlo!"
 }
