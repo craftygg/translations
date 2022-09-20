@@ -4,7 +4,7 @@
 	"commandName": "comando",
 	"commandDescription": "Muestra ayuda para un comando.",
 	"embedAuthor": "Comandos de Crafty",
-	"embedDescription": "Para usar un comando escribe: `/<command name>` por ejemplo: `/ayuda` También puedes mencionarme para usar un comando, por ejemplo: <@431402543336390666> ayuda Para más información sobre un comando escribe: `/help <command name>`",
+	"embedDescription": "Para usar un comando escribe: `/<nombre del comando>` por ejemplo: `/ayuda` También puedes mencionarme para usar un comando, por ejemplo: <@431402543336390666> ayuda Para más información sobre un comando escribe: `/ayuda <nombre del comando>`",
 	"informational": "Informativo",
 	"servers": "Servidores",
 	"hypixel": "Hypixel",
