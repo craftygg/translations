@@ -8,6 +8,6 @@
 	"host": "• **Host**: {{host}}",
 	"process": "• **Prozess**: {{process}}",
 	"cpuLoad": "• **CPU Ladung**: {{cpuLoad}}",
-	"memoryUsage": "• **Heap**: {{ramUsed}}MB (Total: {{ramTotal}}MB)",
+	"memoryUsage": "• **Heap**: {{ramUsed}}MB (Gesamt: {{ramTotal}}MB)",
 	"info": "Info"
 }
