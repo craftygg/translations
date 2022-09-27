@@ -1,5 +1,5 @@
 {
-	"name": "ping",
-	"description": "ボットとDiscordの通信遅延速度（RTT）を表示します。",
-	"content": "🏓 Pong! {{latency}}ms"
+	"name": "やっほー",
+	"description": "ボットとDiscordの通信遅延速度（RTT）を確認します（やまびこ風）。",
+	"content": "🏔 やっほー！（{{latency}}ms）"
 }
