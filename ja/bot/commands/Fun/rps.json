@@ -6,7 +6,7 @@
 	"choiceRock": "グー",
 	"choicePaper": "パー",
 	"choiceShears": "チョキ",
-	"result": "僕……{{botChoice}} 君……{{choice}}",
+	"result": "僕は{{botChoice}}、君は{{choice}}！",
 	"tie": "\nあいこ！",
 	"win": "\n君の勝ち！",
 	"lose": "\n僕の勝ち！"

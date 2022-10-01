@@ -1,6 +1,6 @@
 {
-	"name": "kill",
-	"description": "Kill someone.",
-	"opponentInputName": "opponent",
-	"opponentInputDescription": "Oppponent to kill."
+	"name": "abschlachten",
+	"description": "Schlachte jemanden ab.",
+	"opponentInputName": "Feind",
+	"opponentInputDescription": "Feind abzuschlachten."
 }
