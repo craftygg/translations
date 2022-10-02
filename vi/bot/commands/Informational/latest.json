@@ -1,10 +1,10 @@
 {
-  "name": "latest",
-  "description": "Shows the latest Minecraft Java edition release and snapshot.",
-  "embedTitle": "Latest Minecraft Release and Snapshot",
-  "version": "Version",
-  "currentJavaTitle": "Current Java Edition Release",
-  "latestJavaTitle": "Latest Java Edition Version",
-  "bedrockTitle": "Latest & Current Bedrock Edition Release & Version",
-  "timePublished": "Time Published"
+  "name": "phiên_bản_game_mới_nhất",
+  "description": "Hiển thị phiên bản mới nhất và các snapshot của Java Minecraft.",
+  "embedTitle": "Các phiên bản Minecraft mới nhất",
+  "version": "Phiên bản",
+  "currentJavaTitle": "Phiên bản Java chính thức hiện tại",
+  "latestJavaTitle": "Phiên bản Java mới nhất",
+  "bedrockTitle": "Phiên bản Bedrock Minecraft hiện tại và mới nhất",
+  "timePublished": "Thời gian phát hành"
 }
