@@ -1,10 +1,10 @@
 {
-  "name": "latest",
-  "description": "Shows the latest Minecraft Java edition release and snapshot.",
-  "embedTitle": "Latest Minecraft Release and Snapshot",
-  "version": "Version",
-  "currentJavaTitle": "Current Java Edition Release",
-  "latestJavaTitle": "Latest Java Edition Version",
-  "bedrockTitle": "Latest & Current Bedrock Edition Release & Version",
-  "timePublished": "Time Published"
+  "name": "güncel",
+  "description": "En güncel Minecraft Java sürümünü ve snapshot'ını gösterir.",
+  "embedTitle": "En Güncel Minecraft Sürümü ve Snapshot'ı",
+  "version": "Sürüm",
+  "currentJavaTitle": "Güncel Java Edition Sürümü",
+  "latestJavaTitle": "En Güncel Java Edition Sürümü",
+  "bedrockTitle": "En Son ve Güncel Bedrock Edition Sürümü ve Versiyonu",
+  "timePublished": "Yayınlanma Zamanı"
 }
