@@ -1,0 +1,10 @@
+{
+  "name": "recente",
+  "description": "Mostra a versão mais recente do Minecraft Java e o snapshot.",
+  "embedTitle": "Último lançamento no Minecraft e Snapshot",
+  "version": "Versão",
+  "currentJavaTitle": "Versão atual da Edição Java",
+  "latestJavaTitle": "Versão mais recente da Edição Java",
+  "bedrockTitle": "Versão mais recente e atual da Edição Bedrock",
+  "timePublished": "Horário Publicado"
+}

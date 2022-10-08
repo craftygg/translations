@@ -1,0 +1,10 @@
+{
+  "name": "güncel",
+  "description": "En güncel Minecraft Java sürümünü ve snapshot'ını gösterir.",
+  "embedTitle": "En Güncel Minecraft Sürümü ve Snapshot'ı",
+  "version": "Sürüm",
+  "currentJavaTitle": "Güncel Java Edition Sürümü",
+  "latestJavaTitle": "En Güncel Java Edition Sürümü",
+  "bedrockTitle": "En Son ve Güncel Bedrock Edition Sürümü ve Versiyonu",
+  "timePublished": "Yayınlanma Zamanı"
+}
