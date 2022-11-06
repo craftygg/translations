@@ -1,7 +1,7 @@
 {
 	"name": "ssp",
 	"description": "Schere, Stein oder Papier?",
-	"choiceInputName": "Entscheidung",
+	"choiceInputName": "entscheidung",
 	"choiceInputDescription": "Deine Entscheidung",
 	"choiceRock": "Stein",
 	"choicePaper": "Papier",
