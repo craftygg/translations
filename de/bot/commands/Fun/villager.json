@@ -1,5 +1,5 @@
 {
-	"name": "Dorfbewohner",
+	"name": "dorfbewohner",
 	"description": "Übersetzte eine Nachricht zu Dorfbewohnersprache",
 	"messageInputName": "Nachricht",
 	"messageInputDescription": "Text zum übersetzten"
