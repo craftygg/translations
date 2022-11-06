@@ -1,7 +1,7 @@
 {
 	"name": "profilo",
 	"description": "Vedi le informazioni di un giocatore di Minecraft.",
-	"usernameInputName": "nome utente",
+	"usernameInputName": "nome_utente",
 	"usernameInputDescription": "Il nome utente dell'utente su cui si desidera visualizzare le informazioni.",
 	"skin": "Skin: [Visualizza Skin]({{link}})\n",
 	"optifineCape": "Cape Optifine: [Vedi Cape Optifine]({{link}})\n",
