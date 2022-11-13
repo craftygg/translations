@@ -1,6 +1,6 @@
 {
 	"name": "serveur",
-	"description": "Request information about a Minecraft multiplayer server.",
+	"description": "Demander des informations sur un serveur Minecraft multijoueur.",
 	"platformInputName": "plateforme",
 	"platformInputDescription": "Choisissez entre un serveur d'édition Java ou Bedrock",
 	"javaEdition": "Édition Java",
