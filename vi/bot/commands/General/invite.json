@@ -1,5 +1,5 @@
 {
 	"name": "mời",
 	"description": "Xem cách để bạn có thể mời tôi.",
-	"content": "You can invite me anytime by opening my user card. You can also use the following [link]({{inviteLink}})."
+	"content": "Bạn có thể thêm tôi vào server của bạn thông qua nút bấm trong hồ sơ người dùng của tôi. Hoặc bạn cũng có thể dùng [link này]({{inviteLink}})."
 }
