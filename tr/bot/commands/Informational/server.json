@@ -1,5 +1,5 @@
 {
-	"name": "server",
+	"name": "sunucu",
 	"description": "Request information about a Minecraft multiplayer server.",
 	"platformInputName": "platform",
 	"platformInputDescription": "Choose between a Java edition or Bedrock edition server",
