@@ -1,8 +1,8 @@
 {
 	"failPrefix": "Üzgünüm, ama",
-	"failMessage": ":x: An error occurred, please try again later.",
+	"failMessage": ":x: Bir sorun oluştu, lütfen daha sonra tekrar dene.",
 	"supportServer": "Destek Sunucusu",
 	"addToServer": "Beni sunucuna ekle!",
 	"premium": "Premium",
-	"cooldownMessage": ":x: You are on cooldown! Please wait {{seconds}}s to use this again!"
+	"cooldownMessage": ":x: Bekleme süresindesiniz! Lütfen bunu tekrar kullanmak için {{seconds}} saniye bekleyin!"
 }
