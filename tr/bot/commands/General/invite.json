@@ -1,5 +1,5 @@
 {
 	"name": "davet_et",
 	"description": "Beni nasıl davet edebileceğine bak.",
-	"content": "Kullanıcı kartımı açarak beni istediğiniz zaman davet edebilirsiniz. Veya bu bağlantıyı da kullanabilirsiniz [link]({{inviteLink}})"
+	"content": "Kullanıcı kartımı açarak beni istediğiniz zaman davet edebilirsiniz. Ayrıca [link]({{inviteLink}}) bağlantısını da kullanabilirsiniz."
 }

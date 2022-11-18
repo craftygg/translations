@@ -1,5 +1,5 @@
 {
 	"name": "mời",
 	"description": "Xem cách để bạn có thể mời tôi.",
-	"content": "Bạn có thể mời tôi vào server của bạn mọi lúc với nút thêm vào server trong hồ sơ của tôi. Hoặc bạn cũng có thể dùng [link này]({{inviteLink}})"
+	"content": "Bạn có thể thêm tôi vào server của bạn thông qua nút bấm trong hồ sơ người dùng của tôi. Hoặc bạn cũng có thể dùng [link này]({{inviteLink}})."
 }

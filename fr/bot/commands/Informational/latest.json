@@ -1,10 +1,10 @@
 {
-  "name": "latest",
-  "description": "Shows the latest Minecraft Java edition release and snapshot.",
-  "embedTitle": "Latest Minecraft Release and Snapshot",
+  "name": "dernier",
+  "description": "Affiche la dernière version stable et snapshot de Minecraft Java.",
+  "embedTitle": "Dernière Version Stable et Snapshot de Minecraft",
   "version": "Version",
-  "currentJavaTitle": "Current Java Edition Release",
-  "latestJavaTitle": "Latest Java Edition Version",
-  "bedrockTitle": "Latest & Current Bedrock Edition Release & Version",
-  "timePublished": "Time Published"
+  "currentJavaTitle": "Version actuelle de la Java Edition",
+  "latestJavaTitle": "Dernière version de la Java Edition",
+  "bedrockTitle": "Dernières & Actuelles Version de la Bedrock Edition",
+  "timePublished": "Date de publication"
 }

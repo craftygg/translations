@@ -1,5 +1,5 @@
 {
-	"name": "fact",
+	"name": "fait",
 	"description": "Vous envoie un fait amusant aléatoire à partir d'une collection de plus de 400.",
 	"factIdInputName": "id_du_fait",
 	"factIdInputDescription": "L'ID du fait que vous voudriez voir",

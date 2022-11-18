@@ -1,5 +1,5 @@
 {
 	"name": "invitation",
 	"description": "Regardez comment vous pouvez m'inviter.",
-	"content": "Vous pouvez m'inviter à tout moment en ouvrant mon profil utilisateur. Vous pouvez aussi utiliser le lien suivant : [link]({{inviteLink}})"
+	"content": "Vous pouvez m'inviter à tout moment en ouvrant mon profil utilisateur. Vous pouvez aussi utiliser le lien suivant : [link]({{inviteLink}})."
 }
