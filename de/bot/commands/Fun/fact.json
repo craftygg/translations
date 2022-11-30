@@ -1,6 +1,6 @@
 {
 	"name": "fakt",
-	"description": "Wird dir einen von 400 zufälligen Fun Facts senden.",
+	"description": "Sendet dir einen von 400 zufälligen Witzen.",
 	"factIdInputName": "fact_id",
 	"factIdInputDescription": "Die ID vom Fakt, den du erhalten möchtest",
 	"embedTitle": "Minecraft Fakt {{id}}",
