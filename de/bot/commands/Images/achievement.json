@@ -1,9 +1,9 @@
 {
 	"name": "erfolg",
 	"description": "Crafty Aufstiegs Generator",
-	"itemChoiceName": "Gegenstand",
+	"itemChoiceName": "gegenstand",
 	"itemChoiceDescription": "Wähle das Minecraft Item",
-	"titleChoiceName": "Titel",
+	"titleChoiceName": "titel",
 	"titleChoiceDescription": "Setze den Erfolgs Titel",
 	"descriptionChoiceName": "Beschreibung",
 	"descriptionChoiceDescription": "Setze die Erfolgs Beschreibung",
