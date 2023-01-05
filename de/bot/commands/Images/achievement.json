@@ -5,7 +5,7 @@
 	"itemChoiceDescription": "Wähle das Minecraft Item",
 	"titleChoiceName": "titel",
 	"titleChoiceDescription": "Setze den Erfolgs Titel",
-	"descriptionChoiceName": "Beschreibung",
+	"descriptionChoiceName": "beschreibung",
 	"descriptionChoiceDescription": "Setze die Erfolgs Beschreibung",
 	"embedAuthor": "Crafty Aufstiegs Generator",
 	"altText": "Minecraft achievement generiert von Crafty (crafty.gg)"
