@@ -80,5 +80,9 @@
       "q": "क्या में { Server } को TLauncher से खेल सकता हूँ?",
       "a": "नहीं, { Server } एक Premium Minecraft Server है।"
     }
+  },
+  "spanish": {
+    "headline": "Explore a wide range of servers in your language!",
+    "subheadline": "Join our partner server Minecraft Español to find the latest game news, curiosities and much more translated into Spanish."
   }
 }
