@@ -1,8 +1,6 @@
 {
 	"name": "comugamers",
 	"description": "View information about players of the Comugamers Minecraft server (comugamers.net).",
-	"usernameName": "username",
-	"usernameDescription": "The username of the player you want to view the statistics of.",
 	"notLoggedIn": ":x: User has not logged on to Comugamers.",
 	"embedAuthor": "Comugamer statistics for {{username}}",
 	"info": "Info",
