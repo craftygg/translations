@@ -2,14 +2,14 @@
   "mcaccounts": "Contas de Minecraft",
   "listedServers": "Servidores Listados",
   "slug": "Url",
-  "billing": "Faturamento",
+  "billing": "Fatura",
   "manage": "Gerenciar",
   "general": "Geral",
-  "email": "E-mail",
+  "email": "Email",
   "mainAccount": "Conta Principal do Minecraft",
   "developers": "Desenvolvedores",
-  "updateEmail": "Clique aqui para atualizar o endereço de email",
-  "hits": "Cliques",
+  "updateEmail": "Clique aqui para atualizar seu endereço de e-mail",
+  "hits": "Acessos",
   "key": "Chave",
   "noKey": "Você não tem uma conta de desenvolvedor. Para mais informações visite {{link}}"
 }
