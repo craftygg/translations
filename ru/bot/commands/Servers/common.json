@@ -1,6 +1,6 @@
 {
-	"name": "servers",
-	"description": "View information about players of various popular Minecraft servers",
-	"usernameName": "username",
-	"usernameDescription": "The username of the player you want to view the statistics of."
+	"name": "сервера",
+	"description": "Просмотр информации об игроках различных популярных серверов Minecraft",
+	"usernameName": "никнейм",
+	"usernameDescription": "Никнейм игрока, статистику которого вы хотите просмотреть."
 }
