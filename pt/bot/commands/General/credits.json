@@ -1,7 +1,7 @@
 {
 	"name": "créditos",
-	"description": "Veja a equipe por trás do Crafty e quais serviços nós usamos.",
-	"descriptionContent": "Estas são as ferramentas e pessoas que trabalham no Crafty.",
+	"description": "Veja a equipe por trás do Crafty e que serviços nós usamos.",
+	"descriptionContent": "Estas são as ferramentas e pessoas que desenvolveram o Crafty.",
 	"devs": "Desenvolvedores",
 	"staff": "Equipe",
 	"tools": "Ferramentas",
