@@ -1,10 +1,10 @@
 {
 	"name": "pantalla_de_muerte",
-	"description": "Pantalla de Muerte de Minecraft",
+	"description": "Pantalla de muerte de Minecraft",
 	"textChoiceName": "texto",
 	"textChoiceDescription": "Tu texto",
 	"scoreChoiceName": "puntaje",
 	"scoreChoiceDescription": "Puntaje personalizado",
-	"embedAuthor": "Texto Splash de Minecraft",
+	"embedAuthor": "Textos de inicio de Minecraft",
 	"altText": "Pantalla de muerte de Minecraft generada por Crafty (crafty.gg)"
 }
