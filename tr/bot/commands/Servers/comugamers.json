@@ -10,5 +10,5 @@
 	"globalStatsValue": "💎 Taş: {{gems}}\n⏏️ XP: {{xp}}\n📈 Seviye: {{level}}\n🏆 Elo: {{elo}}",
 	"medals": "\n🏅 Madalya: {{medals}}",
 	"ffa": "Knockback FFA İstatistikleri",
-	"ffaValue": "🪙 Coins: {{coins}}\n⚔️ Kills: {{kills}}\n☠️ Deaths: {{deaths}}\n💁‍♂️ Blocks placed: {{blocksPlaced}}\n👑 Highest streak: {{streak}}"
+	"ffaValue": "🪙 Para: {{coins}}\n⚔️ Öldürme: {{kills}}\n☠️ Ölme: {{deaths}}\n💁‍♂️ Yerleştirilen blok: {{blocksPlaced}}\n👑 En yüksek seri: {{streak}}"
 }
