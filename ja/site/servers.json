@@ -80,5 +80,9 @@
       "q": "{ Server }はTLauncherでプレイできますか？",
       "a": "いいえ。{ Server }は正規に購入されたアカウントでないと参加できません。"
     }
+  },
+  "spanish": {
+    "headline": "Explore a wide range of servers in your language!",
+    "subheadline": "Join our partner server Minecraft Español to find the latest game news, curiosities and much more translated into Spanish."
   }
 }
