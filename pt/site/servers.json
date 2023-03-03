@@ -1,38 +1,38 @@
 {
   "description": "Descrição do Servidor",
-  "generalInfo": "Informações Gerais",
-  "additionalInfo": " Informações Adicionais",
+  "generalInfo": "Informação geral",
+  "additionalInfo": " Informação Adicional",
   "about": "Sobre",
-  "serverStatus": "Status do Servidor",
-  "serverDetails": "Detalhes do Servidor",
-  "status": "status",
+  "serverStatus": "Estado do servidor",
+  "serverDetails": "Detalhes do servidor",
+  "status": "estado",
   "views": "Visualizações",
   "upvotes": "Votos",
   "find": "Encontre seu servidor favorito",
   "mcservers": "Servidores de Minecraft",
   "servers": "Servidores",
   "searchServer": "Procure por um servidor específico",
-  "tags": "Tags",
-  "sortBy": "Sortear por",
-  "orderBy": "Classificar por",
+  "tags": "Etiquetas",
+  "sortBy": "Filtrar por",
+  "orderBy": "Ordenar por",
   "platform": "Plataforma",
   "version": "Versão",
-  "language": "Linguagem",
-  "showOffline": "Mostrar servidores offlines",
+  "language": "Idioma",
+  "showOffline": "Mostrar servidores inativos",
   "playersOnline": "Jogadores Online",
-  "upvotesMonthly": "Votos (monthly)",
-  "upvotesLifetime": "Votos (lifetime)",
+  "upvotesMonthly": "Votos (mensais)",
+  "upvotesLifetime": "Votos (vitalício)",
   "viewsMonthly": "Visualizações (mensais)",
-  "viewsLifetime": "Visualizações (para sempre)",
+  "viewsLifetime": "Visualizações (vitalício)",
   "uptime": "Tempo de atividade",
   "recentlyListed": "Listado Recentemente",
-  "primaryLanguage": "Linguagem (Primária)",
+  "primaryLanguage": "Idioma (Primário)",
   "copyip": "Copiar IP",
-  "clickTag": "Clique para visualizar os servidores com está tag",
-  "ipCopiedTop": "IP Copiado",
+  "clickTag": "Clique para ver os servidores com está tag",
+  "ipCopiedTop": "IP copiado",
   "ipCopiedBot": "copiado para a área de transferência!",
   "lastPing": "Último ping",
-  "website": "Site",
+  "website": "Website",
   "listedBy": "Listado por",
   "listedOn": "Listado em",
   "lastEdit": "Última edição",
@@ -40,12 +40,12 @@
   "topUpvoters": "Top 10 que mais votaram em { Month }",
   "noUpvotes": "Ninguém votou ainda",
   "country": "País",
-  "upvoters": "Votadores do Servidor",
-  "votedXTimes": " Votou { X } vezes",
-  "faq": "Perguntas Frequentes",
+  "upvoters": "Votos do Servidor",
+  "votedXTimes": " Votado { X } vezes",
+  "faq": "Perguntas Mais Frequentes",
   "faqSubheader": "Baseado em quais questões os jogadores fazem",
-  "statistics": "Estatísticas do servidor",
-  "viewingStats": "Visualizando estatísticas sobre { Type }",
+  "statistics": "Estatísticas do Servidor",
+  "viewingStats": "Atualmente visualizando estatísticas sobre { Type }",
   "questions": {
     "1": {
       "q": "Como faço para entrar no { Server }?",
@@ -53,32 +53,36 @@
       "a2": "Copiar IP do Servidor",
       "a3": "desta página.",
       "a4": "Abra o Minecraft.",
-      "a5": "Clique em \"Multijogador\" e, em seguida clique em \"Adicionar Servidor\"",
-      "a6": "Cole o IP do Servidor que você copiou no campo \"Endereço de IP\".",
+      "a5": "Clique em \"Multijogador\" e, em seguida, clique em \"Adicionar servidor\"",
+      "a6": "Cole o IP do Servidor que você copiou no campo \"Endereço IP\".",
       "a7": "Clique em \"Concluído\".",
       "a8": "Selecione { Server } na lista e clique em \"Entrar no Servidor\"."
     },
     "2": {
-      "q": "Qual é o IP do servidor para { Server }?",
+      "q": "Qual é o IP do servidor { Server }?",
       "a": "Endereço IP do { Server } é "
     },
     "3": {
-      "q": "{ Server } tem um servidor de Minecraft: Bedrock/Pocket Edition(PE)?",
+      "q": "{ Server } tem um servidor de Minecraft: Bedrock / Pocket Edition (PE)?",
       "a1": "Sim, { Server } é um Minecraft: Bedrock ou conhecido anteriormente como Pocket Edition Server.",
       "a2": "Não. Você só pode juntar-se ao { Server } usando Minecraft Java Edition.",
-      "a3": "Sim! { Server } suporta ambos o Minecraft: Bedrock Edition e Minecraft: Java Edition"
+      "a3": "Sim! O { Server } suporta ambas as plataformas: Minecraft: Bedrock Edition e Minecraft: Java Edition"
     },
     "4": {
-      "q": "{ Server } é gratuito para jogar?",
-      "a": "Sim, { Server } é gratuito para jogar."
+      "q": "O { Server } é gratuito para jogar?",
+      "a": "Sim, o { Server } é gratuito para jogar."
     },
     "5": {
       "q": "Eu tenho um problema ou eu preciso de ajuda com algo. Onde ou a quem eu entro em contato sobre o { Server }?",
       "a1": "Sugerimos que você entre no Discord do { Server } aqui:"
     },
     "6": {
-      "q": "Posso jogar { Server } com TLauncher?",
-      "a": "Não, { Server } é um Servidor de Minecraft Premium."
+      "q": "Posso jogar no { Server } com TLauncher?",
+      "a": "Não, o { Server } é um Servidor de Minecraft Original."
     }
+  },
+  "spanish": {
+    "headline": "Explore a wide range of servers in your language!",
+    "subheadline": "Join our partner server Minecraft Español to find the latest game news, curiosities and much more translated into Spanish."
   }
 }
