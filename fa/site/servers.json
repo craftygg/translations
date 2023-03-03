@@ -80,5 +80,9 @@
       "q": "آیا می توانم { Server } را با TLauncher بازی کنم؟",
       "a": "خیر، سرور { Server } یک سرور پریمیوم ماینکرافت می باشد."
     }
+  },
+  "spanish": {
+    "headline": "Explore a wide range of servers in your language!",
+    "subheadline": "Join our partner server Minecraft Español to find the latest game news, curiosities and much more translated into Spanish."
   }
 }
