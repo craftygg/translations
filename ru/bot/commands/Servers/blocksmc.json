@@ -1,6 +1,6 @@
 {
 	"name": "blocksmc",
-	"description": "View the leaderboard of the BlocksMC Minecraft server.",
-	"gamemodeInputName": "gamemode",
-	"gamemodeInputDescription": "Select which gamemode you want to see the leaderboard for."
+	"description": "Просмотреть таблицу лидеров сервера BlocksMC Minecraft.",
+	"gamemodeInputName": "режим",
+	"gamemodeInputDescription": "Выберите игровой режим, по которому вы хотите увидеть таблицу лидеров."
 }
