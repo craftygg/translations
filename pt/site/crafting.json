@@ -1,6 +1,6 @@
 {
   "mcrecipes": "Receitas de Criação do Minecraft",
-  "recipe": "Aqui está a receita para",
+  "recipe": "Aqui está a receita para o",
   "building": "Construção",
   "decoration": "Decoração",
   "redstone": "Redstone",
@@ -10,5 +10,5 @@
   "combat": "Combate",
   "brewing": "Poções",
   "materials": "Materiais",
-  "misc": "Diversos"
+  "misc": "Miscelânea"
 }
