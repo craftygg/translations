@@ -3,17 +3,17 @@
 	"description": "Veja informações sobre um jogador de Minecraft.",
 	"usernameInputName": "usuário",
 	"usernameInputDescription": "O nome de usuário sobre o qual você deseja visualizar as informações.",
-	"skin": "Skin: [Ver Skin]({{link}})\n",
+	"skin": "Skin: [Visualizar Skin]({{link}})\n",
 	"optifineCape": "Capa Optifine: [Ver Capa Optifine]({{link}})\n",
 	"minecraftCape": "Capa de Minecraft: [Ver Capa]({{link}})\n",
 	"skinChanges": "Mudanças na Skin: {{number}} [Ver tudo]({{link}})",
-	"embedAuthor": "Perfil de Minecraft do(a) {{username}}",
+	"embedAuthor": "Perfil do Minecraft do {{username}}",
 	"uuid": "UUID",
 	"textures": "Texturas",
 	"information": "Informação",
-	"usernameChanges": "Alterações no nome de usuário:",
-	"accountType": "Tipo de Conta:",
+	"usernameChanges": "Alterações do nome de usuário:",
+	"accountType": "Tipo de conta:",
 	"nameHistory": "Histórico de nomes",
 	"firstUsername": "Primeiro nome",
-	"doesNotExist": ":x: Este usuário não existe."
+	"doesNotExist": ":x: O usuário não existe."
 }
