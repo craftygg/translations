@@ -1,6 +1,6 @@
 {
   "name": "placa",
-  "description": "Gera uma placa de Minecraft com um texto personalizado",
+  "description": "Gera uma placa de Minecraft com um texto customizado",
   "textChoiceName": "texto",
   "textChoiceDescription": "Seu texto",
   "embedAuthor": "Crafty Gerador de Placas de Minecraft",
