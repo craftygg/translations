@@ -1,3 +1,5 @@
 {
-	"hereIsYourImage": "<@{{id}}>, вот ваше изображение."
+	"hereIsYourImage": "<@{{id}}>, вот ваше изображение.",
+	"name": "images",
+	"description": "A series of commands to generate Minecraft like images."
 }
