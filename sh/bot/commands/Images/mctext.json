@@ -4,5 +4,8 @@
 	"textChoiceName": "tekst",
 	"textChoiceDescription": "Vaš tekst",
 	"embedAuthor": "Crafty Minecraft Tekst Generator",
-	"altText": "Minecraft Tekst generisan od strane Craftya (crafty.gg)"
+	"altText": "Minecraft Tekst generisan od strane Craftya (crafty.gg)",
+	"messageCommandName": "Minecraft Font Generator",
+	"noContent": ":x: This message has no text.",
+	"tooLong": ":x: This message is longer than 128 characters."
 }
