@@ -1,8 +1,11 @@
 {
 	"name": "mctext",
-	"description": "Gere textos de Minecraft com suporte a Formatação de Texto",
+	"description": "Gera o Minecraft como texto com suporte para formatação de códigos de Minecraft",
 	"textChoiceName": "texto",
 	"textChoiceDescription": "Seu texto",
 	"embedAuthor": "Gerador de Texto para Minecraft pelo Crafty",
-	"altText": "Texto do Minecraft gerado pelo Crafty (crafty.gg)"
+	"altText": "Texto de Minecraft gerado pelo Crafty (crafty.gg)",
+	"messageCommandName": "Minecraft Font Generator",
+	"noContent": ":x: This message has no text.",
+	"tooLong": ":x: This message is longer than 128 characters."
 }
