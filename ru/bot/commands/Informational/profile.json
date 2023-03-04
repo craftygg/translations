@@ -1,5 +1,5 @@
 {
-	"name": "profile",
+	"name": "профиль",
 	"description": "Просмотр информации об игроке Minecraft.",
 	"usernameInputName": "имя_пользователя",
 	"usernameInputDescription": "Имя пользователя, информацию о котором вы хотите просмотреть.",
