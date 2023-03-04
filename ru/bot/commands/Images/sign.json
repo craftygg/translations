@@ -1,8 +1,9 @@
 {
-  "name": "sign",
+  "name": "табличка",
   "description": "Генерирует табличку Minecraft с пользовательским текстом",
   "textChoiceName": "текст",
   "textChoiceDescription": "Ваш текст",
   "embedAuthor": "Генератор таблички Minecraft",
-  "altText": "Табличка Minecraft, созданная Crafty (crafty.gg)"
+  "altText": "Табличка Minecraft, созданная Crafty (crafty.gg)",
+  "messageCommandName": "Put on Minecraft sign"
 }
