@@ -1,0 +1,14 @@
+{
+	"name": "comugamers",
+	"description": "Comugamers Minecraft sunucusu (comugamers.net) oyuncuları hakkındaki bilgileri görüntüle.",
+	"notLoggedIn": ":x: Kullanıcı Comugamers'ta hiç oynamamış.",
+	"embedAuthor": "{{username}} kullanıcısının Comugamer istatistikleri",
+	"info": "Bilgi",
+	"infoValue": "İlk giriş: {{first}}\nSon giriş: {{last}}\nRank: {{rank}}",
+	"customChatNickname": "\nÖzel sohbet takma adı: {{nickname}}",
+	"globalStats": "Genel istatistikler",
+	"globalStatsValue": "💎 Taş: {{gems}}\n⏏️ XP: {{xp}}\n📈 Seviye: {{level}}\n🏆 Elo: {{elo}}",
+	"medals": "\n🏅 Madalya: {{medals}}",
+	"ffa": "Knockback FFA İstatistikleri",
+	"ffaValue": "🪙 Para: {{coins}}\n⚔️ Öldürme: {{kills}}\n☠️ Ölme: {{deaths}}\n💁‍♂️ Yerleştirilen blok: {{blocksPlaced}}\n👑 En yüksek seri: {{streak}}"
+}

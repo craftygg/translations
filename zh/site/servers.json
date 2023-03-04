@@ -80,5 +80,9 @@
       "q": "Can I play { Server } with TLauncher?",
       "a": "No, { Server } is a Premium Minecraft Server."
     }
+  },
+  "spanish": {
+    "headline": "Explore a wide range of servers in your language!",
+    "subheadline": "Join our partner server Minecraft Español to find the latest game news, curiosities and much more translated into Spanish."
   }
 }

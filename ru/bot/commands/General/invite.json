@@ -1,5 +1,5 @@
 {
-	"name": "invite",
+	"name": "пригласить",
 	"description": "Способы приглашения бота Crafty.",
-	"content": "You can invite me anytime by opening my user card. You can also use the following [link]({{inviteLink}})."
+	"content": "Вы можете пригласить меня в любое время, открыв мой профиль. Вы также можете воспользоваться следующей [ссылкой]({{inviteLink}})."
 }

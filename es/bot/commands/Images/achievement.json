@@ -1,12 +1,12 @@
 {
-	"name": "logro",
-	"description": "Generador de Avances de Crafty",
+	"name": "progreso",
+	"description": "Generador de progresos de Crafty",
 	"itemChoiceName": "objeto",
-	"itemChoiceDescription": "Elige objeto de Minecraft",
+	"itemChoiceDescription": "Elige un objeto de Minecraft",
 	"titleChoiceName": "título",
-	"titleChoiceDescription": "Establecer título del Logro",
+	"titleChoiceDescription": "Establecer título del progreso",
 	"descriptionChoiceName": "descripción",
-	"descriptionChoiceDescription": "Establecer descripción del Logro",
-	"embedAuthor": "Generador de Avances de Crafty",
-	"altText": "Logro de Minecraft generado por Crafty (crafty.gg)"
+	"descriptionChoiceDescription": "Establecer descripción del progreso",
+	"embedAuthor": "Generador de progresos de Crafty",
+	"altText": "Progreso de Minecraft generado por Crafty (crafty.gg)"
 }

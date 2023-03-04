@@ -1,0 +1,6 @@
+{
+	"name": "blocksmc",
+	"description": "BlocksMC Minecraft sunucusunun lider tablosunu görüntüle.",
+	"gamemodeInputName": "oyunmodu",
+	"gamemodeInputDescription": "Hangi oyun modu için liderlik tablosunu görmek istediğinizi seçin."
+}

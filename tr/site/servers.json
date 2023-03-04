@@ -80,5 +80,9 @@
       "q": "{ Server } sunucusunda TLauncher ile oynayabilir miyim?",
       "a": "Hayır, { Server } sunucusu Premium Minecraft Sunucusudur."
     }
+  },
+  "spanish": {
+    "headline": "Kendi dilinizde geniş bir sunucu yelpazesini keşfedin!",
+    "subheadline": "İspanyolca'ya çevrilmiş en son oyun haberlerini, merak edilenleri ve çok daha fazlasını görmek için ortak sunucumuz Minecraft Español'a katılın."
   }
 }

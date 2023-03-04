@@ -1,6 +1,6 @@
 {
 	"name": "aldeano",
-	"description": "Traduce un mensaje al habla aldeana",
+	"description": "Traduce un mensaje al habla de los aldeanos",
 	"messageInputName": "mensaje",
 	"messageInputDescription": "Texto a traducir"
 }
