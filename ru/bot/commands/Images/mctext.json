@@ -4,5 +4,8 @@
 	"textChoiceName": "текст",
 	"textChoiceDescription": "Ваш текст",
 	"embedAuthor": "Генератор текста Minecraft",
-	"altText": "Текст Minecraft, созданный Crafty (crafty.gg)"
+	"altText": "Текст Minecraft, созданный Crafty (crafty.gg)",
+	"messageCommandName": "Генератор шрифта Minecraft",
+	"noContent": ":x: Это пустое сообщение.",
+	"tooLong": ":x: Это сообщение длиннее 128 символов."
 }
