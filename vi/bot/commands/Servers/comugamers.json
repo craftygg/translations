@@ -1,14 +1,14 @@
 {
 	"name": "comugamers",
-	"description": "View information about players of the Comugamers Minecraft server (comugamers.net).",
-	"notLoggedIn": ":x: User has not logged on to Comugamers.",
-	"embedAuthor": "Comugamer statistics for {{username}}",
-	"info": "Info",
-	"infoValue": "First seen: {{first}}\nLast login: {{last}}\nRank: {{rank}}",
-	"customChatNickname": "\nCustom chat nickname: {{nickname}}",
-	"globalStats": "Global statistics",
-	"globalStatsValue": "💎 Gems: {{gems}}\n⏏️ XP: {{xp}}\n📈 Level: {{level}}\n🏆 Elo: {{elo}}",
-	"medals": "\n🏅 Medals: {{medals}}",
-	"ffa": "Knockback FFA Statistics",
-	"ffaValue": "🪙 Coins: {{coins}}\n⚔️ Kills: {{kills}}\n☠️ Deaths: {{deaths}}\n💁‍♂️ Blocks placed: {{blocksPlaced}}\n👑 Highest streak: {{streak}}"
+	"description": "Xem thông tin người chơi trong server Comugamers (comugamers.net).",
+	"notLoggedIn": ":x: Người chơi chưa từng tham gia Comugamers.",
+	"embedAuthor": "Thông tin trong Comugamers của {{username}}",
+	"info": "Thông tin",
+	"infoValue": "Lần đầu tham gia: {{first}}\nLần cuối tham gia: {{last}}\nBậc: {{rank}}",
+	"customChatNickname": "\nBiệt danh: {{nickname}}",
+	"globalStats": "Thông tin chung",
+	"globalStatsValue": "💎 Ngọc: {{gems}}\n⏏️ XP: {{xp}}\n📈 Cấp: {{level}}\n🏆 Điểm hạng: {{elo}}",
+	"medals": "\n🏅 Huy chương: {{medals}}",
+	"ffa": "Thông tin trong Knockback FFA",
+	"ffaValue": "🪙 Xu: {{coins}}\n⚔️ Đã hạ: {{kills}}\n☠️ Chết: {{deaths}}\n💁‍♂️ Khối đã đặt: {{blocksPlaced}}\n👑 Chuỗi cao nhất: {{streak}}"
 }
