@@ -2,5 +2,7 @@
 	"name": "エンチャント",
 	"description": "メッセージをマインクラフトのエンチャント時の文字に変換します。",
 	"textInputName": "テキスト",
-	"textInputDescription": "変換するテキスト"
+	"textInputDescription": "変換するテキスト",
+	"messageCommandName": "Enchant text",
+	"noContent": ":x: This message has no text."
 }
