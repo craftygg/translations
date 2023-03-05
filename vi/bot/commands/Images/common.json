@@ -1,5 +1,5 @@
 {
 	"hereIsYourImage": "<@{{id}}>, ảnh của bạn đây.",
-	"name": "images",
-	"description": "A series of commands to generate Minecraft like images."
+	"name": "hình_ảnh",
+	"description": "Dãy các lệnh dùng để tạo các hình ảnh sử dụng các yếu tố trong Minecraft."
 }
