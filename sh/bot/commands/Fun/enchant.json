@@ -2,5 +2,7 @@
 	"name": "začaraj",
 	"description": "Prevedi tvoju poruku u Minecraftov začaran jezik.",
 	"textInputName": "tekst",
-	"textInputDescription": "Tekst za začarati."
+	"textInputDescription": "Tekst za začarati.",
+	"messageCommandName": "Enchant text",
+	"noContent": ":x: This message has no text."
 }
