@@ -1,10 +1,10 @@
 {
-	"name": "tntsweeper",
-	"description": "Play minesweeper using buttons on a 5x5 grid.",
-	"startName": "start",
-	"startDescription": "Start the game",
-	"flagName": "flag",
-	"flagDescription": "Toggle adding flags",
-	"settingInputName": "setting",
-	"settingInputDescription": "Whether to place flags or not"
+	"name": "минное-поле",
+	"description": "Сыграйте в сапёра, используя кнопки панели 5x5.",
+	"startName": "начать",
+	"startDescription": "Начать игру",
+	"flagName": "флаг",
+	"flagDescription": "Добавить/убрать флаги",
+	"settingInputName": "настройки",
+	"settingInputDescription": "Размещать флаги или нет"
 }
