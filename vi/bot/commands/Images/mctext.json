@@ -5,7 +5,7 @@
 	"textChoiceDescription": "Văn bản của bạn",
 	"embedAuthor": "Tạo văn bản kiểu Minecraft với Crafty",
 	"altText": "Ảnh văn bản Minecraft được tạo bởi Crafty (crafty.gg)",
-	"messageCommandName": "Minecraft Font Generator",
-	"noContent": ":x: This message has no text.",
-	"tooLong": ":x: This message is longer than 128 characters."
+	"messageCommandName": "Tạo ảnh có tin nhắn với font trong Minecraft",
+	"noContent": ":x: Tin nhắn này không có nội dung.",
+	"tooLong": ":x: Tin nhắn này dài hơn 128 kí tự."
 }
