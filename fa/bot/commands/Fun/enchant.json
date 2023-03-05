@@ -2,5 +2,7 @@
 	"name": "افسون‌کردن",
 	"description": "پیام خود را به زبان افسونگری مایکرافت ترجمه کنید.",
 	"textInputName": "متن",
-	"textInputDescription": "متنی که باید به افسون تبدیل شود."
+	"textInputDescription": "متنی که باید به افسون تبدیل شود.",
+	"messageCommandName": "Enchant text",
+	"noContent": ":x: This message has no text."
 }
