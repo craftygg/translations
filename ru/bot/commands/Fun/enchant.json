@@ -2,5 +2,7 @@
 	"name": "зачарование",
 	"description": "Переведите ваше сообщение на язык чар Minecraft.",
 	"textInputName": "текст",
-	"textInputDescription": "Текст для перевода."
+	"textInputDescription": "Текст для перевода.",
+	"messageCommandName": "Enchant text",
+	"noContent": ":x: This message has no text."
 }
