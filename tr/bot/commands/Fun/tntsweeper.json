@@ -1,10 +1,10 @@
 {
-	"name": "tntsweeper",
-	"description": "Play minesweeper using buttons on a 5x5 grid.",
-	"startName": "start",
-	"startDescription": "Start the game",
-	"flagName": "flag",
-	"flagDescription": "Toggle adding flags",
-	"settingInputName": "setting",
-	"settingInputDescription": "Whether to place flags or not"
+	"name": "tnttarlasi",
+	"description": "5x5 ızgara üzerindeki düğmeleri kullanarak mayın tarlası oyna.",
+	"startName": "başla",
+	"startDescription": "Oyunu başlat",
+	"flagName": "bayrak",
+	"flagDescription": "Bayrak eklemeyi aç/kapa",
+	"settingInputName": "ayar",
+	"settingInputDescription": "Bayrakların yerleştirilip yerleştirilmeyeceği"
 }
