@@ -3,8 +3,8 @@
 	"description": "Chơi dò mìn trong diện tích 5x5 nút.",
 	"startName": "bắt_đầu",
 	"startDescription": "Bắt đầu trò chơi",
-	"flagName": "flag",
-	"flagDescription": "Toggle adding flags",
-	"settingInputName": "setting",
-	"settingInputDescription": "Whether to place flags or not"
+	"flagName": "cờ",
+	"flagDescription": "Bật/tắt thêm cờ",
+	"settingInputName": "cài_đặt",
+	"settingInputDescription": "Tùy chỉnh đặt cờ"
 }
