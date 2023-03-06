@@ -3,6 +3,6 @@
 	"description": "Übersetze deine Nachricht in Minecrafts Zaubersprache.",
 	"textInputName": "text",
 	"textInputDescription": "Der Text zum verzaubern.",
-	"messageCommandName": "Enchant text",
-	"noContent": ":x: This message has no text."
+	"messageCommandName": "Verzauberungstext",
+	"noContent": ":x: Diese Nachricht hat keinen Text."
 }
