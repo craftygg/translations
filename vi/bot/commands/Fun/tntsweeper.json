@@ -1,8 +1,8 @@
 {
-	"name": "tntsweeper",
-	"description": "Play minesweeper using buttons on a 5x5 grid.",
-	"startName": "start",
-	"startDescription": "Start the game",
+	"name": "dò_tnt",
+	"description": "Chơi dò mìn trong diện tích 5x5 nút.",
+	"startName": "bắt_đầu",
+	"startDescription": "Bắt đầu trò chơi",
 	"flagName": "flag",
 	"flagDescription": "Toggle adding flags",
 	"settingInputName": "setting",
