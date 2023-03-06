@@ -3,6 +3,6 @@
 	"description": "Phiên dịch tin nhắn của bạn thành ngôn ngữ cường hóa của Minecraft.",
 	"textInputName": "nội_dung",
 	"textInputDescription": "Thứ mà bạn muốn dịch sang.",
-	"messageCommandName": "Enchant text",
-	"noContent": ":x: This message has no text."
+	"messageCommandName": "Văn bản cường hóa",
+	"noContent": ":x: Tin nhắn này không có nội dung."
 }
