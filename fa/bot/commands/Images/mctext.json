@@ -5,7 +5,5 @@
 	"textChoiceDescription": "متن شما",
 	"embedAuthor": "متن‌ساز ماینکرافت کرفتی",
 	"altText": "متن ماینکرافتی ایجاد شده توسط کرفتی (crafty.gg)",
-	"messageCommandName": "Minecraft Font Generator",
-	"noContent": ":x: This message has no text.",
-	"tooLong": ":x: This message is longer than 128 characters."
+	"messageCommandName": "Minecraft Font Generator"
 }
