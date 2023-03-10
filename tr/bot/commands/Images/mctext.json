@@ -5,7 +5,5 @@
 	"textChoiceDescription": "Metnin",
 	"embedAuthor": "Crafty Minecraft Metin Oluşturucu",
 	"altText": "Crafty tarafından oluşturulan Minecraft Metni (crafty.gg)",
-	"messageCommandName": "Minecraft Font Oluşturucu",
-	"noContent": ":x: Bu mesajda metin yok.",
-	"tooLong": ":x: Bu mesaj 128 karakterden uzun."
+	"messageCommandName": "Minecraft Font Oluşturucu"
 }
