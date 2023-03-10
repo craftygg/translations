@@ -2,6 +2,6 @@
 	"hereIsYourImage": "<@{{id}}>, вот ваше изображение.",
 	"name": "изображения",
 	"description": "Серия команд для создания изображений в стиле Minecraft.",
-	"noContent": ":x: This message has no text.",
-	"tooLong": ":x: This message is longer than {{characters}} characters."
+	"noContent": ":x: Это пустое сообщение.",
+	"tooLong": ":x: Длина этого сообщения превышает {{characters}} символов."
 }
