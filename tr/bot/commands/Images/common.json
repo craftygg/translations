@@ -2,6 +2,6 @@
 	"hereIsYourImage": "<@{{id}}>, işte resmin.",
 	"name": "resimler",
 	"description": "Minecraft benzeri resimler oluşturmak için bir dizi komut.",
-	"noContent": ":x: This message has no text.",
-	"tooLong": ":x: This message is longer than {{characters}} characters."
+	"noContent": ":x: Bu mesajda metin yok.",
+	"tooLong": ":x: Bu mesaj {{characters}} karakterden uzun."
 }
