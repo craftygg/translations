@@ -5,7 +5,5 @@
 	"textChoiceDescription": "आपका टेक्स्ट",
 	"embedAuthor": "Crafty Minecraft टेक्स्ट जनरेटर",
 	"altText": "Crafty (crafty.gg) द्वारा बनाया गया Minecraft टेक्स्ट",
-	"messageCommandName": "Minecraft Font Generator",
-	"noContent": ":x: This message has no text.",
-	"tooLong": ":x: This message is longer than 128 characters."
+	"messageCommandName": "Minecraft Font Generator"
 }
