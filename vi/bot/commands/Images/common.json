@@ -1,5 +1,7 @@
 {
 	"hereIsYourImage": "<@{{id}}>, ảnh của bạn đây.",
 	"name": "hình_ảnh",
-	"description": "Dãy các lệnh dùng để tạo các hình ảnh sử dụng các yếu tố trong Minecraft."
+	"description": "Dãy các lệnh dùng để tạo các hình ảnh sử dụng các yếu tố trong Minecraft.",
+	"noContent": ":x: This message has no text.",
+	"tooLong": ":x: This message is longer than {{characters}} characters."
 }
