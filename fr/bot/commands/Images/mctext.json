@@ -5,7 +5,5 @@
 	"textChoiceDescription": "Votre texte",
 	"embedAuthor": "Générateur de Texte Minecraft de Crafty",
 	"altText": "Texte Minecraft généré par Crafty (crafty.gg)",
-	"messageCommandName": "Minecraft Font Generator",
-	"noContent": ":x: This message has no text.",
-	"tooLong": ":x: This message is longer than 128 characters."
+	"messageCommandName": "Minecraft Font Generator"
 }
