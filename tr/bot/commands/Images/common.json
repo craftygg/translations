@@ -1,5 +1,7 @@
 {
 	"hereIsYourImage": "<@{{id}}>, işte resmin.",
 	"name": "resimler",
-	"description": "Minecraft benzeri resimler oluşturmak için bir dizi komut."
+	"description": "Minecraft benzeri resimler oluşturmak için bir dizi komut.",
+	"noContent": ":x: This message has no text.",
+	"tooLong": ":x: This message is longer than {{characters}} characters."
 }
