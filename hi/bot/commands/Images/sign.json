@@ -4,5 +4,6 @@
   "textChoiceName": "टेक्स्ट",
   "textChoiceDescription": "आपका टेक्स्ट",
   "embedAuthor": "Crafty द्वारा Minecraft संकेत जनरेटर",
-  "altText": "Crafty द्वारा बनाया गया Minecraft संकेत (crafty.gg)"
+  "altText": "Crafty द्वारा बनाया गया Minecraft संकेत (crafty.gg)",
+  "messageCommandName": "Put on Minecraft sign"
 }

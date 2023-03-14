@@ -2,5 +2,7 @@
 	"name": "verzaubern",
 	"description": "Übersetze deine Nachricht in Minecrafts Zaubersprache.",
 	"textInputName": "text",
-	"textInputDescription": "Der Text zum verzaubern."
+	"textInputDescription": "Der Text zum verzaubern.",
+	"messageCommandName": "Verzauberungstext",
+	"noContent": ":x: Diese Nachricht hat keinen Text."
 }

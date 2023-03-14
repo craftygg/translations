@@ -4,5 +4,6 @@
 	"textChoiceName": "texto",
 	"textChoiceDescription": "Seu texto",
 	"embedAuthor": "Gerador de Texto para Minecraft pelo Crafty",
-	"altText": "Texto do Minecraft gerado pelo Crafty (crafty.gg)"
+	"altText": "Texto do Minecraft gerado pelo Crafty (crafty.gg)",
+	"messageCommandName": "Gerador de Fontes do Minecraft"
 }

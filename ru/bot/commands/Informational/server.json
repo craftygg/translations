@@ -1,5 +1,5 @@
 {
-	"name": "server",
+	"name": "сервер",
 	"description": "Запрос информации о многопользовательском сервере Minecraft.",
 	"platformInputName": "платформа",
 	"platformInputDescription": "Выберите версию сервера: Java или Bedrock edition",

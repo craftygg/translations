@@ -4,5 +4,6 @@
   "textChoiceName": "metin",
   "textChoiceDescription": "Metnin",
   "embedAuthor": "Crafty Minecraft Tabelası Oluşturucu",
-  "altText": "Crafty (crafty.gg) tarafından oluşturulan Minecraft Tabelası"
+  "altText": "Crafty (crafty.gg) tarafından oluşturulan Minecraft Tabelası",
+  "messageCommandName": "Minecraft tabelasının üzerine koy"
 }

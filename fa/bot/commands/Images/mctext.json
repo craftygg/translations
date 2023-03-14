@@ -4,5 +4,6 @@
 	"textChoiceName": "متن",
 	"textChoiceDescription": "متن شما",
 	"embedAuthor": "متن‌ساز ماینکرافت کرفتی",
-	"altText": "متن ماینکرافتی ایجاد شده توسط کرفتی (crafty.gg)"
+	"altText": "متن ماینکرافتی ایجاد شده توسط کرفتی (crafty.gg)",
+	"messageCommandName": "Minecraft Font Generator"
 }

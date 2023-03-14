@@ -4,5 +4,6 @@
   "textChoiceName": "texto",
   "textChoiceDescription": "Tu texto",
   "embedAuthor": "Generador de texto en carteles de Minecraft de Crafty",
-  "altText": "Cartel de Minecraft generado por Crafty (crafty.gg)"
+  "altText": "Cartel de Minecraft generado por Crafty (crafty.gg)",
+  "messageCommandName": "Put on Minecraft sign"
 }

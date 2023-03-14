@@ -5,5 +5,5 @@
 	"factIdInputDescription": "見たい豆知識のID",
 	"embedTitle": "マインクラフトの豆知識 {{id}}",
 	"embedInformation": "ソース: [{{source}}]({{link}})\n最終更新: {{updated}}",
-	"information": "Information"
+	"information": "情報"
 }

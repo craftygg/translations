@@ -2,5 +2,7 @@
 	"name": "büyü",
 	"description": "Mesajınızı Minecraft'ın büyü diline çevirin.",
 	"textInputName": "metin",
-	"textInputDescription": "Büyülenecek metin."
+	"textInputDescription": "Büyülenecek metin.",
+	"messageCommandName": "Büyü metni",
+	"noContent": ":x: Bu mesajda metin yok."
 }

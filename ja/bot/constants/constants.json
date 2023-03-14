@@ -1,8 +1,8 @@
 {
 	"failPrefix": "申し訳ありませんが、",
-	"failMessage": ":x: An error occurred, please try again later.",
+	"failMessage": "エラーが発生しました。少し時間を置いて再度お試しください。",
 	"supportServer": "サポートサーバー",
-	"addToServer": "Add me to your server!",
+	"addToServer": "私をサーバーに追加してください！",
 	"premium": "Premium",
 	"cooldownMessage": ":x: You are on cooldown! Please wait {{seconds}}s to use this again!\n\nWant no cooldown? Get Crafty Premium at <https://crafty.gg/premium>"
 }

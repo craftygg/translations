@@ -1,6 +1,6 @@
 {
 	"name": "blocksmc",
-	"description": "View the leaderboard of the BlocksMC Minecraft server.",
+	"description": "Veja o placar do servidor de Minecraft BlocksMC.",
 	"gamemodeInputName": "gamemode",
-	"gamemodeInputDescription": "Select which gamemode you want to see the leaderboard for."
+	"gamemodeInputDescription": "Selecione para qual modo de jogo você quer ver o placar."
 }

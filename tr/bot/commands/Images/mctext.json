@@ -4,5 +4,6 @@
 	"textChoiceName": "metin",
 	"textChoiceDescription": "Metnin",
 	"embedAuthor": "Crafty Minecraft Metin Oluşturucu",
-	"altText": "Crafty tarafından oluşturulan Minecraft Metni (crafty.gg)"
+	"altText": "Crafty tarafından oluşturulan Minecraft Metni (crafty.gg)",
+	"messageCommandName": "Minecraft Font Oluşturucu"
 }

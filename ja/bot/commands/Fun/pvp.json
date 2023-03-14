@@ -1,9 +1,9 @@
 {
 	"name": "pvp",
 	"description": "Start an epic Minecraft PvP battle in Discord.",
-	"participant1InputName": "participant1",
-	"participant1InputDescription": "The first participant in the pvp battle.",
-	"participant2InputName": "participant2",
+	"participant1InputName": "参加者１",
+	"participant1InputDescription": "pvpでの最初の参加者。",
+	"participant2InputName": "参加者２",
 	"participant2InputDescription": "The second participant in the pvp battle.",
 	"embedDescription": "⚔️ **{{user1}}** vs **{{user2}}**\n\n{{scenario_text}}\n\n🏆 **{{winner}}**の勝利！",
 	"minecraftPvP": "Minecraft PvP"

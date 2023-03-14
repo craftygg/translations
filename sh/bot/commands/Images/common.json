@@ -1,3 +1,7 @@
 {
-	"hereIsYourImage": "<@{{id}}>, evo vaše slike."
+	"hereIsYourImage": "<@{{id}}>, evo vaše slike.",
+	"name": "images",
+	"description": "A series of commands to generate Minecraft like images.",
+	"noContent": ":x: This message has no text.",
+	"tooLong": ":x: This message is longer than {{characters}} characters."
 }

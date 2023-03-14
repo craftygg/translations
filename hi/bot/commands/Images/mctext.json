@@ -4,5 +4,6 @@
 	"textChoiceName": "टेक्स्ट",
 	"textChoiceDescription": "आपका टेक्स्ट",
 	"embedAuthor": "Crafty Minecraft टेक्स्ट जनरेटर",
-	"altText": "Crafty (crafty.gg) द्वारा बनाया गया Minecraft टेक्स्ट"
+	"altText": "Crafty (crafty.gg) द्वारा बनाया गया Minecraft टेक्स्ट",
+	"messageCommandName": "Minecraft Font Generator"
 }

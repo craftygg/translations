@@ -1,3 +1,7 @@
 {
-	"hereIsYourImage": "<@{{id}}>, işte resmin."
+	"hereIsYourImage": "<@{{id}}>, işte resmin.",
+	"name": "resimler",
+	"description": "Minecraft benzeri resimler oluşturmak için bir dizi komut.",
+	"noContent": ":x: Bu mesajda metin yok.",
+	"tooLong": ":x: Bu mesaj {{characters}} karakterden uzun."
 }

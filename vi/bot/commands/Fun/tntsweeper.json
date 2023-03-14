@@ -1,0 +1,10 @@
+{
+	"name": "dò_tnt",
+	"description": "Chơi dò mìn trong diện tích 5x5 nút.",
+	"startName": "bắt_đầu",
+	"startDescription": "Bắt đầu trò chơi",
+	"flagName": "cờ",
+	"flagDescription": "Bật/tắt thêm cờ",
+	"settingInputName": "cài_đặt",
+	"settingInputDescription": "Tùy chỉnh đặt cờ"
+}

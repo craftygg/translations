@@ -1,0 +1,10 @@
+{
+	"name": "tnttarlasi",
+	"description": "5x5 ızgara üzerindeki düğmeleri kullanarak mayın tarlası oyna.",
+	"startName": "başla",
+	"startDescription": "Oyunu başlat",
+	"flagName": "bayrak",
+	"flagDescription": "Bayrak eklemeyi aç/kapa",
+	"settingInputName": "ayar",
+	"settingInputDescription": "Bayrakların yerleştirilip yerleştirilmeyeceği"
+}

@@ -1,0 +1,10 @@
+{
+	"name": "campo minado",
+	"description": "Jogue campo minado usando botões em uma grade 5x5.",
+	"startName": "iniciar",
+	"startDescription": "Iniciar a partida",
+	"flagName": "sinal",
+	"flagDescription": "Adicionando sinais",
+	"settingInputName": "configurações",
+	"settingInputDescription": "Se deseja ativar os sinais ou não"
+}

@@ -2,5 +2,7 @@
 	"name": "cường_hóa",
 	"description": "Phiên dịch tin nhắn của bạn thành ngôn ngữ cường hóa của Minecraft.",
 	"textInputName": "nội_dung",
-	"textInputDescription": "Thứ mà bạn muốn dịch sang."
+	"textInputDescription": "Thứ mà bạn muốn dịch sang.",
+	"messageCommandName": "Văn bản cường hóa",
+	"noContent": ":x: Tin nhắn này không có nội dung."
 }

@@ -1,0 +1,10 @@
+{
+	"name": "минное-поле",
+	"description": "Сыграйте в сапёра, используя кнопки панели 5x5.",
+	"startName": "начать",
+	"startDescription": "Начать игру",
+	"flagName": "флаг",
+	"flagDescription": "Добавить/убрать флаги",
+	"settingInputName": "настройки",
+	"settingInputDescription": "Размещать флаги или нет"
+}

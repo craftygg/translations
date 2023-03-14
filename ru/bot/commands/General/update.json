@@ -1,5 +1,5 @@
 {
-	"name": "update",
+	"name": "обновление",
 	"description": "Показывает последние обновления Crafty.",
 	"embedAuthor": "Обновление Crafty {{updateVersion}}"
 }

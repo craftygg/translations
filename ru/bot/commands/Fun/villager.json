@@ -1,5 +1,5 @@
 {
-	"name": "villager",
+	"name": "житель",
 	"description": "Переводит сообщение в речь жителей",
 	"messageInputName": "сообщение",
 	"messageInputDescription": "Текст для перевода"
