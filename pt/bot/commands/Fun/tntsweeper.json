@@ -1,5 +1,5 @@
 {
-	"name": "campo minado",
+	"name": "campo_minado",
 	"description": "Jogue campo minado usando botões em uma grade 5x5.",
 	"startName": "iniciar",
 	"startDescription": "Iniciar a partida",
