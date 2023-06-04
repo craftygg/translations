@@ -10,7 +10,7 @@
 	"embedAuthorOnline": "Server Minecraft: {{address}}",
 	"embedAuthorOffline": "Không thể lấy thông tin của {{address}}",
 	"serverOnline": "🟢 **Server đang hoạt động**",
-	"serverOffline": "🔴 **Server is offline**\nNo information was found. This could mean that the Minecraft server is offline, that it does not exist, or that you made a typo.",
+	"serverOffline": "🔴 **Server đang ngoại tuyến**\nKhông tìm thấy thông tin nào. Có thể do server Minecraft đó đang ngoại tuyến, nó không tồn tại, hoặc bạn nhập sai tên của server đó.",
 	"description_": "Mô tả",
 	"information": "Thông tin",
 	"players": "Người chơi",
