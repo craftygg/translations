@@ -15,5 +15,5 @@
 	"accountType": "Loại tài khoản:",
 	"nameHistory": "Lịch sử đổi tên",
 	"firstUsername": "Tên đầu tiên",
-	"doesNotExist": ":x: Người chơi không tồn tại."
+	"doesNotExist": ":x: User does not exist. Please ensure the account is a premium Java edition account, and double check the spelling."
 }
