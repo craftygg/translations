@@ -10,7 +10,7 @@
 	"embedAuthorOnline": "Minecraft sunucusu: {{address}}",
 	"embedAuthorOffline": "{{address}} adresinden bilgi alınamıyor",
 	"serverOnline": "🟢 **Sunucu çevrimiçi**",
-	"serverOffline": "🔴 **Server is offline**\nNo information was found. This could mean that the Minecraft server is offline, that it does not exist, or that you made a typo.",
+	"serverOffline": "🔴 **Sunucu çevrimdışı**\nHiçbir bilgi bulunamadı. Bu, Minecraft sunucusunun çevrimdışı olduğu, mevcut olmadığı veya bir yazım hatası yaptığınız anlamına gelebilir.",
 	"description_": "Açıklama",
 	"information": "Bilgi",
 	"players": "Oyuncu",
