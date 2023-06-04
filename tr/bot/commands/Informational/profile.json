@@ -15,5 +15,5 @@
 	"accountType": "Hesap türü:",
 	"nameHistory": "Ad geçmişi",
 	"firstUsername": "İlk kullanıcı adı",
-	"doesNotExist": ":x: Kullanıcı mevcut değil."
+	"doesNotExist": ":x: User does not exist. Please ensure the account is a premium Java edition account, and double check the spelling."
 }
