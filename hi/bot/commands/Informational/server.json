@@ -10,7 +10,7 @@
 	"embedAuthorOnline": "Minecraft सर्वर: {{address}}",
 	"embedAuthorOffline": "{{address}} के बारे में जानकारी का अनुरोध नही कर सका",
 	"serverOnline": "🟢 **सर्वर ऑनलाइन है**",
-	"serverOffline": "🔴 **सर्वर ऑफलाइन है**\nकोई जानकारी नही मिली, इसका मतलब हो सकता है की Minecraft सर्वर ऑफलाइन है या अस्तित्व में नही है।",
+	"serverOffline": "🔴 **Server is offline**\nNo information was found. This could mean that the Minecraft server is offline, that it does not exist, or that you made a typo.",
 	"description_": "विवरण",
 	"information": "जानकारी",
 	"players": "खिलाड़ी",
