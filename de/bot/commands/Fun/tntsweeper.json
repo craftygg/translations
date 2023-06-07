@@ -1,10 +1,10 @@
 {
 	"name": "tntsweeper",
-	"description": "Play minesweeper using buttons on a 5x5 grid.",
+	"description": "Spiele Minesweeper mit Tasten auf einem 5x5 Raster.",
 	"startName": "start",
-	"startDescription": "Start the game",
-	"flagName": "flag",
-	"flagDescription": "Toggle adding flags",
-	"settingInputName": "setting",
-	"settingInputDescription": "Whether to place flags or not"
+	"startDescription": "Starte das Spiel",
+	"flagName": "Flagge",
+	"flagDescription": "Hinzufügen von Flaggen umschalten",
+	"settingInputName": "einstellungen",
+	"settingInputDescription": "Ob Flaggen platziert werden sollen oder nicht"
 }
