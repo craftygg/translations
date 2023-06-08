@@ -10,7 +10,7 @@
 	"embedAuthorOnline": "Serveur Minecraft : {{address}}",
 	"embedAuthorOffline": "Impossible d'obtenir des informations pour {{address}}",
 	"serverOnline": "🟢 **Le serveur est en ligne**",
-	"serverOffline": "🔴 **Server is offline**\nNo information was found. This could mean that the Minecraft server is offline, that it does not exist, or that you made a typo.",
+	"serverOffline": "🔴 **Le serveur est hors ligne**\nAucune information n'a pu être trouvée, cela peut vouloir dire que le serveur Minecraft est hors ligne ou qu'il n'existe pas.",
 	"description_": "Description",
 	"information": "Information",
 	"players": "Joueurs",
