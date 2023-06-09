@@ -1,10 +1,10 @@
 {
 	"name": "tntsweeper",
-	"description": "Play minesweeper using buttons on a 5x5 grid.",
-	"startName": "start",
-	"startDescription": "Start the game",
-	"flagName": "flag",
-	"flagDescription": "Toggle adding flags",
-	"settingInputName": "setting",
-	"settingInputDescription": "Whether to place flags or not"
+	"description": "Juega minesweeper con una cuadrícula 5x5.",
+	"startName": "comienzo",
+	"startDescription": "Comenzar el Juego",
+	"flagName": "bandera",
+	"flagDescription": "Cambiar añadir banderas",
+	"settingInputName": "escena",
+	"settingInputDescription": "Colocar o no banderas"
 }
