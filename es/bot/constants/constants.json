@@ -4,5 +4,5 @@
 	"supportServer": "Servidor de Soporte",
 	"addToServer": "¡Añádeme a tu servidor!",
 	"premium": "Premium",
-	"cooldownMessage": ":x: You are on cooldown! Please wait {{seconds}}s to use this again!\n\nWant no cooldown? Get Crafty Premium at <https://crafty.gg/premium>"
+	"cooldownMessage": ":x: ¡Estás enfriado! ¡Por favor, espera {{seconds}}s para volver a usarlo!\n\n¿No quieres esperar? Obtén Crafty Premium en <https://crafty.gg/premium>"
 }
