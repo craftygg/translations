@@ -4,5 +4,5 @@
 	"supportServer": "सहायता सर्वर",
 	"addToServer": "मुझे अपने सर्वर में जोड़ें!",
 	"premium": "प्रीमियम",
-	"cooldownMessage": ":x: You are on cooldown! Please wait {{seconds}}s to use this again!\n\nWant no cooldown? Get Crafty Premium at <https://crafty.gg/premium>"
+	"cooldownMessage": ":x: आप कूलडाउन पर हैं! दोबारा उपयोग करने के लिए {{seconds}} सेकंड रुकें!\n\nकूलडाउन नही चाहिए? <https://crafty.gg/premium> पर Crafty प्रीमियम पाइये"
 }
