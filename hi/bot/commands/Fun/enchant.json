@@ -3,6 +3,6 @@
 	"description": "आपके सन्देश को Minecraft की एनचेंटमेन्ट भाषा में अनुवाद करना।",
 	"textInputName": "टेक्स्ट",
 	"textInputDescription": "एनचेंट करने के लिए टेक्स्ट।",
-	"messageCommandName": "Enchant text",
-	"noContent": ":x: This message has no text."
+	"messageCommandName": "टेक्स्ट एन्चैंट करें",
+	"noContent": ":x: इस सन्देश में कोई टेक्स्ट नही है।"
 }
