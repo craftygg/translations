@@ -15,5 +15,5 @@
 	"accountType": "खाता प्रकार",
 	"nameHistory": "नाम इतिहास",
 	"firstUsername": "पहला उपयोगकर्ता नाम",
-	"doesNotExist": ":x: उपयोगकर्ता मौजूद नही है।"
+	"doesNotExist": ":x: User does not exist. Please ensure the account is a premium Java edition account, and double check the spelling."
 }

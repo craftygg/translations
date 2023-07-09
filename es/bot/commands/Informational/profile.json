@@ -15,5 +15,5 @@
 	"accountType": "Tipo de cuenta:",
 	"nameHistory": "Historial de nombres",
 	"firstUsername": "Primer nombre de usuario",
-	"doesNotExist": ":x: El usuario no existe."
+	"doesNotExist": ":x: No se ha encontrado el usuario. Por favor, asegúrate de que la cuenta de Java Edition sea prémium y comprueba si hay algún error de escritura."
 }

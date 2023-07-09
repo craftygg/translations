@@ -15,5 +15,5 @@
 	"accountType": "Tipo de Conta:",
 	"nameHistory": "Histórico de nomes",
 	"firstUsername": "Primeiro nome",
-	"doesNotExist": ":x: Este usuário não existe."
+	"doesNotExist": ":x: Usuário não existe. Por favor, certifique-se de que a conta é uma conta original, e verifique novamente a ortografia."
 }

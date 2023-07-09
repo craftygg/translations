@@ -15,5 +15,5 @@
 	"accountType": "Tipo di account:",
 	"nameHistory": "Cronologia dei nomi",
 	"firstUsername": "Primo nome utente",
-	"doesNotExist": ":x: Utente non esistente."
+	"doesNotExist": ":x: User does not exist. Please ensure the account is a premium Java edition account, and double check the spelling."
 }

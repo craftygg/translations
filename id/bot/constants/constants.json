@@ -1,0 +1,8 @@
+{
+	"failPrefix": "I am sorry, but",
+	"failMessage": ":x: An error occurred, please try again later.",
+	"supportServer": "Support Server",
+	"addToServer": "Add me to your server!",
+	"premium": "Premium",
+	"cooldownMessage": ":x: You are on cooldown! Please wait {{seconds}}s to use this again!\n\nWant no cooldown? Get Crafty Premium at <https://crafty.gg/premium>"
+}
