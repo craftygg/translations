@@ -15,5 +15,5 @@
 	"accountType": "Тип аккаунта:",
 	"nameHistory": "История имен",
 	"firstUsername": "Первый ник",
-	"doesNotExist": ":x: User does not exist. Please ensure the account is a premium Java edition account, and double check the spelling."
+	"doesNotExist": ":x: Пользователь не существует. Убедитесь, что учетная запись является премиум версией Java, и проверьте правильность написания."
 }
