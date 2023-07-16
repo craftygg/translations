@@ -3,7 +3,7 @@
 	"description": "Spiele Minesweeper mit Tasten auf einem 5x5 Raster.",
 	"startName": "start",
 	"startDescription": "Starte das Spiel",
-	"flagName": "Flagge",
+	"flagName": "flagge",
 	"flagDescription": "Hinzufügen von Flaggen umschalten",
 	"settingInputName": "einstellungen",
 	"settingInputDescription": "Ob Flaggen platziert werden sollen oder nicht"

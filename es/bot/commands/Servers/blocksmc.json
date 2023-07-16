@@ -1,6 +1,6 @@
 {
 	"name": "blocksmc",
 	"description": "Ver la tabla de clasificación del servidor BlocksMC de Minecraft.",
-	"gamemodeInputName": "modo de juego",
+	"gamemodeInputName": "modo_de_juego",
 	"gamemodeInputDescription": "Selecciona de cuál modo de juego quieres ver la tabla de clasificaciones."
 }
