@@ -1,18 +1,18 @@
 {
   "view": "Ver",
-  "lifetimeUpvotes": "Votos Vitalícios:",
+  "lifetimeUpvotes": "Votos positivos permanentes:",
   "upvotesThisMonth": "Votos deste mês:",
-  "lifetimeViews": "Visualizações Vitalícias:",
+  "lifetimeViews": "Visualizações permanentes:",
   "viewsThisMonth": "Visualizações deste mês:",
   "upvote": "Voto",
-  "report": "Denunciar",
+  "report": "Reporte",
   "location": "Localização",
   "adv": "Pesquisa Avançada",
   "advOptions": "Opções Avançadas",
   "search": "Pesquisar",
   "highlow": "Do Maior ao Menor",
   "lowhigh": "Do Menor ao Maior",
-  "sortBy": "Filtrar por",
+  "sortBy": "Ordenar por",
   "orderBy": "Classificar por",
   "copy": "Copiar"
 }
