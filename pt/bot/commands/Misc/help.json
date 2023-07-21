@@ -1,6 +1,6 @@
 {
 	"name": "ajuda",
-	"description": "Lista de todos os comandos",
+	"description": "Lista de comandos",
 	"commandName": "comando",
 	"commandDescription": "Exibir ajuda para um comando.",
 	"embedAuthor": "Comandos do Crafty",
@@ -11,10 +11,10 @@
 	"images": "Imagens",
 	"fun": "Diversão",
 	"configurable": "Configurável",
-	"miscellaneous": "Outros",
+	"miscellaneous": "Diversos",
 	"addToServer": "ADICIONAR AO SERVER",
 	"supportServer": "SERVIDOR DE SUPORTE",
 	"website": "SITE",
-	"prime": "CRAFTY PRIME",
+	"prime": "CRAFTY PREMIUM",
 	"privacyPolicy": "POLÍTICA DE PRIVACIDADE"
 }
