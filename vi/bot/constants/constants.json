@@ -5,5 +5,5 @@
 	"addToServer": "Thêm tôi vào server của bạn!",
 	"premium": "Premium",
 	"cooldownMessage": "**:x: Bạn đang hơi nhanh quá đấy!** Vui lòng đợi trong {{seconds}} giây trước khi dùng lệnh này lại!\n\nKhông muốn phải chờ? Đăng ký ngay Crafty Premium tại https://crafty.gg/premium",
-	"errorMessage": "**:x: An error occured!** Please report this in our support server: https://discord.gg/euKHHnffPR\nError ID: {{errId}}"
+	"errorMessage": "**:x: Có lỗi xảy ra!** Vui lòng báo cáo với chúng tôi tại server hỗ trợ: https://discord.gg/euKHHnffPR\nMã lỗi: {{errId}}"
 }
