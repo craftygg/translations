@@ -4,5 +4,6 @@
 	"supportServer": "Support Server",
 	"addToServer": "Add me to your server!",
 	"premium": "Premium",
-	"cooldownMessage": ":x: You are on cooldown! Please wait {{seconds}}s to use this again!\n\nWant no cooldown? Get Crafty Premium at <https://crafty.gg/premium>"
+	"cooldownMessage": "**:x: You are on cooldown!** Please wait {{seconds}}s to use this again!\n\nWant no cooldown? Get Crafty Premium at https://crafty.gg/premium",
+	"errorMessage": "**:x: An error occured!** Please report this in our support server: https://discord.gg/euKHHnffPR\nError ID: {{errId}}"
 }
