@@ -1,8 +1,8 @@
 {
-	"name": "profile",
-	"description": "View information about a Minecraft player.",
-	"usernameInputName": "username",
-	"usernameInputDescription": "The username of the user you want to view information about.",
+	"name": "资料",
+	"description": "查看Minecraft玩家的资料。",
+	"usernameInputName": "用户名",
+	"usernameInputDescription": "您想要查看有关信息的用户名。",
 	"skin": "Skin: [View Skin]({{link}})\n",
 	"optifineCape": "Optifine Cape: [View Optifine Cape]({{link}})\n",
 	"minecraftCape": "Minecraft Cape: [View Cape]({{link}})\n",
@@ -15,5 +15,5 @@
 	"accountType": "Account type:",
 	"nameHistory": "Name history",
 	"firstUsername": "First username",
-	"doesNotExist": ":x: User does not exist. Please ensure the account is a premium Java edition account, and double check the spelling."
+	"doesNotExist": ":x: 找不到用户。请再检查一遍用户名，和检查用户是否 Minecraft Java 的用户。"
 }
