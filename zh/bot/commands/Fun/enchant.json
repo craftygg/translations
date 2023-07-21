@@ -4,5 +4,5 @@
 	"textInputName": "文本内容",
 	"textInputDescription": "The text to enchant.",
 	"messageCommandName": "Enchant text",
-	"noContent": ":x: This message has no text."
+	"noContent": ":x: 这个没有文字"
 }

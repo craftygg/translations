@@ -1,5 +1,5 @@
 {
-	"name": "villager",
+	"name": "村民",
 	"description": "Translates a message to villager speech",
 	"messageInputName": "文本内容",
 	"messageInputDescription": "Text to translate"

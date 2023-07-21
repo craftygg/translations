@@ -4,5 +4,6 @@
 	"supportServer": "Destek Sunucusu",
 	"addToServer": "Beni sunucuna ekle!",
 	"premium": "Premium",
-	"cooldownMessage": ":x: Bekleme süresindesin! Lütfen bunu tekrar kullanmak için {{seconds}} saniye bekle!\n\nBekleme süresini kaldırmak mı istiyorsun? Crafty Premium'u <https://crafty.gg/premium> adresinden alabilirsin"
+	"cooldownMessage": "**:x: Bekleme süresindesin!** Lütfen bunu tekrar kullanmak için {{seconds}} saniye bekle!\n\nBekleme süresini kaldırmak mı istiyorsun? Crafty Premium'u https://crafty.gg/premium adresinden alabilirsin",
+	"errorMessage": "**:x: An error occured!** Please report this in our support server: https://discord.gg/euKHHnffPR\nError ID: {{errId}}"
 }
