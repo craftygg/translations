@@ -5,6 +5,6 @@
 	"participant1InputDescription": "The first participant in the pvp battle.",
 	"participant2InputName": "participant2",
 	"participant2InputDescription": "The second participant in the pvp battle.",
-	"embedDescription": "⚔️ **{{user1}}** VS **{{user2}}**\n\n{{scenario_text}}\n\n🏆 Winner: **{{winner}}**",
+	"embedDescription": "⚔️ **{{user1}}** VS **{{user2}}**\n\n{{scenario_text}}\n\n🏆 优胜者: **{{winner}}**",
 	"minecraftPvP": "Minecraft PvP"
 }
