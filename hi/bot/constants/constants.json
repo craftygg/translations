@@ -3,7 +3,7 @@
 	"failMessage": ":x: एक त्रुटि हो गयी, कृपया दोबारा प्रयास करें।",
 	"supportServer": "सहायता सर्वर",
 	"addToServer": "मुझे अपने सर्वर में जोड़ें!",
-	"premium": "प्रीमियम",
-	"cooldownMessage": "**:x: आप कूलडाउन पर हैं!** दोबारा उपयोग करने के लिए {{seconds}} सेकंड रुकें!\n\nकूलडाउन नही चाहिए? <https://crafty.gg/premium> पर Crafty प्रीमियम पाइये",
+	"premium": "Pro",
+	"cooldownMessage": "**:x: You are on cooldown!** Please wait {{seconds}}s to use this again!\n\nWant no cooldown? Get Crafty Pro at https://crafty.gg/pro",
 	"errorMessage": "**:x: An error occured!** Please report this in our support server: https://discord.gg/euKHHnffPR\nError ID: {{errId}}"
 }
