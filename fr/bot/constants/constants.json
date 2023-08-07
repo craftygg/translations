@@ -4,6 +4,6 @@
 	"supportServer": "Serveur de Support",
 	"addToServer": "Invite-moi sur ton serveur!",
 	"premium": "Pro",
-	"cooldownMessage": "**:x: You are on cooldown!** Please wait {{seconds}}s to use this again!\n\nWant no cooldown? Get Crafty Pro at https://crafty.gg/pro",
-	"errorMessage": "**:x: An error occured!** Please report this in our support server: https://discord.gg/euKHHnffPR\nError ID: {{errId}}"
+	"cooldownMessage": "**:x: Vous êtes en rechargement !** Veuillez attendre encore {{seconds}}s avant de réessayer !\n\nMarre des rechargements ? Obtenez Crafty Pro sur https://crafty.gg/pro",
+	"errorMessage": "**:x: Une erreur est survenue !** Veuillez la signaler à notre équipe sur notre serveur de support : https://discord.gg/euKHHnffPR\nID de l'erreur : {{errId}}"
 }
