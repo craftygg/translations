@@ -3,7 +3,7 @@
 	"failMessage": ":x: Bir sorun oluştu, lütfen daha sonra tekrar dene.",
 	"supportServer": "Destek Sunucusu",
 	"addToServer": "Beni sunucuna ekle!",
-	"premium": "Premium",
-	"cooldownMessage": "**:x: Bekleme süresindesin!** Lütfen bunu tekrar kullanmak için {{seconds}} saniye bekle!\n\nBekleme süresini kaldırmak mı istiyorsun? Crafty Premium'u https://crafty.gg/premium adresinden alabilirsin",
+	"premium": "Pro",
+	"cooldownMessage": "**:x: You are on cooldown!** Please wait {{seconds}}s to use this again!\n\nWant no cooldown? Get Crafty Pro at https://crafty.gg/pro",
 	"errorMessage": "**:x: Bir hata oluştu!** Lütfen bunu destek sunucumuzda bize bildir: https://discord.gg/euKHHnffPR\nHata Kimliği: {{errId}}"
 }
