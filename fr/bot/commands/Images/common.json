@@ -1,7 +1,7 @@
 {
 	"hereIsYourImage": "<@{{id}}>, voici ton image.",
 	"name": "images",
-	"description": "A series of commands to generate Minecraft like images.",
-	"noContent": ":x: This message has no text.",
-	"tooLong": ":x: This message is longer than {{characters}} characters."
+	"description": "Une série de commandes pour générer des images similaires à Minecraft.",
+	"noContent": ":x: Ce message n'a pas de texte.",
+	"tooLong": ":x: Ce message contient plus de {{characters}} caractères."
 }
