@@ -3,7 +3,7 @@
 	"failMessage": ":x: Ocorreu um erro, por favor tente novamente mais tarde.",
 	"supportServer": "Servidor de Suporte",
 	"addToServer": "Me adicione em seu servidor!",
-	"premium": "Premium",
-	"cooldownMessage": "**:x: Você está em cooldown!** Por favor, espere {{seconds}}s para usar isso novamente!\n\nNão quer cooldown? Obtenha a versão Premium do Crafty em https://crafty.gg/premium",
+	"premium": "Pro",
+	"cooldownMessage": "**:x: Você está em cooldown!** Por favor, espere {{seconds}}s para usar isso novamente!\n\nNão quer cooldown? Obtenha a versão Pro do Crafty em https://crafty.gg/pro",
 	"errorMessage": "**:x: Ocorreu um erro!** Por favor, reporte isso em nosso servidor de suporte: https://discord.gg/euKHnffPR\nID de erro: {{errId}}"
 }

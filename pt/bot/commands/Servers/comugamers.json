@@ -7,7 +7,7 @@
 	"infoValue": "Primeira vez visto: {{first}}\nÚltima vez logado: {{last}}\nRank: {{rank}}",
 	"customChatNickname": "\nApelido de bate-papo personalizado: {{nickname}}",
 	"globalStats": "Estatísticas Globais",
-	"globalStatsValue": "💎 Gemas: {{gems}}\n⏏️ XP: {{xp}}\n📈 Nível: {{level}}\n🏆 Elo: {{elo}}",
+	"globalStatsValue": "💎 Gemas: {{gems}}\n⏏️ XP: {{xp}}\n🏆 Elo: {{elo}}",
 	"medals": "\n🏅 Medalhas: {{medals}}",
 	"ffa": "Estatísticas do FFA Knockback",
 	"ffaValue": "🪙 Moedas: {{coins}}\n⚔️ Matou: {{kills}}\n☠️ Morreu: {{deaths}}\n💁‍♂️ Blocos colocados: {{blocksPlaced}}\n👑 Maior série: {{streak}}"
