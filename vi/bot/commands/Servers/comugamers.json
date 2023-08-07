@@ -7,7 +7,7 @@
 	"infoValue": "Lần đầu tham gia: {{first}}\nLần cuối tham gia: {{last}}\nBậc: {{rank}}",
 	"customChatNickname": "\nBiệt danh: {{nickname}}",
 	"globalStats": "Thông tin chung",
-	"globalStatsValue": "💎 Gems: {{gems}}\n⏏️ XP: {{xp}}\n🏆 Elo: {{elo}}",
+	"globalStatsValue": "💎 Ngọc: {{gems}}\n⏏️ XP: {{xp}}\n🏆 Điểm hạng: {{elo}}",
 	"medals": "\n🏅 Huy chương: {{medals}}",
 	"ffa": "Thông tin trong Knockback FFA",
 	"ffaValue": "🪙 Xu: {{coins}}\n⚔️ Đã hạ: {{kills}}\n☠️ Chết: {{deaths}}\n💁‍♂️ Khối đã đặt: {{blocksPlaced}}\n👑 Chuỗi cao nhất: {{streak}}"
