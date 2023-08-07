@@ -1,14 +1,14 @@
 {
 	"name": "comugamers",
-	"description": "View information about players of the Comugamers Minecraft server (comugamers.net).",
-	"notLoggedIn": ":x: User has not logged on to Comugamers.",
-	"embedAuthor": "Comugamer statistics for {{username}}",
+	"description": "Voir les informations sur les joueurs du serveur Minecraft Comugamers (comugamers.net).",
+	"notLoggedIn": ":x: Cet utilisateur ne s'est pas connecté à Comugamers.",
+	"embedAuthor": "Statistiques de Comugamers pour {{username}}",
 	"info": "Info",
-	"infoValue": "First seen: {{first}}\nLast login: {{last}}\nRank: {{rank}}",
-	"customChatNickname": "\nCustom chat nickname: {{nickname}}",
-	"globalStats": "Global statistics",
-	"globalStatsValue": "💎 Gems: {{gems}}\n⏏️ XP: {{xp}}\n🏆 Elo: {{elo}}",
-	"medals": "\n🏅 Medals: {{medals}}",
+	"infoValue": "Première connexion : {{first}}\nDernière connexion : {{last}}\nRang : {{rank}}",
+	"customChatNickname": "\nPseudo de chat personnalisé : {{nickname}}",
+	"globalStats": "Statistiques globales",
+	"globalStatsValue": "💎 Gemmes : {{gems}}\n⏏️ XP: {{xp}}\n🏆 Elo: {{elo}}",
+	"medals": "\n🏅 Médailles : {{medals}}",
 	"ffa": "Knockback FFA Statistics",
-	"ffaValue": "🪙 Coins: {{coins}}\n⚔️ Kills: {{kills}}\n☠️ Deaths: {{deaths}}\n💁‍♂️ Blocks placed: {{blocksPlaced}}\n👑 Highest streak: {{streak}}"
+	"ffaValue": "🪙 Pièces : {{coins}}\n⚔️ Victimes : {{kills}}\n☠️ Morts : {{deaths}}\n💁‍♂️ Blocs placés : {{blocksPlaced}}\n👑 Meilleure série : {{streak}}"
 }
