@@ -5,6 +5,6 @@
 	"startDescription": "Starte das Spiel",
 	"flagName": "flagge",
 	"flagDescription": "Hinzufügen von Flaggen umschalten",
-	"settingInputName": "einstellungen",
+	"settingInputName": "Einstellungen",
 	"settingInputDescription": "Ob Flaggen platziert werden sollen oder nicht"
 }
