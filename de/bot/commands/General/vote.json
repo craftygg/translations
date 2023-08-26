@@ -1,9 +1,9 @@
 {
-	"name": "demokratie",
-	"description": "Unterstütze den Bot, indem du positiv für ihn abstimmst.",
-	"upvotingDescription": "Positiv Abstimmen ist ein kostenloser Weg, deine Liebe für Crafty zu zeigen. Es sorgt dafür, dass Crafty auf sogenannten Discord Bot Listen weiter oben angezeigt wird. Unten findest du ein paar Wege, positiv für Crafty abzustimmen.\n",
+	"name": "Abstimmen",
+	"description": "Unterstütze den Bot, indem du für ihn abstimmst.",
+	"upvotingDescription": "Abstimmen ist ein kostenloser Weg, deine Liebe für Crafty zu zeigen. Es sorgt dafür, dass Crafty auf sogenannten Discord Bot Listen weiter oben angezeigt wird. Unten findest du ein paar Wege, für Crafty abzustimmen.\n",
 	"voteLocking": "Abstimmungssperre",
-	"voteLockingDescription": "Während du Crafty benutzt, kann es sein, dass eine positive Abstimmung für Crafty erforderlich ist, um manche Befehle benutzen zu können. Diese Sperre hat den Zweck, Datenverkehr von häufig benutzten Befehlen zu verlangsamen. Wenn es für dich unmöglich ist, positiv abzustimmen, und die die Sperre überspringen möchtest, kannst du /vote skip benutzen, um das zu tun. Das Überspringen der positiven Abstimmung wird die Abstimmungssperre von Befehlen entfernen.",
+	"voteLockingDescription": "Während du Crafty benutzt, kann es sein, dass eine Abstimmung für Crafty erforderlich ist, um manche Befehle benutzen zu können. Diese Sperre hat den Zweck, Datenverkehr von häufig benutzten Befehlen zu verlangsamen. Wenn es für dich unmöglich ist, positiv abzustimmen, und die die Sperre überspringen möchtest, kannst du /vote skip benutzen, um das zu tun. Das Überspringen der positiven Abstimmung wird die Abstimmungssperre von Befehlen entfernen.",
 	"upvoteRewards": "(Abstimmungsbelohnungen)",
-	"embedAuthor": "Stimme positiv für Crafty ab"
+	"embedAuthor": "Stimme für Crafty ab"
 }
