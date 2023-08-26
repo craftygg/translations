@@ -4,8 +4,8 @@
   "topServers": "Top bewertete Minecraft-Server in { Month }",
   "topPlayers": "Top-bewertete Minecraft-Spieler in { Month }",
   "topSkins": "Top bewertete Minecraft-Skins in { Month }",
-  "mcnews": "Minecraft News",
-  "latestmcnews": "Neueste Minecraft News",
+  "mcnews": "Minecraft Neuigkeiten",
+  "latestmcnews": "Neueste Minecraft Neuigkeiten",
   "viewmore": "Mehr ansehen",
   "explore": "Entdecken",
   "noResults": "Keine Ergebnisse",
@@ -32,7 +32,7 @@
     "legal": "Legal",
     "tos": "Nutzungsbedingungen",
     "privacy": "Datenschutzerklärung",
-    "copyright": "© crafty.gg | Nicht mit Discord oder Mojang verbunden"
+    "copyright": "© crafty.gg | Nicht mit Discord oder Mojang vereinbart"
   },
   "reachedBedrock": "Grundgestein erreicht"
 }
