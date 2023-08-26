@@ -1,5 +1,5 @@
 {
-  "more": "Weitere Tools",
+  "more": "Weitere Werkzeuge",
   "crafting": {
     "title": "Herstellungsrezepte"
   },
@@ -10,7 +10,7 @@
     "whatA": "Votifier Tester hilft dir herauszufinden, ob das Votifier Plugin auf deinem Minecraft Server korrekt installiert wurde.",
     "whatVotifierQ": "Was ist Votifier?",
     "whatVotifierA": " Votifier ist ein Minecraft Server Plugin, das du installieren kannst, um benachrichtigt zu werden, wenn ein Spieler auf einer Serverliste wie Crafty für deinen Server stimmt.",
-    "whyQ": "Ja aber warum?",
+    "whyQ": "Aber, warum?",
     "whyA": " Serverbesitzer / Admins benutzen Votifier um Spieler, die für ihren Server stimmen, zu belohnen. Für einen Server stimmen hilft ihm einen besseren Platz auf Serverlisten zu bekommen."
   },
   "ping": {
