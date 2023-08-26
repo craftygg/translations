@@ -9,12 +9,12 @@
     "stepProgress": "Schritt { Step } von 3",
     "header": "Einen neuen Minecraft-Server bei Crafty auflisten",
     "verification": "Verifizierung",
-    "tellMore": "Erzählen Sie uns mehr über { Name }",
+    "tellMore": "Erzähle uns mehr über { Name }",
     "serverName": "Server Name",
     "serverIp": "Server IP",
     "serverPort": "Server Port",
-    "type": "Typ/Plattform",
-    "ping": "PING UM WEITERZUMACHEN",
+    "type": "Schreibe/Plattform",
+    "ping": "PING UM FORTZUFAHREN",
     "verificationMethod": "Verifizierungsmethode",
     "motdInstructions": "Bitte lege bei deinem Server MOTD den folgenden Code bei, um zu überprüfen, ob du den Server besitzt oder verwaltest, den du hinzufügen möchtest",
     "txtInstructions": "Erstelle in deinen DNS Einstellungen einen TXT Eintrag zu { Code } und füge den folgenden Code hinzu",
@@ -26,15 +26,15 @@
     "version": "Version",
     "short": "Kurze Beschreibung",
     "long": "Lange Beschreibung",
-    "charsRemaining": "zeichen übrig",
+    "charsRemaining": "Zeichen übrig",
     "descLimit": "(max. { Number } Zeichen)",
     "website": "Webseite",
-    "previous": "Vorherige",
+    "previous": "Zurück",
     "next": "Nächste",
-    "complete": "Vollständig",
+    "complete": "Abgeschlossen",
     "errors": {
       "loggedIn": "Du musst eingeloggt sein, um deinen Server bei Crafty aufzulisten. Melde dich in der oberen rechten Ecke der Seite an.",
-      "offline": "Dein Server ist offline. Stelle sicher dass er online ist, bevor du ihn erneut sendest."
+      "offline": "Dein Server ist offline. Stelle sicher dass er online ist, bevor du ihn erneut einreichst."
     }
   },
   "player": {
