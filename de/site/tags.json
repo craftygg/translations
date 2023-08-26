@@ -25,16 +25,16 @@
       "desc": "Survival Games ist ein beliebtes Überleben PvP (Spieler gegen Spieler) Minecraft Minispiel, bei dem das Ziel darin besteht, mit Gegenständen, die auf der Karte gefunden werden, zu überleben und sich gegen andere Spieler zu verteidigen, um der letzte stehende Spieler zu sein."
     },
     "factions": {
-      "formatted": "Fractions",
+      "formatted": "Fraktionen",
       "desc": "Fraktionsserver sind kompetitive PvP-Server, die es Spielern ermöglichen, sich mit anderen zusammenzuschließen, indem sie bestehenden Clans beitreten oder neue erstellen. Fraktionsmitglieder arbeiten zusammen, um Basen zu bauen, ihr Land zu schützen, wertvolle Ressourcen zu sammeln und neue Mitglieder zu rekrutieren. Die Fraktionen auf einem Server können entweder Verbündete werden und sich gegenseitig unterstützen oder Feinde sein und in den Krieg ziehen."
     },
     "economy": {
-      "formatted": "Economy",
+      "formatted": "Wirtschaft",
       "desc": "Economy Server betreiben eine virtuelle Ökonomie, die es Spielern ermöglicht, eine In-Game-Währung zu verdienen und auszugeben. Spieler können Geld verdienen, indem sie wertvolle Ressourcen abbauen, Herausforderungen abschließen, mit anderen Spielern handeln und Gegenstände in Geschäften verkaufen. Die meisten Server zeigen auch Ranglisten an, um den Wettbewerb zwischen den reichsten Spielern zu fördern."
     },
     "creative": {
-      "formatted": "Kreativ",
-      "desc": "Kreativ Mode Server haben die Kreativ Funktionen aktiviert. Diese Modi deaktivieren die Überlebensfunktionen von Minecraft, so können Spieler Städte und andere komplexe Strukturen mit einer unbegrenzten Anzahl an Blöcken bauen. Der Flugmodus ist als Teil des kreativen Modus aktiviert, um das Erstellen zu vereinfachen. Server ermöglichen auch die Verwendung von Weltbearbeitungs-Plugins, die den Bauprozess noch einfacher machen."
+      "formatted": "Kreativmodus",
+      "desc": "Kreativmodus Server haben die Kreativ Funktionen aktiviert. Dieser Modus deaktivieren die Überlebensfunktionen von Minecraft, so können Spieler Städte und andere komplexe Strukturen mit einer unbegrenzten Anzahl an Blöcken bauen. Der Flugmodus ist als Teil des kreativen Modus aktiviert, um das Erstellen zu vereinfachen. Server ermöglichen auch die Verwendung von Weltbearbeitungs-Plugins, die den Bauprozess noch einfacher machen."
     },
     "mcmmo": {
       "formatted": "McMMO",
