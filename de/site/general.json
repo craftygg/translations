@@ -1,10 +1,10 @@
 {
   "view": "Ansehen",
-  "lifetimeUpvotes": "Lebenslange Upvotes:",
-  "upvotesThisMonth": "Upvotes in diesem Monat:",
+  "lifetimeUpvotes": "Lebenslange Abstimmungen:",
+  "upvotesThisMonth": "Abstimmungen in diesem Monat:",
   "lifetimeViews": "Lebenslange Ansichten:",
   "viewsThisMonth": "Ansichten in diesem Monat:",
-  "upvote": "Upvote",
+  "upvote": "Abstimmen",
   "report": "Melden",
   "location": "Standort",
   "adv": "Erweiterte Suche",
