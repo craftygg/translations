@@ -4,6 +4,6 @@
 	"supportServer": "Servidor de Soporte",
 	"addToServer": "¡Añádeme a tu servidor!",
 	"premium": "Pro",
-	"cooldownMessage": "**:x: You are on cooldown!** Please wait {{seconds}}s to use this again!\n\nWant no cooldown? Get Crafty Pro at https://crafty.gg/pro",
+	"cooldownMessage": ":x: ¡Estás en tiempo de espera! Por favor, espera {{seconds}} segundos para usar esto nuevamente.\n\n¿No quieres esperar? Obtén Crafty Pro en https://crafty.gg/pro",
 	"errorMessage": "**:x: ¡Se ha producido un error!** Por favor, reporta esto en nuestro servidor de soporte: https://discord.gg/euKHHnffPR\nID de error: {{errId}}"
 }
