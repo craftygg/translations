@@ -3,7 +3,7 @@
 	"failMessage": ":x: Произошла ошибка, пожалуйста, повторите попытку позже.",
 	"supportServer": "Сервер поддержки",
 	"addToServer": "Добавьте меня на свой сервер!",
-	"premium": "Pro",
-	"cooldownMessage": "**:x: You are on cooldown!** Please wait {{seconds}}s to use this again!\n\nWant no cooldown? Get Crafty Pro at https://crafty.gg/pro",
+	"premium": "Премиум",
+	"cooldownMessage": ":x: Пожалуйста, подождите {{seconds}} сек., чтобы использовать это снова!\n\nНе хотите ждать? Приобретите премиум Crafty на https://crafty.gg/pro",
 	"errorMessage": "**:x: Произошла ошибка!** Пожалуйста, сообщите об этом на нашем сервере поддержки: https://discord.gg/euKHnffPR\nID ошибки: {{errId}}"
 }

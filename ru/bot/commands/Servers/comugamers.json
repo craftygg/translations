@@ -7,7 +7,7 @@
 	"infoValue": "Впервые замечен: {{first}}\nПоследний вход: {{last}}\nРанг: {{rank}}",
 	"customChatNickname": "\nПользовательский никнейм в чате: {{nickname}}",
 	"globalStats": "Глобальная статистика",
-	"globalStatsValue": "💎 Gems: {{gems}}\n⏏️ XP: {{xp}}\n🏆 Elo: {{elo}}",
+	"globalStatsValue": "💎 Гемы: {{gems}}\n⏏️ XP: {{xp}}\n🏆 Elo: {{elo}}",
 	"medals": "\n🏅 Медали: {{medals}}",
 	"ffa": "Статистика Knockback FFA",
 	"ffaValue": "🪙 Монеты: {{coins}}\n⚔️ Убийства: {{kills}}\n☠️ Смерти: {{deaths}}\n💁‍♂️ Поставлено блоков: {{blocksPlaced}}\n👑 Наибольшее комбо: {{streak}}"

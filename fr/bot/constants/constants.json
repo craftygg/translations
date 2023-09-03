@@ -6,4 +6,3 @@
 	"premium": "Pro",
 	"cooldownMessage": "**:x: Vous êtes en rechargement !** Veuillez attendre encore {{seconds}}s avant de réessayer !\n\nMarre des rechargements ? Obtenez Crafty Pro sur https://crafty.gg/pro",
 	"errorMessage": "**:x: Une erreur est survenue !** Veuillez la signaler à notre équipe sur notre serveur de support : https://discord.gg/euKHHnffPR\nID de l'erreur : {{errId}}"
-}
