@@ -1,12 +1,12 @@
 {
-	"name": "erfolg",
-	"description": "Crafty Aufstiegs Generator",
-	"itemChoiceName": "gegenstand",
-	"itemChoiceDescription": "Wähle das Minecraft Item",
-	"titleChoiceName": "titel",
+	"name": "Erfolg",
+	"description": "Crafty's Erfolge Generator",
+	"itemChoiceName": "Gegenstand",
+	"itemChoiceDescription": "Wähle den Minecraft Gegenstand",
+	"titleChoiceName": "Titel",
 	"titleChoiceDescription": "Setze den Erfolgs Titel",
-	"descriptionChoiceName": "beschreibung",
+	"descriptionChoiceName": "Beschreibung",
 	"descriptionChoiceDescription": "Setze die Erfolgs Beschreibung",
-	"embedAuthor": "Crafty Aufstiegs Generator",
-	"altText": "Minecraft achievement generiert von Crafty (crafty.gg)"
+	"embedAuthor": "Crafty's Erfolge Generator",
+	"altText": "Minecraft Erfolg generiert von Crafty (crafty.gg)"
 }

@@ -3,6 +3,6 @@
 	"description": "Traduis ton message dans la langue des enchantements de Minecraft.",
 	"textInputName": "texte",
 	"textInputDescription": "Le texte à enchanter.",
-	"messageCommandName": "Enchant text",
-	"noContent": ":x: This message has no text."
+	"messageCommandName": "Enchanter le texte",
+	"noContent": ":x: Ce message n'a pas de texte."
 }
