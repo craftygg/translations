@@ -1,6 +1,6 @@
 {
 	"name": "blocksmc",
 	"description": "Siehe die Rangliste des BlocksMC Minecraft-Servers.",
-	"gamemodeInputName": "Spielmodus",
+	"gamemodeInputName": "spielmodus",
 	"gamemodeInputDescription": "Wähle aus, für welchen Spielmodus du die Rangliste sehen willst."
 }
