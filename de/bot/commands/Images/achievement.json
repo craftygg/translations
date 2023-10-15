@@ -1,11 +1,11 @@
 {
-	"name": "Erfolg",
+	"name": "erfolg",
 	"description": "Crafty's Erfolge Generator",
-	"itemChoiceName": "Gegenstand",
+	"itemChoiceName": "gegenstand",
 	"itemChoiceDescription": "Wähle den Minecraft Gegenstand",
-	"titleChoiceName": "Titel",
+	"titleChoiceName": "titel",
 	"titleChoiceDescription": "Setze den Erfolgs Titel",
-	"descriptionChoiceName": "Beschreibung",
+	"descriptionChoiceName": "beschreibung",
 	"descriptionChoiceDescription": "Setze die Erfolgs Beschreibung",
 	"embedAuthor": "Crafty's Erfolge Generator",
 	"altText": "Minecraft Erfolg generiert von Crafty (crafty.gg)"
