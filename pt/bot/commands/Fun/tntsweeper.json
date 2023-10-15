@@ -1,10 +1,10 @@
 {
-	"name": "campo_minado",
-	"description": "Jogue campo minado usando botões em uma grade 5x5.",
-	"startName": "iniciar",
-	"startDescription": "Iniciar a partida",
-	"flagName": "sinal",
-	"flagDescription": "Adicionando sinais",
-	"settingInputName": "configurações",
-	"settingInputDescription": "Se deseja ativar os sinais ou não"
+	"name": "tntsweeper",
+	"description": "Play minesweeper using buttons on a 5x5 grid.",
+	"startName": "start",
+	"startDescription": "Start the game",
+	"flagName": "flag",
+	"flagDescription": "Toggle adding flags",
+	"settingInputName": "setting",
+	"settingInputDescription": "Whether to place flags or not"
 }
