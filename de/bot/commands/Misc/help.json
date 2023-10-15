@@ -1,7 +1,7 @@
 {
-	"name": "Hilfe",
+	"name": "hilfe",
 	"description": "Liste aller Befehle",
-	"commandName": "Befehl",
+	"commandName": "befehl",
 	"commandDescription": "Zeigt Hilfe für einen Befehl an.",
 	"embedAuthor": "Crafty's Befehle",
 	"embedDescription": "Um einen Befehlstyp zu verwenden: `/<command name>` zum Beispiel: `/help` Du kannst mich auch erwähnen, um einen Befehl zu verwenden, zum Beispiel: <@431402543336390666> Hilfe für weitere Informationen über einen Befehlstyp: `/hilfe <command name>`",
