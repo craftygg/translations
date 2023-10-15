@@ -7,7 +7,7 @@
 	"choicePaper": "Papier",
 	"choiceShears": "Schere",
 	"result": "Ich wähle {{botChoice}} und du wählst {{choice}}.",
-	"tie": "Unentschieden!",
-	"win": "Du gewinnst",
-	"lose": "Ich habe Gewonnen!"
+	"tie": "\nUnentschieden!",
+	"win": "\nDu gewinnst",
+	"lose": "\nIch bin der Sieger!"
 }
