@@ -1,6 +1,6 @@
 {
-	"name": "servidores",
-	"description": "Ver informações sobre jogadores de vários servidores populares do Minecraft",
-	"usernameName": "usuário",
-	"usernameDescription": "O nome de usuário do jogador que você deseja ver as estatísticas."
+	"name": "servers",
+	"description": "View information about players of various popular Minecraft servers",
+	"usernameName": "username",
+	"usernameDescription": "The username of the player you want to view the statistics of."
 }
