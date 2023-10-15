@@ -1,7 +1,7 @@
 {
-  "name": "Beobachter",
+  "name": "beobachter",
   "description": "Crafty's Beobachtermeme-Generator",
-  "topChoiceName": "Oben",
+  "topChoiceName": "oben",
   "topChoiceDescription": "Oben angezeigter Text",
   "bottomChoiceName": "unten",
   "bottomChoiceDescription": "Text der unten angezeigt wird",
