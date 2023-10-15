@@ -1,6 +1,6 @@
 {
-	"name": "Servers",
+	"name": "servers",
 	"description": "Zeige Informationen über Spieler verschiedener beliebter Minecraft-Server",
-	"usernameName": "Benutzername",
+	"usernameName": "benutzername",
 	"usernameDescription": "Der Benutzername des Benutzers, zu dem Informationen angezeigt werden sollen."
 }
