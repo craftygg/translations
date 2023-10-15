@@ -1,12 +1,12 @@
 {
 	"name": "conquista",
-	"description": "Gerador de Conquista do Crafty",
+	"description": "Gerador Avançado do Crafty",
 	"itemChoiceName": "item",
 	"itemChoiceDescription": "Escolha um item do Minecraft",
 	"titleChoiceName": "título",
-	"titleChoiceDescription": "Definir título da conquista",
+	"titleChoiceDescription": "Defina o título da Conquista",
 	"descriptionChoiceName": "descrição",
-	"descriptionChoiceDescription": "Definir descrição da conquista",
-	"embedAuthor": "Gerador de Conquista do Crafty",
+	"descriptionChoiceDescription": "Defina a descrição da Conquista",
+	"embedAuthor": "Gerador Avançado do Crafty",
 	"altText": "Conquista do Minecraft gerada pelo Crafty (crafty.gg)"
 }
