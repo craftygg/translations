@@ -4,5 +4,5 @@
 	"textInputName": "texto",
 	"textInputDescription": "O texto para encantar.",
 	"messageCommandName": "Encantar texto",
-	"noContent": ":x: Está mensagem não contém nenhum texto."
+	"noContent": ":x: Esta mensagem não possui texto."
 }
