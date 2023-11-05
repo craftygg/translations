@@ -6,5 +6,5 @@
 	"flagName": "marcar",
 	"flagDescription": "Adicionando marcações",
 	"settingInputName": "configuração",
-	"settingInputDescription": "Whether to place flags or not"
+	"settingInputDescription": "Se deseja colocar marcações ou não"
 }
