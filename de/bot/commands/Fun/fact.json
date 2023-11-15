@@ -1,5 +1,5 @@
 {
-	"name": "Fakt",
+	"name": "fakt",
 	"description": "Sendet dir einen von 400 zufälligen Lustige Fakten.",
 	"factIdInputName": "fact_id",
 	"factIdInputDescription": "Die ID vom Fakt, den du erhalten möchtest",

@@ -1,7 +1,7 @@
 {
-	"name": "Server",
+	"name": "server",
 	"description": "Fordere Informationen über einen Minecraft Mehrspieler Server an.",
-	"platformInputName": "Plattform",
+	"platformInputName": "plattform",
 	"platformInputDescription": "Wähle zwischen einer Java-Edition oder einem Bedrock Edition Server",
 	"javaEdition": "Java Edition",
 	"bedrockEdition": "Bedrock Edition",

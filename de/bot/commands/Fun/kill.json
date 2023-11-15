@@ -1,5 +1,5 @@
 {
-	"name": "Abschlachten",
+	"name": "abschlachten",
 	"description": "Schlachte jemanden ab.",
 	"opponentInputName": "feind",
 	"opponentInputDescription": "Feind abzuschlachten."

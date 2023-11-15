@@ -1,9 +1,9 @@
 {
-	"name": "Todesbildschirm",
+	"name": "todesbildschirm",
 	"description": "Minecraft Todesbildschirm",
-	"textChoiceName": "Text",
+	"textChoiceName": "text",
 	"textChoiceDescription": "Dein Text",
-	"scoreChoiceName": "Punktzahl",
+	"scoreChoiceName": "punktzahl",
 	"scoreChoiceDescription": "Benutzerdefinierte Punktzahl",
 	"embedAuthor": "Minecraft Splash Text",
 	"altText": "Minecraft Todesbildschirm erstellt von Crafty (crafty.gg)"

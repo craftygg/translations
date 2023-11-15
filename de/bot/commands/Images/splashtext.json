@@ -1,7 +1,7 @@
 {
 	"name": "splashtext",
 	"description": "Minecraft benutzerdefinierten Splash Text",
-	"textChoiceName": "Text",
+	"textChoiceName": "text",
 	"textChoiceDescription": "Dein Text",
 	"embedAuthor": "Minecraft Splash Text",
 	"altText": "Minecraft Splash Text generiert von Crafty (crafty.gg)"

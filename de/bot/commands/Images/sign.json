@@ -1,7 +1,7 @@
 {
-  "name": "Schild",
+  "name": "schild",
   "description": "Generiert ein Minecraft Schild mit eigenem Text",
-  "textChoiceName": "Text",
+  "textChoiceName": "text",
   "textChoiceDescription": "Dein Text",
   "embedAuthor": "Crafty's Minecraft Schild Generator",
   "altText": "Minecraft Schild generiert von Crafty (crafty.gg)",
