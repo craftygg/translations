@@ -5,7 +5,7 @@
 	"platformInputDescription": "Wähle zwischen einer Java-Edition oder einem Bedrock Edition Server",
 	"javaEdition": "Java Edition",
 	"bedrockEdition": "Bedrock Edition",
-	"addressInputName": "Host-Adresse",
+	"addressInputName": "host-adresse",
 	"addressInputDescription": "Die Adresse des Servers, um Informationen zu erhalten.",
 	"embedAuthorOnline": "Minecraft Server: {{address}}",
 	"embedAuthorOffline": "Konnte keine Informationen für {{address}} anfordern",
