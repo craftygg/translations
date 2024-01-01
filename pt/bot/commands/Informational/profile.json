@@ -12,7 +12,7 @@
 	"claimed": "Claimed",
 	"unclaimed": "Unclaimed | [claim]({{url}})",
 	"account": "{{emoji}} {{type}} Account\nStatus {{status}}",
-	"embedAuthor": "Perfil do Minecraft do {{username}}",
+	"embedAuthor": "Perfil de Minecraft do(a) {{username}}",
 	"upvotes": "\nUpvotes Monthly: `{{monthly}}`\nUpvotes Lifetime: `{{lifetime}}`",
 	"views": "\nViews Monthly: `{{monthly}}`\nViews Lifetime: `{{lifetime}}`",
 	"location": "\nLocation: {{flag}} `{{country}}`",
@@ -23,9 +23,9 @@
 	"uuid": "UUID",
 	"textures": "Texturas",
 	"information": "Informação",
-	"usernameChanges": "Alterações do nome de usuário:",
-	"accountType": "Tipo de conta:",
+	"usernameChanges": "Alterações no nome de usuário:",
+	"accountType": "Tipo de Conta:",
 	"nameHistory": "Histórico de nomes",
 	"firstUsername": "Primeiro nome",
-	"doesNotExist": ":x: Usuário inexistente. Por favor, certifique-se de que a conta é uma conta original, e verifique novamente se o nome escrito está correto."
+	"doesNotExist": ":x: Usuário não existe. Por favor, certifique-se de que a conta é uma conta original, e verifique novamente a ortografia."
 }
