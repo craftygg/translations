@@ -3,7 +3,7 @@
 	"description": "View information about a Minecraft player.",
 	"usernameInputName": "username",
 	"usernameInputDescription": "The username of the user you want to view information about.",
-	"skin": "Skins: [`{{amount}}`]({{profileUrl}}) [View current skin]({{skinUrl}})\n",
+	"skin": "Skins: [`{{amount}}`]({{profileUrl}}) [View current skin]({{skinUrl}})",
 	"cape": "\nCapes: [`{{amount}}`]({{profileUrl}}) [View {{capeName}} cape]({{capeUrl}})",
 	"optifine": "Optifine",
 	"microsoft": "Microsoft",
