@@ -38,8 +38,8 @@
     }
   },
   "player": {
-    "claim": "Thu nhận tài khoản",
-    "enterName": " Vui lòng điền tên tài khoản mà bạn muốn thu nhận",
+    "claim": "Xác thực tài khoản",
+    "enterName": " Vui lòng điền tên tài khoản mà bạn muốn xác thực",
     "username": "Tên người dùng",
     "step1": "Vui lòng tham gia server xác nhận của chúng tôi để tạo mã của bạn",
     "step2": "Hỗ trợ Minecraft Java phiên bản 1.8 - 1.17",
