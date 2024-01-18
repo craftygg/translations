@@ -1,7 +1,7 @@
 {
 	"name": "tntsweeper",
 	"description": "Jouez à minesweeper en utilisant des boutons sur une grille 5x5.",
-	"startName": "start",
+	"startName": "commencer",
 	"startDescription": "Commencer le jeu",
 	"flagName": "drapeau",
 	"flagDescription": "Activer/désactiver l'ajout de drapeaux",
