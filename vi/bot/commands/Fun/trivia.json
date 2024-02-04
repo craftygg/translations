@@ -1,0 +1,10 @@
+{
+	"name": "đố_vui",
+	"description": "Thách thức hiểu biết về Minecraft của bạn!",
+	"gamemode": "chế_độ",
+	"selectTriviaGamemode": "Chọn chế độ chơi",
+	"defaultGamemode": "Mặc định",
+	"showdownGamemode": "Thách đấu",
+	"defaultGamemodeDescription": "1 câu hỏi về Minecraft sẽ được đưa ra, mọi người đều có thể tham gia trả lời.",
+	"showdownGamemodeDescription": "Mọi người sẽ có 1 phút để tham gia vòng thách đấu, sẽ có 10 câu hỏi về Minecraft khi vòng thách đấu bắt đầu. Mỗi người tham gia sẽ có 30 giây để trả lời mỗi câu hỏi. Nếu một người chơi trả lời sai hay hết thời gian sẽ bị loại."
+}

@@ -1,0 +1,10 @@
+{
+	"name": "trivia",
+	"description": "Testez vos connaissances de Minecraft avec ce quiz d'anecdotes !",
+	"gamemode": "mode de jeu",
+	"selectTriviaGamemode": "Sélectionnez le mode de jeu",
+	"defaultGamemode": "Défaut",
+	"showdownGamemode": "Tournois",
+	"defaultGamemodeDescription": "1 question de trivia Minecraft sera posée, tous les utilisateurs peuvent y participer.",
+	"showdownGamemodeDescription": "Users have 1 minute to enter the showdown round, once the round starts 10 Minecraft trivia questions will be asked. Each question users will have 30 seconds to answer. If a user answers incorrectly or runs out of time they are eliminated."
+}
