@@ -1,10 +1,10 @@
 {
-	"name": "trivia",
-	"description": "Test your Minecraft knowledge with this trivia quiz!",
-	"gamemode": "gamemode",
-	"selectTriviaGamemode": "Select Trivia gamemode",
-	"defaultGamemode": "Default",
-	"showdownGamemode": "Showdown",
-	"defaultGamemodeDescription": "1 Minecraft trivia question will be asked, all users can participate.",
-	"showdownGamemodeDescription": "Users have 1 minute to enter the showdown round, once the round starts 10 Minecraft trivia questions will be asked. Each question users will have 30 seconds to answer. If a user answers incorrectly or runs out of time they are eliminated."
+	"name": "trívia",
+	"description": "Teste seus conhecimentos sobre Minecraft com este teste de trívia!",
+	"gamemode": "modo de jogo",
+	"selectTriviaGamemode": "Selecione o modo de jogo da Trívia",
+	"defaultGamemode": "Padrão",
+	"showdownGamemode": "Desafio",
+	"defaultGamemodeDescription": "1 pergunta de trívia sobre Minecraft, todos os usuários podem participar.",
+	"showdownGamemodeDescription": "Os usuários têm 1 minuto para entrar na rodada de desafio, quando a rodada inicia 10 perguntas de trivia sobre Minecraft, serão feitas. Cada usuário terá 30 segundos para responder. Se um usuário responder incorretamente ou ficar sem tempo, ele será eliminado."
 }
