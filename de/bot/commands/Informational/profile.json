@@ -16,7 +16,7 @@
 	"upvotes": "\nUpvotes Monthly: `{{monthly}}`\nUpvotes Lifetime: `{{lifetime}}`",
 	"views": "\nViews Monthly: `{{monthly}}`\nViews Lifetime: `{{lifetime}}`",
 	"location": "\nLocation: {{flag}} `{{country}}`",
-	"socialMedia": "Social Media",
+	"socialMedia": "Soziale Medien",
 	"unknownDueToMojangApi": "Unknown due to Mojang API changes.",
 	"tooManyHistory": "There are too many changes to display. View more on [crafty.gg]({{link}})",
 	"viewOnCrafty": "View on crafty.gg",
