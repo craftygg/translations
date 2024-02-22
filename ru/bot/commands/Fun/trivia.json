@@ -1,10 +1,10 @@
 {
 	"name": "викторина",
-	"description": "Test your Minecraft knowledge with this trivia quiz!",
-	"gamemode": "gamemode",
-	"selectTriviaGamemode": "Select Trivia gamemode",
-	"defaultGamemode": "Default",
-	"showdownGamemode": "Showdown",
-	"defaultGamemodeDescription": "1 Minecraft trivia question will be asked, all users can participate.",
-	"showdownGamemodeDescription": "Users have 1 minute to enter the showdown round, once the round starts 10 Minecraft trivia questions will be asked. Each question users will have 30 seconds to answer. If a user answers incorrectly or runs out of time they are eliminated."
+	"description": "Проверьте свои знания о Minecraft, поучаствовав в викторине!",
+	"gamemode": "режим",
+	"selectTriviaGamemode": "Выберите игровой режим викторины",
+	"defaultGamemode": "Стандартный",
+	"showdownGamemode": "Поединок",
+	"defaultGamemodeDescription": "1 Будет задан вопрос по Minecraft и все пользователи смогут принять участие в викторине.",
+	"showdownGamemodeDescription": "У пользователей будет 1 минута, чтобы принять участие в поединке. В начале раунда будет задано 10 вопросов по Minecraft. На каждый вопрос у пользователей будет 30 секунд. Если пользователь отвечает неправильно или у него заканчивается время, он выбывает из игры."
 }
