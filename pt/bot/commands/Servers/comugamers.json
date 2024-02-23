@@ -1,14 +1,14 @@
 {
 	"name": "comugamers",
 	"description": "Veja informações sobre os jogadores do servidor de Minecraft Comugamers (comugamers.net).",
-	"notLoggedIn": ":x: Usuário não está logado no Comugamers.",
-	"embedAuthor": "Estatísticas da Comugamers do usuário {{username}}",
-	"info": "Info",
-	"infoValue": "Primeira vez visto: {{first}}\nÚltima vez logado: {{last}}\nRank: {{rank}}",
-	"customChatNickname": "\nApelido de bate-papo personalizado: {{nickname}}",
-	"globalStats": "Estatísticas Globais",
+	"notLoggedIn": ":x: Usuário não se conectou ao Comugamers.",
+	"embedAuthor": "Estatísticas do Comugamer do usuário {{username}}",
+	"info": "Informações",
+	"infoValue": "Primeiro visto: {{first}}\nÚltimo login: {{last}}\nRank: {{rank}}",
+	"customChatNickname": "\nApelido de chat personalizado: {{nickname}}",
+	"globalStats": "Estatísticas globais",
 	"globalStatsValue": "💎 Gemas: {{gems}}\n⏏️ XP: {{xp}}\n🏆 Elo: {{elo}}",
 	"medals": "\n🏅 Medalhas: {{medals}}",
 	"ffa": "Estatísticas do FFA Knockback",
-	"ffaValue": "🪙 Moedas: {{coins}}\n⚔️ Matou: {{kills}}\n☠️ Morreu: {{deaths}}\n💁‍♂️ Blocos colocados: {{blocksPlaced}}\n👑 Maior série: {{streak}}"
+	"ffaValue": "🪙 Moedas: {{coins}}\n⚔️ {{kills}}\n☠️ Mortes: {{deaths}}\n💁‍♂️ Blocos colocados: {{blocksPlaced}}\n👑 Maior streak: {{streak}}"
 }
