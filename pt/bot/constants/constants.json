@@ -1,9 +1,9 @@
 {
-	"failPrefix": "Lamento, mas",
+	"failPrefix": "Sinto muito, mas",
 	"failMessage": ":x: Ocorreu um erro, por favor tente novamente mais tarde.",
 	"supportServer": "Servidor de Suporte",
-	"addToServer": "Me adicione em seu servidor!",
+	"addToServer": "Me convide para seu servidor!",
 	"premium": "Pro",
-	"cooldownMessage": "**:x: Você está em cooldown!** Aguarde {{seconds}}s para utilizar isso novamente!\n\nCansado de cooldown? Torne-se um Crafty Pro em https://crafty.gg/pro",
+	"cooldownMessage": "**:x: Você está em cooldown!** Por favor espere {{seconds}}s para usar isso novamente!\n\nNão quer cooldown? Seja Crafty Pro em https://crafty.gg/pro",
 	"errorMessage": "**:x: Ocorreu um erro!** Por favor, reporte isso em nosso servidor de suporte: https://discord.gg/euKHnffPR\nID de erro: {{errId}}"
 }
