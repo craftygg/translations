@@ -1,9 +1,9 @@
 {
 	"name": "feit",
 	"description": "Stuurt je een willekeurig leuk feitje uit een collectie van meer dan 400 feiten.",
-	"factIdInputName": "fact_id",
-	"factIdInputDescription": "The ID of the fact you want to get",
-	"embedTitle": "Minecraft Fact {{id}}",
-	"embedInformation": "Source: [{{source}}]({{link}})\nLast updated: {{updated}}",
-	"information": "Information"
+	"factIdInputName": "feit_id",
+	"factIdInputDescription": "Het ID van het feit dat je wil hebben",
+	"embedTitle": "Minecraft Feit {{id}}",
+	"embedInformation": "Bron: [{{source}}]({{link}})\nLaatst geupdate: {{updated}}",
+	"information": "Informatie"
 }
