@@ -1,8 +1,8 @@
 {
-	"name": "enchant",
-	"description": "Translate your message into Minecraft's enchantment language.",
-	"textInputName": "text",
-	"textInputDescription": "The text to enchant.",
-	"messageCommandName": "Enchant text",
-	"noContent": ":x: This message has no text."
+	"name": "betover",
+	"description": "Vertaal je bericht naar Minecraft's betover taal.",
+	"textInputName": "tekst",
+	"textInputDescription": "De tekst naar betoverd.",
+	"messageCommandName": "Betover tekst",
+	"noContent": ":x: Dit bericht bevat geen tekst."
 }
