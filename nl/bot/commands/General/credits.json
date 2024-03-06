@@ -1,9 +1,9 @@
 {
-	"name": "credits",
-	"description": "See the team behind Crafty and what services we use.",
-	"descriptionContent": "These are the tools and people that bring you Crafty.",
-	"devs": "Devs",
-	"staff": "Staff",
-	"tools": "Tools",
-	"credits": "Crafty Credits"
+	"name": "tegoeden",
+	"description": "Bekijk het team achter Crafty en welke diensten we gebruiken.",
+	"descriptionContent": "Dit zijn de tools en mensen die je Crafty brengen.",
+	"devs": "Ontwikkelaars",
+	"staff": "Personeel",
+	"tools": "Hulpmiddelen",
+	"credits": "Crafty Tegoeden"
 }
