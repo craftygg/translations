@@ -1,10 +1,10 @@
 {
 	"name": "pvp",
-	"description": "Start an epic Minecraft PvP battle in Discord.",
-	"participant1InputName": "participant1",
-	"participant1InputDescription": "The first participant in the pvp battle.",
-	"participant2InputName": "participant2",
-	"participant2InputDescription": "The second participant in the pvp battle.",
-	"embedDescription": "⚔️ **{{user1}}** VS **{{user2}}**\n\n{{scenario_text}}\n\n🏆 Winner: **{{winner}}**",
+	"description": "Start een episch Minecraft PvP duel in Discord.",
+	"participant1InputName": "deelnemer1",
+	"participant1InputDescription": "De eerste deelnemer in het pvp duel.",
+	"participant2InputName": "deelnemer2",
+	"participant2InputDescription": "De tweede deelnemer in het pvp duel.",
+	"embedDescription": "⚔️ **{{user1}}** tegen **{{user2}}**\n\n{{scenario_text}}\n\n🏆 Winnaar: **{{winner}}**",
 	"minecraftPvP": "Minecraft PvP"
 }
