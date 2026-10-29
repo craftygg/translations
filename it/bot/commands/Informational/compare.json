@@ -1,0 +1,23 @@
+{
+	"name": "compare",
+	"description": "Compare two Minecraft players side by side.",
+	"firstInputName": "first",
+	"firstInputDescription": "Username or UUID of the first player",
+	"secondInputName": "second",
+	"secondInputDescription": "Username or UUID of the second player",
+	"samePlayer": ":x: Pick two different players to compare.",
+	"embedAuthor": "{{first}} vs {{second}}",
+	"rarer": "**{{username}}** is the rarer account at **{{odds}}**.",
+	"equallyRare": "Both accounts are equally rare at **{{odds}}**.",
+	"rarityUnknown": "Rarity isn't available for one of these players right now.",
+	"statRarity": "Rarity: {{odds}} ({{tier}})",
+	"statRarityUnknown": "Rarity: unknown",
+	"statSkins": "Skins: {{amount}}",
+	"statCapes": "Capes: {{amount}}",
+	"statNames": "Names: {{amount}}",
+	"statViews": "Views: {{amount}}",
+	"statUpvotes": "Upvotes: {{amount}}",
+	"statClaimed": "Claimed on crafty.gg: {{claimed}}",
+	"yes": "Yes",
+	"no": "No"
+}

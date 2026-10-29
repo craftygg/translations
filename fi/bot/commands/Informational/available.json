@@ -1,0 +1,14 @@
+{
+	"name": "available",
+	"description": "Check whether a Minecraft Java Edition username is available right now.",
+	"usernameInputName": "username",
+	"usernameInputDescription": "The username to check",
+	"invalidUsername": ":x: Minecraft usernames are 3-16 characters long and only use letters, numbers and underscores.",
+	"embedAuthor": "Name check: {{username}}",
+	"taken": ":no_entry: `{{username}}` is taken.",
+	"takenBy": ":no_entry: `{{username}}` is taken by [{{owner}}]({{url}}).",
+	"available": ":white_check_mark: `{{username}}` is available.\n-# No account holds it right now. Mojang may still block it, for example if it was released in the last 37 days or is filtered.",
+	"unknown": ":grey_question: Couldn't check `{{username}}` with Mojang right now. Try again in a moment.",
+	"notOnRecord": ":grey_question: crafty.gg has no current holder of `{{username}}` on record, but couldn't confirm it with Mojang.",
+	"checkedAt": "-# Checked with Mojang {{time}}."
+}
