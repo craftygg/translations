@@ -1,0 +1,17 @@
+{
+	"embedAuthor": "Server Leaderboard",
+	"titleCapes": "Most capes in this server",
+	"titleRarity": "Rarest capes in this server",
+	"oneCape": "1 cape",
+	"capeCount": "{{amount}} capes",
+	"rarest": "rarest {{cape}} ({{odds}})",
+	"odds": "1 in {{amount}}",
+	"unnamedCape": "Unnamed cape",
+	"footer": "Page {{page}} of {{pages}} • {{members}} members with capes",
+	"truncated": "Only the first {{checked}} members were checked.",
+	"empty": "Nobody in this server has linked a Minecraft account with capes on crafty.gg yet.",
+	"linkHint": "-# Sign in to crafty.gg with Discord and add your Minecraft account to show up here. Hidden profiles and hidden capes are left out.",
+	"linkButton": "Link your account",
+	"guildOnly": ":x: This leaderboard only works inside a server.",
+	"noAccess": ":x: I can't read this server's member list. Add the bot to the server and try again."
+}
