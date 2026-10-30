@@ -1,0 +1,23 @@
+{
+	"name": "contests",
+	"description": "Get a ping in a channel when a Jacob's Farming Contest starts.",
+	"enableName": "enable",
+	"enableDescription": "Ping a channel when each Jacob's contest starts",
+	"disableName": "disable",
+	"disableDescription": "Stop contest pings in a channel",
+	"listName": "list",
+	"listDescription": "List the channels that get contest pings",
+	"channelInputName": "channel",
+	"channelInputDescription": "The channel to ping",
+	"roleInputName": "role",
+	"roleInputDescription": "A role to mention in each ping",
+	"enabled": ":white_check_mark: {{channel}} gets a ping when each Jacob's contest starts. The next one starts {{time}}.",
+	"enabledWithRole": ":white_check_mark: {{channel}} gets a ping for {{role}} when each Jacob's contest starts. The next one starts {{time}}.",
+	"disabled": ":white_check_mark: {{channel}} no longer gets contest pings.",
+	"notEnabled": ":x: {{channel}} doesn't get contest pings.",
+	"none": "No channel in this server gets contest pings. Turn them on with {{command}}.",
+	"listHeader": "These channels get a ping when each Jacob's contest starts. The next one starts {{time}}.",
+	"listLine": "{{channel}}, mentioning {{role}}",
+	"noWebhook": ":x: I couldn't create a webhook in {{channel}}. Give me the Manage Webhooks permission there and try again.",
+	"failed": ":x: Couldn't save the contest pings. Try again later."
+}
